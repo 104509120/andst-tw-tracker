@@ -2,36 +2,56 @@ import concurrent.futures
 import json
 import os
 import re
+import sys
 import time
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
-import requests
+from curl_cffi import requests
 from bs4 import BeautifulSoup
 
 SITEMAP_INDEX_URL = "https://www.dot-st.tw/Sitemap/36426/Sitemap_Index.xml"
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7",
+    "Referer": "https://www.dot-st.tw/",
 }
 TW_TZ = timezone(timedelta(hours=8))
 TODAY = datetime.now(TW_TZ).strftime("%Y-%m-%d")
 
 
+def fetch_url(url: str, timeout: int = 20):
+    """使用模擬 Chrome 的 TLS 指紋發送請求"""
+    return requests.get(
+        url,
+        headers=HEADERS,
+        impersonate="chrome",
+        timeout=timeout,
+    )
+
+
 def get_all_salepage_urls() -> dict[str, str]:
     """從 Sitemap 取得全站上架中的 SalePageId 與網址"""
-    resp = requests.get(SITEMAP_INDEX_URL, headers=HEADERS, timeout=20)
-    resp.raise_for_status()
-    root = ET.fromstring(resp.content)
+    print(f"正在讀取 Sitemap Index: {SITEMAP_INDEX_URL}")
+    resp = fetch_url(SITEMAP_INDEX_URL, timeout=25)
+    if resp.status_code != 200:
+        print(f"[錯誤] 無法讀取 Sitemap Index，HTTP 狀態碼：{resp.status_code}")
+        print(f"回應內容前 300 字：{resp.text[:300]}")
+        sys.exit(1)
 
+    root = ET.fromstring(resp.content)
     sub_sitemaps = [
         loc.text.strip()
         for loc in root.findall(".//{*}loc")
         if loc.text and "salepage" in loc.text.lower()
     ]
+    print(f"找到 {len(sub_sitemaps)} 個商品子 Sitemap")
 
     products = {}
     for sm_url in sub_sitemaps:
-        sm_resp = requests.get(sm_url, headers=HEADERS, timeout=20)
-        sm_resp.raise_for_status()
+        sm_resp = fetch_url(sm_url, timeout=25)
+        if sm_resp.status_code != 200:
+            print(f"[警告] 略過子 Sitemap ({sm_resp.status_code}): {sm_url}")
+            continue
         sm_root = ET.fromstring(sm_resp.content)
         for loc in sm_root.findall(".//{*}loc"):
             if not loc.text:
@@ -46,13 +66,13 @@ def get_all_salepage_urls() -> dict[str, str]:
 def parse_product_page(salepage_id: str, url: str) -> dict | None:
     """解析單一商品頁：抓取 6~7 碼原廠貨號、名稱、售價、原價與圖片"""
     try:
-        time.sleep(0.3)  # 避免請求過快
-        resp = requests.get(url, headers=HEADERS, timeout=15)
+        time.sleep(0.4)
+        resp = fetch_url(url, timeout=15)
         if resp.status_code != 200:
             return None
         html = resp.text
 
-        # 1. 提取原廠貨號 (對應 <td><h2>貨號</h2></td><td><h2>659900</h2></td>)
+        # 提取原廠貨號 (對應 <td><h2>貨號</h2></td><td><h2>659900</h2></td>)
         sku_match = re.search(
             r"貨號(?:</[^>]+>|\s|<[^>]+>|[：:])*?(\d{5,8})", html
         )
@@ -66,7 +86,6 @@ def parse_product_page(salepage_id: str, url: str) -> dict | None:
         price = None
         original_price = None
 
-        # 2. 從 ld+json 讀取標準商品資訊
         for script in soup.find_all("script", type="application/ld+json"):
             try:
                 data = json.loads(script.string or "{}")
@@ -86,7 +105,6 @@ def parse_product_page(salepage_id: str, url: str) -> dict | None:
             except Exception:
                 continue
 
-        # 3. 補齊原價與備用欄位
         if not title:
             og_title = soup.find("meta", property="og:title")
             title = og_title["content"].split("|")[0].strip() if og_title else f"商品 {sku}"
@@ -124,8 +142,12 @@ def main():
     salepages = get_all_salepage_urls()
     print(f"從 Sitemap 取得 {len(salepages)} 件商品，開始同步價格...")
 
+    if not salepages:
+        print("[錯誤] 未取得任何商品網址，終止執行。")
+        sys.exit(1)
+
     results = []
-    with concurrent.futures.ThreadPoolExecutor(max_workers=6) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=4) as executor:
         futures = [
             executor.submit(parse_product_page, sp_id, url)
             for sp_id, url in salepages.items()
@@ -135,7 +157,8 @@ def main():
             if item:
                 results.append(item)
 
-    # 依原廠貨號 (SKU) 彙整（避免同款多色或重新上架造成歷史紀錄分散）
+    print(f"成功解析 {len(results)} 筆含原廠貨號的商品資料")
+
     by_sku = {}
     for item in results:
         sku = item["sku"]
