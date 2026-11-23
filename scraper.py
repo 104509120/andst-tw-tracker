@@ -1,10 +1,10 @@
 import concurrent.futures
+import gzip
 import json
 import os
 import re
 import sys
 import time
-import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 from curl_cffi import requests
 from bs4 import BeautifulSoup
@@ -19,56 +19,65 @@ TW_TZ = timezone(timedelta(hours=8))
 TODAY = datetime.now(TW_TZ).strftime("%Y-%m-%d")
 
 
-def fetch_url(url: str, timeout: int = 20):
-    """使用模擬 Chrome 的 TLS 指紋發送請求"""
-    return requests.get(
-        url,
-        headers=HEADERS,
-        impersonate="chrome",
-        timeout=timeout,
-    )
+def fetch_url(url: str, timeout: int = 20, retries: int = 2):
+    """使用模擬 Chrome 的 TLS 指紋發送請求，附帶重試機制"""
+    for attempt in range(retries + 1):
+        try:
+            return requests.get(
+                url,
+                headers=HEADERS,
+                impersonate="chrome",
+                timeout=timeout,
+            )
+        except Exception:
+            if attempt == retries:
+                raise
+            time.sleep(1.5)
+
+
+def decode_xml_bytes(raw: bytes) -> str:
+    """自動處理 Gzip 壓縮檔 (.xml.gz) 與 UTF-8 BOM"""
+    if raw.startswith(b"\x1f\x8b"):
+        raw = gzip.decompress(raw)
+    return raw.decode("utf-8-sig", errors="replace")
 
 
 def get_all_salepage_urls() -> dict[str, str]:
     """從 Sitemap 取得全站上架中的 SalePageId 與網址"""
-    print(f"正在讀取 Sitemap Index: {SITEMAP_INDEX_URL}")
+    print(f"正在讀取 Sitemap Index: {SITEMAP_INDEX_URL}", flush=True)
     resp = fetch_url(SITEMAP_INDEX_URL, timeout=25)
     if resp.status_code != 200:
-        print(f"[錯誤] 無法讀取 Sitemap Index，HTTP 狀態碼：{resp.status_code}")
-        print(f"回應內容前 300 字：{resp.text[:300]}")
+        print(f"[錯誤] 無法讀取 Sitemap Index，HTTP 狀態碼：{resp.status_code}", flush=True)
         sys.exit(1)
 
-    root = ET.fromstring(resp.content)
-    sub_sitemaps = [
-        loc.text.strip()
-        for loc in root.findall(".//{*}loc")
-        if loc.text and "salepage" in loc.text.lower()
-    ]
-    print(f"找到 {len(sub_sitemaps)} 個商品子 Sitemap")
+    index_text = decode_xml_bytes(resp.content)
+    all_locs = re.findall(r"<loc>\s*(.*?)\s*</loc>", index_text, flags=re.IGNORECASE)
+    sub_sitemaps = [loc for loc in all_locs if "salepage" in loc.lower()]
+    print(f"找到 {len(sub_sitemaps)} 個商品子 Sitemap：{sub_sitemaps}", flush=True)
 
     products = {}
     for sm_url in sub_sitemaps:
-        sm_resp = fetch_url(sm_url, timeout=25)
+        sm_resp = fetch_url(sm_url, timeout=30)
         if sm_resp.status_code != 200:
-            print(f"[警告] 略過子 Sitemap ({sm_resp.status_code}): {sm_url}")
+            print(f"[警告] 無法讀取子 Sitemap ({sm_resp.status_code}): {sm_url}", flush=True)
             continue
-        sm_root = ET.fromstring(sm_resp.content)
-        for loc in sm_root.findall(".//{*}loc"):
-            if not loc.text:
-                continue
-            url = loc.text.strip()
+
+        sm_text = decode_xml_bytes(sm_resp.content)
+        urls = re.findall(r"<loc>\s*(.*?)\s*</loc>", sm_text, flags=re.IGNORECASE)
+        for url in urls:
             match = re.search(r"/SalePage/Index/(\d+)", url)
             if match:
                 products[match.group(1)] = url
+
     return products
 
 
 def parse_product_page(salepage_id: str, url: str) -> dict | None:
     """解析單一商品頁：抓取 6~7 碼原廠貨號、名稱、售價、原價與圖片"""
     try:
-        time.sleep(0.4)
-        resp = fetch_url(url, timeout=15)
-        if resp.status_code != 200:
+        time.sleep(0.35)
+        resp = fetch_url(url, timeout=15, retries=1)
+        if not resp or resp.status_code != 200:
             return None
         html = resp.text
 
@@ -140,24 +149,27 @@ def parse_product_page(salepage_id: str, url: str) -> dict | None:
 def main():
     os.makedirs("data/items", exist_ok=True)
     salepages = get_all_salepage_urls()
-    print(f"從 Sitemap 取得 {len(salepages)} 件商品，開始同步價格...")
+    total = len(salepages)
+    print(f"從 Sitemap 成功取得 {total} 件商品，開始同步價格...", flush=True)
 
-    if not salepages:
-        print("[錯誤] 未取得任何商品網址，終止執行。")
+    if total == 0:
+        print("[錯誤] 未取得任何商品網址，終止執行。", flush=True)
         sys.exit(1)
 
     results = []
+    done = 0
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as executor:
         futures = [
             executor.submit(parse_product_page, sp_id, url)
             for sp_id, url in salepages.items()
         ]
         for future in concurrent.futures.as_completed(futures):
+            done += 1
             item = future.result()
             if item:
                 results.append(item)
-
-    print(f"成功解析 {len(results)} 筆含原廠貨號的商品資料")
+            if done % 200 == 0 or done == total:
+                print(f"進度：{done}/{total}（已解析 {len(results)} 筆有效貨號）", flush=True)
 
     by_sku = {}
     for item in results:
@@ -218,7 +230,7 @@ def main():
             f,
             ensure_ascii=False,
         )
-    print(f"同步完成！共收錄 {len(index_list)} 筆不重複原廠貨號。")
+    print(f"同步完成！共收錄 {len(index_list)} 筆不重複原廠貨號。", flush=True)
 
 
 if __name__ == "__main__":
