@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>And st TW 價格追蹤網</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body class="bg-gray-50 text-gray-800 min-h-screen">
+  <!-- 頂部導覽列 -->
+  <header class="bg-white border-b border-gray-200 sticky top-0 z-20">
+    <div class="max-w-6xl mx-auto px-4 py-4 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
+      <div>
+        <h1 class="text-xl font-bold tracking-tight text-gray-900">And st TW 商品價格追蹤</h1>
+        <p id="metaInfo" class="text-xs text-gray-500 mt-0.5">載入資料中...</p>
+      </div>
+      <div class="flex flex-col sm:flex-row gap-2 w-full sm:w-auto">
+        <input
+          id="searchInput"
+          type="text"
+          placeholder="輸入 6 碼貨號 (如 659900) 或名稱..."
+          class="w-full sm:w-72 px-3.5 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-gray-900"
+        />
+        <select id="filterSelect" class="px-3 py-2 text-sm border border-gray-300 rounded-lg bg-white">
+          <option value="all">全部商品</option>
+          <option value="sale">特價中</option>
+          <option value="lowest">歷史新低</option>
+        </select>
+      </div>
+    </div>
+  </header>
+
+  <!-- 主內容區 -->
+  <main class="max-w-6xl mx-auto px-4 py-6">
+    <div id="productGrid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4"></div>
+    <div id="emptyState" class="hidden text-center py-16 text-gray-500 text-sm">
+      找不到符合條件的商品，請嘗試其他貨號或關鍵字。
+    </div>
+    <div class="mt-8 text-center">
+      <button id="loadMoreBtn" class="hidden px-5 py-2.5 text-sm font-medium bg-white border border-gray-300 rounded-lg hover:bg-gray-100">
+        載入更多商品
+      </button>
+    </div>
+  </main>
+
+  <!-- 歷史價格詳情彈窗 -->
+  <div id="detailModal" class="hidden fixed inset-0 bg-black/50 z-30 flex items-center justify-center p-4">
+    <div class="bg-white rounded-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto shadow-xl p-6 relative">
+      <button id="closeModal" class="absolute top-4 right-4 text-gray-400 hover:text-gray-700 text-xl font-bold">&times;</button>
+      <div class="flex flex-col sm:flex-row gap-5">
+        <img id="modalImg" src="" alt="" class="w-32 h-40 object-cover rounded-lg bg-gray-100 shrink-0" />
+        <div class="flex-1">
+          <span id="modalSku" class="inline-block px-2.5 py-0.5 text-xs font-mono font-semibold bg-gray-900 text-white rounded"></span>
+          <h2 id="modalTitle" class="text-lg font-bold text-gray-900 mt-2 leading-snug"></h2>
+          <div class="grid grid-cols-3 gap-2.5 mt-4">
+            <div class="bg-gray-50 p-2.5 rounded-lg border border-gray-100">
+              <div class="text-xs text-gray-500">目前售價</div>
+              <div id="modalCurrPrice" class="text-base font-bold text-gray-900 mt-0.5"></div>
+            </div>
+            <div class="bg-emerald-50 p-2.5 rounded-lg border border-emerald-100">
+              <div class="text-xs text-emerald-700">歷史最低</div>
+              <div id="modalMinPrice" class="text-base font-bold text-emerald-700 mt-0.5"></div>
+            </div>
+            <div class="bg-rose-50 p-2.5 rounded-lg border border-rose-100">
+              <div class="text-xs text-rose-700">歷史最高</div>
+              <div id="modalMaxPrice" class="text-base font-bold text-rose-700 mt-0.5"></div>
+            </div>
+          </div>
+          <div class="flex flex-wrap gap-2.5 mt-4">
+            <a id="modalTwLink" href="#" target="_blank" rel="noopener" class="px-4 py-2 text-xs font-medium bg-gray-900 text-white rounded-lg hover:bg-gray-700">
+              前往台灣官網 &rarr;
+            </a>
+            <a id="modalJpLink" href="#" target="_blank" rel="noopener" class="px-4 py-2 text-xs font-medium bg-blue-600 text-white rounded-lg hover:bg-blue-500">
+              查詢日本官網同款 (and ST) &rarr;
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="mt-6">
+        <h3 class="text-sm font-semibold text-gray-700 mb-2">歷史價格走勢 (NT$)</h3>
+        <div class="h-56">
+          <canvas id="priceChart"></canvas>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let allItems = [];
+    let filteredItems = [];
+    let visibleCount = 40;
+    let priceChart = null;
+
+    const escapeHtml = (str) =>
+      String(str).replace(/[&<>"']/g, (m) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[m]));
+
+    async function init() {
+      try {
+        const res = await fetch('data/index.json?t=' + Date.now());
+        if (!res.ok) throw new Error('尚未產生價格資料');
+        const data = await res.json();
+        allItems = data.items || [];
+        document.getElementById('metaInfo').textContent = `最後更新：${data.updated_at} ｜ 共追蹤 ${data.count} 件商品`;
+        applyFilter();
+
+        const params = new URLSearchParams(window.location.search);
+        const querySku = params.get('q');
+        if (querySku) {
+          document.getElementById('searchInput').value = querySku;
+          applyFilter();
+          if (allItems.some((i) => i.sku === querySku.trim())) {
+            openDetail(querySku.trim());
+          }
+        }
+      } catch (err) {
+        document.getElementById('metaInfo').textContent = '尚未建立 data/index.json，請先至 GitHub Actions 執行一次爬蟲。';
+      }
+    }
+
+    function applyFilter() {
+      const q = document.getElementById('searchInput').value.trim().toLowerCase();
+      const mode = document.getElementById('filterSelect').value;
+
+      filteredItems = allItems.filter((item) => {
+        const matchQuery = !q || item.sku.includes(q) || item.title.toLowerCase().includes(q);
+        if (!matchQuery) return false;
+        if (mode === 'sale') return item.price < item.original_price;
+        if (mode === 'lowest') return item.price <= item.min_price && item.price < item.original_price;
+        return true;
+      });
+
+      visibleCount = 40;
+      renderGrid();
+    }
+
+    function renderGrid() {
+      const grid = document.getElementById('productGrid');
+      const empty = document.getElementById('emptyState');
+      const loadMoreBtn = document.getElementById('loadMoreBtn');
+
+      if (filteredItems.length === 0) {
+        grid.innerHTML = '';
+        empty.classList.remove('hidden');
+        loadMoreBtn.classList.add('hidden');
+        return;
+      }
+
+      empty.classList.add('hidden');
+      const slice = filteredItems.slice(0, visibleCount);
+      grid.innerHTML = slice.map((item) => {
+        const isSale = item.price < item.original_price;
+        const isLowest = isSale && item.price <= item.min_price;
+        return `
+          <div onclick="openDetail('${item.sku}')" class="bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-md transition cursor-pointer flex flex-col">
+            <div class="relative aspect-[3/4] bg-gray-100">
+              <img src="${escapeHtml(item.image)}" alt="${escapeHtml(item.title)}" loading="lazy" class="w-full h-full object-cover" />
+              <span class="absolute top-2 left-2 px-2 py-0.5 text-[11px] font-mono bg-black/75 text-white rounded">${item.sku}</span>
+              ${isLowest ? '<span class="absolute top-2 right-2 px-2 py-0.5 text-[11px] font-semibold bg-emerald-600 text-white rounded">歷史新低</span>' : ''}
+            </div>
+            <div class="p-3 flex-1 flex flex-col justify-between">
+              <h3 class="text-xs sm:text-sm font-medium text-gray-800 line-clamp-2">${escapeHtml(item.title)}</h3>
+              <div class="mt-2 flex items-baseline gap-2">
+                <span class="text-sm sm:text-base font-bold ${isSale ? 'text-rose-600' : 'text-gray-900'}">NT$ ${item.price.toLocaleString()}</span>
+                ${isSale ? `<span class="text-xs text-gray-400 line-through">NT$ ${item.original_price.toLocaleString()}</span>` : ''}
+              </div>
+            </div>
+          </div>
+        `;
+      }).join('');
+
+      if (visibleCount < filteredItems.length) {
+        loadMoreBtn.classList.remove('hidden');
+      } else {
+        loadMoreBtn.classList.add('hidden');
+      }
+    }
+
+    async function openDetail(sku) {
+      try {
+        const res = await fetch(`data/items/${sku}.json?t=` + Date.now());
+        const item = await res.json();
+
+        document.getElementById('modalImg').src = item.image;
+        document.getElementById('modalSku').textContent = `貨號：${item.sku}`;
+        document.getElementById('modalTitle').textContent = item.title;
+        document.getElementById('modalCurrPrice').textContent = `NT$ ${item.current_price.toLocaleString()}`;
+        document.getElementById('modalMinPrice').textContent = `NT$ ${item.min_price.toLocaleString()}`;
+        document.getElementById('modalMaxPrice').textContent = `NT$ ${item.max_price.toLocaleString()}`;
+        document.getElementById('modalTwLink').href = item.url;
+        document.getElementById('modalJpLink').href = item.jp_url;
+
+        document.getElementById('detailModal').classList.remove('hidden');
+
+        const ctx = document.getElementById('priceChart').getContext('2d');
+        if (priceChart) priceChart.destroy();
+        priceChart = new Chart(ctx, {
+          type: 'line',
+          data: {
+            labels: item.history.map((h) => h.date),
+            datasets: [{
+              label: '售價 (NT$)',
+              data: item.history.map((h) => h.price),
+              borderColor: '#111827',
+              backgroundColor: 'rgba(17, 24, 39, 0.08)',
+              stepped: true,
+              fill: true,
+              tension: 0
+            }]
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: { legend: { display: false } },
+            scales: { y: { beginAtZero: false } }
+          }
+        });
+      } catch (e) {
+        alert('無法讀取該商品的歷史紀錄');
+      }
+    }
+
+    document.getElementById('searchInput').addEventListener('input', applyFilter);
+    document.getElementById('filterSelect').addEventListener('change', applyFilter);
+    document.getElementById('loadMoreBtn').addEventListener('click', () => {
+      visibleCount += 40;
+      renderGrid();
+    });
+    document.getElementById('closeModal').addEventListener('click', () => {
+      document.getElementById('detailModal').classList.add('hidden');
+    });
+    document.getElementById('detailModal').addEventListener('click', (e) => {
+      if (e.target.id === 'detailModal') document.getElementById('detailModal').classList.add('hidden');
+    });
+
+    init();
+  </script>
+</body>
+</html>
