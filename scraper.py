@@ -19,6 +19,40 @@ HEADERS = {
 TW_TZ = timezone(timedelta(hours=8))
 TODAY = datetime.now(TW_TZ).strftime("%Y-%m-%d")
 
+# and ST TW 常見品牌對照表（依匹配精確度排序）
+BRAND_PATTERNS = [
+    ("apart by lowrys", re.compile(r"apart\s*by(?:\s*lowrys)?|a\s*part\s*by", re.IGNORECASE)),
+    ("niko and ...", re.compile(r"niko\s*and(?:\s*[\.…]+)?", re.IGNORECASE)),
+    ("LOWRYS FARM", re.compile(r"lowrys\s*farm", re.IGNORECASE)),
+    ("GLOBAL WORK", re.compile(r"global\s*work", re.IGNORECASE)),
+    ("studio CLIP", re.compile(r"studio\s*clip", re.IGNORECASE)),
+    ("repipi armario", re.compile(r"repipi\s*armario", re.IGNORECASE)),
+    ("mysty woman", re.compile(r"mysty\s*woman", re.IGNORECASE)),
+    ("FOREVER 21", re.compile(r"forever\s*21", re.IGNORECASE)),
+    ("BARNYARDSTORM", re.compile(r"barnyardstorm", re.IGNORECASE)),
+    ("Curensology", re.compile(r"curensology", re.IGNORECASE)),
+    ("JEANASIS", re.compile(r"jeanasis", re.IGNORECASE)),
+    ("RAGEBLUE", re.compile(r"rageblue", re.IGNORECASE)),
+    ("BABYLONE", re.compile(r"babylone", re.IGNORECASE)),
+    ("BAYFLOW", re.compile(r"bayflow", re.IGNORECASE)),
+    ("PAGEBOY", re.compile(r"pageboy", re.IGNORECASE)),
+    ("Heather", re.compile(r"\bheather\b", re.IGNORECASE)),
+    ("Andemiu", re.compile(r"andemiu", re.IGNORECASE)),
+    ("LEPSIM", re.compile(r"lepsim", re.IGNORECASE)),
+    ("LAKOLE", re.compile(r"lakole", re.IGNORECASE)),
+    ("Elura", re.compile(r"\belura\b", re.IGNORECASE)),
+    ("ALAND", re.compile(r"\baland\b", re.IGNORECASE)),
+    ("Chaos", re.compile(r"\bchaos\b", re.IGNORECASE)),
+    ("HARE", re.compile(r"\bhare\b", re.IGNORECASE)),
+    ("Me%", re.compile(r"me%", re.IGNORECASE)),
+    ("e/rm", re.compile(r"\be/rm\b", re.IGNORECASE)),
+]
+
+NON_BRAND_BRACKET_KEYWORDS = (
+    "預購", "現貨", "特價", "限定", "任選", "免運", "滿額", "優惠",
+    "新品", "熱銷", "推薦", "出清", "組合", "折", "SALE", "NEW", "HOT",
+)
+
 
 def fetch_url(url: str, timeout: int = 20, retries: int = 3):
     """使用模擬 Chrome 的 TLS 指紋發送請求，遇限流自動退避重試"""
@@ -96,19 +130,70 @@ def extract_sku(html: str, salepage_id: str) -> str | None:
     return None
 
 
-def extract_listed_date(html: str) -> str | None:
+def match_known_brand(text: str) -> str | None:
+    """比對已知品牌名稱，回傳標準化品牌名"""
+    if not text:
+        return None
+    for canonical, pattern in BRAND_PATTERNS:
+        if pattern.search(text):
+            return canonical
+    return None
+
+
+def extract_brand(html: str, title: str, ld_brand: str = "") -> str:
+    """從商品標題、JSON-LD 與頁面原始碼提取商品品牌"""
+    # 1. 優先從商品標題匹配已知品牌（準確度最高）
+    found = match_known_brand(title)
+    if found:
+        return found
+
+    # 2. 檢查 JSON-LD brand 欄位（排除電商平台統稱）
+    if ld_brand:
+        found = match_known_brand(ld_brand)
+        if found:
+            return found
+
+    # 3. 檢查網頁內的品牌規格或分類名稱
+    spec_match = re.search(
+        r"(?:品牌|Brand)(?:</[^>]+>|\s|<[^>]+>|[：:])+?([A-Za-z0-9\s\.\-%/]{2,30})",
+        html,
+        flags=re.IGNORECASE,
+    )
+    if spec_match:
+        found = match_known_brand(spec_match.group(1))
+        if found:
+            return found
+
+    # 4. 最後嘗試解析標題前綴括號（如【品牌名】），排除活動促銷標籤
+    bracket_match = re.match(r"^\s*[【\[]([^】\]]{2,24})[】\]]", title)
+    if bracket_match:
+        candidate = bracket_match.group(1).strip()
+        upper_c = candidate.upper()
+        if not any(kw in upper_c for kw in NON_BRAND_BRACKET_KEYWORDS):
+            return candidate
+
+    return "其他品牌"
+
+
+def extract_listed_date(html: str, ld_date: str = "") -> str | None:
     """從 91APP 網頁原始碼提取商品上架開賣日期 (YYYY-MM-DD)"""
     date_patterns = [
         r'"SellingStartDateTime"\s*:\s*"(\d{4}-\d{2}-\d{2})',
+        r'"SellingStartTime"\s*:\s*"(\d{4}-\d{2}-\d{2})',
+        r'"PublishDateTime"\s*:\s*"(\d{4}-\d{2}-\d{2})',
         r'"StartDate"\s*:\s*"(\d{4}-\d{2}-\d{2})',
         r'"CreateDateTime"\s*:\s*"(\d{4}-\d{2}-\d{2})',
         r'"OnlineDate"\s*:\s*"(\d{4}-\d{2}-\d{2})',
     ]
     candidates = []
+    if ld_date:
+        m = re.match(r"^(\d{4}-\d{2}-\d{2})", ld_date.strip())
+        if m and "2020-01-01" <= m.group(1) <= TODAY:
+            candidates.append(m.group(1))
+
     for pat in date_patterns:
         for m in re.finditer(pat, html):
             d = m.group(1)
-            # 過濾系統預設無效年份 (如 1900-01-01 或未來預約日期)
             if "2020-01-01" <= d <= TODAY:
                 candidates.append(d)
     return min(candidates) if candidates else None
@@ -131,6 +216,8 @@ def parse_product_page(salepage_id: str, url: str) -> tuple[str, dict | str]:
     image = ""
     price = None
     original_price = None
+    ld_brand = ""
+    ld_date = ""
 
     for script in soup.find_all("script", type="application/ld+json"):
         try:
@@ -141,6 +228,12 @@ def parse_product_page(salepage_id: str, url: str) -> tuple[str, dict | str]:
                 title = data.get("name", "").strip()
                 imgs = data.get("image", [])
                 image = imgs[0] if isinstance(imgs, list) and imgs else (imgs if isinstance(imgs, str) else "")
+                raw_brand = data.get("brand", "")
+                if isinstance(raw_brand, dict):
+                    ld_brand = str(raw_brand.get("name", "")).strip()
+                elif isinstance(raw_brand, str):
+                    ld_brand = raw_brand.strip()
+                ld_date = str(data.get("datePublished", "") or data.get("releaseDate", ""))
                 offers = data.get("offers", {})
                 if isinstance(offers, list):
                     offers = offers[0]
@@ -170,13 +263,15 @@ def parse_product_page(salepage_id: str, url: str) -> tuple[str, dict | str]:
     if price is None:
         return ("no_price", url)
 
-    listed_date = extract_listed_date(html) or TODAY
+    listed_date = extract_listed_date(html, ld_date) or TODAY
+    brand = extract_brand(html, title, ld_brand)
 
     return (
         "ok",
         {
             "sku": sku,
             "salepage_id": salepage_id,
+            "brand": brand,
             "url": url,
             "title": title,
             "image": image,
@@ -240,6 +335,8 @@ def main():
 
         listed_date = min(item["listed_date"], record.get("listed_date", item["listed_date"]))
         record["listed_date"] = listed_date
+        record["updated_at"] = TODAY
+        record["brand"] = item["brand"]
         record["jp_url"] = jp_search_url
         record["salepage_id"] = item["salepage_id"]
         record["url"] = item["url"]
@@ -248,23 +345,32 @@ def main():
         record["current_price"] = item["price"]
         record["original_price"] = item["original_price"]
 
-        history = record.get("history", [])
+        # 依日期排序並去重整理既有歷史紀錄
+        raw_history = record.get("history", [])
+        dedup_map = {}
+        for h in raw_history:
+            if h.get("date") and h.get("price") is not None:
+                dedup_map[h["date"]] = int(h["price"])
+        history = [{"date": d, "price": p} for d, p in sorted(dedup_map.items())]
 
-        # 若抓到的商品上架日早於目前最早紀錄，補上上架日當天以原始定價開賣的起點
+        # 若上架日早於目前最早紀錄，補上上架日原價起點
         if listed_date < TODAY:
             if not history:
                 history.append({"date": listed_date, "price": item["original_price"]})
             elif listed_date < history[0]["date"]:
                 history.insert(0, {"date": listed_date, "price": item["original_price"]})
 
-        # 寫入今日最新價格（若與上一筆價格不同才新增轉折點）
-        if not history or history[-1]["price"] != item["price"]:
-            if history and history[-1]["date"] == TODAY:
-                history[-1]["price"] = item["price"]
-            else:
-                history.append({"date": TODAY, "price": item["price"]})
+        # 寫入今日最新價格（僅記錄轉折點；若同日重複執行則覆蓋今日價格）
+        if not history:
+            history.append({"date": TODAY, "price": item["price"]})
+        elif history[-1]["date"] == TODAY:
+            history[-1]["price"] = item["price"]
+            if len(history) >= 2 and history[-1]["price"] == history[-2]["price"]:
+                history.pop()
+        elif history[-1]["price"] != item["price"]:
+            history.append({"date": TODAY, "price": item["price"]})
 
-        prices = [h["price"] for h in history]
+        prices = [h["price"] for h in history] + [item["price"]]
         record["min_price"] = min(prices)
         record["max_price"] = max(prices)
         record["history"] = history
@@ -275,6 +381,7 @@ def main():
         index_list.append({
             "sku": sku,
             "salepage_id": item["salepage_id"],
+            "brand": item["brand"],
             "listed_date": listed_date,
             "title": item["title"],
             "image": item["image"],
@@ -284,7 +391,8 @@ def main():
             "max_price": record["max_price"],
         })
 
-    index_list.sort(key=lambda x: x["listed_date"], reverse=True)
+    # 預設依上架日期由新至舊排序（同日再依 91APP SalePageId 由新至舊）
+    index_list.sort(key=lambda x: (x["listed_date"], int(x["salepage_id"])), reverse=True)
     with open("data/index.json", "w", encoding="utf-8") as f:
         json.dump(
             {"updated_at": TODAY, "count": len(index_list), "items": index_list},
