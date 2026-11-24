@@ -1,5 +1,9 @@
 name: Daily And st TW Price Scraper
 
+concurrency:
+  group: update-prices-data
+  cancel-in-progress: false
+  
 on:
   schedule:
     - cron: '0 4 * * *' # UTC 04:00 = 台灣時間 12:00
