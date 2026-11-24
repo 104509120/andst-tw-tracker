@@ -2,6 +2,10 @@
   "sku": "1080967",
   "history": [
     {
+      "date": "2026-10-28",
+      "price": 3290
+    },
+    {
       "date": "2026-11-24",
       "price": 3290
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12264858",
   "url": "https://www.dot-st.tw/SalePage/Index/12264858",
   "title": "JEANASIS毛絨抽繩鍊帶肩背包-一色-1080967",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12264858/0/639294875812500000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12264858/0/639311392907370000?v=1",
   "current_price": 3290,
   "original_price": 3290,
   "min_price": 3290,
-  "max_price": 3290
+  "max_price": 3290,
+  "listed_date": "2026-10-28"
 }

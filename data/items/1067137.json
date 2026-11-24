@@ -3,6 +3,10 @@
   "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1067137",
   "history": [
     {
+      "date": "2026-11-18",
+      "price": 1490
+    },
+    {
       "date": "2026-11-24",
       "price": 1490
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12317459",
   "url": "https://www.dot-st.tw/SalePage/Index/12317459",
   "title": "GLOBAL WORK女毛絨輕盈POLO領針織長袖上衣-三色-1067137",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12317459/0/639306134373070000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12317459/0/639311179862700000?v=1",
   "current_price": 1490,
   "original_price": 1490,
   "min_price": 1490,
-  "max_price": 1490
+  "max_price": 1490,
+  "listed_date": "2026-11-18"
 }

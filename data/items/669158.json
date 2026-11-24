@@ -2,6 +2,10 @@
   "sku": "669158",
   "history": [
     {
+      "date": "2026-10-30",
+      "price": 1050
+    },
+    {
       "date": "2026-11-24",
       "price": 1050
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12272757",
   "url": "https://www.dot-st.tw/SalePage/Index/12272757",
   "title": "niko and線條拼色邊靠墊抱枕-二色-669158",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12272757/0/639289812077900000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12272757/0/639311265699970000?v=1",
   "current_price": 1050,
   "original_price": 1050,
   "min_price": 1050,
-  "max_price": 1050
+  "max_price": 1050,
+  "listed_date": "2026-10-30"
 }

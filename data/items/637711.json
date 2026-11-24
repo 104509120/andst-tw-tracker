@@ -2,6 +2,10 @@
   "sku": "637711",
   "history": [
     {
+      "date": "2026-07-07",
+      "price": 1990
+    },
+    {
       "date": "2026-11-24",
       "price": 1592
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11959223",
   "url": "https://www.dot-st.tw/SalePage/Index/11959223",
   "title": "niko and男品牌NMR系列不易皺機能防臭短褲-二色-637711",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11959223/0/639310431715870000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11959223/0/639311265353900000?v=1",
   "current_price": 1592,
   "original_price": 1990,
   "min_price": 1592,
-  "max_price": 1592
+  "max_price": 1990,
+  "listed_date": "2026-07-07"
 }

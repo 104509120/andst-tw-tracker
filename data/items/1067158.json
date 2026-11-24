@@ -2,6 +2,10 @@
   "sku": "1067158",
   "history": [
     {
+      "date": "2026-09-24",
+      "price": 1990
+    },
+    {
       "date": "2026-11-24",
       "price": 455
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12181964",
   "url": "https://www.dot-st.tw/SalePage/Index/12181964",
   "title": "LOWRYS FARM【網路限定55價】女抓皺POLO領條紋長袖上衣-三色-1067158",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12181964/0/639310491314930000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12181964/0/639311392743570000?v=1",
   "current_price": 455,
   "original_price": 1990,
   "min_price": 455,
-  "max_price": 455
+  "max_price": 1990,
+  "listed_date": "2026-09-24"
 }

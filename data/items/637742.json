@@ -2,6 +2,10 @@
   "sku": "637742",
   "history": [
     {
+      "date": "2026-02-11",
+      "price": 1490
+    },
+    {
       "date": "2026-11-24",
       "price": 455
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11559905",
   "url": "https://www.dot-st.tw/SalePage/Index/11559905",
   "title": "LOWRYS FARM【網路限定55價】女多隔層收納腰包-三色-637742",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11559905/0/639307647600700000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11559905/0/639311392966500000?v=1",
   "current_price": 455,
   "original_price": 1490,
   "min_price": 455,
-  "max_price": 455
+  "max_price": 1490,
+  "listed_date": "2026-02-11"
 }

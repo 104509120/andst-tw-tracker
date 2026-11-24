@@ -2,6 +2,10 @@
   "sku": "241935",
   "history": [
     {
+      "date": "2025-05-26",
+      "price": 290
+    },
+    {
       "date": "2026-11-24",
       "price": 290
     }
@@ -10,9 +14,10 @@
   "salepage_id": "10784511",
   "url": "https://www.dot-st.tw/SalePage/Index/10784511",
   "title": "studio CLIP優雅造型線香座-二色-241935",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/10784511/0/639300858222300000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/10784511/0/639311277965670000?v=1",
   "current_price": 290,
   "original_price": 290,
   "min_price": 290,
-  "max_price": 290
+  "max_price": 290,
+  "listed_date": "2025-05-26"
 }

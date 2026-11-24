@@ -2,6 +2,10 @@
   "sku": "1067608",
   "history": [
     {
+      "date": "2026-10-29",
+      "price": 2290
+    },
+    {
       "date": "2026-11-24",
       "price": 2290
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12270013",
   "url": "https://www.dot-st.tw/SalePage/Index/12270013",
   "title": "LEPSIM安哥拉混紡開釦連帽亨利領短版針織上衣-四色-1067608",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12270013/0/639299994738170000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12270013/0/639311251699770000?v=1",
   "current_price": 2290,
   "original_price": 2290,
   "min_price": 2290,
-  "max_price": 2290
+  "max_price": 2290,
+  "listed_date": "2026-10-29"
 }

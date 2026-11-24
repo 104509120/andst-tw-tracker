@@ -2,6 +2,10 @@
   "sku": "1023616",
   "history": [
     {
+      "date": "2026-09-21",
+      "price": 780
+    },
+    {
       "date": "2026-11-24",
       "price": 780
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12172326",
   "url": "https://www.dot-st.tw/SalePage/Index/12172326",
   "title": "niko and品牌LOGO刺繡手提斜背小包-三色-1023616",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12172326/0/639300883711170000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12172326/0/639311265655300000?v=1",
   "current_price": 780,
   "original_price": 780,
   "min_price": 780,
-  "max_price": 780
+  "max_price": 780,
+  "listed_date": "2026-09-21"
 }

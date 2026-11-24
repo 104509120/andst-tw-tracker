@@ -2,6 +2,10 @@
   "sku": "1055908",
   "history": [
     {
+      "date": "2026-09-03",
+      "price": 2490
+    },
+    {
       "date": "2026-11-24",
       "price": 1955
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12127713",
   "url": "https://www.dot-st.tw/SalePage/Index/12127713",
   "title": "HARE【網路限定55價】女側領邊扭結設計花朵暈染設計長袖上衣-三色-1055908",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12127713/0/639307653236200000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12127713/0/639311240189370000?v=1",
   "current_price": 1955,
   "original_price": 2490,
   "min_price": 1955,
-  "max_price": 1955
+  "max_price": 2490,
+  "listed_date": "2026-09-03"
 }

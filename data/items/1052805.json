@@ -2,6 +2,10 @@
   "sku": "1052805",
   "history": [
     {
+      "date": "2026-11-05",
+      "price": 1990
+    },
+    {
       "date": "2026-11-24",
       "price": 1990
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12287605",
   "url": "https://www.dot-st.tw/SalePage/Index/12287605",
   "title": "LOWRYS FARM女麻花編織針織短褲-三色-1052805",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12287605/0/639310491665770000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12287605/0/639311392923170000?v=1",
   "current_price": 1990,
   "original_price": 1990,
   "min_price": 1990,
-  "max_price": 1990
+  "max_price": 1990,
+  "listed_date": "2026-11-05"
 }

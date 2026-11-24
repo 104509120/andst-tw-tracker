@@ -2,6 +2,10 @@
   "sku": "314639",
   "history": [
     {
+      "date": "2020-03-03",
+      "price": 580
+    },
+    {
       "date": "2026-11-24",
       "price": 580
     }
@@ -10,9 +14,10 @@
   "salepage_id": "6152629",
   "url": "https://www.dot-st.tw/SalePage/Index/6152629",
   "title": "niko and天然木動物造型關節可動玩具裝飾擺飾-十六款-314639",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/6152629/0/639300884480370000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/6152629/0/639311266217300000?v=1",
   "current_price": 580,
   "original_price": 580,
   "min_price": 580,
-  "max_price": 580
+  "max_price": 580,
+  "listed_date": "2020-03-03"
 }

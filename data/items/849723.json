@@ -2,6 +2,10 @@
   "sku": "849723",
   "history": [
     {
+      "date": "2026-10-30",
+      "price": 1690
+    },
+    {
       "date": "2026-11-24",
       "price": 1690
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12270858",
   "url": "https://www.dot-st.tw/SalePage/Index/12270858",
   "title": "studio CLIP白貓頭鷹聖誕圈L《CHRISTMAS 2026》-一色-849723",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12270858/0/639304239452230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12270858/0/639311277882370000?v=1",
   "current_price": 1690,
   "original_price": 1690,
   "min_price": 1690,
-  "max_price": 1690
+  "max_price": 1690,
+  "listed_date": "2026-10-30"
 }

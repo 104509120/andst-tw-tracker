@@ -2,6 +2,10 @@
   "sku": "664892",
   "history": [
     {
+      "date": "2026-04-21",
+      "price": 1890
+    },
+    {
       "date": "2026-11-24",
       "price": 755
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11717493",
   "url": "https://www.dot-st.tw/SalePage/Index/11717493",
   "title": "LEPSIM【網路限定55價】透膚印花點點格紋2WAY長袖襯衫上衣-六色-664892",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11717493/0/639307790253130000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11717493/0/639311251447400000?v=1",
   "current_price": 755,
   "original_price": 1890,
   "min_price": 755,
-  "max_price": 755
+  "max_price": 1890,
+  "listed_date": "2026-04-21"
 }

@@ -2,6 +2,10 @@
   "sku": "824128",
   "history": [
     {
+      "date": "2026-11-12",
+      "price": 790
+    },
+    {
       "date": "2026-11-24",
       "price": 790
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12302571",
   "url": "https://www.dot-st.tw/SalePage/Index/12302571",
   "title": "studio CLIP日本製花卉緹花方型化妝包-三色-824128",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12302571/0/639300792545300000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12302571/0/639311277915400000?v=1",
   "current_price": 790,
   "original_price": 790,
   "min_price": 790,
-  "max_price": 790
+  "max_price": 790,
+  "listed_date": "2026-11-12"
 }

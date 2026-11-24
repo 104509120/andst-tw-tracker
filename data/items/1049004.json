@@ -2,6 +2,10 @@
   "sku": "1049004",
   "history": [
     {
+      "date": "2026-10-07",
+      "price": 2990
+    },
+    {
       "date": "2026-11-24",
       "price": 990
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12221293",
   "url": "https://www.dot-st.tw/SalePage/Index/12221293",
   "title": "LOWRYS FARM女尼龍抽繩氣球中長版外套-二色-1049004",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12221293/0/639307647537770000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12221293/0/639311392764670000?v=1",
   "current_price": 990,
   "original_price": 2990,
   "min_price": 990,
-  "max_price": 990
+  "max_price": 2990,
+  "listed_date": "2026-10-07"
 }

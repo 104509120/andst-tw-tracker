@@ -2,6 +2,10 @@
   "sku": "1018047",
   "history": [
     {
+      "date": "2026-08-18",
+      "price": 790
+    },
+    {
       "date": "2026-11-24",
       "price": 553
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12076122",
   "url": "https://www.dot-st.tw/SalePage/Index/12076122",
   "title": "GLOBAL WORK童輕盈防潑水降落傘長褲(130cm-160cm)-三色-1018047",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12076122/0/639300798587100000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12076122/0/639311144898200000?v=1",
   "current_price": 553,
   "original_price": 790,
   "min_price": 553,
-  "max_price": 553
+  "max_price": 790,
+  "listed_date": "2026-08-18"
 }

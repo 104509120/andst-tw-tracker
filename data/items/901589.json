@@ -2,6 +2,10 @@
   "sku": "901589",
   "history": [
     {
+      "date": "2026-11-05",
+      "price": 970
+    },
+    {
       "date": "2026-11-24",
       "price": 970
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12283261",
   "url": "https://www.dot-st.tw/SalePage/Index/12283261",
   "title": "niko and聖誕裝飾Xmas天然纖維花圈吊飾S-二色-901589",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12283261/0/639294707047900000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12283261/0/639311265923370000?v=1",
   "current_price": 970,
   "original_price": 970,
   "min_price": 970,
-  "max_price": 970
+  "max_price": 970,
+  "listed_date": "2026-11-05"
 }

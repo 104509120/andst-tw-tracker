@@ -2,6 +2,10 @@
   "sku": "103712",
   "history": [
     {
+      "date": "2024-06-04",
+      "price": 1490
+    },
+    {
       "date": "2026-11-24",
       "price": 1192
     }
@@ -10,9 +14,10 @@
   "salepage_id": "9846597",
   "url": "https://www.dot-st.tw/SalePage/Index/9846597",
   "title": "niko and女簡約皮革分趾厚底涼鞋拖鞋-四色-103712",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/9846597/0/639310435320070000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/9846597/0/639311266005700000?v=1",
   "current_price": 1192,
   "original_price": 1490,
   "min_price": 1192,
-  "max_price": 1192
+  "max_price": 1490,
+  "listed_date": "2024-06-04"
 }

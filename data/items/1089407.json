@@ -2,6 +2,10 @@
   "sku": "1089407",
   "history": [
     {
+      "date": "2026-11-12",
+      "price": 6190
+    },
+    {
       "date": "2026-11-24",
       "price": 6190
     }
@@ -14,5 +18,6 @@
   "current_price": 6190,
   "original_price": 6190,
   "min_price": 6190,
-  "max_price": 6190
+  "max_price": 6190,
+  "listed_date": "2026-11-12"
 }

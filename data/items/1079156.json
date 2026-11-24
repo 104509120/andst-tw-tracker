@@ -2,6 +2,10 @@
   "sku": "1079156",
   "history": [
     {
+      "date": "2026-10-15",
+      "price": 2290
+    },
+    {
       "date": "2026-11-24",
       "price": 1490
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12237961",
   "url": "https://www.dot-st.tw/SalePage/Index/12237961",
   "title": "LOWRYS FARM女【日本人氣店員企劃】撞色抽繩拉鍊帽T上衣-三色-1079156",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12237961/0/639307793509000000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12237961/0/639311392781900000?v=1",
   "current_price": 1490,
   "original_price": 2290,
   "min_price": 1490,
-  "max_price": 1490
+  "max_price": 2290,
+  "listed_date": "2026-10-15"
 }

@@ -2,6 +2,10 @@
   "sku": "637656",
   "history": [
     {
+      "date": "2026-02-28",
+      "price": 2290
+    },
+    {
       "date": "2026-11-24",
       "price": 1145
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11580975",
   "url": "https://www.dot-st.tw/SalePage/Index/11580975",
   "title": "niko and男品牌NMR系列拉鍊口袋接觸冷感罩衫長袖上衣-三色-637656",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11580975/0/639310431504270000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11580975/0/639311265094230000?v=1",
   "current_price": 1145,
   "original_price": 2290,
   "min_price": 1145,
-  "max_price": 1145
+  "max_price": 2290,
+  "listed_date": "2026-02-28"
 }

@@ -2,6 +2,10 @@
   "sku": "683628",
   "history": [
     {
+      "date": "2026-10-21",
+      "price": 2990
+    },
+    {
       "date": "2026-11-24",
       "price": 2990
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12256148",
   "url": "https://www.dot-st.tw/SalePage/Index/12256148",
   "title": "LEPSIM復古毛絨格紋寬版襯衫上衣-四色-683628",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12256148/0/639293968191600000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12256148/0/639311251535900000?v=1",
   "current_price": 2990,
   "original_price": 2990,
   "min_price": 2990,
-  "max_price": 2990
+  "max_price": 2990,
+  "listed_date": "2026-10-21"
 }

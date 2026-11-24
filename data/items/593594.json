@@ -2,6 +2,10 @@
   "sku": "593594",
   "history": [
     {
+      "date": "2026-03-10",
+      "price": 160
+    },
+    {
       "date": "2026-11-24",
       "price": 160
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11605927",
   "url": "https://www.dot-st.tw/SalePage/Index/11605927",
   "title": "niko and學院風字母縮寫刺繡鑰匙圈-八款-593594",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11605927/0/639305191970370000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11605927/0/639311265107130000?v=1",
   "current_price": 160,
   "original_price": 160,
   "min_price": 160,
-  "max_price": 160
+  "max_price": 160,
+  "listed_date": "2026-03-10"
 }

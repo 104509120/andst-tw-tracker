@@ -2,6 +2,10 @@
   "sku": "1017628",
   "history": [
     {
+      "date": "2026-11-04",
+      "price": 230
+    },
+    {
       "date": "2026-11-24",
       "price": 230
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12282327",
   "url": "https://www.dot-st.tw/SalePage/Index/12282327",
   "title": "niko and聖誕裝飾Xmas閃閃裝飾球吊飾8cm-七色-1017628",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12282327/0/639300884175600000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12282327/0/639311265918200000?v=1",
   "current_price": 230,
   "original_price": 230,
   "min_price": 230,
-  "max_price": 230
+  "max_price": 230,
+  "listed_date": "2026-11-04"
 }

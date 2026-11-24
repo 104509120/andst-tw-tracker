@@ -2,6 +2,10 @@
   "sku": "1092975",
   "history": [
     {
+      "date": "2026-10-30",
+      "price": 1490
+    },
+    {
       "date": "2026-11-24",
       "price": 955
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12274090",
   "url": "https://www.dot-st.tw/SalePage/Index/12274090",
   "title": "LAKOLE【網路限定55價】女柔感鑰匙領連帽針織上衣-四色-1092975",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12274090/0/639307650297500000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12274090/0/639311309440470000?v=1",
   "current_price": 955,
   "original_price": 1490,
   "min_price": 955,
-  "max_price": 955
+  "max_price": 1490,
+  "listed_date": "2026-10-30"
 }

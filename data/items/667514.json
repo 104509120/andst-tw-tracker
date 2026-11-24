@@ -2,6 +2,10 @@
   "sku": "667514",
   "history": [
     {
+      "date": "2026-06-23",
+      "price": 990
+    },
+    {
       "date": "2026-11-24",
       "price": 495
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11921990",
   "url": "https://www.dot-st.tw/SalePage/Index/11921990",
   "title": "niko and女【LOVEBOAT聯名】多功能方巾腰巾頭巾-三色-667514",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11921990/0/639307786616070000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11921990/0/639311265346370000?v=1",
   "current_price": 495,
   "original_price": 990,
   "min_price": 495,
-  "max_price": 495
+  "max_price": 990,
+  "listed_date": "2026-06-23"
 }

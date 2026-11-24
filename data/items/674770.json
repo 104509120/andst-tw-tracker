@@ -2,6 +2,10 @@
   "sku": "674770",
   "history": [
     {
+      "date": "2026-05-08",
+      "price": 2990
+    },
+    {
       "date": "2026-11-24",
       "price": 1155
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11779504",
   "url": "https://www.dot-st.tw/SalePage/Index/11779504",
   "title": "JEANASIS【網路限定55價】皺褶感格紋修身長裙-三色-674770",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11779504/0/639307647537770000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11779504/0/639311392941500000?v=1",
   "current_price": 1155,
   "original_price": 2990,
   "min_price": 1155,
-  "max_price": 1155
+  "max_price": 2990,
+  "listed_date": "2026-05-08"
 }

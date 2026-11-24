@@ -2,6 +2,10 @@
   "sku": "1061806",
   "history": [
     {
+      "date": "2026-10-15",
+      "price": 2690
+    },
+    {
       "date": "2026-11-24",
       "price": 2690
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12240641",
   "url": "https://www.dot-st.tw/SalePage/Index/12240641",
   "title": "LEPSIM【品牌好友｜曾敬驊 江齊著用款】前後兩穿2WAY立體剪裁氣球短裙-二色-1061806",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12240641/0/639307790341500000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12240641/0/639311240238270000?v=1",
   "current_price": 2690,
   "original_price": 2690,
   "min_price": 2690,
-  "max_price": 2690
+  "max_price": 2690,
+  "listed_date": "2026-10-15"
 }

@@ -2,6 +2,10 @@
   "sku": "664820",
   "history": [
     {
+      "date": "2026-04-09",
+      "price": 1690
+    },
+    {
       "date": "2026-11-24",
       "price": 855
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11694383",
   "url": "https://www.dot-st.tw/SalePage/Index/11694383",
   "title": "LAKOLE【網路限定55價】女輕盈透膚連帽襯衫上衣-七色-664820",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11694383/0/639307650302070000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11694383/0/639311309408330000?v=1",
   "current_price": 855,
   "original_price": 1690,
   "min_price": 855,
-  "max_price": 855
+  "max_price": 1690,
+  "listed_date": "2026-04-09"
 }

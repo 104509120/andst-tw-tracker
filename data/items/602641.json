@@ -2,6 +2,10 @@
   "sku": "602641",
   "history": [
     {
+      "date": "2026-03-16",
+      "price": 690
+    },
+    {
       "date": "2026-11-24",
       "price": 690
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11620991",
   "url": "https://www.dot-st.tw/SalePage/Index/11620991",
   "title": "studio CLIP簡約刻度玻璃收納罐(1000ML)-二色-602641",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11620991/0/639293857660430000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11620991/0/639311277958730000?v=1",
   "current_price": 690,
   "original_price": 690,
   "min_price": 690,
-  "max_price": 690
+  "max_price": 690,
+  "listed_date": "2026-03-16"
 }

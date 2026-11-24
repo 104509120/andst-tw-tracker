@@ -2,6 +2,10 @@
   "sku": "1047448",
   "history": [
     {
+      "date": "2026-09-21",
+      "price": 780
+    },
+    {
       "date": "2026-11-24",
       "price": 780
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12172278",
   "url": "https://www.dot-st.tw/SalePage/Index/12172278",
   "title": "niko and【Bubbling BUBBLE】沐浴系列捲邊收納袋-二色-1047448",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12172278/0/639294817284300000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12172278/0/639311265653130000?v=1",
   "current_price": 780,
   "original_price": 780,
   "min_price": 780,
-  "max_price": 780
+  "max_price": 780,
+  "listed_date": "2026-09-21"
 }

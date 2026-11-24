@@ -2,6 +2,10 @@
   "sku": "640713",
   "history": [
     {
+      "date": "2026-11-06",
+      "price": 2290
+    },
+    {
       "date": "2026-11-24",
       "price": 1690
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12290346",
   "url": "https://www.dot-st.tw/SalePage/Index/12290346",
   "title": "JEANASIS不對稱拼接假兩件針織上衣-四色-640713",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12290346/0/639307793550170000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12290346/0/639311392931800000?v=1",
   "current_price": 1690,
   "original_price": 2290,
   "min_price": 1690,
-  "max_price": 1690
+  "max_price": 2290,
+  "listed_date": "2026-11-06"
 }

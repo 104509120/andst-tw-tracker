@@ -2,6 +2,10 @@
   "sku": "581272",
   "history": [
     {
+      "date": "2025-12-01",
+      "price": 890
+    },
+    {
       "date": "2026-11-24",
       "price": 890
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11364494",
   "url": "https://www.dot-st.tw/SalePage/Index/11364494",
   "title": "niko and設計師品牌Fishs Eddy動物椅墊-二款-581272",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11364494/0/639298211837230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11364494/0/639311265049370000?v=1",
   "current_price": 890,
   "original_price": 890,
   "min_price": 890,
-  "max_price": 890
+  "max_price": 890,
+  "listed_date": "2025-12-01"
 }

@@ -2,6 +2,10 @@
   "sku": "1084398",
   "history": [
     {
+      "date": "2026-11-11",
+      "price": 1990
+    },
+    {
       "date": "2026-11-24",
       "price": 1990
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12300130",
   "url": "https://www.dot-st.tw/SalePage/Index/12300130",
   "title": "niko and女2WAY編織提把大容量手提肩背包-二色-1084398",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12300130/0/639300785582500000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12300130/0/639311265965830000?v=1",
   "current_price": 1990,
   "original_price": 1990,
   "min_price": 1990,
-  "max_price": 1990
+  "max_price": 1990,
+  "listed_date": "2026-11-11"
 }

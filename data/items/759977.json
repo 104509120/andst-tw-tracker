@@ -2,6 +2,10 @@
   "sku": "759977",
   "history": [
     {
+      "date": "2026-06-02",
+      "price": 2690
+    },
+    {
       "date": "2026-11-24",
       "price": 1755
     }
@@ -14,5 +18,6 @@
   "current_price": 1755,
   "original_price": 2690,
   "min_price": 1755,
-  "max_price": 1755
+  "max_price": 2690,
+  "listed_date": "2026-06-02"
 }

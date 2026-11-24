@@ -2,6 +2,10 @@
   "sku": "667517",
   "history": [
     {
+      "date": "2026-06-23",
+      "price": 890
+    },
+    {
       "date": "2026-11-24",
       "price": 445
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11921992",
   "url": "https://www.dot-st.tw/SalePage/Index/11921992",
   "title": "niko and女【LOVEBOAT聯名】耳機包零錢包吊飾-三色-667517",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11921992/0/639310431707900000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11921992/0/639311265347800000?v=1",
   "current_price": 445,
   "original_price": 890,
   "min_price": 445,
-  "max_price": 445
+  "max_price": 890,
+  "listed_date": "2026-06-23"
 }

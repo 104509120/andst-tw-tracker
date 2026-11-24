@@ -2,6 +2,10 @@
   "sku": "829227",
   "history": [
     {
+      "date": "2026-10-08",
+      "price": 3290
+    },
+    {
       "date": "2026-11-24",
       "price": 2303
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12223308",
   "url": "https://www.dot-st.tw/SalePage/Index/12223308",
   "title": "studio CLIP防潑水輕量保暖抓皺夾克外套-三色-829227",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12223308/0/639306080587900000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12223308/0/639311275054200000?v=1",
   "current_price": 2303,
   "original_price": 3290,
   "min_price": 2303,
-  "max_price": 2303
+  "max_price": 3290,
+  "listed_date": "2026-10-08"
 }

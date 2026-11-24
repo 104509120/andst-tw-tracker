@@ -2,6 +2,10 @@
   "sku": "637081",
   "history": [
     {
+      "date": "2026-03-16",
+      "price": 2490
+    },
+    {
       "date": "2026-11-24",
       "price": 1245
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11618889",
   "url": "https://www.dot-st.tw/SalePage/Index/11618889",
   "title": "niko and男品牌NMR系列吸濕速乾彈性休閒長褲-二色-637081",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11618889/0/639310431520670000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11618889/0/639311265281500000?v=1",
   "current_price": 1245,
   "original_price": 2490,
   "min_price": 1245,
-  "max_price": 1245
+  "max_price": 2490,
+  "listed_date": "2026-03-16"
 }

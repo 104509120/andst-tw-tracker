@@ -2,6 +2,10 @@
   "sku": "571563",
   "history": [
     {
+      "date": "2025-08-27",
+      "price": 3290
+    },
+    {
       "date": "2026-11-24",
       "price": 2655
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12197106",
   "url": "https://www.dot-st.tw/SalePage/Index/12197106",
   "title": "Heather【網路限定55價】內增高厚底彈力長靴-五色-571563",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12197106/0/639307647289230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12197106/0/639311256281300000?v=1",
   "current_price": 2655,
   "original_price": 3290,
   "min_price": 2655,
-  "max_price": 2655
+  "max_price": 3290,
+  "listed_date": "2025-08-27"
 }

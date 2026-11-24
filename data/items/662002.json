@@ -2,6 +2,10 @@
   "sku": "662002",
   "history": [
     {
+      "date": "2026-04-16",
+      "price": 1690
+    },
+    {
       "date": "2026-11-24",
       "price": 1352
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11713682",
   "url": "https://www.dot-st.tw/SalePage/Index/11713682",
   "title": "niko and女輕便柔軟摺疊收納肩背斜背包-三色-662002",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11713682/0/639310437799170000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11713682/0/639311265296370000?v=1",
   "current_price": 1352,
   "original_price": 1690,
   "min_price": 1352,
-  "max_price": 1352
+  "max_price": 1690,
+  "listed_date": "2026-04-16"
 }

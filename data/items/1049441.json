@@ -2,6 +2,10 @@
   "sku": "1049441",
   "history": [
     {
+      "date": "2026-10-21",
+      "price": 510
+    },
+    {
       "date": "2026-11-24",
       "price": 510
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12256426",
   "url": "https://www.dot-st.tw/SalePage/Index/12256426",
   "title": "niko and宇宙太空設計2027年桌曆行事曆-二色-1049441",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12256426/0/639283518399970000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12256426/0/639311265680230000?v=1",
   "current_price": 510,
   "original_price": 510,
   "min_price": 510,
-  "max_price": 510
+  "max_price": 510,
+  "listed_date": "2026-10-21"
 }

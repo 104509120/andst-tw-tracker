@@ -2,6 +2,10 @@
   "sku": "1043112",
   "history": [
     {
+      "date": "2026-07-22",
+      "price": 490
+    },
+    {
       "date": "2026-11-24",
       "price": 155
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11996093",
   "url": "https://www.dot-st.tw/SalePage/Index/11996093",
   "title": "GLOBAL WORK【網路限定55價】女動物圖案方形絲巾-三色-1043112",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11996093/0/639310365462130000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11996093/0/639311144883870000?v=1",
   "current_price": 155,
   "original_price": 490,
   "min_price": 155,
-  "max_price": 155
+  "max_price": 490,
+  "listed_date": "2026-07-22"
 }

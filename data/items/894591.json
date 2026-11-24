@@ -2,6 +2,10 @@
   "sku": "894591",
   "history": [
     {
+      "date": "2026-11-04",
+      "price": 470
+    },
+    {
       "date": "2026-11-24",
       "price": 470
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12281438",
   "url": "https://www.dot-st.tw/SalePage/Index/12281438",
   "title": "niko and聖誕裝飾Xmas可愛串珠吊飾-八款-894591",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12281438/0/639293968749600000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12281438/0/639311265739470000?v=1",
   "current_price": 470,
   "original_price": 470,
   "min_price": 470,
-  "max_price": 470
+  "max_price": 470,
+  "listed_date": "2026-11-04"
 }

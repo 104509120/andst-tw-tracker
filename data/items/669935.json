@@ -2,6 +2,10 @@
   "sku": "669935",
   "history": [
     {
+      "date": "2026-06-05",
+      "price": 1690
+    },
+    {
       "date": "2026-11-24",
       "price": 1183
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11867624",
   "url": "https://www.dot-st.tw/SalePage/Index/11867624",
   "title": "niko and女機能涼感速乾抗UV可拆式遮陽帽-一色-669935",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11867624/0/639306770775070000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11867624/0/639311265341070000?v=1",
   "current_price": 1183,
   "original_price": 1690,
   "min_price": 1183,
-  "max_price": 1183
+  "max_price": 1690,
+  "listed_date": "2026-06-05"
 }

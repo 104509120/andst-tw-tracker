@@ -2,6 +2,10 @@
   "sku": "494131",
   "history": [
     {
+      "date": "2026-11-05",
+      "price": 3490
+    },
+    {
       "date": "2026-11-24",
       "price": 3490
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12287593",
   "url": "https://www.dot-st.tw/SalePage/Index/12287593",
   "title": "LOWRYS FARM女WOOLLYTEC機能性蓬鬆立領寬版外套-四色-494131",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12287593/0/639307793545070000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12287593/0/639311392919870000?v=1",
   "current_price": 3490,
   "original_price": 3490,
   "min_price": 3490,
-  "max_price": 3490
+  "max_price": 3490,
+  "listed_date": "2026-11-05"
 }

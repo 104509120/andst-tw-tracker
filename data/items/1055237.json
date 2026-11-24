@@ -2,6 +2,10 @@
   "sku": "1055237",
   "history": [
     {
+      "date": "2026-09-27",
+      "price": 2490
+    },
+    {
       "date": "2026-11-24",
       "price": 1690
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12186475",
   "url": "https://www.dot-st.tw/SalePage/Index/12186475",
   "title": "niko and男刺繡變形蟲燈芯絨夾克長袖上衣-三色-1055237",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12186475/0/639305191988570000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12186475/0/639311265657300000?v=1",
   "current_price": 1690,
   "original_price": 2490,
   "min_price": 1690,
-  "max_price": 1690
+  "max_price": 2490,
+  "listed_date": "2026-09-27"
 }

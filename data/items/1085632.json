@@ -2,6 +2,10 @@
   "sku": "1085632",
   "history": [
     {
+      "date": "2026-10-30",
+      "price": 1690
+    },
+    {
       "date": "2026-11-24",
       "price": 1455
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12272886",
   "url": "https://www.dot-st.tw/SalePage/Index/12272886",
   "title": "RAGEBLUE【網路限定55價】女Bloomy Yarn Knit繽紛金屬釦翻領羅紋短版針織上衣-四色-1085632",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12272886/0/639307647606430000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12272886/0/639311159234700000?v=1",
   "current_price": 1455,
   "original_price": 1690,
   "min_price": 1455,
-  "max_price": 1455
+  "max_price": 1690,
+  "listed_date": "2026-10-30"
 }

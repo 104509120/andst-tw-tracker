@@ -2,6 +2,10 @@
   "sku": "1052543",
   "history": [
     {
+      "date": "2026-09-18",
+      "price": 3990
+    },
+    {
       "date": "2026-11-24",
       "price": 2955
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12170041",
   "url": "https://www.dot-st.tw/SalePage/Index/12170041",
   "title": "HARE【網路限定55價】男暈染花卉印花短袖襯衫-三色-1052543",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12170041/0/639307801140100000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12170041/0/639311240199000000?v=1",
   "current_price": 2955,
   "original_price": 3990,
   "min_price": 2955,
-  "max_price": 2955
+  "max_price": 3990,
+  "listed_date": "2026-09-18"
 }

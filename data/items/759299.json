@@ -2,6 +2,10 @@
   "sku": "759299",
   "history": [
     {
+      "date": "2026-09-29",
+      "price": 790
+    },
+    {
       "date": "2026-11-24",
       "price": 790
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12188110",
   "url": "https://www.dot-st.tw/SalePage/Index/12188110",
   "title": "GLOBAL WORK女圓領羅紋針織長袖上衣-七色-759299",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12188110/0/639310365991400000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12188110/0/639311145152700000?v=1",
   "current_price": 790,
   "original_price": 790,
   "min_price": 790,
-  "max_price": 790
+  "max_price": 790,
+  "listed_date": "2026-09-29"
 }

@@ -2,6 +2,10 @@
   "sku": "1075101",
   "history": [
     {
+      "date": "2026-10-15",
+      "price": 1990
+    },
+    {
       "date": "2026-11-24",
       "price": 1455
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12241493",
   "url": "https://www.dot-st.tw/SalePage/Index/12241493",
   "title": "Heather【網路限定55價】領口蝴蝶結合身針織長袖上衣-三色-1075101",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12241493/0/639307647289230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12241493/0/639311256296270000?v=1",
   "current_price": 1455,
   "original_price": 1990,
   "min_price": 1455,
-  "max_price": 1455
+  "max_price": 1990,
+  "listed_date": "2026-10-15"
 }

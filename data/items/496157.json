@@ -2,6 +2,10 @@
   "sku": "496157",
   "history": [
     {
+      "date": "2025-08-19",
+      "price": 780
+    },
+    {
       "date": "2026-11-24",
       "price": 780
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11039878",
   "url": "https://www.dot-st.tw/SalePage/Index/11039878",
   "title": "niko and異色拼塊標誌印花束口袋肩背手提包-七色-496157",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11039878/0/639288775065100000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11039878/0/639311265029030000?v=1",
   "current_price": 780,
   "original_price": 780,
   "min_price": 780,
-  "max_price": 780
+  "max_price": 780,
+  "listed_date": "2025-08-19"
 }

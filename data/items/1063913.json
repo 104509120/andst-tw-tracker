@@ -2,6 +2,10 @@
   "sku": "1063913",
   "history": [
     {
+      "date": "2026-09-16",
+      "price": 2290
+    },
+    {
       "date": "2026-11-24",
       "price": 1255
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12160958",
   "url": "https://www.dot-st.tw/SalePage/Index/12160958",
   "title": "Heather【網路限定55價】菱格紋短版外套與針織背心二件組-三色-1063913",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12160958/0/639307774755270000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12160958/0/639311159283770000?v=1",
   "current_price": 1255,
   "original_price": 2290,
   "min_price": 1255,
-  "max_price": 1255
+  "max_price": 2290,
+  "listed_date": "2026-09-16"
 }

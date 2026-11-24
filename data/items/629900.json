@@ -2,6 +2,10 @@
   "sku": "629900",
   "history": [
     {
+      "date": "2026-02-05",
+      "price": 2690
+    },
+    {
       "date": "2026-11-24",
       "price": 1890
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11543962",
   "url": "https://www.dot-st.tw/SalePage/Index/11543962",
   "title": "LEPSIM無領設計丹寧雙口袋襯衫上衣-四色-629900",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11543962/0/639307790239830000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11543962/0/639311251438500000?v=1",
   "current_price": 1890,
   "original_price": 2690,
   "min_price": 1890,
-  "max_price": 1890
+  "max_price": 2690,
+  "listed_date": "2026-02-05"
 }

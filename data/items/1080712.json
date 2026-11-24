@@ -2,6 +2,10 @@
   "sku": "1080712",
   "history": [
     {
+      "date": "2026-10-02",
+      "price": 590
+    },
+    {
       "date": "2026-11-24",
       "price": 590
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12208189",
   "url": "https://www.dot-st.tw/SalePage/Index/12208189",
   "title": "LOWRYS FARM女水滴玻璃吊飾細繩項鍊-二色-1080712",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12208189/0/639292324911130000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12208189/0/639311392761270000?v=1",
   "current_price": 590,
   "original_price": 590,
   "min_price": 590,
-  "max_price": 590
+  "max_price": 590,
+  "listed_date": "2026-10-02"
 }

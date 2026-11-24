@@ -2,6 +2,10 @@
   "sku": "894592",
   "history": [
     {
+      "date": "2026-11-04",
+      "price": 540
+    },
+    {
       "date": "2026-11-24",
       "price": 540
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12281439",
   "url": "https://www.dot-st.tw/SalePage/Index/12281439",
   "title": "niko and聖誕裝飾Xmas搖曳串珠吊飾-七款-894592",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12281439/0/639300884162570000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12281439/0/639311265742700000?v=1",
   "current_price": 540,
   "original_price": 540,
   "min_price": 540,
-  "max_price": 540
+  "max_price": 540,
+  "listed_date": "2026-11-04"
 }

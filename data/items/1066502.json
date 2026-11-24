@@ -2,6 +2,10 @@
   "sku": "1066502",
   "history": [
     {
+      "date": "2026-11-12",
+      "price": 4490
+    },
+    {
       "date": "2026-11-24",
       "price": 4490
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12303666",
   "url": "https://www.dot-st.tw/SalePage/Index/12303666",
   "title": "RAGEBLUE女2WAY捲毛雙排釦羊羔毛外套-二色-1066502",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12303666/0/639301036429070000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12303666/0/639311361703830000?v=1",
   "current_price": 4490,
   "original_price": 4490,
   "min_price": 4490,
-  "max_price": 4490
+  "max_price": 4490,
+  "listed_date": "2026-11-12"
 }

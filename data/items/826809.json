@@ -2,6 +2,10 @@
   "sku": "826809",
   "history": [
     {
+      "date": "2026-10-15",
+      "price": 1990
+    },
+    {
       "date": "2026-11-24",
       "price": 1990
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12240626",
   "url": "https://www.dot-st.tw/SalePage/Index/12240626",
   "title": "LEPSIM【MOUL系列】雪尼爾柔軟光澤感針織深褶設計短版長袖上衣-四色-826809",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12240626/0/639277695060830000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12240626/0/639311251520930000?v=1",
   "current_price": 1990,
   "original_price": 1990,
   "min_price": 1990,
-  "max_price": 1990
+  "max_price": 1990,
+  "listed_date": "2026-10-15"
 }

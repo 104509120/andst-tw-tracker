@@ -2,6 +2,10 @@
   "sku": "636574",
   "history": [
     {
+      "date": "2026-05-05",
+      "price": 1990
+    },
+    {
       "date": "2026-11-24",
       "price": 995
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11765779",
   "url": "https://www.dot-st.tw/SalePage/Index/11765779",
   "title": "GLOBAL WORK女彈性類丹寧寬版長褲-三色-636574",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11765779/0/639310365389200000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11765779/0/639311144871370000?v=1",
   "current_price": 995,
   "original_price": 1990,
   "min_price": 995,
-  "max_price": 995
+  "max_price": 1990,
+  "listed_date": "2026-05-05"
 }

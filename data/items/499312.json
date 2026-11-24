@@ -2,6 +2,10 @@
   "sku": "499312",
   "history": [
     {
+      "date": "2025-08-27",
+      "price": 470
+    },
+    {
       "date": "2026-11-24",
       "price": 470
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11059901",
   "url": "https://www.dot-st.tw/SalePage/Index/11059901",
   "title": "niko and品牌OLD SMITH掛鎖鑰匙圈-二色-499312",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11059901/0/639307786356170000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11059901/0/639311265036000000?v=1",
   "current_price": 470,
   "original_price": 470,
   "min_price": 470,
-  "max_price": 470
+  "max_price": 470,
+  "listed_date": "2025-08-27"
 }

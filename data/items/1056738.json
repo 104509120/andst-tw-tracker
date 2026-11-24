@@ -2,6 +2,10 @@
   "sku": "1056738",
   "history": [
     {
+      "date": "2026-09-24",
+      "price": 1690
+    },
+    {
       "date": "2026-11-24",
       "price": 855
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12181276",
   "url": "https://www.dot-st.tw/SalePage/Index/12181276",
   "title": "LAKOLE【網路限定55價】女小花刺繡下襬荷葉背心上衣-三色-1056738",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12181276/0/639310374470730000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12181276/0/639311309427530000?v=1",
   "current_price": 855,
   "original_price": 1690,
   "min_price": 855,
-  "max_price": 855
+  "max_price": 1690,
+  "listed_date": "2026-09-24"
 }

@@ -2,6 +2,10 @@
   "sku": "1051683",
   "history": [
     {
+      "date": "2026-09-17",
+      "price": 990
+    },
+    {
       "date": "2026-11-24",
       "price": 455
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12165452",
   "url": "https://www.dot-st.tw/SalePage/Index/12165452",
   "title": "GLOBAL WORK【網路限定55價】童荷葉下擺造型連帽襯衫上衣(130cm-160cm)-二色-1051683",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12165452/0/639310365803130000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12165452/0/639311145118370000?v=1",
   "current_price": 455,
   "original_price": 990,
   "min_price": 455,
-  "max_price": 455
+  "max_price": 990,
+  "listed_date": "2026-09-17"
 }

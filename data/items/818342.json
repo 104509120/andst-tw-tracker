@@ -2,6 +2,10 @@
   "sku": "818342",
   "history": [
     {
+      "date": "2026-10-16",
+      "price": 1890
+    },
+    {
       "date": "2026-11-24",
       "price": 1155
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12241614",
   "url": "https://www.dot-st.tw/SalePage/Index/12241614",
   "title": "repipi armario【網路限定55價】英文LOGO針織上衣-十一色-818342",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12241614/0/639310387314830000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12241614/0/639311249168730000?v=1",
   "current_price": 1155,
   "original_price": 1890,
   "min_price": 1155,
-  "max_price": 1155
+  "max_price": 1890,
+  "listed_date": "2026-10-16"
 }

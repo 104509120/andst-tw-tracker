@@ -2,6 +2,10 @@
   "sku": "633108",
   "history": [
     {
+      "date": "2026-01-14",
+      "price": 2290
+    },
+    {
       "date": "2026-11-24",
       "price": 1145
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11467899",
   "url": "https://www.dot-st.tw/SalePage/Index/11467899",
   "title": "niko and男女【Betty Boop】貝蒂娃娃聯名復古卡通印花長袖T恤上衣-二色-633108",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11467899/0/639301751124470000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11467899/0/639311265054700000?v=1",
   "current_price": 1145,
   "original_price": 2290,
   "min_price": 1145,
-  "max_price": 1145
+  "max_price": 2290,
+  "listed_date": "2026-01-14"
 }

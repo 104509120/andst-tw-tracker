@@ -2,6 +2,10 @@
   "sku": "1066509",
   "history": [
     {
+      "date": "2026-10-14",
+      "price": 790
+    },
+    {
       "date": "2026-11-24",
       "price": 790
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12235626",
   "url": "https://www.dot-st.tw/SalePage/Index/12235626",
   "title": "GLOBAL WORK女多用途迷你腰肩背包-二色-1066509",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12235626/0/639307727199030000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12235626/0/639311145184770000?v=1",
   "current_price": 790,
   "original_price": 790,
   "min_price": 790,
-  "max_price": 790
+  "max_price": 790,
+  "listed_date": "2026-10-14"
 }

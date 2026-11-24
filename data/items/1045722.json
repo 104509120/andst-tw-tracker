@@ -2,6 +2,10 @@
   "sku": "1045722",
   "history": [
     {
+      "date": "2026-08-06",
+      "price": 1490
+    },
+    {
       "date": "2026-11-24",
       "price": 1192
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12048863",
   "url": "https://www.dot-st.tw/SalePage/Index/12048863",
   "title": "niko and男品牌NMR系列基本款短袖T恤上衣-二色-1045722",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12048863/0/639310431734800000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12048863/0/639311265369600000?v=1",
   "current_price": 1192,
   "original_price": 1490,
   "min_price": 1192,
-  "max_price": 1192
+  "max_price": 1490,
+  "listed_date": "2026-08-06"
 }

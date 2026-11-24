@@ -2,6 +2,10 @@
   "sku": "131509",
   "history": [
     {
+      "date": "2025-02-26",
+      "price": 190
+    },
+    {
       "date": "2026-11-24",
       "price": 190
     }
@@ -10,9 +14,10 @@
   "salepage_id": "10546670",
   "url": "https://www.dot-st.tw/SalePage/Index/10546670",
   "title": "LAKOLE美濃燒華蝶扇紋路盤子S-三色-131509",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/10546670/0/639298200358400000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/10546670/0/639311309402230000?v=1",
   "current_price": 190,
   "original_price": 190,
   "min_price": 190,
-  "max_price": 190
+  "max_price": 190,
+  "listed_date": "2025-02-26"
 }

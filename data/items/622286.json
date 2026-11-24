@@ -2,6 +2,10 @@
   "sku": "622286",
   "history": [
     {
+      "date": "2026-02-12",
+      "price": 590
+    },
+    {
       "date": "2026-11-24",
       "price": 295
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11561939",
   "url": "https://www.dot-st.tw/SalePage/Index/11561939",
   "title": "GLOBAL WORK童多種印花造型短袖上衣(100cm-160cm)-十色-622286",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11561939/0/639307726651430000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11561939/0/639311144850600000?v=1",
   "current_price": 295,
   "original_price": 590,
   "min_price": 295,
-  "max_price": 295
+  "max_price": 590,
+  "listed_date": "2026-02-12"
 }

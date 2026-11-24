@@ -2,6 +2,10 @@
   "sku": "965115",
   "history": [
     {
+      "date": "2025-01-21",
+      "price": 1290
+    },
+    {
       "date": "2026-11-24",
       "price": 903
     }
@@ -10,9 +14,10 @@
   "salepage_id": "10476811",
   "url": "https://www.dot-st.tw/SalePage/Index/10476811",
   "title": "niko and女可愛多款零錢包三折短夾-九色-965115",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/10476811/0/639307786347630000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/10476811/0/639311265014270000?v=1",
   "current_price": 903,
   "original_price": 1290,
   "min_price": 903,
-  "max_price": 903
+  "max_price": 1290,
+  "listed_date": "2025-01-21"
 }

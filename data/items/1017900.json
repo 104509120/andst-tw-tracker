@@ -2,6 +2,10 @@
   "sku": "1017900",
   "history": [
     {
+      "date": "2026-07-07",
+      "price": 1290
+    },
+    {
       "date": "2026-11-24",
       "price": 516
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11957606",
   "url": "https://www.dot-st.tw/SalePage/Index/11957606",
   "title": "RAGEBLUE女復古撞色刺繡棒球帽-三色-1017900",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11957606/0/639304221448670000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11957606/0/639311159220670000?v=1",
   "current_price": 516,
   "original_price": 1290,
   "min_price": 516,
-  "max_price": 516
+  "max_price": 1290,
+  "listed_date": "2026-07-07"
 }

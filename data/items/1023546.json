@@ -2,6 +2,10 @@
   "sku": "1023546",
   "history": [
     {
+      "date": "2026-08-19",
+      "price": 2690
+    },
+    {
       "date": "2026-11-24",
       "price": 1355
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12078444",
   "url": "https://www.dot-st.tw/SalePage/Index/12078444",
   "title": "LEPSIM【網路限定55價】航空印花刺繡寬鬆牛仔丹寧長袖襯衫上衣-五色-1023546",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12078444/0/639307656227530000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12078444/0/639311251458270000?v=1",
   "current_price": 1355,
   "original_price": 2690,
   "min_price": 1355,
-  "max_price": 1355
+  "max_price": 2690,
+  "listed_date": "2026-08-19"
 }

@@ -2,6 +2,10 @@
   "sku": "1054792",
   "history": [
     {
+      "date": "2026-09-03",
+      "price": 1990
+    },
+    {
       "date": "2026-11-24",
       "price": 990
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12128456",
   "url": "https://www.dot-st.tw/SalePage/Index/12128456",
   "title": "LOWRYS FARM女質感緞面蕾絲細肩背心上衣-四色-1054792",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12128456/0/639306074820300000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12128456/0/639311392705430000?v=1",
   "current_price": 990,
   "original_price": 1990,
   "min_price": 990,
-  "max_price": 990
+  "max_price": 1990,
+  "listed_date": "2026-09-03"
 }

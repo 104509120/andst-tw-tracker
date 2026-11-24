@@ -2,6 +2,10 @@
   "sku": "178427",
   "history": [
     {
+      "date": "2023-03-17",
+      "price": 700
+    },
+    {
       "date": "2026-11-24",
       "price": 350
     }
@@ -14,5 +18,6 @@
   "current_price": 350,
   "original_price": 700,
   "min_price": 350,
-  "max_price": 350
+  "max_price": 700,
+  "listed_date": "2023-03-17"
 }

@@ -2,6 +2,10 @@
   "sku": "1052071",
   "history": [
     {
+      "date": "2026-09-10",
+      "price": 3290
+    },
+    {
       "date": "2026-11-24",
       "price": 1590
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12144532",
   "url": "https://www.dot-st.tw/SalePage/Index/12144532",
   "title": "LEPSIM荷葉邊設計觸感滑順西裝外套-二色-1052071",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12144532/0/639300744102330000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12144532/0/639311240225270000?v=1",
   "current_price": 1590,
   "original_price": 3290,
   "min_price": 1590,
-  "max_price": 1590
+  "max_price": 3290,
+  "listed_date": "2026-09-10"
 }

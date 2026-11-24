@@ -2,6 +2,10 @@
   "sku": "1057830",
   "history": [
     {
+      "date": "2026-09-03",
+      "price": 1890
+    },
+    {
       "date": "2026-11-24",
       "price": 990
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12128438",
   "url": "https://www.dot-st.tw/SalePage/Index/12128438",
   "title": "repipi armario假兩件式字母拼接蕾絲寬版T恤洋裝-三色-1057830",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12128438/0/639310387309130000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12128438/0/639311249141030000?v=1",
   "current_price": 990,
   "original_price": 1890,
   "min_price": 990,
-  "max_price": 990
+  "max_price": 1890,
+  "listed_date": "2026-09-03"
 }

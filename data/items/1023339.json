@@ -2,6 +2,10 @@
   "sku": "1023339",
   "history": [
     {
+      "date": "2026-09-16",
+      "price": 1090
+    },
+    {
       "date": "2026-11-24",
       "price": 555
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12161444",
   "url": "https://www.dot-st.tw/SalePage/Index/12161444",
   "title": "GLOBAL WORK【網路限定55價】男【品牌好友｜曾敬驊 江齊著用款】休閒寬鬆涼感T恤長袖上衣-五色-1023339",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12161444/0/639310365759070000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12161444/0/639311145077500000?v=1",
   "current_price": 555,
   "original_price": 1090,
   "min_price": 555,
-  "max_price": 555
+  "max_price": 1090,
+  "listed_date": "2026-09-16"
 }

@@ -2,6 +2,10 @@
   "sku": "1052003",
   "history": [
     {
+      "date": "2026-09-23",
+      "price": 3290
+    },
+    {
       "date": "2026-11-24",
       "price": 1755
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12179758",
   "url": "https://www.dot-st.tw/SalePage/Index/12179758",
   "title": "LEPSIM【網路限定55價】寬鬆雙排扣西裝外套-五色-1052003",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12179758/0/639307656227530000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12179758/0/639311251490870000?v=1",
   "current_price": 1755,
   "original_price": 3290,
   "min_price": 1755,
-  "max_price": 1755
+  "max_price": 3290,
+  "listed_date": "2026-09-23"
 }

@@ -2,6 +2,10 @@
   "sku": "824136",
   "history": [
     {
+      "date": "2026-09-17",
+      "price": 2290
+    },
+    {
       "date": "2026-11-24",
       "price": 2290
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12165859",
   "url": "https://www.dot-st.tw/SalePage/Index/12165859",
   "title": "LEPSIM【長度可選系列】荷葉邊設計弧形寬褲-三色-824136",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12165859/0/639300744105800000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12165859/0/639311251484400000?v=1",
   "current_price": 2290,
   "original_price": 2290,
   "min_price": 2290,
-  "max_price": 2290
+  "max_price": 2290,
+  "listed_date": "2026-09-17"
 }

@@ -2,6 +2,10 @@
   "sku": "1090956",
   "history": [
     {
+      "date": "2026-11-11",
+      "price": 2290
+    },
+    {
       "date": "2026-11-24",
       "price": 1655
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12300274",
   "url": "https://www.dot-st.tw/SalePage/Index/12300274",
   "title": "Heather【網路限定55價】毛絨翻領雙拉鍊合身麻花針織上衣-三色-1090956",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12300274/0/639307647289230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12300274/0/639311256329770000?v=1",
   "current_price": 1655,
   "original_price": 2290,
   "min_price": 1655,
-  "max_price": 1655
+  "max_price": 2290,
+  "listed_date": "2026-11-11"
 }

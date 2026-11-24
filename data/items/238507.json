@@ -2,6 +2,10 @@
   "sku": "238507",
   "history": [
     {
+      "date": "2024-12-02",
+      "price": 490
+    },
+    {
       "date": "2026-11-24",
       "price": 245
     }
@@ -10,9 +14,10 @@
   "salepage_id": "10356515",
   "url": "https://www.dot-st.tw/SalePage/Index/10356515",
   "title": "LAKOLE雙層保溫保冷不鏽鋼馬克杯(260ML)-三色-238507",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/10356515/0/639292252731870000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/10356515/0/639311309399800000?v=1",
   "current_price": 245,
   "original_price": 490,
   "min_price": 245,
-  "max_price": 245
+  "max_price": 490,
+  "listed_date": "2024-12-02"
 }

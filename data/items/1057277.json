@@ -2,6 +2,10 @@
   "sku": "1057277",
   "history": [
     {
+      "date": "2026-10-30",
+      "price": 1290
+    },
+    {
       "date": "2026-11-24",
       "price": 1290
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12269608",
   "url": "https://www.dot-st.tw/SalePage/Index/12269608",
   "title": "niko and男燈芯絨束口斜背包-二色-1057277",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12269608/0/639304318107600000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12269608/0/639311265688330000?v=1",
   "current_price": 1290,
   "original_price": 1290,
   "min_price": 1290,
-  "max_price": 1290
+  "max_price": 1290,
+  "listed_date": "2026-10-30"
 }

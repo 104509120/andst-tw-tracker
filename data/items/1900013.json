@@ -2,6 +2,10 @@
   "sku": "1900013",
   "history": [
     {
+      "date": "2026-01-13",
+      "price": 1290
+    },
+    {
       "date": "2026-11-24",
       "price": 790
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11477993",
   "url": "https://www.dot-st.tw/SalePage/Index/11477993",
   "title": "GLOBAL WORK女抓皺設計托特包-五色-495802",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11477993/0/639301785245000000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11477993/0/639311144842600000?v=1",
   "current_price": 790,
   "original_price": 1290,
   "min_price": 790,
-  "max_price": 790
+  "max_price": 1290,
+  "listed_date": "2026-01-13"
 }

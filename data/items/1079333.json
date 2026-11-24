@@ -3,6 +3,10 @@
   "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1079333",
   "history": [
     {
+      "date": "2026-11-18",
+      "price": 490
+    },
+    {
       "date": "2026-11-24",
       "price": 490
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12316150",
   "url": "https://www.dot-st.tw/SalePage/Index/12316150",
   "title": "studio CLIP個性織繩金屬墜飾頸鍊-一色-1079333",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12316150/0/639306066729830000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12316150/0/639311275078030000?v=1",
   "current_price": 490,
   "original_price": 490,
   "min_price": 490,
-  "max_price": 490
+  "max_price": 490,
+  "listed_date": "2026-11-18"
 }

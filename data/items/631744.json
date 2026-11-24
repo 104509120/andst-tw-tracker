@@ -2,6 +2,10 @@
   "sku": "631744",
   "history": [
     {
+      "date": "2026-05-06",
+      "price": 890
+    },
+    {
       "date": "2026-11-24",
       "price": 890
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11772537",
   "url": "https://www.dot-st.tw/SalePage/Index/11772537",
   "title": "niko and原創系列LAUNDROMAT&amp;TUB摺疊掛勾曬衣夾C-一色-631744",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11772537/0/639277537502230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11772537/0/639311265319300000?v=1",
   "current_price": 890,
   "original_price": 890,
   "min_price": 890,
-  "max_price": 890
+  "max_price": 890,
+  "listed_date": "2026-05-06"
 }

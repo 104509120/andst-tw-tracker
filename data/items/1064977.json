@@ -2,6 +2,10 @@
   "sku": "1064977",
   "history": [
     {
+      "date": "2026-09-24",
+      "price": 1990
+    },
+    {
       "date": "2026-11-24",
       "price": 455
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12181962",
   "url": "https://www.dot-st.tw/SalePage/Index/12181962",
   "title": "LOWRYS FARM【網路限定55價】女肩帶兩穿抓皺蓬袖針織上衣-四色-1064977",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12181962/0/639307647537770000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12181962/0/639311392740800000?v=1",
   "current_price": 455,
   "original_price": 1990,
   "min_price": 455,
-  "max_price": 455
+  "max_price": 1990,
+  "listed_date": "2026-09-24"
 }

@@ -2,6 +2,10 @@
   "sku": "826491",
   "history": [
     {
+      "date": "2026-09-01",
+      "price": 1990
+    },
+    {
       "date": "2026-11-24",
       "price": 955
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12120446",
   "url": "https://www.dot-st.tw/SalePage/Index/12120446",
   "title": "GLOBAL WORK【網路限定55價】男亞麻混紡米蘭羅紋針織外套-三色-826491",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12120446/0/639310365519500000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12120446/0/639311144921870000?v=1",
   "current_price": 955,
   "original_price": 1990,
   "min_price": 955,
-  "max_price": 955
+  "max_price": 1990,
+  "listed_date": "2026-09-01"
 }

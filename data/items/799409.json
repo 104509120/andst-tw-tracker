@@ -2,6 +2,10 @@
   "sku": "799409",
   "history": [
     {
+      "date": "2026-11-04",
+      "price": 270
+    },
+    {
       "date": "2026-11-24",
       "price": 270
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12281423",
   "url": "https://www.dot-st.tw/SalePage/Index/12281423",
   "title": "niko and聖誕裝飾Xmas太陽能搖頭公仔擺飾-四款-799409",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12281423/0/639300884144470000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12281423/0/639311265731400000?v=1",
   "current_price": 270,
   "original_price": 270,
   "min_price": 270,
-  "max_price": 270
+  "max_price": 270,
+  "listed_date": "2026-11-04"
 }

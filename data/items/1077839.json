@@ -2,6 +2,10 @@
   "sku": "1077839",
   "history": [
     {
+      "date": "2026-10-15",
+      "price": 2290
+    },
+    {
       "date": "2026-11-24",
       "price": 1155
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12241496",
   "url": "https://www.dot-st.tw/SalePage/Index/12241496",
   "title": "Heather【網路限定55價】立體荷葉一字領傘襬針織上衣-四色-1077839",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12241496/0/639307647289230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12241496/0/639311256300170000?v=1",
   "current_price": 1155,
   "original_price": 2290,
   "min_price": 1155,
-  "max_price": 1155
+  "max_price": 2290,
+  "listed_date": "2026-10-15"
 }

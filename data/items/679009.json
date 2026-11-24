@@ -3,6 +3,10 @@
   "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=679009",
   "history": [
     {
+      "date": "2026-11-20",
+      "price": 8190
+    },
+    {
       "date": "2026-11-24",
       "price": 8190
     }
@@ -14,5 +18,6 @@
   "current_price": 8190,
   "original_price": 8190,
   "min_price": 8190,
-  "max_price": 8190
+  "max_price": 8190,
+  "listed_date": "2026-11-20"
 }

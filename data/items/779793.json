@@ -2,6 +2,10 @@
   "sku": "779793",
   "history": [
     {
+      "date": "2026-07-29",
+      "price": 1290
+    },
+    {
       "date": "2026-11-24",
       "price": 645
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12027536",
   "url": "https://www.dot-st.tw/SalePage/Index/12027536",
   "title": "niko and男【日本人氣店員企劃】刺繡棒球帽-二色-779793",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12027536/0/639294817136000000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12027536/0/639311265365530000?v=1",
   "current_price": 645,
   "original_price": 1290,
   "min_price": 645,
-  "max_price": 645
+  "max_price": 1290,
+  "listed_date": "2026-07-29"
 }

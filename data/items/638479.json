@@ -2,6 +2,10 @@
   "sku": "638479",
   "history": [
     {
+      "date": "2026-02-11",
+      "price": 1990
+    },
+    {
       "date": "2026-11-24",
       "price": 1355
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12170264",
   "url": "https://www.dot-st.tw/SalePage/Index/12170264",
   "title": "LOWRYS FARM【網路限定55價】女直條抓皺設計長袖襯衫-四色-638479",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12170264/0/639310491304000000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12170264/0/639311392732670000?v=1",
   "current_price": 1355,
   "original_price": 1990,
   "min_price": 1355,
-  "max_price": 1355
+  "max_price": 1990,
+  "listed_date": "2026-02-11"
 }

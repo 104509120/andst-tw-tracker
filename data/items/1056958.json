@@ -2,6 +2,10 @@
   "sku": "1056958",
   "history": [
     {
+      "date": "2026-09-03",
+      "price": 3790
+    },
+    {
       "date": "2026-11-24",
       "price": 2955
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12127718",
   "url": "https://www.dot-st.tw/SalePage/Index/12127718",
   "title": "HARE【網路限定55價】女雙層網紗抽繩設計寬版格紋長袖襯衫上衣-三色-1056958",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12127718/0/639307653236200000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12127718/0/639311240190930000?v=1",
   "current_price": 2955,
   "original_price": 3790,
   "min_price": 2955,
-  "max_price": 2955
+  "max_price": 3790,
+  "listed_date": "2026-09-03"
 }

@@ -2,6 +2,10 @@
   "sku": "1049920",
   "history": [
     {
+      "date": "2026-11-06",
+      "price": 1490
+    },
+    {
       "date": "2026-11-24",
       "price": 1490
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12290471",
   "url": "https://www.dot-st.tw/SalePage/Index/12290471",
   "title": "niko and【品牌好友｜曾敬驊 江齊著用款】男雙面格紋素色拼接圍巾-四色-1049920",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12290471/0/639310445520700000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12290471/0/639311265955800000?v=1",
   "current_price": 1490,
   "original_price": 1490,
   "min_price": 1490,
-  "max_price": 1490
+  "max_price": 1490,
+  "listed_date": "2026-11-06"
 }

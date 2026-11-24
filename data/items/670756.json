@@ -2,6 +2,10 @@
   "sku": "670756",
   "history": [
     {
+      "date": "2026-05-13",
+      "price": 2690
+    },
+    {
       "date": "2026-11-24",
       "price": 1076
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11791836",
   "url": "https://www.dot-st.tw/SalePage/Index/11791836",
   "title": "studio CLIP紗感緹花蕾絲綁帶背心洋裝-二色-670756",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11791836/0/639300741141270000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11791836/0/639311275085000000?v=1",
   "current_price": 1076,
   "original_price": 2690,
   "min_price": 1076,
-  "max_price": 1076
+  "max_price": 2690,
+  "listed_date": "2026-05-13"
 }

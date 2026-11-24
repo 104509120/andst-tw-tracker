@@ -2,6 +2,10 @@
   "sku": "639689",
   "history": [
     {
+      "date": "2026-03-13",
+      "price": 790
+    },
+    {
       "date": "2026-11-24",
       "price": 790
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11611610",
   "url": "https://www.dot-st.tw/SalePage/Index/11611610",
   "title": "niko and男女【Netflix影集我的咖啡男友2】造型吊飾鑰匙圈-二色-639689",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11611610/0/639113397432230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11611610/0/639311265111830000?v=1",
   "current_price": 790,
   "original_price": 790,
   "min_price": 790,
-  "max_price": 790
+  "max_price": 790,
+  "listed_date": "2026-03-13"
 }

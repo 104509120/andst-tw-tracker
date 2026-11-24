@@ -2,6 +2,10 @@
   "sku": "636377",
   "history": [
     {
+      "date": "2026-01-27",
+      "price": 5290
+    },
+    {
       "date": "2026-11-24",
       "price": 3955
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11517152",
   "url": "https://www.dot-st.tw/SalePage/Index/11517152",
   "title": "HARE【網路限定55價】女【CEREMONY LADIES節慶系列】2WAY袖可拆附腰帶排釦下襬蕾絲西裝外套-二色-636377",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11517152/0/639307653236200000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11517152/0/639311240150200000?v=1",
   "current_price": 3955,
   "original_price": 5290,
   "min_price": 3955,
-  "max_price": 3955
+  "max_price": 5290,
+  "listed_date": "2026-01-27"
 }

@@ -2,6 +2,10 @@
   "sku": "675758",
   "history": [
     {
+      "date": "2026-11-04",
+      "price": 160
+    },
+    {
       "date": "2026-11-24",
       "price": 160
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12281407",
   "url": "https://www.dot-st.tw/SalePage/Index/12281407",
   "title": "niko and聖誕裝飾Xmas插畫圖案圓球裝飾吊飾4cm-三色-675758",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12281407/0/639293991932200000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12281407/0/639311265722900000?v=1",
   "current_price": 160,
   "original_price": 160,
   "min_price": 160,
-  "max_price": 160
+  "max_price": 160,
+  "listed_date": "2026-11-04"
 }

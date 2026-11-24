@@ -2,6 +2,10 @@
   "sku": "1069095",
   "history": [
     {
+      "date": "2026-11-06",
+      "price": 290
+    },
+    {
       "date": "2026-11-24",
       "price": 290
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12290158",
   "url": "https://www.dot-st.tw/SalePage/Index/12290158",
   "title": "studio CLIP木質不鏽鋼晚餐湯匙-一色-1069095",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12290158/0/639295800077100000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12290158/0/639311277911030000?v=1",
   "current_price": 290,
   "original_price": 290,
   "min_price": 290,
-  "max_price": 290
+  "max_price": 290,
+  "listed_date": "2026-11-06"
 }

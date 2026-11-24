@@ -2,6 +2,10 @@
   "sku": "778716",
   "history": [
     {
+      "date": "2026-09-18",
+      "price": 2490
+    },
+    {
       "date": "2026-11-24",
       "price": 1490
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12170029",
   "url": "https://www.dot-st.tw/SalePage/Index/12170029",
   "title": "LOWRYS FARM女寬版CPO長版襯衫外套-三色-778716",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12170029/0/639310491297130000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12170029/0/639311392725000000?v=1",
   "current_price": 1490,
   "original_price": 2490,
   "min_price": 1490,
-  "max_price": 1490
+  "max_price": 2490,
+  "listed_date": "2026-09-18"
 }

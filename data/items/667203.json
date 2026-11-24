@@ -2,6 +2,10 @@
   "sku": "667203",
   "history": [
     {
+      "date": "2026-05-20",
+      "price": 1490
+    },
+    {
       "date": "2026-11-24",
       "price": 1341
     }
@@ -10,9 +14,10 @@
   "salepage_id": "11814843",
   "url": "https://www.dot-st.tw/SalePage/Index/11814843",
   "title": "niko and男品牌NMR系列華夫格速乾短袖T恤上衣-四色-667203",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11814843/0/639310431699430000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11814843/0/639311265322870000?v=1",
   "current_price": 1341,
   "original_price": 1490,
   "min_price": 1341,
-  "max_price": 1341
+  "max_price": 1490,
+  "listed_date": "2026-05-20"
 }

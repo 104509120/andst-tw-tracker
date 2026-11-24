@@ -2,6 +2,10 @@
   "sku": "1064959",
   "history": [
     {
+      "date": "2026-10-07",
+      "price": 2290
+    },
+    {
       "date": "2026-11-24",
       "price": 455
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12221307",
   "url": "https://www.dot-st.tw/SalePage/Index/12221307",
   "title": "LOWRYS FARM【網路限定55價】女前後兩穿點點荷葉襬長袖上衣-二色-1064959",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12221307/0/639307793489370000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12221307/0/639311392770800000?v=1",
   "current_price": 455,
   "original_price": 2290,
   "min_price": 455,
-  "max_price": 455
+  "max_price": 2290,
+  "listed_date": "2026-10-07"
 }

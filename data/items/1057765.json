@@ -2,6 +2,10 @@
   "sku": "1057765",
   "history": [
     {
+      "date": "2026-11-12",
+      "price": 290
+    },
+    {
       "date": "2026-11-24",
       "price": 290
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12302608",
   "url": "https://www.dot-st.tw/SalePage/Index/12302608",
   "title": "studio CLIP日本製多圖樣便利貼S-二色-1057765",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12302608/0/639300811576530000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12302608/0/639311277931870000?v=1",
   "current_price": 290,
   "original_price": 290,
   "min_price": 290,
-  "max_price": 290
+  "max_price": 290,
+  "listed_date": "2026-11-12"
 }

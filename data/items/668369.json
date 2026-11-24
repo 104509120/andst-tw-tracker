@@ -3,6 +3,10 @@
   "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=668369",
   "history": [
     {
+      "date": "2026-11-18",
+      "price": 3290
+    },
+    {
       "date": "2026-11-24",
       "price": 3290
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12317443",
   "url": "https://www.dot-st.tw/SalePage/Index/12317443",
   "title": "GLOBAL WORK女2WAY雙面穿毛絨拼接絎縫立領外套-四色-668369",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12317443/0/639306140418200000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12317443/0/639311181801930000?v=1",
   "current_price": 3290,
   "original_price": 3290,
   "min_price": 3290,
-  "max_price": 3290
+  "max_price": 3290,
+  "listed_date": "2026-11-18"
 }

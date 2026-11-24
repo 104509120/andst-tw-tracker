@@ -2,6 +2,10 @@
   "sku": "1063583",
   "history": [
     {
+      "date": "2026-09-24",
+      "price": 690
+    },
+    {
       "date": "2026-11-24",
       "price": 355
     }
@@ -10,9 +14,10 @@
   "salepage_id": "12183687",
   "url": "https://www.dot-st.tw/SalePage/Index/12183687",
   "title": "GLOBAL WORK【網路限定55價】童可愛印花T恤長袖上衣(100cm-120cm)-三色-1063583",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12183687/0/639310365983400000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12183687/0/639311145148270000?v=1",
   "current_price": 355,
   "original_price": 690,
   "min_price": 355,
-  "max_price": 355
+  "max_price": 690,
+  "listed_date": "2026-09-24"
 }
