@@ -81,7 +81,6 @@ def get_all_salepage_urls() -> dict[str, str]:
 
 def extract_sku(html: str, salepage_id: str) -> str | None:
     """多策略提取台日共用原廠貨號（通常為 6~7 碼數字）"""
-    # 策略 1：從商品說明文字或表格中匹配常見中文/英文貨號標籤
     label_pattern = (
         r"(?:貨號|商品編號|款號|料號|品號|原廠編號|ITEM\s*NO\.?|STYLE\s*NO\.?)"
         r"(?:</[^>]+>|\s|<[^>]+>|[：:【】\[\]])*?(\d{6,7})"
@@ -90,12 +89,29 @@ def extract_sku(html: str, salepage_id: str) -> str | None:
     if match and match.group(1) != salepage_id:
         return match.group(1)
 
-    # 策略 2：從 91APP 內嵌商品規格的 OuterId 提取（通常為 6碼主貨號 + 顏色尺寸碼）
     outer_match = re.search(r'"OuterId"\s*:\s*"(\d{6,7})\d*"', html)
     if outer_match and outer_match.group(1) != salepage_id:
         return outer_match.group(1)
 
     return None
+
+
+def extract_listed_date(html: str) -> str | None:
+    """從 91APP 網頁原始碼提取商品上架開賣日期 (YYYY-MM-DD)"""
+    date_patterns = [
+        r'"SellingStartDateTime"\s*:\s*"(\d{4}-\d{2}-\d{2})',
+        r'"StartDate"\s*:\s*"(\d{4}-\d{2}-\d{2})',
+        r'"CreateDateTime"\s*:\s*"(\d{4}-\d{2}-\d{2})',
+        r'"OnlineDate"\s*:\s*"(\d{4}-\d{2}-\d{2})',
+    ]
+    candidates = []
+    for pat in date_patterns:
+        for m in re.finditer(pat, html):
+            d = m.group(1)
+            # 過濾系統預設無效年份 (如 1900-01-01 或未來預約日期)
+            if "2020-01-01" <= d <= TODAY:
+                candidates.append(d)
+    return min(candidates) if candidates else None
 
 
 def parse_product_page(salepage_id: str, url: str) -> tuple[str, dict | str]:
@@ -154,6 +170,8 @@ def parse_product_page(salepage_id: str, url: str) -> tuple[str, dict | str]:
     if price is None:
         return ("no_price", url)
 
+    listed_date = extract_listed_date(html) or TODAY
+
     return (
         "ok",
         {
@@ -164,6 +182,7 @@ def parse_product_page(salepage_id: str, url: str) -> tuple[str, dict | str]:
             "image": image,
             "price": price,
             "original_price": original_price,
+            "listed_date": listed_date,
         },
     )
 
@@ -180,7 +199,6 @@ def main():
 
     results = []
     stats = {"ok": 0, "http_err": 0, "no_sku": 0, "no_price": 0}
-    no_sku_samples = []
     done = 0
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
@@ -194,17 +212,12 @@ def main():
             stats[status] += 1
             if status == "ok":
                 results.append(payload)
-            elif status == "no_sku" and len(no_sku_samples) < 5:
-                no_sku_samples.append(payload)
 
             if done % 250 == 0 or done == total:
                 print(
                     f"進度：{done}/{total} | 成功:{stats['ok']} 無貨號:{stats['no_sku']} 連線失敗:{stats['http_err']}",
                     flush=True,
                 )
-
-    if no_sku_samples:
-        print(f"未偵測到貨號的樣本網址：{no_sku_samples}", flush=True)
 
     by_sku = {}
     for item in results:
@@ -225,6 +238,8 @@ def main():
                 "history": [],
             }
 
+        listed_date = min(item["listed_date"], record.get("listed_date", item["listed_date"]))
+        record["listed_date"] = listed_date
         record["jp_url"] = jp_search_url
         record["salepage_id"] = item["salepage_id"]
         record["url"] = item["url"]
@@ -234,6 +249,15 @@ def main():
         record["original_price"] = item["original_price"]
 
         history = record.get("history", [])
+
+        # 若抓到的商品上架日早於目前最早紀錄，補上上架日當天以原始定價開賣的起點
+        if listed_date < TODAY:
+            if not history:
+                history.append({"date": listed_date, "price": item["original_price"]})
+            elif listed_date < history[0]["date"]:
+                history.insert(0, {"date": listed_date, "price": item["original_price"]})
+
+        # 寫入今日最新價格（若與上一筆價格不同才新增轉折點）
         if not history or history[-1]["price"] != item["price"]:
             if history and history[-1]["date"] == TODAY:
                 history[-1]["price"] = item["price"]
@@ -251,6 +275,7 @@ def main():
         index_list.append({
             "sku": sku,
             "salepage_id": item["salepage_id"],
+            "listed_date": listed_date,
             "title": item["title"],
             "image": item["image"],
             "price": item["price"],
@@ -259,7 +284,7 @@ def main():
             "max_price": record["max_price"],
         })
 
-    index_list.sort(key=lambda x: x["sku"])
+    index_list.sort(key=lambda x: x["listed_date"], reverse=True)
     with open("data/index.json", "w", encoding="utf-8") as f:
         json.dump(
             {"updated_at": TODAY, "count": len(index_list), "items": index_list},
