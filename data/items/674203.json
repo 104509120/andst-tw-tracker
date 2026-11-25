@@ -2,15 +2,10 @@
   "sku": "674203",
   "history": [
     {
-      "date": "2026-04-28",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 807
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=674203",
   "salepage_id": "11746280",
   "url": "https://www.dot-st.tw/SalePage/Index/11746280",
   "title": "PAGEBOY男女PBLIM系列針織透膚菱形紋開襟罩衫上衣-四色-674203",
@@ -20,6 +15,7 @@
   "min_price": 807,
   "max_price": 2690,
   "listed_date": "2026-04-28",
-  "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "updated_at": "2026-11-26",
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }
