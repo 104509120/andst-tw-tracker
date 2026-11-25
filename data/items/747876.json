@@ -2,24 +2,20 @@
   "sku": "747876",
   "history": [
     {
-      "date": "2026-09-11",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=747876",
   "salepage_id": "12151228",
   "url": "https://www.dot-st.tw/SalePage/Index/12151228",
   "title": "LAKOLE【網路限定55價】女混紡質感毛絨針織背心-三色-747876",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12151228/0/639307650302070000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12151228/0/639312242782500000?v=1",
   "current_price": 655,
   "original_price": 1290,
   "min_price": 655,
   "max_price": 1290,
   "listed_date": "2026-09-11",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

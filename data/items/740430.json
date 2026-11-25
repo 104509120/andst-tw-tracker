@@ -2,24 +2,20 @@
   "sku": "740430",
   "history": [
     {
-      "date": "2026-07-22",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=740430",
   "salepage_id": "11995181",
   "url": "https://www.dot-st.tw/SalePage/Index/11995181",
   "title": "Heather荷葉滾邊抓皺連身寬褲-三色-740430",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11995181/0/639299041618700000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11995181/0/639312242498670000?v=1",
   "current_price": 990,
   "original_price": 2690,
   "min_price": 990,
   "max_price": 2690,
   "listed_date": "2026-07-22",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

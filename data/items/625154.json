@@ -2,15 +2,10 @@
   "sku": "625154",
   "history": [
     {
-      "date": "2026-01-08",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=625154",
   "salepage_id": "11465838",
   "url": "https://www.dot-st.tw/SalePage/Index/11465838",
   "title": "repipi armario童愛心荷葉邊針織上衣-二色-625154",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-01-08",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

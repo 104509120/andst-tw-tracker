@@ -2,15 +2,10 @@
   "sku": "206231",
   "history": [
     {
-      "date": "2024-12-31",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=206231",
   "salepage_id": "10428050",
   "url": "https://www.dot-st.tw/SalePage/Index/10428050",
   "title": "studio CLIP簡約擴香棒10入組《HOUSEHOLD GOODS》-二色-206231",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2024-12-31",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

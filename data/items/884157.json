@@ -2,15 +2,10 @@
   "sku": "884157",
   "history": [
     {
-      "date": "2026-07-15",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 645
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=884157",
   "salepage_id": "11977896",
   "url": "https://www.dot-st.tw/SalePage/Index/11977896",
   "title": "niko and男異色假兩件七分袖T恤上衣-四色-884157",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-07-15",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

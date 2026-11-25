@@ -1,11 +1,6 @@
 {
   "sku": "1066975",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1066975",
   "history": [
-    {
-      "date": "2026-11-19",
-      "price": 1290
-    },
     {
       "date": "2026-11-24",
       "price": 1290
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-11-19",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "241329",
   "history": [
     {
-      "date": "2025-05-21",
-      "price": 350
-    },
-    {
       "date": "2026-11-24",
       "price": 350
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=241329",
   "salepage_id": "10774850",
   "url": "https://www.dot-st.tw/SalePage/Index/10774850",
   "title": "niko and品牌LOGO扣環吊飾耳機包化妝包-五色-241329",
@@ -21,5 +16,6 @@
   "max_price": 350,
   "listed_date": "2025-05-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

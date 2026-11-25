@@ -2,15 +2,10 @@
   "sku": "632753",
   "history": [
     {
-      "date": "2026-10-02",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=632753",
   "salepage_id": "12208156",
   "url": "https://www.dot-st.tw/SalePage/Index/12208156",
   "title": "LOWRYS FARM童太空棉連帽外套-三色-632753",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-10-02",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

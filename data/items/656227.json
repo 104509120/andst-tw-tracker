@@ -2,15 +2,10 @@
   "sku": "656227",
   "history": [
     {
-      "date": "2026-07-03",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=656227",
   "salepage_id": "11947444",
   "url": "https://www.dot-st.tw/SalePage/Index/11947444",
   "title": "LAKOLE女蝴蝶結耳夾式耳環三組-二色-656227",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-07-03",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

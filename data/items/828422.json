@@ -2,15 +2,10 @@
   "sku": "828422",
   "history": [
     {
-      "date": "2026-09-03",
-      "price": 330
-    },
-    {
       "date": "2026-11-24",
       "price": 330
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=828422",
   "salepage_id": "12127746",
   "url": "https://www.dot-st.tw/SalePage/Index/12127746",
   "title": "niko and立體動物造型多功能置物盒手機架筆筒-三款-828422",
@@ -21,5 +16,6 @@
   "max_price": 330,
   "listed_date": "2026-09-03",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

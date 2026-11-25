@@ -2,24 +2,20 @@
   "sku": "638254",
   "history": [
     {
-      "date": "2026-04-23",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 1245
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=638254",
   "salepage_id": "11727070",
   "url": "https://www.dot-st.tw/SalePage/Index/11727070",
   "title": "niko and女【湯姆貓與傑利鼠聯名】拉鍊長袖上衣-二色-638254",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11727070/0/639310431681070000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11727070/0/639312242685200000?v=1",
   "current_price": 1245,
   "original_price": 2490,
   "min_price": 1245,
   "max_price": 2490,
   "listed_date": "2026-04-23",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

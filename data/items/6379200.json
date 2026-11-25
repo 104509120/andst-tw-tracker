@@ -2,15 +2,10 @@
   "sku": "6379200",
   "history": [
     {
-      "date": "2026-11-12",
-      "price": 5480
-    },
-    {
       "date": "2026-11-24",
       "price": 3255
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=6379200",
   "salepage_id": "12309328",
   "url": "https://www.dot-st.tw/SalePage/Index/12309328",
   "title": "◎index女OPAQUE.CLIP無領拉鍊中長版大衣-一色-63792003 NT$3,255",
@@ -21,5 +16,6 @@
   "max_price": 5480,
   "listed_date": "2026-11-12",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

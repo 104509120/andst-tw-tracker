@@ -2,15 +2,10 @@
   "sku": "680076",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 250
-    },
-    {
       "date": "2026-11-24",
       "price": 250
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=680076",
   "salepage_id": "12272761",
   "url": "https://www.dot-st.tw/SalePage/Index/12272761",
   "title": "niko and復刻復古圖案鑰匙圈-三款-680076",
@@ -21,5 +16,6 @@
   "max_price": 250,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

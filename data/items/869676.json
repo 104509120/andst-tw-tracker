@@ -2,15 +2,10 @@
   "sku": "869676",
   "history": [
     {
-      "date": "2026-08-21",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=869676",
   "salepage_id": "12090430",
   "url": "https://www.dot-st.tw/SalePage/Index/12090430",
   "title": "LAKOLE【網路限定55價】男復古麻花編織針織上衣-三色-869676",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-08-21",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

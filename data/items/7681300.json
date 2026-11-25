@@ -2,15 +2,10 @@
   "sku": "7681300",
   "history": [
     {
-      "date": "2026-09-07",
-      "price": 2580
-    },
-    {
       "date": "2026-11-24",
       "price": 1806
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=7681300",
   "salepage_id": "12131270",
   "url": "https://www.dot-st.tw/SalePage/Index/12131270",
   "title": "◎index女grove柔感透膚寬鬆短袖針織上衣-四色-76813001 NT$1,806",
@@ -21,5 +16,6 @@
   "max_price": 2580,
   "listed_date": "2026-09-07",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

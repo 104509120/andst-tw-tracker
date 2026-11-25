@@ -2,15 +2,10 @@
   "sku": "657829",
   "history": [
     {
-      "date": "2026-05-06",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=657829",
   "salepage_id": "11770716",
   "url": "https://www.dot-st.tw/SalePage/Index/11770716",
   "title": "LAKOLE尼龍雙繩編織感手機手腕帶-四色-657829",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-05-06",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

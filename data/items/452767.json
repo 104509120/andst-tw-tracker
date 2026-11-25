@@ -2,15 +2,10 @@
   "sku": "452767",
   "history": [
     {
-      "date": "2025-09-03",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 903
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=452767",
   "salepage_id": "11076506",
   "url": "https://www.dot-st.tw/SalePage/Index/11076506",
   "title": "studio CLIP異國風花卉綁帶圍裙-二色-452767",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2025-09-03",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

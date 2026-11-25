@@ -2,24 +2,20 @@
   "sku": "653982",
   "history": [
     {
-      "date": "2026-04-01",
-      "price": 4590
-    },
-    {
       "date": "2026-11-24",
       "price": 2295
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=653982",
   "salepage_id": "11674411",
   "url": "https://www.dot-st.tw/SalePage/Index/11674411",
   "title": "HARE女異材質拼接網紗短版拉鍊休閒外套-二色-653982",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11674411/0/639300744123400000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11674411/0/639312242685200000?v=1",
   "current_price": 2295,
   "original_price": 4590,
   "min_price": 2295,
   "max_price": 4590,
   "listed_date": "2026-04-01",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "1067152",
   "history": [
     {
-      "date": "2026-09-16",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1067152",
   "salepage_id": "12160329",
   "url": "https://www.dot-st.tw/SalePage/Index/12160329",
   "title": "LOWRYS FARM【網路限定55價】女絲絨蝴蝶結罩杯背心-三色-1067152",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12160329/0/639307647537770000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12160329/0/639312241215470000?v=1",
   "current_price": 655,
   "original_price": 990,
   "min_price": 655,
   "max_price": 990,
   "listed_date": "2026-09-16",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

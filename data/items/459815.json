@@ -2,15 +2,10 @@
   "sku": "459815",
   "history": [
     {
-      "date": "2026-05-06",
-      "price": 2450
-    },
-    {
       "date": "2026-11-24",
       "price": 2450
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=459815",
   "salepage_id": "11772539",
   "url": "https://www.dot-st.tw/SalePage/Index/11772539",
   "title": "niko and原創復古感鐵框靜音壁鐘時鐘-一色-459815",
@@ -21,5 +16,6 @@
   "max_price": 2450,
   "listed_date": "2026-05-06",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

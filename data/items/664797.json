@@ -2,24 +2,20 @@
   "sku": "664797",
   "history": [
     {
-      "date": "2026-06-16",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 756
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=664797",
   "salepage_id": "11896143",
   "url": "https://www.dot-st.tw/SalePage/Index/11896143",
   "title": "LEPSIM兩用2WAY尼龍縮口休閒後背斜背包-三色-664797",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11896143/0/639292286260430000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11896143/0/639312124712570000?v=1",
   "current_price": 756,
   "original_price": 1890,
   "min_price": 756,
   "max_price": 1890,
   "listed_date": "2026-06-16",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

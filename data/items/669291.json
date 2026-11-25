@@ -2,15 +2,10 @@
   "sku": "669291",
   "history": [
     {
-      "date": "2026-04-30",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 645
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=669291",
   "salepage_id": "11747522",
   "url": "https://www.dot-st.tw/SalePage/Index/11747522",
   "title": "LAKOLE女俐落拼色羅紋罩衫上衣-三色-669291",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-04-30",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

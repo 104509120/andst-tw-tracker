@@ -2,24 +2,20 @@
   "sku": "1089541",
   "history": [
     {
-      "date": "2026-11-06",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1089541",
   "salepage_id": "12290307",
   "url": "https://www.dot-st.tw/SalePage/Index/12290307",
   "title": "JEANASIS翻領2WAY排釦高領細針織上衣-三色-1089541",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12290307/0/639304336866130000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12290307/0/639312229942000000?v=1",
   "current_price": 2290,
   "original_price": 2290,
   "min_price": 2290,
   "max_price": 2290,
   "listed_date": "2026-11-06",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "658860",
   "history": [
     {
-      "date": "2026-09-02",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=658860",
   "salepage_id": "12124519",
   "url": "https://www.dot-st.tw/SalePage/Index/12124519",
   "title": "GLOBAL WORK完全遮光抗UV隔熱滾邊摺疊傘-三色-658860",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-09-02",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

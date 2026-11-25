@@ -2,15 +2,10 @@
   "sku": "983090",
   "history": [
     {
-      "date": "2024-04-02",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=983090",
   "salepage_id": "9672869",
   "url": "https://www.dot-st.tw/SalePage/Index/9672869",
   "title": "GLOBAL WORK【網路限定55價】女多種造型耳環七入組-五色-983090",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2024-04-02",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

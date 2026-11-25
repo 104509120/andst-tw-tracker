@@ -2,15 +2,10 @@
   "sku": "320840",
   "history": [
     {
-      "date": "2025-05-21",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=320840",
   "salepage_id": "10775732",
   "url": "https://www.dot-st.tw/SalePage/Index/10775732",
   "title": "niko and女復古紋路簡約設計戒指三入組-二色-320840",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2025-05-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

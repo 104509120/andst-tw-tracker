@@ -2,15 +2,10 @@
   "sku": "289172",
   "history": [
     {
-      "date": "2025-02-26",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=289172",
   "salepage_id": "10553424",
   "url": "https://www.dot-st.tw/SalePage/Index/10553424",
   "title": "niko and女繽紛流蘇繩結串珠鑰匙圈-四色-289172",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2025-02-26",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

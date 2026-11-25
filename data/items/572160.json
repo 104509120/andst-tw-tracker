@@ -2,15 +2,10 @@
   "sku": "572160",
   "history": [
     {
-      "date": "2026-01-20",
-      "price": 1090
-    },
-    {
       "date": "2026-11-24",
       "price": 763
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=572160",
   "salepage_id": "11497088",
   "url": "https://www.dot-st.tw/SalePage/Index/11497088",
   "title": "studio CLIP吸濕保暖羊毛椅墊坐墊-一色-572160",
@@ -21,5 +16,6 @@
   "max_price": 1090,
   "listed_date": "2026-01-20",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

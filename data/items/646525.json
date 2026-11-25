@@ -2,15 +2,10 @@
   "sku": "646525",
   "history": [
     {
-      "date": "2026-03-24",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 245
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=646525",
   "salepage_id": "11653787",
   "url": "https://www.dot-st.tw/SalePage/Index/11653787",
   "title": "niko and男女【Netflix真人版影集(航海王)ONE PIECE】頭巾手帕-四色-646525",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-03-24",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

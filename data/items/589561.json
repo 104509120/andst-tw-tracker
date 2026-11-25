@@ -2,15 +2,10 @@
   "sku": "589561",
   "history": [
     {
-      "date": "2025-09-11",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=589561",
   "salepage_id": "11098747",
   "url": "https://www.dot-st.tw/SalePage/Index/11098747",
   "title": "LEPSIM深V厚底楔型高跟鞋-二色-589561",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2025-09-11",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

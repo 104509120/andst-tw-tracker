@@ -2,15 +2,10 @@
   "sku": "861894",
   "history": [
     {
-      "date": "2026-06-21",
-      "price": 3690
-    },
-    {
       "date": "2026-11-24",
       "price": 1476
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=861894",
   "salepage_id": "11914665",
   "url": "https://www.dot-st.tw/SalePage/Index/11914665",
   "title": "JEANASIS扣環繩編夾腳涼鞋-二色-861894",
@@ -21,5 +16,6 @@
   "max_price": 3690,
   "listed_date": "2026-06-21",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

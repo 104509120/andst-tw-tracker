@@ -2,15 +2,10 @@
   "sku": "327675",
   "history": [
     {
-      "date": "2025-07-17",
-      "price": 1170
-    },
-    {
       "date": "2026-11-24",
       "price": 1170
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=327675",
   "salepage_id": "10960152",
   "url": "https://www.dot-st.tw/SalePage/Index/10960152",
   "title": "niko and品牌LOGO晴雨兩用抗UV直傘雨傘-一色-327675",
@@ -21,5 +16,6 @@
   "max_price": 1170,
   "listed_date": "2025-07-17",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

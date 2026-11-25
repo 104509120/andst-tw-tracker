@@ -2,24 +2,20 @@
   "sku": "575793",
   "history": [
     {
-      "date": "2025-08-13",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 2490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=575793",
   "salepage_id": "11025211",
   "url": "https://www.dot-st.tw/SalePage/Index/11025211",
   "title": "Heather彈性修身牛仔丹寧喇叭長褲-五色-575793",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11025211/0/639293861397230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11025211/0/639312242498670000?v=1",
   "current_price": 2490,
   "original_price": 2490,
   "min_price": 2490,
   "max_price": 2490,
   "listed_date": "2025-08-13",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

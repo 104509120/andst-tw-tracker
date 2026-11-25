@@ -2,15 +2,10 @@
   "sku": "450266",
   "history": [
     {
-      "date": "2025-06-24",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=450266",
   "salepage_id": "10898639",
   "url": "https://www.dot-st.tw/SalePage/Index/10898639",
   "title": "niko and女流行雙色編織手機吊飾鑰匙圈-四色-450266",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2025-06-24",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "805267",
   "history": [
     {
-      "date": "2026-06-23",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=805267",
   "salepage_id": "11916230",
   "url": "https://www.dot-st.tw/SalePage/Index/11916230",
   "title": "LEPSIM防潑水輕量材質口袋迷你托特包-三色-805267",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11916230/0/639177468305170000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11916230/0/639312124717430000?v=1",
   "current_price": 1490,
   "original_price": 1490,
   "min_price": 1490,
   "max_price": 1490,
   "listed_date": "2026-06-23",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "656338",
   "history": [
     {
-      "date": "2026-06-17",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 145
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=656338",
   "salepage_id": "11905604",
   "url": "https://www.dot-st.tw/SalePage/Index/11905604",
   "title": "LAKOLE涼感抗UV防曬UPF50+護頸面罩-二色-656338",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-06-17",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

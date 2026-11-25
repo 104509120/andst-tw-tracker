@@ -2,15 +2,10 @@
   "sku": "645486",
   "history": [
     {
-      "date": "2026-02-24",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 756
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=645486",
   "salepage_id": "11572689",
   "url": "https://www.dot-st.tw/SalePage/Index/11572689",
   "title": "repipi armario澎澎下擺造型迷你短裙-三色-645486",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2026-02-24",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "1088454",
   "history": [
     {
-      "date": "2026-10-27",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1088454",
   "salepage_id": "12262294",
   "url": "https://www.dot-st.tw/SalePage/Index/12262294",
   "title": "RAGEBLUE女可愛層次花邊針針織毛帽-二色-1088454",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12262294/0/639293087196330000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12262294/0/639312002917930000?v=1",
   "current_price": 990,
   "original_price": 990,
   "min_price": 990,
   "max_price": 990,
   "listed_date": "2026-10-27",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

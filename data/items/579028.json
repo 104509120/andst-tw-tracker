@@ -2,15 +2,10 @@
   "sku": "579028",
   "history": [
     {
-      "date": "2025-10-17",
-      "price": 160
-    },
-    {
       "date": "2026-11-24",
       "price": 160
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=579028",
   "salepage_id": "11233652",
   "url": "https://www.dot-st.tw/SalePage/Index/11233652",
   "title": "repipi armario品牌標誌線條短筒襪-五色-579028",
@@ -21,5 +16,6 @@
   "max_price": 160,
   "listed_date": "2025-10-17",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

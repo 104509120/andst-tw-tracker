@@ -2,15 +2,10 @@
   "sku": "644833",
   "history": [
     {
-      "date": "2026-06-09",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=644833",
   "salepage_id": "11873738",
   "url": "https://www.dot-st.tw/SalePage/Index/11873738",
   "title": "LAKOLE保溫保冷陶瓷馬克杯580ml-二色-644833",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-06-09",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

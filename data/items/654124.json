@@ -2,15 +2,10 @@
   "sku": "654124",
   "history": [
     {
-      "date": "2026-06-08",
-      "price": 1050
-    },
-    {
       "date": "2026-11-24",
       "price": 1050
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=654124",
   "salepage_id": "11871007",
   "url": "https://www.dot-st.tw/SalePage/Index/11871007",
   "title": "niko and品牌OLD SMITH復古皮革衛生紙套-二色-654124",
@@ -21,5 +16,6 @@
   "max_price": 1050,
   "listed_date": "2026-06-08",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "632320",
   "history": [
     {
-      "date": "2026-04-22",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=632320",
   "salepage_id": "11728322",
   "url": "https://www.dot-st.tw/SalePage/Index/11728322",
   "title": "LAKOLE輕量金屬感11吋尼龍平板電腦包-二色-632320",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-04-22",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

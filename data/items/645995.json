@@ -2,15 +2,10 @@
   "sku": "645995",
   "history": [
     {
-      "date": "2026-03-30",
-      "price": 75
-    },
-    {
       "date": "2026-11-24",
       "price": 75
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=645995",
   "salepage_id": "11667180",
   "url": "https://www.dot-st.tw/SalePage/Index/11667180",
   "title": "niko and戶外旅行流行標籤貼紙-七款-645995",
@@ -21,5 +16,6 @@
   "max_price": 75,
   "listed_date": "2026-03-30",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

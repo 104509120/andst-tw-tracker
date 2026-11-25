@@ -2,16 +2,11 @@
   "sku": "634621",
   "history": [
     {
-      "date": "2026-01-14",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
   "listed_date": "2026-01-14",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=634621",
   "salepage_id": "11481984",
   "url": "https://www.dot-st.tw/SalePage/Index/11481984",
   "title": "LEPSIM【長度可選系列】輕量運動風喇叭長褲-三色-634621",
@@ -21,5 +16,6 @@
   "min_price": 790,
   "max_price": 1690,
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

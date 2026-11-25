@@ -2,15 +2,10 @@
   "sku": "576373",
   "history": [
     {
-      "date": "2025-10-16",
-      "price": 510
-    },
-    {
       "date": "2026-11-24",
       "price": 510
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=576373",
   "salepage_id": "11214422",
   "url": "https://www.dot-st.tw/SalePage/Index/11214422",
   "title": "niko and【PUPPET SUNSUN聯名】方巾手帕毛巾A-一色-576373",
@@ -21,5 +16,6 @@
   "max_price": 510,
   "listed_date": "2025-10-16",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

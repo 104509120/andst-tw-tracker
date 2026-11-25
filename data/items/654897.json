@@ -2,15 +2,10 @@
   "sku": "654897",
   "history": [
     {
-      "date": "2026-06-24",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=654897",
   "salepage_id": "11924779",
   "url": "https://www.dot-st.tw/SalePage/Index/11924779",
   "title": "LAKOLE單手可使用短款按壓瓶300ml-一色-654897",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2026-06-24",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1032323",
   "history": [
     {
-      "date": "2026-07-29",
-      "price": 2090
-    },
-    {
       "date": "2026-11-24",
       "price": 836
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1032323",
   "salepage_id": "12023291",
   "url": "https://www.dot-st.tw/SalePage/Index/12023291",
   "title": "studio CLIP仿丹寧荷葉袖罩衫上衣-三色-1032323",
@@ -21,5 +16,6 @@
   "max_price": 2090,
   "listed_date": "2026-07-29",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

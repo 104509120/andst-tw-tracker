@@ -2,15 +2,10 @@
   "sku": "118173",
   "history": [
     {
-      "date": "2024-10-14",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 116
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=118173",
   "salepage_id": "10187174",
   "url": "https://www.dot-st.tw/SalePage/Index/10187174",
   "title": "LAKOLE日本製足部閃亮凝膠美甲貼片05-二色-118173",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2024-10-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

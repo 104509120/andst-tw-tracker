@@ -2,15 +2,10 @@
   "sku": "591515",
   "history": [
     {
-      "date": "2025-09-04",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 916
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=591515",
   "salepage_id": "11081839",
   "url": "https://www.dot-st.tw/SalePage/Index/11081839",
   "title": "JEANASIS船領復古水洗風短版上衣-六色-591515",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2025-09-04",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

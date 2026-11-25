@@ -2,15 +2,10 @@
   "sku": "679682",
   "history": [
     {
-      "date": "2026-09-07",
-      "price": 1750
-    },
-    {
       "date": "2026-11-24",
       "price": 1225
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=679682",
   "salepage_id": "12137608",
   "url": "https://www.dot-st.tw/SalePage/Index/12137608",
   "title": "niko and【紅虎餃子房聯名】流蘇掛毯地毯-一色-679682",
@@ -21,5 +16,6 @@
   "max_price": 1750,
   "listed_date": "2026-09-07",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

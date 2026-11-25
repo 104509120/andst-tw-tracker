@@ -2,24 +2,20 @@
   "sku": "1051985",
   "history": [
     {
-      "date": "2026-09-23",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 855
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1051985",
   "salepage_id": "12179387",
   "url": "https://www.dot-st.tw/SalePage/Index/12179387",
   "title": "GLOBAL WORK【網路限定55價】女休閒字母T恤長袖上衣-五色-1051985",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12179387/0/639310365965700000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12179387/0/639312025854270000?v=1",
   "current_price": 855,
   "original_price": 1290,
   "min_price": 855,
   "max_price": 1290,
   "listed_date": "2026-09-23",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

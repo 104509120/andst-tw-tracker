@@ -2,15 +2,10 @@
   "sku": "684916",
   "history": [
     {
-      "date": "2026-06-16",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 645
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=684916",
   "salepage_id": "11897116",
   "url": "https://www.dot-st.tw/SalePage/Index/11897116",
   "title": "GLOBAL WORK男舒適緩震厚底涼鞋-四色-684916",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-06-16",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

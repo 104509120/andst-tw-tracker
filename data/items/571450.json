@@ -2,15 +2,10 @@
   "sku": "571450",
   "history": [
     {
-      "date": "2025-08-19",
-      "price": 270
-    },
-    {
       "date": "2026-11-24",
       "price": 270
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=571450",
   "salepage_id": "11039880",
   "url": "https://www.dot-st.tw/SalePage/Index/11039880",
   "title": "niko and仿真食物造型鑰匙圈手機吊飾-五色-571450",
@@ -21,5 +16,6 @@
   "max_price": 270,
   "listed_date": "2025-08-19",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

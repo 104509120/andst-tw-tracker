@@ -2,15 +2,10 @@
   "sku": "684801",
   "history": [
     {
-      "date": "2026-05-22",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=684801",
   "salepage_id": "11822324",
   "url": "https://www.dot-st.tw/SalePage/Index/11822324",
   "title": "JEANASIS透膚羅紋抓皺針織上衣(不含背心)-四色-684801",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-05-22",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

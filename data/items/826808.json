@@ -2,15 +2,10 @@
   "sku": "826808",
   "history": [
     {
-      "date": "2026-10-15",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=826808",
   "salepage_id": "12240625",
   "url": "https://www.dot-st.tw/SalePage/Index/12240625",
   "title": "LEPSIM【MOUL系列】雪尼爾柔軟光澤感簡約細針織開襟罩衫上衣-四色-826808",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-10-15",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

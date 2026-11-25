@@ -2,15 +2,10 @@
   "sku": "1046299",
   "history": [
     {
-      "date": "2026-11-06",
-      "price": 1090
-    },
-    {
       "date": "2026-11-24",
       "price": 1090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1046299",
   "salepage_id": "12290143",
   "url": "https://www.dot-st.tw/SalePage/Index/12290143",
   "title": "studio CLIP貓咪圖案不鏽鋼保溫瓶480ml《插畫家松尾ミユキ》-一色-1046299",
@@ -21,5 +16,6 @@
   "max_price": 1090,
   "listed_date": "2026-11-06",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

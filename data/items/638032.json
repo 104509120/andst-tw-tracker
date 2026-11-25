@@ -2,15 +2,10 @@
   "sku": "638032",
   "history": [
     {
-      "date": "2026-03-18",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 295
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=638032",
   "salepage_id": "11629446",
   "url": "https://www.dot-st.tw/SalePage/Index/11629446",
   "title": "GLOBAL WORK童袖口荷葉邊造型短袖上衣(130cm-160cm)-三色-638032",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2026-03-18",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

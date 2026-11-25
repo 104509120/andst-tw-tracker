@@ -2,24 +2,20 @@
   "sku": "672059",
   "history": [
     {
-      "date": "2026-04-23",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 916
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=672059",
   "salepage_id": "11734496",
   "url": "https://www.dot-st.tw/SalePage/Index/11734496",
   "title": "JEANASIS素色V領荷葉下襬針織背心-三色-672059",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11734496/0/639300744430070000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11734496/0/639312242685200000?v=1",
   "current_price": 916,
   "original_price": 2290,
   "min_price": 916,
   "max_price": 2290,
   "listed_date": "2026-04-23",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

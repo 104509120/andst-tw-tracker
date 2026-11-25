@@ -2,15 +2,10 @@
   "sku": "498831",
   "history": [
     {
-      "date": "2025-07-09",
-      "price": 350
-    },
-    {
       "date": "2026-11-24",
       "price": 245
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=498831",
   "salepage_id": "10939789",
   "url": "https://www.dot-st.tw/SalePage/Index/10939789",
   "title": "repipi armario糖果造型髮飾罐-六色-498831",
@@ -21,5 +16,6 @@
   "max_price": 350,
   "listed_date": "2025-07-09",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

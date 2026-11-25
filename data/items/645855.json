@@ -2,15 +2,10 @@
   "sku": "645855",
   "history": [
     {
-      "date": "2026-05-22",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=645855",
   "salepage_id": "11822786",
   "url": "https://www.dot-st.tw/SalePage/Index/11822786",
   "title": "studio CLIP勿忘草壓花圓形裝飾相框-一色-645855",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2026-05-22",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

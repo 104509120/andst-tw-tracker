@@ -2,15 +2,10 @@
   "sku": "1051160",
   "history": [
     {
-      "date": "2026-07-22",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 596
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1051160",
   "salepage_id": "11996420",
   "url": "https://www.dot-st.tw/SalePage/Index/11996420",
   "title": "JEANASIS配色滾邊多彩條紋無袖上衣-三色-1051160",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-07-22",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

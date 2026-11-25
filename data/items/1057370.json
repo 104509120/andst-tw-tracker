@@ -2,15 +2,10 @@
   "sku": "1057370",
   "history": [
     {
-      "date": "2026-09-22",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1057370",
   "salepage_id": "12176152",
   "url": "https://www.dot-st.tw/SalePage/Index/12176152",
   "title": "repipi armario【網路限定55價】側邊鉚釘A字棉質短褲-二色-1057370",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-09-22",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

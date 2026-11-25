@@ -2,15 +2,10 @@
   "sku": "899010",
   "history": [
     {
-      "date": "2026-07-16",
-      "price": 2190
-    },
-    {
       "date": "2026-11-24",
       "price": 2190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=899010",
   "salepage_id": "11981169",
   "url": "https://www.dot-st.tw/SalePage/Index/11981169",
   "title": "HARE女玫瑰花朵造型金屬馬甲鍊-一色-899010",
@@ -21,5 +16,6 @@
   "max_price": 2190,
   "listed_date": "2026-07-16",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

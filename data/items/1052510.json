@@ -2,15 +2,10 @@
   "sku": "1052510",
   "history": [
     {
-      "date": "2026-09-24",
-      "price": 2090
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1052510",
   "salepage_id": "12184249",
   "url": "https://www.dot-st.tw/SalePage/Index/12184249",
   "title": "studio CLIP【網路限定55價】網眼花卉緹花裙-二色-1052510",
@@ -21,5 +16,6 @@
   "max_price": 2090,
   "listed_date": "2026-09-24",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

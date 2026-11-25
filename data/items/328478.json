@@ -2,15 +2,10 @@
   "sku": "328478",
   "history": [
     {
-      "date": "2025-12-16",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=328478",
   "salepage_id": "11436957",
   "url": "https://www.dot-st.tw/SalePage/Index/11436957",
   "title": "LAKOLE字母刺繡吸水速乾毛巾-一色-328478",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2025-12-16",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

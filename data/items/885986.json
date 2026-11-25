@@ -2,15 +2,10 @@
   "sku": "885986",
   "history": [
     {
-      "date": "2022-03-18",
-      "price": 700
-    },
-    {
       "date": "2026-11-24",
       "price": 700
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=885986",
   "salepage_id": "7675139",
   "url": "https://www.dot-st.tw/SalePage/Index/7675139",
   "title": "niko and保險箱造型存錢筒-二色-885986",
@@ -21,5 +16,6 @@
   "max_price": 700,
   "listed_date": "2022-03-18",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

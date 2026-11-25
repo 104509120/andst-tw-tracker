@@ -2,15 +2,10 @@
   "sku": "593449",
   "history": [
     {
-      "date": "2025-11-14",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1161
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=593449",
   "salepage_id": "11322615",
   "url": "https://www.dot-st.tw/SalePage/Index/11322615",
   "title": "niko and男【回到未來電影聯名】刺繡腰包-二色-593449",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2025-11-14",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

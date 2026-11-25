@@ -2,15 +2,10 @@
   "sku": "603889",
   "history": [
     {
-      "date": "2025-11-27",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=603889",
   "salepage_id": "11357211",
   "url": "https://www.dot-st.tw/SalePage/Index/11357211",
   "title": "repipi armario童蕾絲荷葉邊內裡刷毛百褶裙-二色-603889",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2025-11-27",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

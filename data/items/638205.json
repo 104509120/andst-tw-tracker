@@ -2,15 +2,10 @@
   "sku": "638205",
   "history": [
     {
-      "date": "2026-10-08",
-      "price": 540
-    },
-    {
       "date": "2026-11-24",
       "price": 540
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=638205",
   "salepage_id": "12223252",
   "url": "https://www.dot-st.tw/SalePage/Index/12223252",
   "title": "niko and品牌LOGO刺繡保溫保冷束口手提袋-二色-638205",
@@ -21,5 +16,6 @@
   "max_price": 540,
   "listed_date": "2026-10-08",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "318783",
   "history": [
     {
-      "date": "2025-04-16",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=318783",
   "salepage_id": "10684908",
   "url": "https://www.dot-st.tw/SalePage/Index/10684908",
   "title": "niko and男品牌NMR系列大容量網狀肩背手提包-四色-318783",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2025-04-16",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

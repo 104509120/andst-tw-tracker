@@ -2,15 +2,10 @@
   "sku": "596082",
   "history": [
     {
-      "date": "2025-12-01",
-      "price": 620
-    },
-    {
       "date": "2026-11-24",
       "price": 434
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=596082",
   "salepage_id": "11364513",
   "url": "https://www.dot-st.tw/SalePage/Index/11364513",
   "title": "niko and懷舊復古點唱機造型存錢筒擺飾-一款-596082",
@@ -21,5 +16,6 @@
   "max_price": 620,
   "listed_date": "2025-12-01",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

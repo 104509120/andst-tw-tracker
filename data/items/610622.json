@@ -2,15 +2,10 @@
   "sku": "610622",
   "history": [
     {
-      "date": "2026-05-08",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=610622",
   "salepage_id": "11779812",
   "url": "https://www.dot-st.tw/SalePage/Index/11779812",
   "title": "studio CLIP晴雨兩用色塊拼接直傘雨傘-二色-610622",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-05-08",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

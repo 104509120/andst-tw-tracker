@@ -2,15 +2,10 @@
   "sku": "662400",
   "history": [
     {
-      "date": "2026-05-19",
-      "price": 2090
-    },
-    {
       "date": "2026-11-24",
       "price": 836
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=662400",
   "salepage_id": "11807682",
   "url": "https://www.dot-st.tw/SalePage/Index/11807682",
   "title": "studio CLIP復古印花直筒寬長褲-四色-662400",
@@ -21,5 +16,6 @@
   "max_price": 2090,
   "listed_date": "2026-05-19",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

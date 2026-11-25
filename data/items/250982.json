@@ -2,15 +2,10 @@
   "sku": "250982",
   "history": [
     {
-      "date": "2025-02-27",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=250982",
   "salepage_id": "10557217",
   "url": "https://www.dot-st.tw/SalePage/Index/10557217",
   "title": "LAKOLE皮革伸縮票卡夾套-四色-250982",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2025-02-27",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

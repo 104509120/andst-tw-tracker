@@ -2,15 +2,10 @@
   "sku": "1074545",
   "history": [
     {
-      "date": "2026-10-22",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1074545",
   "salepage_id": "12259528",
   "url": "https://www.dot-st.tw/SalePage/Index/12259528",
   "title": "PAGEBOY愛心造型項鍊-一色-1074545",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-10-22",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

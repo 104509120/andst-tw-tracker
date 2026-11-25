@@ -2,15 +2,10 @@
   "sku": "644828",
   "history": [
     {
-      "date": "2026-04-24",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 343
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=644828",
   "salepage_id": "11737668",
   "url": "https://www.dot-st.tw/SalePage/Index/11737668",
   "title": "LAKOLE木珠多功能掛繩背繩-二色-644828",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-04-24",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

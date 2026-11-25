@@ -2,15 +2,10 @@
   "sku": "639002",
   "history": [
     {
-      "date": "2026-03-05",
-      "price": 1560
-    },
-    {
       "date": "2026-11-24",
       "price": 1560
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=639002",
   "salepage_id": "11594123",
   "url": "https://www.dot-st.tw/SalePage/Index/11594123",
   "title": "niko and戶外旅行摺疊收納行李袋斜背包57L-二色-639002",
@@ -21,5 +16,6 @@
   "max_price": 1560,
   "listed_date": "2026-03-05",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

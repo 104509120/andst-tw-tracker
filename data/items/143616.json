@@ -2,15 +2,10 @@
   "sku": "143616",
   "history": [
     {
-      "date": "2025-06-27",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=143616",
   "salepage_id": "10905299",
   "url": "https://www.dot-st.tw/SalePage/Index/10905299",
   "title": "LAKOLE日本製不鏽鋼漏湯湯匙-一色-143616",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2025-06-27",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

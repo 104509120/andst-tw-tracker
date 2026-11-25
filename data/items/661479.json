@@ -2,24 +2,20 @@
   "sku": "661479",
   "history": [
     {
-      "date": "2026-04-08",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 1245
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=661479",
   "salepage_id": "11690433",
   "url": "https://www.dot-st.tw/SalePage/Index/11690433",
   "title": "GLOBAL WORK女亞麻無袖寬版連身長褲-二色-661479",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11690433/0/639299286275370000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11690433/0/639312242515630000?v=1",
   "current_price": 1245,
   "original_price": 2490,
   "min_price": 1245,
   "max_price": 2490,
   "listed_date": "2026-04-08",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

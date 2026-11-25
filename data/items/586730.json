@@ -2,15 +2,10 @@
   "sku": "586730",
   "history": [
     {
-      "date": "2026-07-03",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=586730",
   "salepage_id": "11947376",
   "url": "https://www.dot-st.tw/SalePage/Index/11947376",
   "title": "LAKOLE粗編繩結圓形造型墊-二色-586730",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-07-03",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

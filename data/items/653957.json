@@ -2,15 +2,10 @@
   "sku": "653957",
   "history": [
     {
-      "date": "2026-04-01",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 996
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=653957",
   "salepage_id": "11662883",
   "url": "https://www.dot-st.tw/SalePage/Index/11662883",
   "title": "LEPSIM異材質拼接拼色抽繩吊帶裙-三色-653957",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-04-01",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "496672",
   "history": [
     {
-      "date": "2026-01-21",
-      "price": 580
-    },
-    {
       "date": "2026-11-24",
       "price": 580
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=496672",
   "salepage_id": "11500655",
   "url": "https://www.dot-st.tw/SalePage/Index/11500655",
   "title": "niko and招福2026年彩繪招財貓擺飾-二色-496672",
@@ -21,5 +16,6 @@
   "max_price": 580,
   "listed_date": "2026-01-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,12 +2,11 @@
   "sku": "742022",
   "history": [
     {
-      "date": "2026-07-15",
+      "date": "2026-11-25",
       "price": 1490
     }
   ],
   "listed_date": "2026-07-15",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=742022",
   "salepage_id": "11977895",
   "url": "https://www.dot-st.tw/SalePage/Index/11977895",
   "title": "niko and男品牌NMR系列機能防臭五分袖上衣-二色-742022",
@@ -17,5 +16,6 @@
   "min_price": 1490,
   "max_price": 1490,
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-25"
 }

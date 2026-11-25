@@ -2,15 +2,10 @@
   "sku": "286666",
   "history": [
     {
-      "date": "2025-02-14",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=286666",
   "salepage_id": "10524889",
   "url": "https://www.dot-st.tw/SalePage/Index/10524889",
   "title": "niko and女品牌LOGO簡約配色腰帶-八色-286666",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2025-02-14",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

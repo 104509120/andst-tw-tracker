@@ -2,15 +2,10 @@
   "sku": "827184",
   "history": [
     {
-      "date": "2026-08-26",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 1955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=827184",
   "salepage_id": "12104786",
   "url": "https://www.dot-st.tw/SalePage/Index/12104786",
   "title": "niko and【網路限定55價】男JEANS丹寧牛仔復古植絨加工寬褲長褲-二色-827184",
@@ -21,5 +16,6 @@
   "max_price": 2990,
   "listed_date": "2026-08-26",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "665158",
   "history": [
     {
-      "date": "2026-07-09",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=665158",
   "salepage_id": "11965078",
   "url": "https://www.dot-st.tw/SalePage/Index/11965078",
   "title": "LAKOLE男造型方頭皮革腰帶-二色-665158",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-07-09",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

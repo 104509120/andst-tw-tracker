@@ -2,15 +2,10 @@
   "sku": "497618",
   "history": [
     {
-      "date": "2025-10-16",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 1992
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=497618",
   "salepage_id": "11223746",
   "url": "https://www.dot-st.tw/SalePage/Index/11223746",
   "title": "niko and男經典燈芯絨寬褲長褲-四色-497618",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2025-10-16",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

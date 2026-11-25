@@ -2,15 +2,10 @@
   "sku": "1076716",
   "history": [
     {
-      "date": "2026-11-12",
-      "price": 3390
-    },
-    {
       "date": "2026-11-24",
       "price": 3390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1076716",
   "salepage_id": "12299940",
   "url": "https://www.dot-st.tw/SalePage/Index/12299940",
   "title": "HARE女配色縫線薄紗拼接口袋長袖襯衫上衣-二色-1076716",
@@ -21,5 +16,6 @@
   "max_price": 3390,
   "listed_date": "2026-11-12",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

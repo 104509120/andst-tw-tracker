@@ -2,15 +2,10 @@
   "sku": "459792",
   "history": [
     {
-      "date": "2026-01-07",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 483
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=459792",
   "salepage_id": "11463303",
   "url": "https://www.dot-st.tw/SalePage/Index/11463303",
   "title": "LAKOLE女簡約多功能配戴項鍊-二色-459792",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-01-07",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

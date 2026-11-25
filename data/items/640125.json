@@ -2,15 +2,10 @@
   "sku": "640125",
   "history": [
     {
-      "date": "2026-04-23",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 273
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=640125",
   "salepage_id": "11733181",
   "url": "https://www.dot-st.tw/SalePage/Index/11733181",
   "title": "LAKOLE女不鏽鋼波浪流線戒指-二色-640125",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-04-23",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

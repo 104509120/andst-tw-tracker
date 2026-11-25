@@ -2,15 +2,10 @@
   "sku": "647045",
   "history": [
     {
-      "date": "2026-03-26",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 236
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647045",
   "salepage_id": "11658386",
   "url": "https://www.dot-st.tw/SalePage/Index/11658386",
   "title": "LEPSIM不鏽鋼圈形耳針耳環-三色-647045",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2026-03-26",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

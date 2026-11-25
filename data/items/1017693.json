@@ -2,24 +2,20 @@
   "sku": "1017693",
   "history": [
     {
-      "date": "2026-09-11",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 855
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1017693",
   "salepage_id": "12151242",
   "url": "https://www.dot-st.tw/SalePage/Index/12151242",
   "title": "LAKOLE【網路限定55價】女不對稱腰頭設計直筒牛仔褲-三色-1017693",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12151242/0/639310374283800000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12151242/0/639312134458530000?v=1",
   "current_price": 855,
   "original_price": 1890,
   "min_price": 855,
   "max_price": 1890,
   "listed_date": "2026-09-11",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

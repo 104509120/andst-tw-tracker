@@ -2,15 +2,10 @@
   "sku": "1045203",
   "history": [
     {
-      "date": "2026-07-21",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1045203",
   "salepage_id": "11990443",
   "url": "https://www.dot-st.tw/SalePage/Index/11990443",
   "title": "PAGEBOY男女PBLIM系列動物圖樣寬版T恤上衣-四色-1045203",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-07-21",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

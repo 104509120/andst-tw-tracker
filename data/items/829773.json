@@ -2,15 +2,10 @@
   "sku": "829773",
   "history": [
     {
-      "date": "2026-06-17",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 995
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=829773",
   "salepage_id": "11900336",
   "url": "https://www.dot-st.tw/SalePage/Index/11900336",
   "title": "PAGEBOY男女PBLIM系列切片番茄復古感圖樣滾邊短袖T恤上衣-二色-829773",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-06-17",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

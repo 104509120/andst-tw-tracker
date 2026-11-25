@@ -2,15 +2,10 @@
   "sku": "576897",
   "history": [
     {
-      "date": "2025-10-03",
-      "price": 3690
-    },
-    {
       "date": "2026-11-24",
       "price": 2583
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=576897",
   "salepage_id": "11200664",
   "url": "https://www.dot-st.tw/SalePage/Index/11200664",
   "title": "niko and男品牌NMR系列立領不易皺外套-二色-576897",
@@ -21,5 +16,6 @@
   "max_price": 3690,
   "listed_date": "2025-10-03",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

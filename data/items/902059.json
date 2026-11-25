@@ -2,15 +2,10 @@
   "sku": "902059",
   "history": [
     {
-      "date": "2026-09-03",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 1555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=902059",
   "salepage_id": "12128489",
   "url": "https://www.dot-st.tw/SalePage/Index/12128489",
   "title": "RAGEBLUE【網路限定55價】男透膚飄逸層次長袖襯衫上衣-四色-902059",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-09-03",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

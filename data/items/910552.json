@@ -2,15 +2,10 @@
   "sku": "910552",
   "history": [
     {
-      "date": "2026-10-21",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=910552",
   "salepage_id": "12254994",
   "url": "https://www.dot-st.tw/SalePage/Index/12254994",
   "title": "GLOBAL WORK男假兩件層次華夫格長袖上衣-五色-910552",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-10-21",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

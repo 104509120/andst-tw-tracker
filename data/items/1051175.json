@@ -2,15 +2,10 @@
   "sku": "1051175",
   "history": [
     {
-      "date": "2026-09-04",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 2455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1051175",
   "salepage_id": "12131026",
   "url": "https://www.dot-st.tw/SalePage/Index/12131026",
   "title": "PAGEBOY【網路限定55價】不對稱層次荷葉邊半身長裙-四色-1051175",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2026-09-04",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "600902",
   "history": [
     {
-      "date": "2025-12-11",
-      "price": 550
-    },
-    {
       "date": "2026-11-24",
       "price": 275
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=600902",
   "salepage_id": "11396036",
   "url": "https://www.dot-st.tw/SalePage/Index/11396036",
   "title": "repipi armario澎澎愛心荷葉邊吊飾-三色-600902",
@@ -21,5 +16,6 @@
   "max_price": 550,
   "listed_date": "2025-12-11",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

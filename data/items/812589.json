@@ -2,15 +2,10 @@
   "sku": "812589",
   "history": [
     {
-      "date": "2026-11-11",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 3990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=812589",
   "salepage_id": "12301575",
   "url": "https://www.dot-st.tw/SalePage/Index/12301575",
   "title": "LOWRYS FARM【LFM(U)】男女UNISEX系列柔軟蓬鬆感狩獵夾克外套-四色-812589",
@@ -21,5 +16,6 @@
   "max_price": 3990,
   "listed_date": "2026-11-11",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

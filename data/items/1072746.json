@@ -2,15 +2,10 @@
   "sku": "1072746",
   "history": [
     {
-      "date": "2026-09-02",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1072746",
   "salepage_id": "12125259",
   "url": "https://www.dot-st.tw/SalePage/Index/12125259",
   "title": "JEANASIS層次穿搭麂皮感造型腰帶-二色-1072746",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-09-02",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "902808",
   "history": [
     {
-      "date": "2026-07-01",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 855
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=902808",
   "salepage_id": "11944298",
   "url": "https://www.dot-st.tw/SalePage/Index/11944298",
   "title": "LOWRYS FARM【網路限定55價】【LFM(U)】男女UNISEX系列機能涼感條紋長版襯衫-二色-902808",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11944298/0/639307647600700000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11944298/0/639312242718330000?v=1",
   "current_price": 855,
   "original_price": 2990,
   "min_price": 855,
   "max_price": 2990,
   "listed_date": "2026-07-01",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

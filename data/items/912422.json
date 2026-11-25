@@ -2,24 +2,20 @@
   "sku": "912422",
   "history": [
     {
-      "date": "2026-07-21",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 255
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=912422",
   "salepage_id": "11989916",
   "url": "https://www.dot-st.tw/SalePage/Index/11989916",
   "title": "LAKOLE【網路限定55價】男撞色車線微刷毛短袖T恤上衣-四色-912422",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11989916/0/639307650304500000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11989916/0/639312242734300000?v=1",
   "current_price": 255,
   "original_price": 890,
   "min_price": 255,
   "max_price": 890,
   "listed_date": "2026-07-21",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

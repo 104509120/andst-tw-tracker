@@ -2,15 +2,10 @@
   "sku": "1051669",
   "history": [
     {
-      "date": "2026-08-19",
-      "price": 4590
-    },
-    {
       "date": "2026-11-24",
       "price": 2295
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1051669",
   "salepage_id": "12081153",
   "url": "https://www.dot-st.tw/SalePage/Index/12081153",
   "title": "HARE女透膚蓬袖荷葉下襬花朵圖樣長版洋裝-二色-1051669",
@@ -21,5 +16,6 @@
   "max_price": 4590,
   "listed_date": "2026-08-19",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

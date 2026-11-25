@@ -2,15 +2,10 @@
   "sku": "497580",
   "history": [
     {
-      "date": "2025-06-24",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=497580",
   "salepage_id": "10898625",
   "url": "https://www.dot-st.tw/SalePage/Index/10898625",
   "title": "niko and男帥氣復古風加工戒指-四款-497580",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2025-06-24",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

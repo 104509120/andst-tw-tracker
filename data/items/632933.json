@@ -2,15 +2,10 @@
   "sku": "632933",
   "history": [
     {
-      "date": "2026-08-28",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=632933",
   "salepage_id": "12111402",
   "url": "https://www.dot-st.tw/SalePage/Index/12111402",
   "title": "LAKOLE英文LOGO細霧噴霧瓶320ml-一色-632933",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-08-28",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

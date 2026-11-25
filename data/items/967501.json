@@ -2,15 +2,10 @@
   "sku": "967501",
   "history": [
     {
-      "date": "2023-07-10",
-      "price": 1590
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=967501",
   "salepage_id": "9004007",
   "url": "https://www.dot-st.tw/SalePage/Index/9004007",
   "title": "HARE【台灣限定販售】男女品牌經典LOGO短袖上衣-四色-967501",
@@ -21,5 +16,6 @@
   "max_price": 1590,
   "listed_date": "2023-07-10",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

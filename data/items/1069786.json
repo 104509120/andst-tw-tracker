@@ -2,15 +2,10 @@
   "sku": "1069786",
   "history": [
     {
-      "date": "2026-10-08",
-      "price": 5690
-    },
-    {
       "date": "2026-11-24",
       "price": 5155
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1069786",
   "salepage_id": "12222720",
   "url": "https://www.dot-st.tw/SalePage/Index/12222720",
   "title": "PAGEBOY【網路限定55價】男女PBLIM系列復古抓皺MA-1飛行夾克-二色-1069786",
@@ -21,5 +16,6 @@
   "max_price": 5690,
   "listed_date": "2026-10-08",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

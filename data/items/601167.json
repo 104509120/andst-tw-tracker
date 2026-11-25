@@ -2,15 +2,10 @@
   "sku": "601167",
   "history": [
     {
-      "date": "2026-01-13",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1883
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=601167",
   "salepage_id": "11477958",
   "url": "https://www.dot-st.tw/SalePage/Index/11477958",
   "title": "GLOBAL WORK男抗皺排釦西裝外套-七色-601167",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2026-01-13",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

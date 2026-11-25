@@ -2,15 +2,10 @@
   "sku": "136444",
   "history": [
     {
-      "date": "2024-07-31",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=136444",
   "salepage_id": "10024768",
   "url": "https://www.dot-st.tw/SalePage/Index/10024768",
   "title": "niko and女復古印花皺褶飄逸法式袖上衣(短版/長版)-三色-136444",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2024-07-31",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

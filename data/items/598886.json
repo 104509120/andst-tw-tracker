@@ -2,15 +2,10 @@
   "sku": "598886",
   "history": [
     {
-      "date": "2025-12-05",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 483
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=598886",
   "salepage_id": "11379572",
   "url": "https://www.dot-st.tw/SalePage/Index/11379572",
   "title": "studio CLIP大理石紋路迷你梳鏡組吊飾鑰匙圈-二色-598886",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2025-12-05",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

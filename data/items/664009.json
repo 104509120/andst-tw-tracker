@@ -2,24 +2,20 @@
   "sku": "664009",
   "history": [
     {
-      "date": "2026-03-25",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 516
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=664009",
   "salepage_id": "11654213",
   "url": "https://www.dot-st.tw/SalePage/Index/11654213",
   "title": "repipi armario貼布抓皺側綁帶T恤上衣-五色-664009",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11654213/0/639292284602100000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11654213/0/639312242497970000?v=1",
   "current_price": 516,
   "original_price": 1290,
   "min_price": 516,
   "max_price": 1290,
   "listed_date": "2026-03-25",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

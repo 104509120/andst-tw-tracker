@@ -2,15 +2,10 @@
   "sku": "638110",
   "history": [
     {
-      "date": "2026-04-30",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=638110",
   "salepage_id": "11751675",
   "url": "https://www.dot-st.tw/SalePage/Index/11751675",
   "title": "LAKOLE鐵製網格邊桌(耐重5kg)-一色-638110",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-04-30",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

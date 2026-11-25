@@ -2,15 +2,10 @@
   "sku": "911178",
   "history": [
     {
-      "date": "2026-07-16",
-      "price": 450
-    },
-    {
       "date": "2026-11-24",
       "price": 315
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=911178",
   "salepage_id": "11980472",
   "url": "https://www.dot-st.tw/SalePage/Index/11980472",
   "title": "repipi armario雙鍊式金屬個性項鍊-一色-911178",
@@ -21,5 +16,6 @@
   "max_price": 450,
   "listed_date": "2026-07-16",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

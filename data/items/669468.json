@@ -2,24 +2,20 @@
   "sku": "669468",
   "history": [
     {
-      "date": "2026-04-22",
-      "price": 2190
-    },
-    {
       "date": "2026-11-24",
       "price": 1095
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=669468",
   "salepage_id": "11730120",
   "url": "https://www.dot-st.tw/SalePage/Index/11730120",
   "title": "HARE男刺繡字母暈染開釦T恤上衣-三色-669468",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11730120/0/639310364489070000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11730120/0/639312242685200000?v=1",
   "current_price": 1095,
   "original_price": 2190,
   "min_price": 1095,
   "max_price": 2190,
   "listed_date": "2026-04-22",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

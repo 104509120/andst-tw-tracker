@@ -2,15 +2,10 @@
   "sku": "571646",
   "history": [
     {
-      "date": "2025-12-10",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 1590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=571646",
   "salepage_id": "11392403",
   "url": "https://www.dot-st.tw/SalePage/Index/11392403",
   "title": "LEPSIM媽媽系列雙面兩穿2WAY防潑水下擺抽繩絨毛鋪棉外套-二色-571646",
@@ -21,5 +16,6 @@
   "max_price": 3990,
   "listed_date": "2025-12-10",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

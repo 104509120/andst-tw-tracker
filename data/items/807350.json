@@ -2,24 +2,20 @@
   "sku": "807350",
   "history": [
     {
-      "date": "2026-08-26",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=807350",
   "salepage_id": "12104770",
   "url": "https://www.dot-st.tw/SalePage/Index/12104770",
   "title": "niko and女【WILLIAM B.ELIOTT】柔軟荷葉邊短袖上衣-二色-807350",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12104770/0/639311265639130000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12104770/0/639312242765570000?v=1",
   "current_price": 1290,
   "original_price": 1990,
   "min_price": 1290,
   "max_price": 1990,
   "listed_date": "2026-08-26",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

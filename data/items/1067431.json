@@ -2,15 +2,10 @@
   "sku": "1067431",
   "history": [
     {
-      "date": "2026-11-06",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1067431",
   "salepage_id": "12290474",
   "url": "https://www.dot-st.tw/SalePage/Index/12290474",
   "title": "niko and女仿麂皮毛茸茸拼接捲邊帽-二色-1067431",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-11-06",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

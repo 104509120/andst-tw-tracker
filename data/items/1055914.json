@@ -2,24 +2,20 @@
   "sku": "1055914",
   "history": [
     {
-      "date": "2026-09-03",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1055914",
   "salepage_id": "12128433",
   "url": "https://www.dot-st.tw/SalePage/Index/12128433",
   "title": "repipi armario附領巾下襬蕾絲網紗長袖T恤上衣-三色-1055914",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12128433/0/639289513099430000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12128433/0/639312242570770000?v=1",
   "current_price": 790,
   "original_price": 1690,
   "min_price": 790,
   "max_price": 1690,
   "listed_date": "2026-09-03",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

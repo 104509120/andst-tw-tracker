@@ -2,24 +2,20 @@
   "sku": "631315",
   "history": [
     {
-      "date": "2025-12-24",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 996
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=631315",
   "salepage_id": "11430149",
   "url": "https://www.dot-st.tw/SalePage/Index/11430149",
   "title": "studio CLIP復古北歐風緹花針織長袖上衣【CLIP BY STAFF】-三色-631315",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11430149/0/639300741141270000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11430149/0/639312242617500000?v=1",
   "current_price": 996,
   "original_price": 2490,
   "min_price": 996,
   "max_price": 2490,
   "listed_date": "2025-12-24",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,24 @@
   "sku": "1050432",
   "history": [
     {
-      "date": "2026-09-29",
-      "price": 4490
-    },
-    {
       "date": "2026-11-24",
       "price": 2690
+    },
+    {
+      "date": "2026-11-25",
+      "price": 2290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1050432",
   "salepage_id": "12188706",
   "url": "https://www.dot-st.tw/SalePage/Index/12188706",
   "title": "JEANASIS多口袋抽繩軍裝外套-三色-1050432",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12188706/0/639306075039900000?v=1",
-  "current_price": 2690,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12188706/0/639312242815030000?v=1",
+  "current_price": 2290,
   "original_price": 4490,
-  "min_price": 2690,
+  "min_price": 2290,
   "max_price": 4490,
   "listed_date": "2026-09-29",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "689760",
   "history": [
     {
-      "date": "2026-06-25",
-      "price": 2090
-    },
-    {
       "date": "2026-11-24",
       "price": 836
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=689760",
   "salepage_id": "11928388",
   "url": "https://www.dot-st.tw/SalePage/Index/11928388",
   "title": "studio CLIP漸層感格紋無領半袖襯衫-三色-689760",
@@ -21,5 +16,6 @@
   "max_price": 2090,
   "listed_date": "2026-06-25",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1088340",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1088340",
   "salepage_id": "12273212",
   "url": "https://www.dot-st.tw/SalePage/Index/12273212",
   "title": "Heather優雅立體愛心珍珠墜飾項鍊-二色-1088340",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

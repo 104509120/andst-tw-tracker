@@ -1,11 +1,6 @@
 {
   "sku": "1056182",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1056182",
   "history": [
-    {
-      "date": "2026-11-20",
-      "price": 490
-    },
     {
       "date": "2026-11-24",
       "price": 490
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-11-20",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "742638",
   "history": [
     {
-      "date": "2026-11-06",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=742638",
   "salepage_id": "12290475",
   "url": "https://www.dot-st.tw/SalePage/Index/12290475",
   "title": "niko and男復古斜紋寬褲長褲-三色-742638",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-11-06",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "812328",
   "history": [
     {
-      "date": "2026-11-05",
-      "price": 4490
-    },
-    {
       "date": "2026-11-24",
       "price": 4490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=812328",
   "salepage_id": "12287595",
   "url": "https://www.dot-st.tw/SalePage/Index/12287595",
   "title": "LOWRYS FARM女WOOLLYTEC機能性風衣設計腰帶中長版大衣-四色-812328",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12287595/0/639304336836700000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12287595/0/639312229913030000?v=1",
   "current_price": 4490,
   "original_price": 4490,
   "min_price": 4490,
   "max_price": 4490,
   "listed_date": "2026-11-05",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

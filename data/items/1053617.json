@@ -2,15 +2,10 @@
   "sku": "1053617",
   "history": [
     {
-      "date": "2026-09-21",
-      "price": 1320
-    },
-    {
       "date": "2026-11-24",
       "price": 1320
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1053617",
   "salepage_id": "12172276",
   "url": "https://www.dot-st.tw/SalePage/Index/12172276",
   "title": "niko and原創BILLY熊搖頭公仔擺飾-一色-1053617",
@@ -21,5 +16,6 @@
   "max_price": 1320,
   "listed_date": "2026-09-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

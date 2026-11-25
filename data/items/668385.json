@@ -2,15 +2,10 @@
   "sku": "668385",
   "history": [
     {
-      "date": "2026-04-29",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 516
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=668385",
   "salepage_id": "11750443",
   "url": "https://www.dot-st.tw/SalePage/Index/11750443",
   "title": "repipi armario多種穿法做舊破壞感寬鬆T恤上衣-三色-668385",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-04-29",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "836893",
   "history": [
     {
-      "date": "2021-07-02",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=836893",
   "salepage_id": "7130395",
   "url": "https://www.dot-st.tw/SalePage/Index/7130395",
   "title": "studio CLIP天然木HOUSEHOLD GOODS迷你黏毛滾輪-一色-836893",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2021-07-02",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

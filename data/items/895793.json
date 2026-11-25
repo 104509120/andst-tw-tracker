@@ -2,15 +2,10 @@
   "sku": "895793",
   "history": [
     {
-      "date": "2026-05-06",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=895793",
   "salepage_id": "11772538",
   "url": "https://www.dot-st.tw/SalePage/Index/11772538",
   "title": "niko and香氛Reed Diffuser室內擴香精油180ml-四款-895793",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-05-06",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

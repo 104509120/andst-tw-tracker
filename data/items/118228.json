@@ -2,15 +2,10 @@
   "sku": "118228",
   "history": [
     {
-      "date": "2024-11-29",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=118228",
   "salepage_id": "10353417",
   "url": "https://www.dot-st.tw/SalePage/Index/10353417",
   "title": "LAKOLE波浪狀雙層玻璃杯(220ML)-一色-118228",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2024-11-29",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

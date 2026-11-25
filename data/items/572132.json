@@ -2,15 +2,10 @@
   "sku": "572132",
   "history": [
     {
-      "date": "2026-02-03",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=572132",
   "salepage_id": "11536665",
   "url": "https://www.dot-st.tw/SalePage/Index/11536665",
   "title": "studio CLIP日本製美濃燒正陶苑小碗(320ML)-二色-572132",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2026-02-03",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

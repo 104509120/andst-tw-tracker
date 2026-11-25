@@ -2,15 +2,10 @@
   "sku": "452459",
   "history": [
     {
-      "date": "2025-09-24",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=452459",
   "salepage_id": "11140692",
   "url": "https://www.dot-st.tw/SalePage/Index/11140692",
   "title": "studio CLIP設計感金屬天然木波浪眼鏡架-一色-452459",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2025-09-24",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

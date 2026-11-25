@@ -2,24 +2,24 @@
   "sku": "1063401",
   "history": [
     {
-      "date": "2026-11-12",
+      "date": "2026-11-24",
       "price": 2490
     },
     {
-      "date": "2026-11-24",
-      "price": 2490
+      "date": "2026-11-25",
+      "price": 1494
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1063401",
   "salepage_id": "12302944",
   "url": "https://www.dot-st.tw/SalePage/Index/12302944",
   "title": "GLOBAL WORK男毛混紡粗花呢俐落寬版長褲-三色-1063401",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12302944/0/639305949532300000?v=1",
-  "current_price": 2490,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12302944/0/639312261245370000?v=1",
+  "current_price": 1494,
   "original_price": 2490,
-  "min_price": 2490,
+  "min_price": 1494,
   "max_price": 2490,
   "listed_date": "2026-11-12",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

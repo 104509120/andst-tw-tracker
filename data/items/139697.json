@@ -2,15 +2,10 @@
   "sku": "139697",
   "history": [
     {
-      "date": "2024-10-14",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 145
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=139697",
   "salepage_id": "10162648",
   "url": "https://www.dot-st.tw/SalePage/Index/10162648",
   "title": "LAKOLE女簡約優雅霧感耳針式耳環-二色-139697",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2024-10-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

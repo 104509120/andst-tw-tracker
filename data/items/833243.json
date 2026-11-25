@@ -2,24 +2,24 @@
   "sku": "833243",
   "history": [
     {
-      "date": "2026-10-15",
+      "date": "2026-11-24",
       "price": 2290
     },
     {
-      "date": "2026-11-24",
-      "price": 2290
+      "date": "2026-11-25",
+      "price": 1590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=833243",
   "salepage_id": "12240627",
   "url": "https://www.dot-st.tw/SalePage/Index/12240627",
   "title": "LEPSIM撞色縫線感拼接粗針織長袖上衣-四色-833243",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12240627/0/639289633987470000?v=1",
-  "current_price": 2290,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12240627/0/639312139709330000?v=1",
+  "current_price": 1590,
   "original_price": 2290,
-  "min_price": 2290,
+  "min_price": 1590,
   "max_price": 2290,
   "listed_date": "2026-10-15",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

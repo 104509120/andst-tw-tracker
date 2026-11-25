@@ -2,15 +2,10 @@
   "sku": "679151",
   "history": [
     {
-      "date": "2026-08-28",
-      "price": 580
-    },
-    {
       "date": "2026-11-24",
       "price": 580
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=679151",
   "salepage_id": "12112729",
   "url": "https://www.dot-st.tw/SalePage/Index/12112729",
   "title": "niko and品牌LOGO手機防水袋-二色-679151",
@@ -21,5 +16,6 @@
   "max_price": 580,
   "listed_date": "2026-08-28",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

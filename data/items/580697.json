@@ -2,15 +2,10 @@
   "sku": "580697",
   "history": [
     {
-      "date": "2025-10-03",
-      "price": 3490
-    },
-    {
       "date": "2026-11-24",
       "price": 2355
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=580697",
   "salepage_id": "11200051",
   "url": "https://www.dot-st.tw/SalePage/Index/11200051",
   "title": "RAGEBLUE【網路限定55價】男優雅定番設計皮鞋-六色-580697",
@@ -21,5 +16,6 @@
   "max_price": 3490,
   "listed_date": "2025-10-03",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

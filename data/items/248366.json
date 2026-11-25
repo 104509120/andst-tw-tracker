@@ -2,15 +2,10 @@
   "sku": "248366",
   "history": [
     {
-      "date": "2025-02-26",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=248366",
   "salepage_id": "10546851",
   "url": "https://www.dot-st.tw/SalePage/Index/10546851",
   "title": "LAKOLE雙色不規則造型杯墊四入組-三色-248366",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2025-02-26",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

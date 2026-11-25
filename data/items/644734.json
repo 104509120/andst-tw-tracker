@@ -2,15 +2,10 @@
   "sku": "644734",
   "history": [
     {
-      "date": "2026-05-29",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 396
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=644734",
   "salepage_id": "11846343",
   "url": "https://www.dot-st.tw/SalePage/Index/11846343",
   "title": "LAKOLE女鏤空編織漁夫帽-二色-644734",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-05-29",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

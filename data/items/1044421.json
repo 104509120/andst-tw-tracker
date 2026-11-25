@@ -2,24 +2,20 @@
   "sku": "1044421",
   "history": [
     {
-      "date": "2026-09-16",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1044421",
   "salepage_id": "12161424",
   "url": "https://www.dot-st.tw/SalePage/Index/12161424",
   "title": "GLOBAL WORK【網路限定55價】女荷葉下襬毛圈紗細肩帶背心-二色-1044421",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12161424/0/639310365752500000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12161424/0/639312242799600000?v=1",
   "current_price": 655,
   "original_price": 1290,
   "min_price": 655,
   "max_price": 1290,
   "listed_date": "2026-09-16",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

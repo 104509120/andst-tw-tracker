@@ -2,24 +2,20 @@
   "sku": "1076874",
   "history": [
     {
-      "date": "2026-10-16",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1076874",
   "salepage_id": "12244258",
   "url": "https://www.dot-st.tw/SalePage/Index/12244258",
   "title": "PAGEBOY【網路限定55價】拿破崙風雙排釦抓皺長袖襯衫上衣-二色-1076874",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12244258/0/639307656406230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12244258/0/639312242829830000?v=1",
   "current_price": 1455,
   "original_price": 2290,
   "min_price": 1455,
   "max_price": 2290,
   "listed_date": "2026-10-16",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

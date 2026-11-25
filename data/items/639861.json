@@ -2,15 +2,10 @@
   "sku": "639861",
   "history": [
     {
-      "date": "2026-04-24",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 343
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=639861",
   "salepage_id": "11737649",
   "url": "https://www.dot-st.tw/SalePage/Index/11737649",
   "title": "LAKOLE串珠USB Type-C傳Lightning傳輸線-一色-639861",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-04-24",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

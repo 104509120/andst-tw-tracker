@@ -2,15 +2,10 @@
   "sku": "135810",
   "history": [
     {
-      "date": "2024-11-04",
-      "price": 1090
-    },
-    {
       "date": "2026-11-24",
       "price": 1090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=135810",
   "salepage_id": "10277990",
   "url": "https://www.dot-st.tw/SalePage/Index/10277990",
   "title": "studio CLIP撞色帆布LOGO手提環保購物袋-三色-135810",
@@ -21,5 +16,6 @@
   "max_price": 1090,
   "listed_date": "2024-11-04",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

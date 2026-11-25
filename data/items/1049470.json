@@ -2,15 +2,10 @@
   "sku": "1049470",
   "history": [
     {
-      "date": "2026-08-25",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1049470",
   "salepage_id": "12100538",
   "url": "https://www.dot-st.tw/SalePage/Index/12100538",
   "title": "LOWRYS FARM女雙口袋棉質日常托特包-八色-1049470",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-08-25",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

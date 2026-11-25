@@ -2,15 +2,10 @@
   "sku": "130267",
   "history": [
     {
-      "date": "2025-11-12",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=130267",
   "salepage_id": "9995756",
   "url": "https://www.dot-st.tw/SalePage/Index/9995756",
   "title": "HARE男三角皮革手提托特包(小)-二色-130267",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2025-11-12",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

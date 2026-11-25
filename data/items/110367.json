@@ -2,15 +2,10 @@
   "sku": "110367",
   "history": [
     {
-      "date": "2024-10-07",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=110367",
   "salepage_id": "10206081",
   "url": "https://www.dot-st.tw/SalePage/Index/10206081",
   "title": "studio CLIP鐵製不規則收納籃M-一色-110367",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2024-10-07",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

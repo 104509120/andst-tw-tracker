@@ -2,15 +2,10 @@
   "sku": "672395",
   "history": [
     {
-      "date": "2026-08-19",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=672395",
   "salepage_id": "12078533",
   "url": "https://www.dot-st.tw/SalePage/Index/12078533",
   "title": "niko and女【tiy nie yee】澎澎蝴蝶結鑰匙圈吊飾-三色-672395",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-08-19",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "641316",
   "history": [
     {
-      "date": "2026-01-15",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=641316",
   "salepage_id": "11484306",
   "url": "https://www.dot-st.tw/SalePage/Index/11484306",
   "title": "repipi armario【網路限定55價】數字印花連帽上衣與休閒短褲二件組-三色-641316",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-01-15",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

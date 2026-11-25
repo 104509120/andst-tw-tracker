@@ -2,15 +2,10 @@
   "sku": "327990",
   "history": [
     {
-      "date": "2025-05-08",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=327990",
   "salepage_id": "10741991",
   "url": "https://www.dot-st.tw/SalePage/Index/10741991",
   "title": "niko and女【tiy nie yee】可愛蝴蝶結肩背手提托特包-十六色-327990",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2025-05-08",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

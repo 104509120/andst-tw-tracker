@@ -2,15 +2,10 @@
   "sku": "630107",
   "history": [
     {
-      "date": "2026-07-03",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=630107",
   "salepage_id": "11947409",
   "url": "https://www.dot-st.tw/SalePage/Index/11947409",
   "title": "LAKOLE鐵絲網格銀色收納籃(矮款)-一色-630107",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-07-03",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

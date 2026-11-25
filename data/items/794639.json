@@ -2,15 +2,10 @@
   "sku": "794639",
   "history": [
     {
-      "date": "2026-06-24",
-      "price": 5090
-    },
-    {
       "date": "2026-11-24",
       "price": 2555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=794639",
   "salepage_id": "11924447",
   "url": "https://www.dot-st.tw/SalePage/Index/11924447",
   "title": "HARE【網路限定55價】男暈染圖樣網紗前開衩設計長褲-三色-794639",
@@ -21,5 +16,6 @@
   "max_price": 5090,
   "listed_date": "2026-06-24",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

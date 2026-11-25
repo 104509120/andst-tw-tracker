@@ -2,24 +2,20 @@
   "sku": "1063462",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 1255
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1063462",
   "salepage_id": "12266531",
   "url": "https://www.dot-st.tw/SalePage/Index/12266531",
   "title": "GLOBAL WORK【網路限定55價】男撞色車縫線拉鍊夾克外套-二色-1063462",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12266531/0/639307656318670000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12266531/0/639312242622900000?v=1",
   "current_price": 1255,
   "original_price": 2490,
   "min_price": 1255,
   "max_price": 2490,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

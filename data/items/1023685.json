@@ -2,15 +2,10 @@
   "sku": "1023685",
   "history": [
     {
-      "date": "2026-08-21",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 903
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1023685",
   "salepage_id": "12070734",
   "url": "https://www.dot-st.tw/SalePage/Index/12070734",
   "title": "studio CLIP米飛兔系列提花托特包S《Dick Bruna聯名》-一色-1023685",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-08-21",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

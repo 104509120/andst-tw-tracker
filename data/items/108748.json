@@ -2,15 +2,10 @@
   "sku": "108748",
   "history": [
     {
-      "date": "2024-04-23",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=108748",
   "salepage_id": "9728650",
   "url": "https://www.dot-st.tw/SalePage/Index/9728650",
   "title": "niko and男不對稱絞合線設計五分袖上衣-四色-108748",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2024-04-23",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

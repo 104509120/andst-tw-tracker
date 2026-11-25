@@ -2,15 +2,10 @@
   "sku": "611781",
   "history": [
     {
-      "date": "2026-03-23",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 1155
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=611781",
   "salepage_id": "11637284",
   "url": "https://www.dot-st.tw/SalePage/Index/11637284",
   "title": "studio CLIP【網路限定55價】休閒防潑水蝙蝠袖連帽外套夾克-四色-611781",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-03-23",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

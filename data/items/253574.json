@@ -2,15 +2,10 @@
   "sku": "253574",
   "history": [
     {
-      "date": "2025-03-25",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=253574",
   "salepage_id": "10625838",
   "url": "https://www.dot-st.tw/SalePage/Index/10625838",
   "title": "niko and男格紋條紋不易皺短袖襯衫上衣(短版/長版)-七色-253574",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2025-03-25",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

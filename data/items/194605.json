@@ -2,15 +2,10 @@
   "sku": "194605",
   "history": [
     {
-      "date": "2023-04-25",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1393
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=194605",
   "salepage_id": "8809228",
   "url": "https://www.dot-st.tw/SalePage/Index/8809228",
   "title": "niko and男原創系列CITY CREEK雙面兩用防風繩漁夫帽-二色-194605",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2023-04-25",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

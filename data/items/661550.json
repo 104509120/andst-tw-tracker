@@ -2,24 +2,24 @@
   "sku": "661550",
   "history": [
     {
-      "date": "2026-08-21",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 1495
+    },
+    {
+      "date": "2026-11-25",
+      "price": 1196
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=661550",
   "salepage_id": "12091292",
   "url": "https://www.dot-st.tw/SalePage/Index/12091292",
   "title": "JEANASIS【PERSON’S聯名】A4大容量帆布肩背包-二色-661550",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12091292/0/639307793191730000?v=1",
-  "current_price": 1495,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12091292/0/639312242749830000?v=1",
+  "current_price": 1196,
   "original_price": 2990,
-  "min_price": 1495,
+  "min_price": 1196,
   "max_price": 2990,
   "listed_date": "2026-08-21",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

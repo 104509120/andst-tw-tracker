@@ -2,15 +2,10 @@
   "sku": "1043927",
   "history": [
     {
-      "date": "2026-11-06",
-      "price": 3690
-    },
-    {
       "date": "2026-11-24",
       "price": 3690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1043927",
   "salepage_id": "12287580",
   "url": "https://www.dot-st.tw/SalePage/Index/12287580",
   "title": "niko and聖誕裝飾Xmas聖誕樹120cm-一色-1043927",
@@ -21,5 +16,6 @@
   "max_price": 3690,
   "listed_date": "2026-11-06",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

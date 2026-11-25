@@ -2,24 +2,20 @@
   "sku": "632381",
   "history": [
     {
-      "date": "2026-03-12",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=632381",
   "salepage_id": "11610430",
   "url": "https://www.dot-st.tw/SalePage/Index/11610430",
   "title": "GLOBAL WORK【網路限定55價】男CLEAN MODE系列工裝丹寧外套-二色-632381",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11610430/0/639307656304830000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11610430/0/639312242598530000?v=1",
   "current_price": 955,
   "original_price": 2690,
   "min_price": 955,
   "max_price": 2690,
   "listed_date": "2026-03-12",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

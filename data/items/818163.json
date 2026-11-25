@@ -2,15 +2,10 @@
   "sku": "818163",
   "history": [
     {
-      "date": "2026-07-24",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 693
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=818163",
   "salepage_id": "12002268",
   "url": "https://www.dot-st.tw/SalePage/Index/12002268",
   "title": "niko and女素色條紋層次法式袖上衣-三色-818163",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-07-24",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

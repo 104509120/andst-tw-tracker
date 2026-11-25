@@ -2,15 +2,10 @@
   "sku": "647972",
   "history": [
     {
-      "date": "2026-03-12",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 596
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647972",
   "salepage_id": "11611778",
   "url": "https://www.dot-st.tw/SalePage/Index/11611778",
   "title": "LEPSIM童下擺蕾絲鑲邊蛋糕長裙-三色-647972",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-03-12",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

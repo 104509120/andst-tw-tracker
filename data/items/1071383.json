@@ -2,24 +2,20 @@
   "sku": "1071383",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 1955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1071383",
   "salepage_id": "12274106",
   "url": "https://www.dot-st.tw/SalePage/Index/12274106",
   "title": "niko and【網路限定55價】女假兩件針織背心長袖襯衫上衣-三色-1071383",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12274106/0/639310432006270000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12274106/0/639312160891270000?v=1",
   "current_price": 1955,
   "original_price": 2490,
   "min_price": 1955,
   "max_price": 2490,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

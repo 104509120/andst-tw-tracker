@@ -2,15 +2,10 @@
   "sku": "1089014",
   "history": [
     {
-      "date": "2026-11-06",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1089014",
   "salepage_id": "12290306",
   "url": "https://www.dot-st.tw/SalePage/Index/12290306",
   "title": "JEANASIS細直條紋打褶A字中長裙-二色-1089014",
@@ -21,5 +16,6 @@
   "max_price": 2990,
   "listed_date": "2026-11-06",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

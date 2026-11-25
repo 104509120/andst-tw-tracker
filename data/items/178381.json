@@ -2,15 +2,10 @@
   "sku": "178381",
   "history": [
     {
-      "date": "2023-06-16",
-      "price": 1360
-    },
-    {
       "date": "2026-11-24",
       "price": 680
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=178381",
   "salepage_id": "8943483",
   "url": "https://www.dot-st.tw/SalePage/Index/8943483",
   "title": "niko and室內裝飾乾燥花加工花籃-二色-178381",
@@ -21,5 +16,6 @@
   "max_price": 1360,
   "listed_date": "2023-06-16",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

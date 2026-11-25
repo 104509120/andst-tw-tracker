@@ -2,15 +2,10 @@
   "sku": "823486",
   "history": [
     {
-      "date": "2026-11-05",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=823486",
   "salepage_id": "12285055",
   "url": "https://www.dot-st.tw/SalePage/Index/12285055",
   "title": "GLOBAL WORK男URBAN暖感羊毛感襯衫外套-六色-823486",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-11-05",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

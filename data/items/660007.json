@@ -2,15 +2,10 @@
   "sku": "660007",
   "history": [
     {
-      "date": "2026-06-05",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1393
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=660007",
   "salepage_id": "11867630",
   "url": "https://www.dot-st.tw/SalePage/Index/11867630",
   "title": "niko and女復古花紋前短後長短袖襯衫上衣-四色-660007",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-06-05",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

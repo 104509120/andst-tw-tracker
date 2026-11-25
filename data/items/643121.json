@@ -2,24 +2,20 @@
   "sku": "643121",
   "history": [
     {
-      "date": "2026-03-18",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 745
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=643121",
   "salepage_id": "11629451",
   "url": "https://www.dot-st.tw/SalePage/Index/11629451",
   "title": "GLOBAL WORK男彈性輕薄錐形長褲-二色-643121",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11629451/0/639300798532570000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11629451/0/639312242497970000?v=1",
   "current_price": 745,
   "original_price": 1490,
   "min_price": 745,
   "max_price": 1490,
   "listed_date": "2026-03-18",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

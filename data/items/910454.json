@@ -2,15 +2,10 @@
   "sku": "910454",
   "history": [
     {
-      "date": "2026-11-05",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=910454",
   "salepage_id": "12287236",
   "url": "https://www.dot-st.tw/SalePage/Index/12287236",
   "title": "LAKOLE世界名作日本今治手帕巾-六色-910454",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2026-11-05",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

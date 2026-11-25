@@ -2,24 +2,20 @@
   "sku": "668932",
   "history": [
     {
-      "date": "2026-05-26",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 796
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=668932",
   "salepage_id": "11830315",
   "url": "https://www.dot-st.tw/SalePage/Index/11830315",
   "title": "RAGEBLUE女簡約迷你皮革肩背包-二色-668932",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11830315/0/639289511506400000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11830315/0/639312242534600000?v=1",
   "current_price": 796,
   "original_price": 1990,
   "min_price": 796,
   "max_price": 1990,
   "listed_date": "2026-05-26",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

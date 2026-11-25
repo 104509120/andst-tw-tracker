@@ -2,24 +2,24 @@
   "sku": "1043129",
   "history": [
     {
-      "date": "2026-07-22",
-      "price": 3490
-    },
-    {
       "date": "2026-11-24",
       "price": 2443
+    },
+    {
+      "date": "2026-11-25",
+      "price": 1745
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1043129",
   "salepage_id": "11996418",
   "url": "https://www.dot-st.tw/SalePage/Index/11996418",
   "title": "JEANASIS後帶式方頭樂福穆勒鞋-二色-1043129",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11996418/0/639294875514470000?v=1",
-  "current_price": 2443,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11996418/0/639312241669430000?v=1",
+  "current_price": 1745,
   "original_price": 3490,
-  "min_price": 2443,
+  "min_price": 1745,
   "max_price": 3490,
   "listed_date": "2026-07-22",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

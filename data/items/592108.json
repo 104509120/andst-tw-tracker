@@ -2,15 +2,10 @@
   "sku": "592108",
   "history": [
     {
-      "date": "2025-10-02",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=592108",
   "salepage_id": "11195029",
   "url": "https://www.dot-st.tw/SalePage/Index/11195029",
   "title": "niko and女大人氣柔軟毛毛絎縫紋肩背斜背小包-十色-592108",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2025-10-02",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

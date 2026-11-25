@@ -2,15 +2,10 @@
   "sku": "140636",
   "history": [
     {
-      "date": "2024-12-31",
-      "price": 1090
-    },
-    {
       "date": "2026-11-24",
       "price": 1090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=140636",
   "salepage_id": "10428004",
   "url": "https://www.dot-st.tw/SalePage/Index/10428004",
   "title": "studio CLIP晴雨兩用水彩感雙色雨傘直傘-二色-140636",
@@ -21,5 +16,6 @@
   "max_price": 1090,
   "listed_date": "2024-12-31",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

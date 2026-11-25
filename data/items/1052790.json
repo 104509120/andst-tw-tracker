@@ -2,15 +2,10 @@
   "sku": "1052790",
   "history": [
     {
-      "date": "2026-08-05",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1052790",
   "salepage_id": "12041324",
   "url": "https://www.dot-st.tw/SalePage/Index/12041324",
   "title": "repipi armario【網路限定55價】童丹寧胸前拉鍊背心可拆式吊帶短褲-二色-1052790",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-08-05",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

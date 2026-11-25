@@ -2,15 +2,10 @@
   "sku": "647329",
   "history": [
     {
-      "date": "2026-05-05",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 745
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647329",
   "salepage_id": "11765785",
   "url": "https://www.dot-st.tw/SalePage/Index/11765785",
   "title": "GLOBAL WORK男輕量緩震厚底運動涼鞋-二色-647329",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-05-05",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "115210",
   "history": [
     {
-      "date": "2024-05-07",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=115210",
   "salepage_id": "9768135",
   "url": "https://www.dot-st.tw/SalePage/Index/9768135",
   "title": "LOWRYS FARM女大容量柔軟皮革肩背側背包-六色-115210",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/9768135/0/639300917030700000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/9768135/0/639312230207370000?v=1",
   "current_price": 1490,
   "original_price": 1490,
   "min_price": 1490,
   "max_price": 1490,
   "listed_date": "2024-05-07",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

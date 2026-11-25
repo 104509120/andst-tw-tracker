@@ -2,15 +2,10 @@
   "sku": "125851",
   "history": [
     {
-      "date": "2024-08-27",
-      "price": 620
-    },
-    {
       "date": "2026-11-24",
       "price": 620
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=125851",
   "salepage_id": "10106380",
   "url": "https://www.dot-st.tw/SalePage/Index/10106380",
   "title": "niko and胖胖慵懶動物造型手機座擺飾-四款-125851",
@@ -21,5 +16,6 @@
   "max_price": 620,
   "listed_date": "2024-08-27",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

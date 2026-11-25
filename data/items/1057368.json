@@ -2,15 +2,10 @@
   "sku": "1057368",
   "history": [
     {
-      "date": "2026-09-03",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1057368",
   "salepage_id": "12128434",
   "url": "https://www.dot-st.tw/SalePage/Index/12128434",
   "title": "repipi armario側邊星星圖樣造型休閒棉質長褲-二色-1057368",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-09-03",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

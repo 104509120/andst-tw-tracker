@@ -2,15 +2,10 @@
   "sku": "899508",
   "history": [
     {
-      "date": "2026-07-02",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 596
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=899508",
   "salepage_id": "11947872",
   "url": "https://www.dot-st.tw/SalePage/Index/11947872",
   "title": "repipi armario鏤空銀色吊牌綁帶T恤上衣-四色-899508",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-07-02",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

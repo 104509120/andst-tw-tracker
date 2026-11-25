@@ -2,24 +2,20 @@
   "sku": "1043995",
   "history": [
     {
-      "date": "2026-10-16",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1043995",
   "salepage_id": "12244506",
   "url": "https://www.dot-st.tw/SalePage/Index/12244506",
   "title": "RAGEBLUE【網路限定55價】女雪尼爾柔軟光澤感立體麻花針織長袖長版上衣-四色-1043995",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12244506/0/639311111252730000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12244506/0/639312242829830000?v=1",
   "current_price": 1455,
   "original_price": 1690,
   "min_price": 1455,
   "max_price": 1690,
   "listed_date": "2026-10-16",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

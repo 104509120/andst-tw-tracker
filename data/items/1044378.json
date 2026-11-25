@@ -2,24 +2,20 @@
   "sku": "1044378",
   "history": [
     {
-      "date": "2026-07-22",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1044378",
   "salepage_id": "11996121",
   "url": "https://www.dot-st.tw/SalePage/Index/11996121",
   "title": "RAGEBLUE【網路限定55價】男立體剪裁打褶設計牛仔丹寧短褲-三色-1044378",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11996121/0/639307647605630000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11996121/0/639312242734300000?v=1",
   "current_price": 1755,
   "original_price": 2690,
   "min_price": 1755,
   "max_price": 2690,
   "listed_date": "2026-07-22",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

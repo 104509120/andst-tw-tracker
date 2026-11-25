@@ -2,15 +2,10 @@
   "sku": "591064",
   "history": [
     {
-      "date": "2025-10-31",
-      "price": 1190
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=591064",
   "salepage_id": "11263197",
   "url": "https://www.dot-st.tw/SalePage/Index/11263197",
   "title": "repipi armario童蕾絲蝴蝶結長袖上衣-三色-591064",
@@ -21,5 +16,6 @@
   "max_price": 1190,
   "listed_date": "2025-10-31",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "862196",
   "history": [
     {
-      "date": "2026-07-02",
-      "price": 3290
-    },
-    {
       "date": "2026-11-24",
       "price": 1255
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=862196",
   "salepage_id": "11947623",
   "url": "https://www.dot-st.tw/SalePage/Index/11947623",
   "title": "JEANASIS【網路限定55價】蕾絲拼接附腰包上衣-二色-862196",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11947623/0/639311392952630000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11947623/0/639312242718330000?v=1",
   "current_price": 1255,
   "original_price": 3290,
   "min_price": 1255,
   "max_price": 3290,
   "listed_date": "2026-07-02",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

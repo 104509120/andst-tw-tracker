@@ -2,15 +2,10 @@
   "sku": "1056087",
   "history": [
     {
-      "date": "2026-08-21",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 343
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1056087",
   "salepage_id": "12070769",
   "url": "https://www.dot-st.tw/SalePage/Index/12070769",
   "title": "studio CLIP米飛兔系列可愛剪影造型夾《Dick Bruna聯名》-一色-1056087",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-08-21",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

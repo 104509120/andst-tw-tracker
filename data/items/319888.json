@@ -2,15 +2,10 @@
   "sku": "319888",
   "history": [
     {
-      "date": "2025-05-29",
-      "price": 700
-    },
-    {
       "date": "2026-11-24",
       "price": 700
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=319888",
   "salepage_id": "10794807",
   "url": "https://www.dot-st.tw/SalePage/Index/10794807",
   "title": "niko and可愛復古LED燈鬧鐘靜音時鐘-三色-319888",
@@ -21,5 +16,6 @@
   "max_price": 700,
   "listed_date": "2025-05-29",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

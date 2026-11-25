@@ -2,15 +2,10 @@
   "sku": "292287",
   "history": [
     {
-      "date": "2025-11-12",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 1890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=292287",
   "salepage_id": "10626983",
   "url": "https://www.dot-st.tw/SalePage/Index/10626983",
   "title": "HARE男多WAY造型金屬腰鍊項鍊手鍊-一色-292287",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2025-11-12",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

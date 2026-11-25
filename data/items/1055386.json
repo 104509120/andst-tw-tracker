@@ -2,15 +2,10 @@
   "sku": "1055386",
   "history": [
     {
-      "date": "2026-09-23",
-      "price": 5590
-    },
-    {
       "date": "2026-11-24",
       "price": 3355
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1055386",
   "salepage_id": "12179125",
   "url": "https://www.dot-st.tw/SalePage/Index/12179125",
   "title": "HARE【網路限定55價】【品牌好友｜曾敬驊 江齊著用款】男鉚釘設計短版拉鍊夾克外套-二色-1055386",
@@ -21,5 +16,6 @@
   "max_price": 5590,
   "listed_date": "2026-09-23",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

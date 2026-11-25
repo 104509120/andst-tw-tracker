@@ -2,15 +2,10 @@
   "sku": "1023352",
   "history": [
     {
-      "date": "2026-07-01",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 796
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1023352",
   "salepage_id": "11944427",
   "url": "https://www.dot-st.tw/SalePage/Index/11944427",
   "title": "JEANASIS層次配色亨利領短袖上衣與背心二件組-四色-1023352",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-07-01",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

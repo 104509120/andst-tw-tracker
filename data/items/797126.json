@@ -2,24 +2,20 @@
   "sku": "797126",
   "history": [
     {
-      "date": "2026-09-22",
-      "price": 2090
-    },
-    {
       "date": "2026-11-24",
       "price": 1463
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=797126",
   "salepage_id": "12176172",
   "url": "https://www.dot-st.tw/SalePage/Index/12176172",
   "title": "studio CLIP繭型貝克格紋長褲-四色-797126",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12176172/0/639306080412630000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12176172/0/639312048384800000?v=1",
   "current_price": 1463,
   "original_price": 2090,
   "min_price": 1463,
   "max_price": 2090,
   "listed_date": "2026-09-22",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

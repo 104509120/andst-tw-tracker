@@ -2,15 +2,10 @@
   "sku": "241607",
   "history": [
     {
-      "date": "2024-12-11",
-      "price": 100
-    },
-    {
       "date": "2026-11-24",
       "price": 100
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=241607",
   "salepage_id": "10384599",
   "url": "https://www.dot-st.tw/SalePage/Index/10384599",
   "title": "niko and美式圖樣軟木質感杯墊-七款-241607",
@@ -21,5 +16,6 @@
   "max_price": 100,
   "listed_date": "2024-12-11",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

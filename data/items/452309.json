@@ -2,24 +2,20 @@
   "sku": "452309",
   "history": [
     {
-      "date": "2025-08-19",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=452309",
   "salepage_id": "11040089",
   "url": "https://www.dot-st.tw/SalePage/Index/11040089",
   "title": "GLOBAL WORK【網路限定55價】男URBAN DENIM類丹寧不易皺寬長褲-一色-452309",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11040089/0/639307656261900000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11040089/0/639312242617500000?v=1",
   "current_price": 655,
   "original_price": 1990,
   "min_price": 655,
   "max_price": 1990,
   "listed_date": "2025-08-19",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

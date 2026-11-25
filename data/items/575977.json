@@ -2,15 +2,10 @@
   "sku": "575977",
   "history": [
     {
-      "date": "2025-10-31",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 413
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=575977",
   "salepage_id": "11270683",
   "url": "https://www.dot-st.tw/SalePage/Index/11270683",
   "title": "studio CLIP傳統風網眼布條紋吊飾鑰匙圈《ASIA MARKET》-三色-575977",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2025-10-31",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

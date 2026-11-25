@@ -2,24 +2,20 @@
   "sku": "823596",
   "history": [
     {
-      "date": "2026-11-10",
-      "price": 4790
-    },
-    {
       "date": "2026-11-24",
       "price": 4790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=823596",
   "salepage_id": "12251803",
   "url": "https://www.dot-st.tw/SalePage/Index/12251803",
   "title": "BARNYARDSTORM數字圖樣V領休閒針織上衣-二色-823596",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12251803/0/639295606673570000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12251803/0/639311980173430000?v=1",
   "current_price": 4790,
   "original_price": 4790,
   "min_price": 4790,
   "max_price": 4790,
   "listed_date": "2026-11-10",
   "updated_at": "2026-11-25",
-  "brand": "BARNYARDSTORM"
+  "brand": "BARNYARDSTORM",
+  "first_seen": "2026-11-24"
 }

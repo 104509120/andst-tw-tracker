@@ -2,15 +2,10 @@
   "sku": "669465",
   "history": [
     {
-      "date": "2026-05-06",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 996
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=669465",
   "salepage_id": "11772908",
   "url": "https://www.dot-st.tw/SalePage/Index/11772908",
   "title": "repipi armario童丹寧馬甲與彈性微喇叭長褲二件組-二色-669465",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-05-06",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

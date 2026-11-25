@@ -2,15 +2,10 @@
   "sku": "996440",
   "history": [
     {
-      "date": "2025-02-10",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 483
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=996440",
   "salepage_id": "10508141",
   "url": "https://www.dot-st.tw/SalePage/Index/10508141",
   "title": "LAKOLE男不鏽鋼T字扣各式鍊條項鍊-二色-996440",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2025-02-10",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

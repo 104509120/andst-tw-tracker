@@ -2,15 +2,10 @@
   "sku": "105550",
   "history": [
     {
-      "date": "2024-06-14",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1183
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=105550",
   "salepage_id": "9870537",
   "url": "https://www.dot-st.tw/SalePage/Index/9870537",
   "title": "studio CLIP花磚圖騰遮陽直傘-二色-105550",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2024-06-14",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

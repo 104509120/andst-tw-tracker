@@ -2,15 +2,10 @@
   "sku": "246256",
   "history": [
     {
-      "date": "2025-02-04",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=246256",
   "salepage_id": "10492882",
   "url": "https://www.dot-st.tw/SalePage/Index/10492882",
   "title": "studio CLIP日本製花園感馬克杯與手帕二件組-三色-246256",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2025-02-04",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "573172",
   "history": [
     {
-      "date": "2025-11-03",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 553
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=573172",
   "salepage_id": "11371983",
   "url": "https://www.dot-st.tw/SalePage/Index/11371983",
   "title": "studio CLIP民族風荷葉邊扁平收納小包-三色-573172",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2025-11-03",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "150109",
   "history": [
     {
-      "date": "2024-10-07",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=150109",
   "salepage_id": "10206094",
   "url": "https://www.dot-st.tw/SalePage/Index/10206094",
   "title": "studio CLIP竹製手工編織收納籃S-一色-150109",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2024-10-07",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "661462",
   "history": [
     {
-      "date": "2026-04-29",
-      "price": 3090
-    },
-    {
       "date": "2026-11-24",
       "price": 1990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=661462",
   "salepage_id": "11748881",
   "url": "https://www.dot-st.tw/SalePage/Index/11748881",
   "title": "HARE女領口印花滾邊造型短版襯衫上衣-四色-661462",
@@ -21,5 +16,6 @@
   "max_price": 3090,
   "listed_date": "2026-04-29",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "578565",
   "history": [
     {
-      "date": "2026-11-11",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=578565",
   "salepage_id": "12300131",
   "url": "https://www.dot-st.tw/SalePage/Index/12300131",
   "title": "niko and女3WAY皮革質感多功能斜背包-三色-578565",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-11-11",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "666446",
   "history": [
     {
-      "date": "2026-04-29",
-      "price": 4290
-    },
-    {
       "date": "2026-11-24",
       "price": 2145
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=666446",
   "salepage_id": "11748888",
   "url": "https://www.dot-st.tw/SalePage/Index/11748888",
   "title": "HARE男刺繡小花朵圖樣短袖襯衫上衣-二色-666446",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11748888/0/639300744123400000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11748888/0/639312242685200000?v=1",
   "current_price": 2145,
   "original_price": 4290,
   "min_price": 2145,
   "max_price": 4290,
   "listed_date": "2026-04-29",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

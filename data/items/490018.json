@@ -2,15 +2,10 @@
   "sku": "490018",
   "history": [
     {
-      "date": "2025-10-01",
-      "price": 340
-    },
-    {
       "date": "2026-11-24",
       "price": 340
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=490018",
   "salepage_id": "11193363",
   "url": "https://www.dot-st.tw/SalePage/Index/11193363",
   "title": "niko and女優雅立體玫瑰耳針式耳環-三色-490018",
@@ -21,5 +16,6 @@
   "max_price": 340,
   "listed_date": "2025-10-01",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

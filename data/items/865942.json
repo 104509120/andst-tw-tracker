@@ -2,15 +2,10 @@
   "sku": "865942",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 270
-    },
-    {
       "date": "2026-11-24",
       "price": 270
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=865942",
   "salepage_id": "12272766",
   "url": "https://www.dot-st.tw/SalePage/Index/12272766",
   "title": "niko and迷你相撲選手彩繪筷架-二色-865942",
@@ -21,5 +16,6 @@
   "max_price": 270,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

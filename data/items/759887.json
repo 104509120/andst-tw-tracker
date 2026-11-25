@@ -2,15 +2,10 @@
   "sku": "759887",
   "history": [
     {
-      "date": "2026-05-28",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=759887",
   "salepage_id": "11842497",
   "url": "https://www.dot-st.tw/SalePage/Index/11842497",
   "title": "repipi armario【網路限定55價】鏤空洞洞牛仔丹寧迷你裙-三色-759887",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-05-28",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

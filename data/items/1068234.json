@@ -2,15 +2,10 @@
   "sku": "1068234",
   "history": [
     {
-      "date": "2026-10-22",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1068234",
   "salepage_id": "12256587",
   "url": "https://www.dot-st.tw/SalePage/Index/12256587",
   "title": "LAKOLE男軟皮革拉鍊手提肩杯托特包-二色-1068234",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-10-22",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

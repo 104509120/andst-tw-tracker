@@ -2,15 +2,10 @@
   "sku": "1046506",
   "history": [
     {
-      "date": "2026-09-17",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1046506",
   "salepage_id": "12164285",
   "url": "https://www.dot-st.tw/SalePage/Index/12164285",
   "title": "repipi armario時髦錢包鍊吊飾-四色-1046506",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-09-17",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

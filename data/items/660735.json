@@ -2,15 +2,10 @@
   "sku": "660735",
   "history": [
     {
-      "date": "2026-09-11",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=660735",
   "salepage_id": "12151218",
   "url": "https://www.dot-st.tw/SalePage/Index/12151218",
   "title": "LAKOLE女不鏽鋼開衩方形耳針式耳環-二色-660735",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-09-11",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

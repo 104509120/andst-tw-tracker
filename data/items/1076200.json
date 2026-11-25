@@ -2,15 +2,10 @@
   "sku": "1076200",
   "history": [
     {
-      "date": "2026-10-19",
-      "price": 970
-    },
-    {
       "date": "2026-11-24",
       "price": 970
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1076200",
   "salepage_id": "12246590",
   "url": "https://www.dot-st.tw/SalePage/Index/12246590",
   "title": "niko and品牌LOGO柔軟絨毛肩背斜背手提包-二色-1076200",
@@ -21,5 +16,6 @@
   "max_price": 970,
   "listed_date": "2026-10-19",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

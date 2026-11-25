@@ -2,15 +2,10 @@
   "sku": "603785",
   "history": [
     {
-      "date": "2026-05-06",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 95
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=603785",
   "salepage_id": "11772338",
   "url": "https://www.dot-st.tw/SalePage/Index/11772338",
   "title": "LAKOLE童雙拉鍊分層收納包《KIDS系列》-二色-603785",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2026-05-06",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

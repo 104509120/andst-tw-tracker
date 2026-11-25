@@ -2,15 +2,10 @@
   "sku": "816989",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=816989",
   "salepage_id": "12266521",
   "url": "https://www.dot-st.tw/SalePage/Index/12266521",
   "title": "GLOBAL WORK女緞面拼接燈芯絨直筒長裙-四色-816989",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

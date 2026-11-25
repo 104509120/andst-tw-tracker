@@ -2,15 +2,10 @@
   "sku": "679159",
   "history": [
     {
-      "date": "2026-07-07",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=679159",
   "salepage_id": "11959236",
   "url": "https://www.dot-st.tw/SalePage/Index/11959236",
   "title": "niko and女條紋凹凸感布料寬褲長褲-三色-679159",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-07-07",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

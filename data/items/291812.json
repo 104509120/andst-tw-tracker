@@ -2,15 +2,10 @@
   "sku": "291812",
   "history": [
     {
-      "date": "2025-06-11",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=291812",
   "salepage_id": "10829940",
   "url": "https://www.dot-st.tw/SalePage/Index/10829940",
   "title": "niko and原創系列CITY CREEK半身工作圍裙-二色-291812",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2025-06-11",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

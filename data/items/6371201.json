@@ -2,15 +2,10 @@
   "sku": "6371201",
   "history": [
     {
-      "date": "2026-11-17",
-      "price": 2480
-    },
-    {
       "date": "2026-11-24",
       "price": 1455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=6371201",
   "salepage_id": "12325524",
   "url": "https://www.dot-st.tw/SalePage/Index/12325524",
   "title": "◎index女OPAQUE.CLIP袖口紗面拼接長袖上衣-三色-63712018 NT$1,455",
@@ -21,5 +16,6 @@
   "max_price": 2480,
   "listed_date": "2026-11-17",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

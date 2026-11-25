@@ -2,15 +2,10 @@
   "sku": "652849",
   "history": [
     {
-      "date": "2026-06-08",
-      "price": 430
-    },
-    {
       "date": "2026-11-24",
       "price": 430
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=652849",
   "salepage_id": "11871004",
   "url": "https://www.dot-st.tw/SalePage/Index/11871004",
   "title": "niko and趣味鬍子蓄光桌墊-二色-652849",
@@ -21,5 +16,6 @@
   "max_price": 430,
   "listed_date": "2026-06-08",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

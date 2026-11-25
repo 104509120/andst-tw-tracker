@@ -2,15 +2,10 @@
   "sku": "600208",
   "history": [
     {
-      "date": "2025-12-11",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 676
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=600208",
   "salepage_id": "11395998",
   "url": "https://www.dot-st.tw/SalePage/Index/11395998",
   "title": "repipi armario皮革長提把雙口袋手提包-五色-600208",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2025-12-11",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "328639",
   "history": [
     {
-      "date": "2025-06-19",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=328639",
   "salepage_id": "10865502",
   "url": "https://www.dot-st.tw/SalePage/Index/10865502",
   "title": "niko and女愛心鍊條吊飾鑰匙圈絎縫零錢包-十色-328639",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2025-06-19",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

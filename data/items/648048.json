@@ -2,15 +2,10 @@
   "sku": "648048",
   "history": [
     {
-      "date": "2026-03-03",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=648048",
   "salepage_id": "11588536",
   "url": "https://www.dot-st.tw/SalePage/Index/11588536",
   "title": "repipi armario【網路限定55價】側開衩蝴蝶結喇叭丹寧長褲-三色-648048",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-03-03",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

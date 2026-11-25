@@ -2,15 +2,10 @@
   "sku": "1032168",
   "history": [
     {
-      "date": "2026-07-24",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1032168",
   "salepage_id": "11997702",
   "url": "https://www.dot-st.tw/SalePage/Index/11997702",
   "title": "LAKOLE台灣製可360度旋轉2WAY桌面夾式磁吸充電風扇-二色-1032168",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-07-24",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

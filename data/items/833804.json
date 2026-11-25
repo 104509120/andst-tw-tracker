@@ -2,15 +2,10 @@
   "sku": "833804",
   "history": [
     {
-      "date": "2023-04-14",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=833804",
   "salepage_id": "8785483",
   "url": "https://www.dot-st.tw/SalePage/Index/8785483",
   "title": "studio CLIP天然木立體杯架-一色-833804",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2023-04-14",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

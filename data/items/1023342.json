@@ -2,15 +2,10 @@
   "sku": "1023342",
   "history": [
     {
-      "date": "2026-06-04",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 676
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1023342",
   "salepage_id": "11863306",
   "url": "https://www.dot-st.tw/SalePage/Index/11863306",
   "title": "JEANASIS微透羅紋亨利領短袖上衣-四色-1023342",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-06-04",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

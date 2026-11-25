@@ -2,15 +2,10 @@
   "sku": "1000098",
   "history": [
     {
-      "date": "2026-11-06",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1000098",
   "salepage_id": "12288563",
   "url": "https://www.dot-st.tw/SalePage/Index/12288563",
   "title": "studio CLIP玻璃球吊飾《CHRISTMAS 2026》-十五色-1000098",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-11-06",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "645460",
   "history": [
     {
-      "date": "2026-03-08",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 1155
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=645460",
   "salepage_id": "11599048",
   "url": "https://www.dot-st.tw/SalePage/Index/11599048",
   "title": "JEANASIS【網路限定55價】荷葉邊長版襯衫上衣-三色-645460",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11599048/0/639307647600700000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11599048/0/639312242652100000?v=1",
   "current_price": 1155,
   "original_price": 2990,
   "min_price": 1155,
   "max_price": 2990,
   "listed_date": "2026-03-08",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

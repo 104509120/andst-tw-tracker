@@ -2,15 +2,10 @@
   "sku": "1087783",
   "history": [
     {
-      "date": "2026-10-23",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1087783",
   "salepage_id": "12260791",
   "url": "https://www.dot-st.tw/SalePage/Index/12260791",
   "title": "Heather簡約高腰毛呢修身短褲-四色-1087783",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-10-23",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

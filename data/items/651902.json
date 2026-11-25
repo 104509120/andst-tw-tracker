@@ -2,15 +2,10 @@
   "sku": "651902",
   "history": [
     {
-      "date": "2026-07-17",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=651902",
   "salepage_id": "11912582",
   "url": "https://www.dot-st.tw/SalePage/Index/11912582",
   "title": "LOWRYS FARM【三麗鷗聯名】可拆式吊飾髮圈-四色-651902",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2026-07-17",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

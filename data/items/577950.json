@@ -2,15 +2,10 @@
   "sku": "577950",
   "history": [
     {
-      "date": "2026-03-19",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 147
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=577950",
   "salepage_id": "11634455",
   "url": "https://www.dot-st.tw/SalePage/Index/11634455",
   "title": "LAKOLE女愛心造型手機手腕鍊-三色-577950",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-03-19",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

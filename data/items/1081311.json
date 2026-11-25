@@ -2,15 +2,10 @@
   "sku": "1081311",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1081311",
   "salepage_id": "12270875",
   "url": "https://www.dot-st.tw/SalePage/Index/12270875",
   "title": "studio CLIP質感長提把直式托特包-四色-1081311",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

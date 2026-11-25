@@ -2,15 +2,10 @@
   "sku": "1063243",
   "history": [
     {
-      "date": "2026-10-21",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1063243",
   "salepage_id": "12256447",
   "url": "https://www.dot-st.tw/SalePage/Index/12256447",
   "title": "niko and閃閃動物紋路2027年月記事手帳B6-三色-1063243",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-10-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

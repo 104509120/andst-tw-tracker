@@ -2,15 +2,10 @@
   "sku": "873914",
   "history": [
     {
-      "date": "2026-07-08",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=873914",
   "salepage_id": "11962131",
   "url": "https://www.dot-st.tw/SalePage/Index/11962131",
   "title": "PAGEBOY女亮皮皮革釦環肩背大包-二色-873914",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2026-07-08",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

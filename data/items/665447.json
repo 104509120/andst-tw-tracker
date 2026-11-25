@@ -2,15 +2,10 @@
   "sku": "665447",
   "history": [
     {
-      "date": "2026-06-26",
-      "price": 780
-    },
-    {
       "date": "2026-11-24",
       "price": 780
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=665447",
   "salepage_id": "11931634",
   "url": "https://www.dot-st.tw/SalePage/Index/11931634",
   "title": "niko and品牌LOGO不鏽鋼手提保溫瓶480ml-二色-665447",
@@ -21,5 +16,6 @@
   "max_price": 780,
   "listed_date": "2026-06-26",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

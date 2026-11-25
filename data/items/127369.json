@@ -2,15 +2,10 @@
   "sku": "127369",
   "history": [
     {
-      "date": "2025-02-14",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 745
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=127369",
   "salepage_id": "10513770",
   "url": "https://www.dot-st.tw/SalePage/Index/10513770",
   "title": "LAKOLE【新色到】女金屬鈕扣迷你錢包皮革短夾-六色-127369",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2025-02-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,24 @@
   "sku": "1075111",
   "history": [
     {
-      "date": "2026-09-24",
+      "date": "2026-11-24",
       "price": 2990
     },
     {
-      "date": "2026-11-24",
-      "price": 2990
+      "date": "2026-11-25",
+      "price": 2090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1075111",
   "salepage_id": "12185007",
   "url": "https://www.dot-st.tw/SalePage/Index/12185007",
   "title": "JEANASIS半拉鍊異材質寬版大學T-四色-1075111",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12185007/0/639307887612270000?v=1",
-  "current_price": 2990,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12185007/0/639312240640930000?v=1",
+  "current_price": 2090,
   "original_price": 2990,
-  "min_price": 2990,
+  "min_price": 2090,
   "max_price": 2990,
   "listed_date": "2026-09-24",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

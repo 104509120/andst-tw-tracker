@@ -2,15 +2,10 @@
   "sku": "580230",
   "history": [
     {
-      "date": "2025-10-09",
-      "price": 340
-    },
-    {
       "date": "2026-11-24",
       "price": 340
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=580230",
   "salepage_id": "11213513",
   "url": "https://www.dot-st.tw/SalePage/Index/11213513",
   "title": "niko and女透明球墜飾耳針式耳環-二色-580230",
@@ -21,5 +16,6 @@
   "max_price": 340,
   "listed_date": "2025-10-09",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

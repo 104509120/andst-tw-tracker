@@ -2,15 +2,10 @@
   "sku": "613704",
   "history": [
     {
-      "date": "2026-03-05",
-      "price": 270
-    },
-    {
       "date": "2026-11-24",
       "price": 270
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=613704",
   "salepage_id": "11594114",
   "url": "https://www.dot-st.tw/SalePage/Index/11594114",
   "title": "niko and可愛造型骰子鑰匙圈-二色-613704",
@@ -21,5 +16,6 @@
   "max_price": 270,
   "listed_date": "2026-03-05",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

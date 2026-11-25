@@ -2,15 +2,10 @@
   "sku": "749673",
   "history": [
     {
-      "date": "2026-06-02",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=749673",
   "salepage_id": "11856188",
   "url": "https://www.dot-st.tw/SalePage/Index/11856188",
   "title": "RAGEBLUE男可拆式吊飾登山扣鑰匙圈-五色-749673",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-06-02",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1052180",
   "history": [
     {
-      "date": "2026-09-18",
-      "price": 8690
-    },
-    {
       "date": "2026-11-24",
       "price": 4355
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1052180",
   "salepage_id": "12169922",
   "url": "https://www.dot-st.tw/SalePage/Index/12169922",
   "title": "HARE【網路限定55價】男光澤感霧光塗層短版丹寧外套-二色-1052180",
@@ -21,5 +16,6 @@
   "max_price": 8690,
   "listed_date": "2026-09-18",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

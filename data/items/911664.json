@@ -2,24 +2,20 @@
   "sku": "911664",
   "history": [
     {
-      "date": "2026-09-09",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=911664",
   "salepage_id": "12142583",
   "url": "https://www.dot-st.tw/SalePage/Index/12142583",
   "title": "GLOBAL WORK【網路限定55價】女休閒質感針織感寬版長褲-三色-911664",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12142583/0/639307726958300000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12142583/0/639312242782500000?v=1",
   "current_price": 655,
   "original_price": 1490,
   "min_price": 655,
   "max_price": 1490,
   "listed_date": "2026-09-09",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

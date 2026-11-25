@@ -2,15 +2,10 @@
   "sku": "877684",
   "history": [
     {
-      "date": "2026-06-25",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1055
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=877684",
   "salepage_id": "11927928",
   "url": "https://www.dot-st.tw/SalePage/Index/11927928",
   "title": "PAGEBOY【網路限定55價】接觸涼感下襬抽繩綁帶短版襯衫上衣-三色-877684",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-06-25",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

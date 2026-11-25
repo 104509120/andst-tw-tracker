@@ -2,15 +2,10 @@
   "sku": "579566",
   "history": [
     {
-      "date": "2025-07-30",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=579566",
   "salepage_id": "10990979",
   "url": "https://www.dot-st.tw/SalePage/Index/10990979",
   "title": "repipi armario街頭風寬鬆丹寧五分褲 -三色-579566",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2025-07-30",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

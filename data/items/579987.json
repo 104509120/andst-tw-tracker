@@ -2,15 +2,10 @@
   "sku": "579987",
   "history": [
     {
-      "date": "2025-08-26",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 845
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=579987",
   "salepage_id": "11053661",
   "url": "https://www.dot-st.tw/SalePage/Index/11053661",
   "title": "niko and女2WAY荷葉邊刺繡細肩背心短裙-三色-579987",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2025-08-26",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

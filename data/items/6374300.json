@@ -2,15 +2,10 @@
   "sku": "6374300",
   "history": [
     {
-      "date": "2026-09-07",
-      "price": 4280
-    },
-    {
       "date": "2026-11-24",
       "price": 2996
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=6374300",
   "salepage_id": "12130795",
   "url": "https://www.dot-st.tw/SalePage/Index/12130795",
   "title": "◎index女OPAQUE.CLIP透膚燈籠袖外套-兩色-63743004 NT$2,996",
@@ -21,5 +16,6 @@
   "max_price": 4280,
   "listed_date": "2026-09-07",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

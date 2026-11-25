@@ -2,24 +2,20 @@
   "sku": "634608",
   "history": [
     {
-      "date": "2026-01-22",
-      "price": 5290
-    },
-    {
       "date": "2026-11-24",
       "price": 2890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=634608",
   "salepage_id": "11504702",
   "url": "https://www.dot-st.tw/SalePage/Index/11504702",
   "title": "JEANASIS仿皮收腰設計連帽外套-三色-634608",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11504702/0/639300744430070000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11504702/0/639312242634300000?v=1",
   "current_price": 2890,
   "original_price": 5290,
   "min_price": 2890,
   "max_price": 5290,
   "listed_date": "2026-01-22",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

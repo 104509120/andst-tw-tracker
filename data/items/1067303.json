@@ -2,15 +2,10 @@
   "sku": "1067303",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 2755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1067303",
   "salepage_id": "12273044",
   "url": "https://www.dot-st.tw/SalePage/Index/12273044",
   "title": "PAGEBOY【網路限定55價】不規則拼接設計魚尾長裙-二色-1067303",
@@ -21,5 +16,6 @@
   "max_price": 2990,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

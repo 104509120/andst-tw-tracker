@@ -2,15 +2,10 @@
   "sku": "0855400",
   "history": [
     {
-      "date": "2026-11-16",
-      "price": 9980
-    },
-    {
       "date": "2026-11-24",
       "price": 6055
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=0855400",
   "salepage_id": "12320799",
   "url": "https://www.dot-st.tw/SalePage/Index/12320799",
   "title": "◎index女DRESSTERIOR雙層織布澎袖洋裝-二色-08554008 NT$6,055",
@@ -21,5 +16,6 @@
   "max_price": 9980,
   "listed_date": "2026-11-16",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

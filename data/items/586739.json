@@ -2,15 +2,10 @@
   "sku": "586739",
   "history": [
     {
-      "date": "2026-07-03",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=586739",
   "salepage_id": "11947385",
   "url": "https://www.dot-st.tw/SalePage/Index/11947385",
   "title": "LAKOLE粗線編織衛生紙盒-二色-586739",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-07-03",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "580462",
   "history": [
     {
-      "date": "2026-03-16",
-      "price": 3490
-    },
-    {
       "date": "2026-11-24",
       "price": 2792
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=580462",
   "salepage_id": "11620895",
   "url": "https://www.dot-st.tw/SalePage/Index/11620895",
   "title": "studio CLIP天然木製紋理邊桌【daily CLIP】《輕傢俱》-一色-580462",
@@ -21,5 +16,6 @@
   "max_price": 3490,
   "listed_date": "2026-03-16",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

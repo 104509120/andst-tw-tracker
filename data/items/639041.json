@@ -2,15 +2,10 @@
   "sku": "639041",
   "history": [
     {
-      "date": "2026-03-18",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 316
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=639041",
   "salepage_id": "11630710",
   "url": "https://www.dot-st.tw/SalePage/Index/11630710",
   "title": "repipi armario日常休閒純棉字母T恤上衣-八色-639041",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-03-18",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

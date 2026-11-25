@@ -2,12 +2,11 @@
   "sku": "1050932",
   "history": [
     {
-      "date": "2026-11-12",
+      "date": "2026-11-25",
       "price": 490
     }
   ],
   "listed_date": "2026-11-12",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1050932",
   "salepage_id": "12302585",
   "url": "https://www.dot-st.tw/SalePage/Index/12302585",
   "title": "studio CLIP廚房按壓式洗劑分注器《HOUSEHOLD GOODS》-一色-1050932",
@@ -17,5 +16,6 @@
   "min_price": 490,
   "max_price": 490,
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-25"
 }

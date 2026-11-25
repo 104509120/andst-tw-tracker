@@ -2,15 +2,10 @@
   "sku": "1080971",
   "history": [
     {
-      "date": "2026-10-08",
-      "price": 3690
-    },
-    {
       "date": "2026-11-24",
       "price": 2583
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1080971",
   "salepage_id": "12224829",
   "url": "https://www.dot-st.tw/SalePage/Index/12224829",
   "title": "JEANASIS復古柔軟大容量翻蓋肩背包-二色-1080971",
@@ -21,5 +16,6 @@
   "max_price": 3690,
   "listed_date": "2026-10-08",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

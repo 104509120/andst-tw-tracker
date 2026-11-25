@@ -2,15 +2,10 @@
   "sku": "1045139",
   "history": [
     {
-      "date": "2026-07-09",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 796
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1045139",
   "salepage_id": "11965382",
   "url": "https://www.dot-st.tw/SalePage/Index/11965382",
   "title": "JEANASIS透膚羅紋抽皺短袖開襟上衣-四色-1045139",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-07-09",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

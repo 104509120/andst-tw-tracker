@@ -2,15 +2,10 @@
   "sku": "817067",
   "history": [
     {
-      "date": "2026-08-19",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1043
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=817067",
   "salepage_id": "12078534",
   "url": "https://www.dot-st.tw/SalePage/Index/12078534",
   "title": "niko and女素色條紋刺繡短袖T恤上衣-三色-817067",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-08-19",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,22 +2,24 @@
   "sku": "1050424",
   "history": [
     {
-      "date": "2026-09-15",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
+    },
+    {
+      "date": "2026-11-25",
+      "price": 1596
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1050424",
   "salepage_id": "12156764",
   "url": "https://www.dot-st.tw/SalePage/Index/12156764",
   "title": "JEANASIS刺繡加工寬版直筒牛仔丹寧褲-二色-1050424",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12156764/0/639307793267230000?v=1",
-  "current_price": 2290,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12156764/0/639312240625130000?v=1",
+  "current_price": 1596,
   "original_price": 3990,
-  "min_price": 2290,
+  "min_price": 1596,
   "max_price": 3990,
-  "listed_date": "2026-09-15"
+  "listed_date": "2026-09-15",
+  "updated_at": "2026-11-25",
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

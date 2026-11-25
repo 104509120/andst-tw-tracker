@@ -2,24 +2,20 @@
   "sku": "1044026",
   "history": [
     {
-      "date": "2026-09-16",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 2690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1044026",
   "salepage_id": "12160317",
   "url": "https://www.dot-st.tw/SalePage/Index/12160317",
   "title": "LOWRYS FARM女厚底彈性高跟短靴-二色-1044026",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12160317/0/639300916785570000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12160317/0/639312229378370000?v=1",
   "current_price": 2690,
   "original_price": 2690,
   "min_price": 2690,
   "max_price": 2690,
   "listed_date": "2026-09-16",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

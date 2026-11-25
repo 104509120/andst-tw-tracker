@@ -2,15 +2,10 @@
   "sku": "821540",
   "history": [
     {
-      "date": "2026-11-12",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 2490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=821540",
   "salepage_id": "12302939",
   "url": "https://www.dot-st.tw/SalePage/Index/12302939",
   "title": "GLOBAL WORK男URBAN CLEAN保暖內刷毛寬版西裝長褲-四色-821540",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-11-12",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

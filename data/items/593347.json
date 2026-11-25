@@ -2,15 +2,10 @@
   "sku": "593347",
   "history": [
     {
-      "date": "2025-12-11",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 745
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=593347",
   "salepage_id": "11397956",
   "url": "https://www.dot-st.tw/SalePage/Index/11397956",
   "title": "repipi armario童厚底麂皮毛絨靴-一色-593347",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2025-12-11",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

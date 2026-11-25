@@ -2,15 +2,10 @@
   "sku": "629968",
   "history": [
     {
-      "date": "2026-10-02",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 2990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=629968",
   "salepage_id": "12208154",
   "url": "https://www.dot-st.tw/SalePage/Index/12208154",
   "title": "LOWRYS FARM【LFM(U)】男女UNISEX系列刺繡抽繩寬版直筒大學褲-四色-629968",
@@ -21,5 +16,6 @@
   "max_price": 2990,
   "listed_date": "2026-10-02",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

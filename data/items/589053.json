@@ -2,15 +2,10 @@
   "sku": "589053",
   "history": [
     {
-      "date": "2026-03-06",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 145
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=589053",
   "salepage_id": "11596305",
   "url": "https://www.dot-st.tw/SalePage/Index/11596305",
   "title": "LAKOLE女星星耳針式耳環-二色-589053",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-03-06",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

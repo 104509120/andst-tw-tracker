@@ -2,15 +2,10 @@
   "sku": "293075",
   "history": [
     {
-      "date": "2025-03-26",
-      "price": 230
-    },
-    {
       "date": "2026-11-24",
       "price": 230
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=293075",
   "salepage_id": "10628573",
   "url": "https://www.dot-st.tw/SalePage/Index/10628573",
   "title": "niko and原創BILLY熊隨身四格藥盒-二色-293075",
@@ -21,5 +16,6 @@
   "max_price": 230,
   "listed_date": "2025-03-26",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

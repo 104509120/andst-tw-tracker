@@ -2,15 +2,10 @@
   "sku": "643395",
   "history": [
     {
-      "date": "2026-04-08",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 345
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=643395",
   "salepage_id": "11690425",
   "url": "https://www.dot-st.tw/SalePage/Index/11690425",
   "title": "GLOBAL WORK童亞麻打摺寬版短褲(100cm-120cm)-二色-643395",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-04-08",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

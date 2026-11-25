@@ -2,24 +2,20 @@
   "sku": "869664",
   "history": [
     {
-      "date": "2026-08-21",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=869664",
   "salepage_id": "12090429",
   "url": "https://www.dot-st.tw/SalePage/Index/12090429",
   "title": "LAKOLE【網路限定55價】男輕盈牛仔丹寧休閒長褲-三色-869664",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12090429/0/639307650298770000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12090429/0/639312242749830000?v=1",
   "current_price": 555,
   "original_price": 1690,
   "min_price": 555,
   "max_price": 1690,
   "listed_date": "2026-08-21",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

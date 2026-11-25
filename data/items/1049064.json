@@ -2,24 +2,24 @@
   "sku": "1049064",
   "history": [
     {
-      "date": "2026-09-16",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 1355
+    },
+    {
+      "date": "2026-11-25",
+      "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1049064",
   "salepage_id": "12160322",
   "url": "https://www.dot-st.tw/SalePage/Index/12160322",
-  "title": "LOWRYS FARM【網路限定55價】女層次穿搭襯衫與背心二件組-三色-1049064",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12160322/0/639307647537770000?v=1",
-  "current_price": 1355,
+  "title": "LOWRYS FARM女層次穿搭襯衫與背心二件組-三色-1049064",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12160322/0/639312243656830000?v=1",
+  "current_price": 1490,
   "original_price": 2490,
   "min_price": 1355,
   "max_price": 2490,
   "listed_date": "2026-09-16",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1054648",
   "history": [
     {
-      "date": "2026-09-04",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1054648",
   "salepage_id": "12131032",
   "url": "https://www.dot-st.tw/SalePage/Index/12131032",
   "title": "PAGEBOY袖部蕾絲拼接透膚套指長袖上衣-三色-1054648",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-09-04",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

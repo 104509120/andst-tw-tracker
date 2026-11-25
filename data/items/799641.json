@@ -2,15 +2,10 @@
   "sku": "799641",
   "history": [
     {
-      "date": "2026-11-04",
-      "price": 510
-    },
-    {
       "date": "2026-11-24",
       "price": 510
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=799641",
   "salepage_id": "12281425",
   "url": "https://www.dot-st.tw/SalePage/Index/12281425",
   "title": "niko and聖誕裝飾Xmas復古風彩繪吊飾-二款-799641",
@@ -21,5 +16,6 @@
   "max_price": 510,
   "listed_date": "2026-11-04",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

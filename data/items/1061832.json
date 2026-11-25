@@ -2,15 +2,10 @@
   "sku": "1061832",
   "history": [
     {
-      "date": "2026-09-24",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1061832",
   "salepage_id": "12183653",
   "url": "https://www.dot-st.tw/SalePage/Index/12183653",
   "title": "GLOBAL WORK女多WAY編織繩銀珠手機掛繩-四色-1061832",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-09-24",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "639521",
   "history": [
     {
-      "date": "2026-01-14",
-      "price": 4590
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=639521",
   "salepage_id": "11481041",
   "url": "https://www.dot-st.tw/SalePage/Index/11481041",
   "title": "HARE女花朵圖樣網紗層次片裙感長裙-三色-639521",
@@ -21,5 +16,6 @@
   "max_price": 4590,
   "listed_date": "2026-01-14",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

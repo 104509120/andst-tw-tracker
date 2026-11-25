@@ -2,15 +2,10 @@
   "sku": "1054664",
   "history": [
     {
-      "date": "2026-09-22",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1355
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1054664",
   "salepage_id": "12177395",
   "url": "https://www.dot-st.tw/SalePage/Index/12177395",
   "title": "PAGEBOY【網路限定55價】蕾絲亨利領2WAY上衣-四色-1054664",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-09-22",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

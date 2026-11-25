@@ -2,15 +2,10 @@
   "sku": "150064",
   "history": [
     {
-      "date": "2025-02-26",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=150064",
   "salepage_id": "10546801",
   "url": "https://www.dot-st.tw/SalePage/Index/10546801",
   "title": "LAKOLE防水造型吸盤式時鐘-二色-150064",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2025-02-26",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

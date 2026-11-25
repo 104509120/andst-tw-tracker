@@ -2,15 +2,10 @@
   "sku": "1084935",
   "history": [
     {
-      "date": "2026-11-12",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 1890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1084935",
   "salepage_id": "12304231",
   "url": "https://www.dot-st.tw/SalePage/Index/12304231",
   "title": "LEPSIM柔軟微光澤打褶弧形2WAY肩背包-二色-1084935",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2026-11-12",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "907816",
   "history": [
     {
-      "date": "2024-10-14",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 203
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=907816",
   "salepage_id": "10169268",
   "url": "https://www.dot-st.tw/SalePage/Index/10169268",
   "title": "LAKOLE可調節多功能專用手柄桿-一色-907816",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2024-10-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

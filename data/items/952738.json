@@ -2,15 +2,10 @@
   "sku": "952738",
   "history": [
     {
-      "date": "2023-11-15",
-      "price": 700
-    },
-    {
       "date": "2026-11-24",
       "price": 700
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=952738",
   "salepage_id": "9339279",
   "url": "https://www.dot-st.tw/SalePage/Index/9339279",
   "title": "niko and設計師品牌Fishs Eddy貓咪摺疊收納手提袋-一色-952738",
@@ -21,5 +16,6 @@
   "max_price": 700,
   "listed_date": "2023-11-15",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

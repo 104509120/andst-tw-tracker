@@ -2,15 +2,10 @@
   "sku": "1057343",
   "history": [
     {
-      "date": "2026-08-27",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1057343",
   "salepage_id": "12107232",
   "url": "https://www.dot-st.tw/SalePage/Index/12107232",
   "title": "Heather復古雙排釦寬版短袖西裝外套-二色-1057343",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-08-27",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

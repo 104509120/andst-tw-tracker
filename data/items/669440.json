@@ -2,15 +2,10 @@
   "sku": "669440",
   "history": [
     {
-      "date": "2026-04-23",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=669440",
   "salepage_id": "11730681",
   "url": "https://www.dot-st.tw/SalePage/Index/11730681",
   "title": "RAGEBLUE【網路限定55價】男女率性扣環設計寬版打褶五分短褲-二色-669440",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-04-23",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

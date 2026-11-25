@@ -2,15 +2,10 @@
   "sku": "578333",
   "history": [
     {
-      "date": "2025-10-01",
-      "price": 580
-    },
-    {
       "date": "2026-11-24",
       "price": 406
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=578333",
   "salepage_id": "11150971",
   "url": "https://www.dot-st.tw/SalePage/Index/11150971",
   "title": "niko and【8周年限定企劃Kurt Wu聯名】毛巾-二色-578333",
@@ -21,5 +16,6 @@
   "max_price": 580,
   "listed_date": "2025-10-01",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

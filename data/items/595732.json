@@ -2,15 +2,10 @@
   "sku": "595732",
   "history": [
     {
-      "date": "2026-01-25",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=595732",
   "salepage_id": "11510064",
   "url": "https://www.dot-st.tw/SalePage/Index/11510064",
   "title": "LAKOLE日本製美濃燒半月型餐盤-二色-595732",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-01-25",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "671862",
   "history": [
     {
-      "date": "2026-11-04",
-      "price": 180
-    },
-    {
       "date": "2026-11-24",
       "price": 180
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=671862",
   "salepage_id": "12281402",
   "url": "https://www.dot-st.tw/SalePage/Index/12281402",
   "title": "niko and聖誕裝飾Xmas星星造型玻璃珠杯墊-二色-671862",
@@ -21,5 +16,6 @@
   "max_price": 180,
   "listed_date": "2026-11-04",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

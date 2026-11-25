@@ -2,24 +2,20 @@
   "sku": "647499",
   "history": [
     {
-      "date": "2026-02-24",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647499",
   "salepage_id": "11572691",
   "url": "https://www.dot-st.tw/SalePage/Index/11572691",
   "title": "repipi armario【網路限定55價】復古AcidWash寬鬆長袖T恤上衣-五色-647499",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11572691/0/639307656406530000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11572691/0/639312242497970000?v=1",
   "current_price": 555,
   "original_price": 1490,
   "min_price": 555,
   "max_price": 1490,
   "listed_date": "2026-02-24",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

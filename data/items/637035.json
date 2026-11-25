@@ -2,15 +2,10 @@
   "sku": "637035",
   "history": [
     {
-      "date": "2026-03-04",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 796
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=637035",
   "salepage_id": "11589811",
   "url": "https://www.dot-st.tw/SalePage/Index/11589811",
   "title": "studio CLIP 率性打摺設計錐形寬長褲-四色-637035",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-03-04",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "452429",
   "history": [
     {
-      "date": "2026-04-07",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 156
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=452429",
   "salepage_id": "11684271",
   "url": "https://www.dot-st.tw/SalePage/Index/11684271",
   "title": "LAKOLE日本製山中塗樹脂製蕎麥麵盤-二色-452429",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-04-07",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

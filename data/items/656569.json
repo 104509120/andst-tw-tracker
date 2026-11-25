@@ -2,15 +2,10 @@
   "sku": "656569",
   "history": [
     {
-      "date": "2026-05-04",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=656569",
   "salepage_id": "11763779",
   "url": "https://www.dot-st.tw/SalePage/Index/11763779",
   "title": "niko and女愛心珍珠耳針式耳環二套組-二色-656569",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-05-04",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

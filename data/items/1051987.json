@@ -2,24 +2,24 @@
   "sku": "1051987",
   "history": [
     {
-      "date": "2026-08-25",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 855
+    },
+    {
+      "date": "2026-11-25",
+      "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1051987",
   "salepage_id": "12100541",
   "url": "https://www.dot-st.tw/SalePage/Index/12100541",
-  "title": "LOWRYS FARM【網路限定55價】女立體打褶弧形寬版長褲-二色-1051987",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12100541/0/639311392692500000?v=1",
-  "current_price": 855,
+  "title": "LOWRYS FARM女立體打褶弧形寬版長褲-二色-1051987",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12100541/0/639312243153730000?v=1",
+  "current_price": 990,
   "original_price": 2990,
   "min_price": 855,
   "max_price": 2990,
   "listed_date": "2026-08-25",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

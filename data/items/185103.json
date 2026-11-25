@@ -2,24 +2,20 @@
   "sku": "185103",
   "history": [
     {
-      "date": "2023-03-08",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 1955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=185103",
   "salepage_id": "8704380",
   "url": "https://www.dot-st.tw/SalePage/Index/8704380",
   "title": "HARE【網路限定55價】男日本製經典好搭款紳士皮鞋-一色-185103",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/8704380/0/639307653236200000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/8704380/0/639312242845100000?v=1",
   "current_price": 1955,
   "original_price": 3990,
   "min_price": 1955,
   "max_price": 3990,
   "listed_date": "2023-03-08",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

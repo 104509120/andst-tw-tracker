@@ -2,15 +2,10 @@
   "sku": "240720",
   "history": [
     {
-      "date": "2025-04-23",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1393
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=240720",
   "salepage_id": "10702486",
   "url": "https://www.dot-st.tw/SalePage/Index/10702486",
   "title": "niko and女車縫線不易皺褲管抽繩附腰帶長褲-六色-240720",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2025-04-23",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

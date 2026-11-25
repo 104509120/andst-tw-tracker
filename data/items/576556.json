@@ -2,15 +2,10 @@
   "sku": "576556",
   "history": [
     {
-      "date": "2025-10-17",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=576556",
   "salepage_id": "11234437",
   "url": "https://www.dot-st.tw/SalePage/Index/11234437",
   "title": "LAKOLE柔和針織手提托特包《FLOWER系列》-三色-576556",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2025-10-17",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

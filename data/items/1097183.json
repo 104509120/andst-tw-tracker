@@ -2,15 +2,10 @@
   "sku": "1097183",
   "history": [
     {
-      "date": "2026-11-09",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 2690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1097183",
   "salepage_id": "12291899",
   "url": "https://www.dot-st.tw/SalePage/Index/12291899",
   "title": "LEPSIM異材質拼接不規則下襬針織上衣-三色-1097183",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2026-11-09",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

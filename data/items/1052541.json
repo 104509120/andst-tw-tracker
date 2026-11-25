@@ -2,15 +2,10 @@
   "sku": "1052541",
   "history": [
     {
-      "date": "2026-08-26",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 1955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1052541",
   "salepage_id": "12101533",
   "url": "https://www.dot-st.tw/SalePage/Index/12101533",
   "title": "HARE【網路限定55價】男透膚印花薄紗長袖襯衫上衣-三色-1052541",
@@ -21,5 +16,6 @@
   "max_price": 3990,
   "listed_date": "2026-08-26",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

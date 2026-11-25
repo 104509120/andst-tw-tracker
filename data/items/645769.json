@@ -2,15 +2,10 @@
   "sku": "645769",
   "history": [
     {
-      "date": "2026-03-25",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 355
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=645769",
   "salepage_id": "11657748",
   "url": "https://www.dot-st.tw/SalePage/Index/11657748",
   "title": "LAKOLE【網路限定55價】男吸濕速乾拼接短袖襯衫上衣-五色-645769",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-03-25",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

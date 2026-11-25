@@ -2,15 +2,10 @@
   "sku": "902333",
   "history": [
     {
-      "date": "2026-11-05",
-      "price": 310
-    },
-    {
       "date": "2026-11-24",
       "price": 310
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=902333",
   "salepage_id": "12283267",
   "url": "https://www.dot-st.tw/SalePage/Index/12283267",
   "title": "niko and聖誕裝飾Xmas閃亮方格裝飾球吊飾-五色-902333",
@@ -21,5 +16,6 @@
   "max_price": 310,
   "listed_date": "2026-11-05",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

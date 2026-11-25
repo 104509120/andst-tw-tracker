@@ -2,15 +2,10 @@
   "sku": "7684400",
   "history": [
     {
-      "date": "2026-10-06",
-      "price": 3880
-    },
-    {
       "date": "2026-11-24",
       "price": 2655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=7684400",
   "salepage_id": "12287496",
   "url": "https://www.dot-st.tw/SalePage/Index/12287496",
   "title": "◎index女grove俐落粗花呢短版外套-二色-76844006 NT$2,655",
@@ -21,5 +16,6 @@
   "max_price": 3880,
   "listed_date": "2026-10-06",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

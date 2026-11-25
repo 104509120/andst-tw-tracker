@@ -2,15 +2,10 @@
   "sku": "1046973",
   "history": [
     {
-      "date": "2026-10-15",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1046973",
   "salepage_id": "12220890",
   "url": "https://www.dot-st.tw/SalePage/Index/12220890",
   "title": "studio CLIP【亂馬1/2聯名】二段蒸籠-一色-1046973",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-10-15",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1074892",
   "history": [
     {
-      "date": "2026-10-08",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1074892",
   "salepage_id": "12221938",
   "url": "https://www.dot-st.tw/SalePage/Index/12221938",
   "title": "RAGEBLUE【網路限定55價】男復古刷色寬版直筒休閒長褲-二色-1074892",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2026-10-08",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

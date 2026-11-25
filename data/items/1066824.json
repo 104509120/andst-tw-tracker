@@ -2,24 +2,20 @@
   "sku": "1066824",
   "history": [
     {
-      "date": "2026-09-23",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 2755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1066824",
   "salepage_id": "12179637",
   "url": "https://www.dot-st.tw/SalePage/Index/12179637",
   "title": "RAGEBLUE【網路限定55價】男立體翻褶設計寬版西裝長褲-二色-1066824",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12179637/0/639307775015470000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12179637/0/639312242799600000?v=1",
   "current_price": 2755,
   "original_price": 2990,
   "min_price": 2755,
   "max_price": 2990,
   "listed_date": "2026-09-23",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,24 @@
   "sku": "1051047",
   "history": [
     {
-      "date": "2026-08-20",
-      "price": 3290
-    },
-    {
       "date": "2026-11-24",
       "price": 1890
+    },
+    {
+      "date": "2026-11-25",
+      "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1051047",
   "salepage_id": "12086867",
   "url": "https://www.dot-st.tw/SalePage/Index/12086867",
   "title": "JEANASIS透膚花卉網眼連帽外套-三色-1051047",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12086867/0/639300744427330000?v=1",
-  "current_price": 1890,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12086867/0/639312242749830000?v=1",
+  "current_price": 1490,
   "original_price": 3290,
-  "min_price": 1890,
+  "min_price": 1490,
   "max_price": 3290,
   "listed_date": "2026-08-20",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

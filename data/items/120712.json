@@ -2,15 +2,10 @@
   "sku": "120712",
   "history": [
     {
-      "date": "2024-10-14",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 145
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=120712",
   "salepage_id": "10162598",
   "url": "https://www.dot-st.tw/SalePage/Index/10162598",
   "title": "LAKOLE【新色到】女可愛金屬感針式耳環5入一組-二色-120712",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2024-10-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "976552",
   "history": [
     {
-      "date": "2023-10-27",
-      "price": 310
-    },
-    {
       "date": "2026-11-24",
       "price": 310
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=976552",
   "salepage_id": "9287456",
   "url": "https://www.dot-st.tw/SalePage/Index/9287456",
   "title": "niko and品牌LOGO環保筷子附收納盒-二色-976552",
@@ -21,5 +16,6 @@
   "max_price": 310,
   "listed_date": "2023-10-27",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

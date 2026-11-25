@@ -2,15 +2,10 @@
   "sku": "5081350",
   "history": [
     {
-      "date": "2026-09-07",
-      "price": 2680
-    },
-    {
       "date": "2026-11-24",
       "price": 1876
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=5081350",
   "salepage_id": "12130868",
   "url": "https://www.dot-st.tw/SalePage/Index/12130868",
   "title": "◎index女Couture Brooch縷空蕾絲荷葉袖上衣-三色-50813502 NT$1,876",
@@ -21,5 +16,6 @@
   "max_price": 2680,
   "listed_date": "2026-09-07",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

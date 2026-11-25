@@ -2,15 +2,10 @@
   "sku": "644732",
   "history": [
     {
-      "date": "2026-05-29",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 396
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=644732",
   "salepage_id": "11846342",
   "url": "https://www.dot-st.tw/SalePage/Index/11846342",
   "title": "LAKOLE女撞色鏤空編織帽-三色-644732",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-05-29",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

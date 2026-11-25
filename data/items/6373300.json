@@ -2,15 +2,10 @@
   "sku": "6373300",
   "history": [
     {
-      "date": "2026-09-07",
-      "price": 2780
-    },
-    {
       "date": "2026-11-24",
       "price": 1946
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=6373300",
   "salepage_id": "12130792",
   "url": "https://www.dot-st.tw/SalePage/Index/12130792",
   "title": "◎index女OPAQUE.CLIP五分袖針織開襟衫-兩色-63733004 NT$1,946",
@@ -21,5 +16,6 @@
   "max_price": 2780,
   "listed_date": "2026-09-07",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

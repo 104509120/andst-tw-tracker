@@ -2,15 +2,10 @@
   "sku": "759884",
   "history": [
     {
-      "date": "2026-07-30",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=759884",
   "salepage_id": "11998918",
   "url": "https://www.dot-st.tw/SalePage/Index/11998918",
   "title": "repipi armario【HELLO KITTY聯名】童多種造型玩偶吊飾-三色-759884",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-07-30",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

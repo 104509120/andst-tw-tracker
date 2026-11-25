@@ -2,15 +2,10 @@
   "sku": "826520",
   "history": [
     {
-      "date": "2026-09-24",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=826520",
   "salepage_id": "12183628",
   "url": "https://www.dot-st.tw/SalePage/Index/12183628",
   "title": "GLOBAL WORK男女舒適彈性翻領開襟衫外套-三色-826520",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-09-24",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

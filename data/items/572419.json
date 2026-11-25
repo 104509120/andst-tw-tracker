@@ -2,15 +2,10 @@
   "sku": "572419",
   "history": [
     {
-      "date": "2025-07-24",
-      "price": 400
-    },
-    {
       "date": "2026-11-24",
       "price": 280
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=572419",
   "salepage_id": "10975199",
   "url": "https://www.dot-st.tw/SalePage/Index/10975199",
   "title": "repipi armario愛心彈性編織頸圈-四色-572419",
@@ -21,5 +16,6 @@
   "max_price": 400,
   "listed_date": "2025-07-24",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

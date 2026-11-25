@@ -2,15 +2,10 @@
   "sku": "806467",
   "history": [
     {
-      "date": "2026-06-04",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 596
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=806467",
   "salepage_id": "11861901",
   "url": "https://www.dot-st.tw/SalePage/Index/11861901",
   "title": "repipi armario蕾絲雙拉鍊短袖連帽外套-二色-806467",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-06-04",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "666561",
   "history": [
     {
-      "date": "2026-05-22",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=666561",
   "salepage_id": "11817069",
   "url": "https://www.dot-st.tw/SalePage/Index/11817069",
   "title": "LAKOLE【網路限定55價】男俐落簡約霧面微皺T恤上衣-四色-666561",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11817069/0/639307650302070000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11817069/0/639312242701200000?v=1",
   "current_price": 455,
   "original_price": 1290,
   "min_price": 455,
   "max_price": 1290,
   "listed_date": "2026-05-22",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

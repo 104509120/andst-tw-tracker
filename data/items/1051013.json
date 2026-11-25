@@ -2,15 +2,10 @@
   "sku": "1051013",
   "history": [
     {
-      "date": "2026-11-12",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1051013",
   "salepage_id": "12302586",
   "url": "https://www.dot-st.tw/SalePage/Index/12302586",
   "title": "studio CLIP花卉長柄遮陽直傘【抗UV/晴雨兩用/遮熱】-二色-1051013",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-11-12",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

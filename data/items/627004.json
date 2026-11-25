@@ -2,15 +2,10 @@
   "sku": "627004",
   "history": [
     {
-      "date": "2025-12-11",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=627004",
   "salepage_id": "11397636",
   "url": "https://www.dot-st.tw/SalePage/Index/11397636",
   "title": "LEPSIM針織袖口羅紋絨毛開襟罩衫上衣-三色-627004",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2025-12-11",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

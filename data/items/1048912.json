@@ -2,24 +2,20 @@
   "sku": "1048912",
   "history": [
     {
-      "date": "2026-09-24",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1048912",
   "salepage_id": "12181954",
   "url": "https://www.dot-st.tw/SalePage/Index/12181954",
   "title": "LOWRYS FARM童華夫格彈性休閒長褲-四色-1048912",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12181954/0/639289581935030000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12181954/0/639312229426330000?v=1",
   "current_price": 590,
   "original_price": 590,
   "min_price": 590,
   "max_price": 590,
   "listed_date": "2026-09-24",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

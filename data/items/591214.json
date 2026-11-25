@@ -2,15 +2,10 @@
   "sku": "591214",
   "history": [
     {
-      "date": "2026-05-06",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=591214",
   "salepage_id": "11770701",
   "url": "https://www.dot-st.tw/SalePage/Index/11770701",
   "title": "LAKOLE拼色編織感附墊片手機掛繩-二色-591214",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-05-06",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

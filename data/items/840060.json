@@ -2,24 +2,20 @@
   "sku": "840060",
   "history": [
     {
-      "date": "2026-08-19",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=840060",
   "salepage_id": "12078438",
   "url": "https://www.dot-st.tw/SalePage/Index/12078438",
   "title": "LEPSIM【網路限定55價】拼色薄紗拼接長袖與背心上衣二件組-三色-840060",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12078438/0/639307656227530000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12078438/0/639312242749830000?v=1",
   "current_price": 755,
   "original_price": 1890,
   "min_price": 755,
   "max_price": 1890,
   "listed_date": "2026-08-19",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

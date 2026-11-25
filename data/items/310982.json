@@ -2,15 +2,10 @@
   "sku": "310982",
   "history": [
     {
-      "date": "2025-05-02",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=310982",
   "salepage_id": "10727197",
   "url": "https://www.dot-st.tw/SalePage/Index/10727197",
   "title": "niko and女清透珠珠簡約項鍊-二款-310982",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2025-05-02",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

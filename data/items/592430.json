@@ -2,15 +2,10 @@
   "sku": "592430",
   "history": [
     {
-      "date": "2025-11-21",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 2392
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=592430",
   "salepage_id": "11330821",
   "url": "https://www.dot-st.tw/SalePage/Index/11330821",
   "title": "niko and男女【EVANGELION】新世紀福音戰士聯名針織長袖上衣-二色-592430",
@@ -21,5 +16,6 @@
   "max_price": 2990,
   "listed_date": "2025-11-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

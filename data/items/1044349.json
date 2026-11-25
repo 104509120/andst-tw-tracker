@@ -2,24 +2,20 @@
   "sku": "1044349",
   "history": [
     {
-      "date": "2026-09-02",
-      "price": 3290
-    },
-    {
       "date": "2026-11-24",
       "price": 1255
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1044349",
   "salepage_id": "12125233",
   "url": "https://www.dot-st.tw/SalePage/Index/12125233",
   "title": "JEANASIS【網路限定55價】蕾絲拼接修身丹寧牛仔五分褲-二色-1044349",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12125233/0/639310491252430000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12125233/0/639312242765570000?v=1",
   "current_price": 1255,
   "original_price": 3290,
   "min_price": 1255,
   "max_price": 3290,
   "listed_date": "2026-09-02",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1045688",
   "history": [
     {
-      "date": "2026-09-02",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1045688",
   "salepage_id": "12124543",
   "url": "https://www.dot-st.tw/SalePage/Index/12124543",
   "title": "GLOBAL WORK女三層收納褶皺肩背波士頓包-二色-1045688",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-09-02",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

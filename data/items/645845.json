@@ -2,15 +2,10 @@
   "sku": "645845",
   "history": [
     {
-      "date": "2026-03-25",
-      "price": 470
-    },
-    {
       "date": "2026-11-24",
       "price": 470
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=645845",
   "salepage_id": "11655401",
   "url": "https://www.dot-st.tw/SalePage/Index/11655401",
   "title": "niko and插畫家Ryu Ambe聯名玩偶吊飾-四款-645845",
@@ -21,5 +16,6 @@
   "max_price": 470,
   "listed_date": "2026-03-25",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

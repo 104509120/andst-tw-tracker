@@ -2,15 +2,10 @@
   "sku": "326209",
   "history": [
     {
-      "date": "2025-12-16",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=326209",
   "salepage_id": "11436953",
   "url": "https://www.dot-st.tw/SalePage/Index/11436953",
   "title": "LAKOLE旅行壓縮收納袋M-三色-326209",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2025-12-16",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

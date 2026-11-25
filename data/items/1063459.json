@@ -2,15 +2,10 @@
   "sku": "1063459",
   "history": [
     {
-      "date": "2026-10-07",
-      "price": 3390
-    },
-    {
       "date": "2026-11-24",
       "price": 3390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1063459",
   "salepage_id": "12220852",
   "url": "https://www.dot-st.tw/SalePage/Index/12220852",
   "title": "HARE女長度可選花朵刺繡圖樣連帽雙頭拉鍊大翻領套指上衣-三色-1063459",
@@ -21,5 +16,6 @@
   "max_price": 3390,
   "listed_date": "2026-10-07",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

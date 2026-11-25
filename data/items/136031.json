@@ -2,15 +2,10 @@
   "sku": "136031",
   "history": [
     {
-      "date": "2025-07-15",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=136031",
   "salepage_id": "10954889",
   "url": "https://www.dot-st.tw/SalePage/Index/10954889",
   "title": "GLOBAL WORK女輕盈舒適厚底樂福鞋-四色-136031",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2025-07-15",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

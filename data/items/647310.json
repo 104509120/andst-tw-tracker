@@ -2,24 +2,20 @@
   "sku": "647310",
   "history": [
     {
-      "date": "2026-03-20",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 996
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647310",
   "salepage_id": "11635172",
   "url": "https://www.dot-st.tw/SalePage/Index/11635172",
   "title": "RAGEBLUE女圓點抓皺綁繩細肩連身洋裝-二色-647310",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11635172/0/639289511506400000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11635172/0/639312242497970000?v=1",
   "current_price": 996,
   "original_price": 2490,
   "min_price": 996,
   "max_price": 2490,
   "listed_date": "2026-03-20",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "647918",
   "history": [
     {
-      "date": "2026-06-08",
-      "price": 1050
-    },
-    {
       "date": "2026-11-24",
       "price": 1050
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647918",
   "salepage_id": "11871003",
   "url": "https://www.dot-st.tw/SalePage/Index/11871003",
   "title": "niko and印度風掛脖圍裙-二色-647918",
@@ -21,5 +16,6 @@
   "max_price": 1050,
   "listed_date": "2026-06-08",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

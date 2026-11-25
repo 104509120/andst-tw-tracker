@@ -2,15 +2,10 @@
   "sku": "6375401",
   "history": [
     {
-      "date": "2026-10-06",
-      "price": 3980
-    },
-    {
       "date": "2026-11-24",
       "price": 2655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=6375401",
   "salepage_id": "12229507",
   "url": "https://www.dot-st.tw/SalePage/Index/12229507",
   "title": "◎index女OPAQUE.CLIPLogo印花毛圈布洋裝-二色-63754011 NT$2,655",
@@ -21,5 +16,6 @@
   "max_price": 3980,
   "listed_date": "2026-10-06",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

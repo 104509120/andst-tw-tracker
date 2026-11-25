@@ -2,15 +2,10 @@
   "sku": "250568",
   "history": [
     {
-      "date": "2026-03-06",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 345
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=250568",
   "salepage_id": "11597917",
   "url": "https://www.dot-st.tw/SalePage/Index/11597917",
   "title": "LAKOLE女珍珠羅緞綁帶項鍊-一色-250568",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-03-06",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

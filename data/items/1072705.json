@@ -2,15 +2,10 @@
   "sku": "1072705",
   "history": [
     {
-      "date": "2026-10-07",
-      "price": 3690
-    },
-    {
       "date": "2026-11-24",
       "price": 3690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1072705",
   "salepage_id": "12220861",
   "url": "https://www.dot-st.tw/SalePage/Index/12220861",
   "title": "HARE男女藝術花朵圖樣光澤感長袖襯衫上衣-三色-1072705",
@@ -21,5 +16,6 @@
   "max_price": 3690,
   "listed_date": "2026-10-07",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

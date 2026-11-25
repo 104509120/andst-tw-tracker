@@ -2,15 +2,10 @@
   "sku": "196314",
   "history": [
     {
-      "date": "2024-10-07",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=196314",
   "salepage_id": "10206102",
   "url": "https://www.dot-st.tw/SalePage/Index/10206102",
   "title": "studio CLIP天然木附掛鈎多功能衣帽架【daily CLIP】《輕傢俱》-一色-196314",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2024-10-07",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

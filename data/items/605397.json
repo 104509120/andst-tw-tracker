@@ -2,15 +2,10 @@
   "sku": "605397",
   "history": [
     {
-      "date": "2025-11-19",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 711
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=605397",
   "salepage_id": "11330827",
   "url": "https://www.dot-st.tw/SalePage/Index/11330827",
   "title": "niko and女【NASU FARM VILLAGE】收納小包吊飾鑰匙圈-三色-605397",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2025-11-19",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

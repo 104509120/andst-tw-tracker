@@ -2,24 +2,20 @@
   "sku": "1047088",
   "history": [
     {
-      "date": "2026-07-30",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1047088",
   "salepage_id": "12030443",
   "url": "https://www.dot-st.tw/SalePage/Index/12030443",
   "title": "JEANASIS【網路限定55價】點點緞面抓皺不對稱中長裙-三色-1047088",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12030443/0/639311392959500000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12030443/0/639312242734300000?v=1",
   "current_price": 955,
   "original_price": 2690,
   "min_price": 955,
   "max_price": 2690,
   "listed_date": "2026-07-30",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

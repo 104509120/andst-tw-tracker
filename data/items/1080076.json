@@ -2,15 +2,10 @@
   "sku": "1080076",
   "history": [
     {
-      "date": "2026-10-16",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 2690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1080076",
   "salepage_id": "12244531",
   "url": "https://www.dot-st.tw/SalePage/Index/12244531",
   "title": "RAGEBLUE女率性皮革拼接麂皮鉚釘肩背包-二色-1080076",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2026-10-16",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

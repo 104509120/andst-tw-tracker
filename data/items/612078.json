@@ -2,15 +2,10 @@
   "sku": "612078",
   "history": [
     {
-      "date": "2026-01-05",
-      "price": 430
-    },
-    {
       "date": "2026-11-24",
       "price": 430
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=612078",
   "salepage_id": "11451600",
   "url": "https://www.dot-st.tw/SalePage/Index/11451600",
   "title": "niko and【STREET QUICK BITES STAND】環保筷湯匙組合-二色-612078",
@@ -21,5 +16,6 @@
   "max_price": 430,
   "listed_date": "2026-01-05",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

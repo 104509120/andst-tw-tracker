@@ -2,24 +2,20 @@
   "sku": "1043564",
   "history": [
     {
-      "date": "2026-07-16",
-      "price": 4590
-    },
-    {
       "date": "2026-11-24",
       "price": 4590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1043564",
   "salepage_id": "11981175",
   "url": "https://www.dot-st.tw/SalePage/Index/11981175",
-  "title": "HARE女高腰綁帶百褶寬褲-二色-1043564",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11981175/0/639310364509130000?v=1",
+  "title": "HARE女高腰綁帶百褶寬褲-四色-1043564",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11981175/0/639311961848270000?v=1",
   "current_price": 4590,
   "original_price": 4590,
   "min_price": 4590,
   "max_price": 4590,
   "listed_date": "2026-07-16",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

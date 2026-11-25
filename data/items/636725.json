@@ -2,15 +2,10 @@
   "sku": "636725",
   "history": [
     {
-      "date": "2025-05-15",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=636725",
   "salepage_id": "11795759",
   "url": "https://www.dot-st.tw/SalePage/Index/11795759",
   "title": "LAKOLE女時髦麂皮頸鍊-二色-636725",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2025-05-15",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

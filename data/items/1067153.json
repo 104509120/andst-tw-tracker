@@ -2,15 +2,10 @@
   "sku": "1067153",
   "history": [
     {
-      "date": "2026-09-18",
-      "price": 5890
-    },
-    {
       "date": "2026-11-24",
       "price": 5890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1067153",
   "salepage_id": "12169939",
   "url": "https://www.dot-st.tw/SalePage/Index/12169939",
   "title": "HARE女蕾絲荷葉邊造型褲管抽繩工裝風長褲-二色-1067153",
@@ -21,5 +16,6 @@
   "max_price": 5890,
   "listed_date": "2026-09-18",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

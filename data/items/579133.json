@@ -2,15 +2,10 @@
   "sku": "579133",
   "history": [
     {
-      "date": "2026-04-15",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=579133",
   "salepage_id": "11708086",
   "url": "https://www.dot-st.tw/SalePage/Index/11708086",
   "title": "LAKOLE日本製美濃燒圓潤馬克杯290ml-二色-579133",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-04-15",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

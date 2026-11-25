@@ -2,15 +2,10 @@
   "sku": "253059",
   "history": [
     {
-      "date": "2024-12-26",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 745
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=253059",
   "salepage_id": "10419030",
   "url": "https://www.dot-st.tw/SalePage/Index/10419030",
   "title": "LAKOLE男時髦拉鍊設計方型皮革肩背包-三色-253059",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2024-12-26",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

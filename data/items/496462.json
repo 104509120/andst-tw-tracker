@@ -2,15 +2,10 @@
   "sku": "496462",
   "history": [
     {
-      "date": "2025-05-27",
-      "price": 1190
-    },
-    {
       "date": "2026-11-24",
       "price": 476
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=496462",
   "salepage_id": "10790407",
   "url": "https://www.dot-st.tw/SalePage/Index/10790407",
   "title": "repipi armario附罩杯水鑽字母無袖背心-三色-496462",
@@ -21,5 +16,6 @@
   "max_price": 1190,
   "listed_date": "2025-05-27",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

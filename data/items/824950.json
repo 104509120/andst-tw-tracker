@@ -2,24 +2,20 @@
   "sku": "824950",
   "history": [
     {
-      "date": "2026-09-16",
-      "price": 3690
-    },
-    {
       "date": "2026-11-24",
       "price": 2555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=824950",
   "salepage_id": "12161436",
   "url": "https://www.dot-st.tw/SalePage/Index/12161436",
   "title": "GLOBAL WORK【網路限定55價】男Smart保暖彈性西裝外套-三色-824950",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12161436/0/639307656304170000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12161436/0/639312025707970000?v=1",
   "current_price": 2555,
   "original_price": 3690,
   "min_price": 2555,
   "max_price": 3690,
   "listed_date": "2026-09-16",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "630045",
   "history": [
     {
-      "date": "2026-08-07",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 343
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=630045",
   "salepage_id": "12047522",
   "url": "https://www.dot-st.tw/SalePage/Index/12047522",
   "title": "LAKOLE超人氣寶特瓶保冷保冰壺(適用500-650ml)-三色-630045",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-08-07",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

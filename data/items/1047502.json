@@ -2,15 +2,10 @@
   "sku": "1047502",
   "history": [
     {
-      "date": "2026-09-10",
-      "price": 2090
-    },
-    {
       "date": "2026-11-24",
       "price": 755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1047502",
   "salepage_id": "12146892",
   "url": "https://www.dot-st.tw/SalePage/Index/12146892",
   "title": "studio CLIP【網路限定55價】簡約V領2WAY針織外套-二色-1047502",
@@ -21,5 +16,6 @@
   "max_price": 2090,
   "listed_date": "2026-09-10",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

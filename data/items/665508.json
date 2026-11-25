@@ -2,15 +2,10 @@
   "sku": "665508",
   "history": [
     {
-      "date": "2026-05-21",
-      "price": 5290
-    },
-    {
       "date": "2026-11-24",
       "price": 2690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=665508",
   "salepage_id": "11814437",
   "url": "https://www.dot-st.tw/SalePage/Index/11814437",
   "title": "HARE女緞面光澤感袖部抽繩縮腰外套-二色-665508",
@@ -21,5 +16,6 @@
   "max_price": 5290,
   "listed_date": "2026-05-21",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

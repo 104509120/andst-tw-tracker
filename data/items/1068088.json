@@ -2,15 +2,10 @@
   "sku": "1068088",
   "history": [
     {
-      "date": "2026-10-06",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1068088",
   "salepage_id": "12215945",
   "url": "https://www.dot-st.tw/SalePage/Index/12215945",
   "title": "GLOBAL WORK【網路限定55價】女棉質動物圖案條紋POLO領長袖上衣-四色-1068088",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-10-06",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

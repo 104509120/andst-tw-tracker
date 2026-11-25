@@ -2,15 +2,10 @@
   "sku": "729237",
   "history": [
     {
-      "date": "2026-09-18",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 2990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=729237",
   "salepage_id": "12170026",
   "url": "https://www.dot-st.tw/SalePage/Index/12170026",
   "title": "LOWRYS FARM女可拆式荷葉拼接雙排釦外套-三色-729237",
@@ -21,5 +16,6 @@
   "max_price": 2990,
   "listed_date": "2026-09-18",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

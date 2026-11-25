@@ -2,15 +2,10 @@
   "sku": "670704",
   "history": [
     {
-      "date": "2026-05-08",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 845
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=670704",
   "salepage_id": "11778011",
   "url": "https://www.dot-st.tw/SalePage/Index/11778011",
   "title": "niko and男復古剪影印花五分袖T恤上衣-四色-670704",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-05-08",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

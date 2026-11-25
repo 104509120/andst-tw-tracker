@@ -2,15 +2,10 @@
   "sku": "270549",
   "history": [
     {
-      "date": "2024-02-05",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=270549",
   "salepage_id": "11495699",
   "url": "https://www.dot-st.tw/SalePage/Index/11495699",
   "title": "Me%【官網/台中LLP獨售】金屬鏈條手機掛繩背帶-三色-270549",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2024-02-05",
   "updated_at": "2026-11-25",
-  "brand": "Me%"
+  "brand": "Me%",
+  "first_seen": "2026-11-24"
 }

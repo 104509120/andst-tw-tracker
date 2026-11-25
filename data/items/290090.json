@@ -2,15 +2,10 @@
   "sku": "290090",
   "history": [
     {
-      "date": "2025-04-01",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=290090",
   "salepage_id": "10644064",
   "url": "https://www.dot-st.tw/SalePage/Index/10644064",
   "title": "studio CLIP日本製簡約陶器湯碗-二色-290090",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2025-04-01",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

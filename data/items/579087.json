@@ -2,15 +2,10 @@
   "sku": "579087",
   "history": [
     {
-      "date": "2025-10-17",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=579087",
   "salepage_id": "11234430",
   "url": "https://www.dot-st.tw/SalePage/Index/11234430",
   "title": "LAKOLE日本製美濃燒橢圓碗450ml-四色-579087",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2025-10-17",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

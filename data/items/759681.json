@@ -2,15 +2,10 @@
   "sku": "759681",
   "history": [
     {
-      "date": "2026-07-30",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 903
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=759681",
   "salepage_id": "11998913",
   "url": "https://www.dot-st.tw/SalePage/Index/11998913",
   "title": "repipi armario【HELLO KITTY聯名】童可愛造型休閒後背包-二色-759681",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-07-30",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

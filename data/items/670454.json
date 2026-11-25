@@ -2,15 +2,10 @@
   "sku": "670454",
   "history": [
     {
-      "date": "2026-07-09",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 676
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=670454",
   "salepage_id": "11965082",
   "url": "https://www.dot-st.tw/SalePage/Index/11965082",
   "title": "LAKOLE男潮流附領帶寬鬆襯衫上衣-二色-670454",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-07-09",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

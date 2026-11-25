@@ -2,15 +2,10 @@
   "sku": "639749",
   "history": [
     {
-      "date": "2026-05-15",
-      "price": 230
-    },
-    {
       "date": "2026-11-24",
       "price": 230
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=639749",
   "salepage_id": "11800810",
   "url": "https://www.dot-st.tw/SalePage/Index/11800810",
   "title": "niko and異國風情杯墊-二色-639749",
@@ -21,5 +16,6 @@
   "max_price": 230,
   "listed_date": "2026-05-15",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "202320",
   "history": [
     {
-      "date": "2025-02-26",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=202320",
   "salepage_id": "10546825",
   "url": "https://www.dot-st.tw/SalePage/Index/10546825",
   "title": "LAKOLE日本製古伊萬里風茶杯-四色-202320",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2025-02-26",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

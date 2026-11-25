@@ -2,15 +2,10 @@
   "sku": "993757",
   "history": [
     {
-      "date": "2024-10-14",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 903
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=993757",
   "salepage_id": "10169375",
   "url": "https://www.dot-st.tw/SalePage/Index/10169375",
   "title": "LAKOLE長條極柔貼合微粒子舒壓靠枕抱枕-三色-993757",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2024-10-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

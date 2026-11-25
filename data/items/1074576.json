@@ -2,24 +2,24 @@
   "sku": "1074576",
   "history": [
     {
-      "date": "2026-11-05",
+      "date": "2026-11-24",
       "price": 2490
     },
     {
-      "date": "2026-11-24",
-      "price": 2490
+      "date": "2026-11-25",
+      "price": 1992
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1074576",
   "salepage_id": "12285066",
   "url": "https://www.dot-st.tw/SalePage/Index/12285066",
   "title": "GLOBAL WORK男俐落低腰直筒西裝長褲-五色-1074576",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12285066/0/639304428379230000?v=1",
-  "current_price": 2490,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12285066/0/639312261245370000?v=1",
+  "current_price": 1992,
   "original_price": 2490,
-  "min_price": 2490,
+  "min_price": 1992,
   "max_price": 2490,
   "listed_date": "2026-11-05",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

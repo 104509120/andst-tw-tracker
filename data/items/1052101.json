@@ -2,24 +2,20 @@
   "sku": "1052101",
   "history": [
     {
-      "date": "2026-09-10",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1052101",
   "salepage_id": "12144535",
   "url": "https://www.dot-st.tw/SalePage/Index/12144535",
   "title": "LEPSIM【網路限定55價】格紋荷葉邊泡泡紗綁帶連帽長袖襯衫上衣-三色-1052101",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12144535/0/639307656227530000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12144535/0/639312242782500000?v=1",
   "current_price": 955,
   "original_price": 1990,
   "min_price": 955,
   "max_price": 1990,
   "listed_date": "2026-09-10",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

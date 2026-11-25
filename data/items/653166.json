@@ -2,15 +2,10 @@
   "sku": "653166",
   "history": [
     {
-      "date": "2026-05-01",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1393
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=653166",
   "salepage_id": "11751940",
   "url": "https://www.dot-st.tw/SalePage/Index/11751940",
   "title": "niko and女【wiggle wiggle品牌】刺繡休閒短褲(長版/短版)-二色-653166",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-05-01",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

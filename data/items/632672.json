@@ -2,15 +2,10 @@
   "sku": "632672",
   "history": [
     {
-      "date": "2026-05-21",
-      "price": 1090
-    },
-    {
       "date": "2026-11-24",
       "price": 1090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=632672",
   "salepage_id": "11817428",
   "url": "https://www.dot-st.tw/SalePage/Index/11817428",
   "title": "studio CLIP字母刺繡紋理2WAY手提肩背托特包-四色-632672",
@@ -21,5 +16,6 @@
   "max_price": 1090,
   "listed_date": "2026-05-21",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

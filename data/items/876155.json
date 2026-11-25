@@ -2,15 +2,10 @@
   "sku": "876155",
   "history": [
     {
-      "date": "2024-12-02",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=876155",
   "salepage_id": "10356538",
   "url": "https://www.dot-st.tw/SalePage/Index/10356538",
   "title": "LAKOLE【新色到】保冷保溫不鏽鋼便攜水壺(350ML)-七色-876155",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2024-12-02",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

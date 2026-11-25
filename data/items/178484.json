@@ -2,15 +2,10 @@
   "sku": "178484",
   "history": [
     {
-      "date": "2023-03-10",
-      "price": 1170
-    },
-    {
       "date": "2026-11-24",
       "price": 1170
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=178484",
   "salepage_id": "8708116",
   "url": "https://www.dot-st.tw/SalePage/Index/8708116",
   "title": "niko and日本製Fuzzy glaze復古漸層陶瓷碗二入組-一款-178484",
@@ -21,5 +16,6 @@
   "max_price": 1170,
   "listed_date": "2023-03-10",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

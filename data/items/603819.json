@@ -2,15 +2,10 @@
   "sku": "603819",
   "history": [
     {
-      "date": "2025-09-24",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 1196
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=603819",
   "salepage_id": "11142848",
   "url": "https://www.dot-st.tw/SalePage/Index/11142848",
   "title": "JEANASIS拱形字母設計針織長袖上衣-四色-603819",
@@ -21,5 +16,6 @@
   "max_price": 2990,
   "listed_date": "2025-09-24",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

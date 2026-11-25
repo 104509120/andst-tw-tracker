@@ -2,15 +2,10 @@
   "sku": "622557",
   "history": [
     {
-      "date": "2026-02-13",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=622557",
   "salepage_id": "11566688",
   "url": "https://www.dot-st.tw/SalePage/Index/11566688",
   "title": "LAKOLE蒸籠不鏽鋼蒸板一色-622557",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-02-13",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "135751",
   "history": [
     {
-      "date": "2024-08-22",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1194
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=135751",
   "salepage_id": "10091557",
   "url": "https://www.dot-st.tw/SalePage/Index/10091557",
   "title": "GLOBAL WORK女經典抗菌防臭防潑水輕量運動鞋-九色-135751",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2024-08-22",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

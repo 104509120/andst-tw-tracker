@@ -2,15 +2,10 @@
   "sku": "196487",
   "history": [
     {
-      "date": "2023-06-13",
-      "price": 930
-    },
-    {
       "date": "2026-11-24",
       "price": 930
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=196487",
   "salepage_id": "8933883",
   "url": "https://www.dot-st.tw/SalePage/Index/8933883",
   "title": "niko and原創系列CITY CREEK展開式手提收納袋L-二色-196487",
@@ -21,5 +16,6 @@
   "max_price": 930,
   "listed_date": "2023-06-13",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

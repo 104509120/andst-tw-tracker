@@ -2,15 +2,10 @@
   "sku": "1067049",
   "history": [
     {
-      "date": "2026-10-15",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1067049",
   "salepage_id": "12220915",
   "url": "https://www.dot-st.tw/SalePage/Index/12220915",
   "title": "studio CLIP【亂馬1/2聯名】緞面功夫室內鞋-一色-1067049",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-10-15",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

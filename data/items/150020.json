@@ -2,15 +2,10 @@
   "sku": "150020",
   "history": [
     {
-      "date": "2024-12-31",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 273
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=150020",
   "salepage_id": "10428035",
   "url": "https://www.dot-st.tw/SalePage/Index/10428035",
   "title": "studio CLIP日本製美濃燒點心盤-二色-150020",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2024-12-31",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

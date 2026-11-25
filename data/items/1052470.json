@@ -2,24 +2,20 @@
   "sku": "1052470",
   "history": [
     {
-      "date": "2026-11-05",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1052470",
   "salepage_id": "12287604",
   "url": "https://www.dot-st.tw/SalePage/Index/12287604",
   "title": "LOWRYS FARM女麻花編織翻領針織開襟衫上衣-三色-1052470",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12287604/0/639310491663700000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12287604/0/639312229921930000?v=1",
   "current_price": 2290,
   "original_price": 2290,
   "min_price": 2290,
   "max_price": 2290,
   "listed_date": "2026-11-05",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1042464",
   "history": [
     {
-      "date": "2026-07-07",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1042464",
   "salepage_id": "11957610",
   "url": "https://www.dot-st.tw/SalePage/Index/11957610",
   "title": "RAGEBLUE男破壞感仿舊刷色刺繡棒球帽-三色-1042464",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-07-07",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

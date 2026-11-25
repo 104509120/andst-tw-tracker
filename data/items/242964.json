@@ -2,15 +2,10 @@
   "sku": "242964",
   "history": [
     {
-      "date": "2025-03-21",
-      "price": 700
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=242964",
   "salepage_id": "10616590",
   "url": "https://www.dot-st.tw/SalePage/Index/10616590",
   "title": "niko and原創系列LAUNDROMAT&amp;TUB便攜手提袋-一色-242964",
@@ -21,5 +16,6 @@
   "max_price": 700,
   "listed_date": "2025-03-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

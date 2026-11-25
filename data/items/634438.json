@@ -2,15 +2,10 @@
   "sku": "634438",
   "history": [
     {
-      "date": "2025-12-17",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=634438",
   "salepage_id": "11413320",
   "url": "https://www.dot-st.tw/SalePage/Index/11413320",
   "title": "repipi armario童毛絨字母圖案飾片針織上衣-二色-634438",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2025-12-17",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

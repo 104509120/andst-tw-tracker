@@ -2,15 +2,10 @@
   "sku": "5081300",
   "history": [
     {
-      "date": "2026-09-07",
-      "price": 2900
-    },
-    {
       "date": "2026-11-24",
       "price": 2030
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=5081300",
   "salepage_id": "12130850",
   "url": "https://www.dot-st.tw/SalePage/Index/12130850",
   "title": "◎index女Couture Brooch花卉刺繡針織上衣-兩色-50813001 NT$2,030",
@@ -21,5 +16,6 @@
   "max_price": 2900,
   "listed_date": "2026-09-07",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

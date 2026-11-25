@@ -2,15 +2,10 @@
   "sku": "911270",
   "history": [
     {
-      "date": "2026-09-30",
-      "price": 1090
-    },
-    {
       "date": "2026-11-24",
       "price": 1090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=911270",
   "salepage_id": "12190545",
   "url": "https://www.dot-st.tw/SalePage/Index/12190545",
   "title": "studio CLIP可水洗羊毛貝蕾帽-四色-911270",
@@ -21,5 +16,6 @@
   "max_price": 1090,
   "listed_date": "2026-09-30",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

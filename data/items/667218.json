@@ -2,15 +2,10 @@
   "sku": "667218",
   "history": [
     {
-      "date": "2026-04-16",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 676
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=667218",
   "salepage_id": "11710979",
   "url": "https://www.dot-st.tw/SalePage/Index/11710979",
   "title": "studio CLIP單紗荷葉領燈籠半袖襯衫上衣-四色-667218",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-04-16",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

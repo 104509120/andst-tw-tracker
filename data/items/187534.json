@@ -2,15 +2,10 @@
   "sku": "187534",
   "history": [
     {
-      "date": "2024-11-29",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=187534",
   "salepage_id": "10354586",
   "url": "https://www.dot-st.tw/SalePage/Index/10354586",
   "title": "LAKOLE日本制條紋風天然竹筷(一組三入)-一色-187534",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2024-11-29",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

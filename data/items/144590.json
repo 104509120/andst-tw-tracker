@@ -2,15 +2,10 @@
   "sku": "144590",
   "history": [
     {
-      "date": "2024-10-14",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 345
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=144590",
   "salepage_id": "10157210",
   "url": "https://www.dot-st.tw/SalePage/Index/10157210",
   "title": "LAKOLE女簡約粗細鏈組T字扣項鍊-二色-144590",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2024-10-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

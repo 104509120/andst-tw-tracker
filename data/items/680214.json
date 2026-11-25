@@ -2,24 +2,20 @@
   "sku": "680214",
   "history": [
     {
-      "date": "2026-10-21",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=680214",
   "salepage_id": "12256494",
   "url": "https://www.dot-st.tw/SalePage/Index/12256494",
   "title": "LOWRYS FARM女彈性羅紋高領針織長袖上衣-六色-680214",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12256494/0/639304336637030000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12256494/0/639312242845100000?v=1",
   "current_price": 1290,
   "original_price": 1290,
   "min_price": 1290,
   "max_price": 1290,
   "listed_date": "2026-10-21",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

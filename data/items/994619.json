@@ -2,15 +2,10 @@
   "sku": "994619",
   "history": [
     {
-      "date": "2024-11-29",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 95
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=994619",
   "salepage_id": "10352042",
   "url": "https://www.dot-st.tw/SalePage/Index/10352042",
   "title": "LAKOLE柔軟觸感舒適刺繡方巾手帕-六色-994619",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2024-11-29",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

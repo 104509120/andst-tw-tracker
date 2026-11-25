@@ -2,24 +2,20 @@
   "sku": "636912",
   "history": [
     {
-      "date": "2026-01-28",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=636912",
   "salepage_id": "11522123",
   "url": "https://www.dot-st.tw/SalePage/Index/11522123",
   "title": "niko and女品牌LOGO零錢包短夾-六色-636912",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11522123/0/639275849087270000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11522123/0/639312160426270000?v=1",
   "current_price": 1290,
   "original_price": 1290,
   "min_price": 1290,
   "max_price": 1290,
   "listed_date": "2026-01-28",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

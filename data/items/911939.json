@@ -2,15 +2,10 @@
   "sku": "911939",
   "history": [
     {
-      "date": "2026-11-11",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=911939",
   "salepage_id": "12300116",
   "url": "https://www.dot-st.tw/SalePage/Index/12300116",
   "title": "LAKOLE【網路限定55價】女人物亮片刺繡線條針織上衣-三色-911939",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-11-11",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

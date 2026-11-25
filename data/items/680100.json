@@ -2,15 +2,10 @@
   "sku": "680100",
   "history": [
     {
-      "date": "2026-09-07",
-      "price": 970
-    },
-    {
       "date": "2026-11-24",
       "price": 679
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=680100",
   "salepage_id": "12137609",
   "url": "https://www.dot-st.tw/SalePage/Index/12137609",
   "title": "niko and【紅虎餃子房聯名】肩背手提水桶包-二色-680100",
@@ -21,5 +16,6 @@
   "max_price": 970,
   "listed_date": "2026-09-07",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

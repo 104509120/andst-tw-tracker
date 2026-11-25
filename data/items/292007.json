@@ -2,15 +2,10 @@
   "sku": "292007",
   "history": [
     {
-      "date": "2025-03-26",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1183
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=292007",
   "salepage_id": "10627393",
   "url": "https://www.dot-st.tw/SalePage/Index/10627393",
   "title": "studio CLIP簡約絎縫多口袋手提電腦包12吋-二色-292007",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2025-03-26",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

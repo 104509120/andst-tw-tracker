@@ -2,15 +2,10 @@
   "sku": "681400",
   "history": [
     {
-      "date": "2026-07-23",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 273
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=681400",
   "salepage_id": "11985540",
   "url": "https://www.dot-st.tw/SalePage/Index/11985540",
   "title": "studio CLIP【ぽっこしPOKKOSHI聯名】立體貼紙-二款-681400",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-07-23",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

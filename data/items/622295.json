@@ -2,15 +2,10 @@
   "sku": "622295",
   "history": [
     {
-      "date": "2026-01-29",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 495
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=622295",
   "salepage_id": "11523142",
   "url": "https://www.dot-st.tw/SalePage/Index/11523142",
   "title": "GLOBAL WORK童復古染色字母洋裝(100cm-160cm)-三色-622295",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-01-29",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

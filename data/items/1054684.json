@@ -2,15 +2,10 @@
   "sku": "1054684",
   "history": [
     {
-      "date": "2026-08-25",
-      "price": 3490
-    },
-    {
       "date": "2026-11-24",
       "price": 1990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1054684",
   "salepage_id": "12098646",
   "url": "https://www.dot-st.tw/SalePage/Index/12098646",
   "title": "PAGEBOY薄紗拼接褶襉後鬆緊長裙-二色-1054684",
@@ -21,5 +16,6 @@
   "max_price": 3490,
   "listed_date": "2026-08-25",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

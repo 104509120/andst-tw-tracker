@@ -2,24 +2,20 @@
   "sku": "134215",
   "history": [
     {
-      "date": "2026-05-26",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 995
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=134215",
   "salepage_id": "11828620",
   "url": "https://www.dot-st.tw/SalePage/Index/11828620",
   "title": "studio CLIP俐落修身抽繩涼感長褲-三色-134215",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11828620/0/639300116790470000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11828620/0/639312048665430000?v=1",
   "current_price": 995,
   "original_price": 1990,
   "min_price": 995,
   "max_price": 1990,
   "listed_date": "2026-05-26",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "823104",
   "history": [
     {
-      "date": "2026-08-19",
-      "price": 1240
-    },
-    {
       "date": "2026-11-24",
       "price": 1240
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=823104",
   "salepage_id": "12078525",
   "url": "https://www.dot-st.tw/SalePage/Index/12078525",
   "title": "niko and原創BILLY熊大臉臉靠墊抱枕-一色-823104",
@@ -21,5 +16,6 @@
   "max_price": 1240,
   "listed_date": "2026-08-19",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

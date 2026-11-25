@@ -2,15 +2,10 @@
   "sku": "679248",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 510
-    },
-    {
       "date": "2026-11-24",
       "price": 510
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=679248",
   "salepage_id": "12272760",
   "url": "https://www.dot-st.tw/SalePage/Index/12272760",
   "title": "niko and品牌LOGO迷你背包零錢包吊飾-二色-679248",
@@ -21,5 +16,6 @@
   "max_price": 510,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

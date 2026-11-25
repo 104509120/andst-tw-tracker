@@ -2,24 +2,20 @@
   "sku": "638908",
   "history": [
     {
-      "date": "2026-02-12",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 355
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=638908",
   "salepage_id": "11561960",
   "url": "https://www.dot-st.tw/SalePage/Index/11561960",
   "title": "GLOBAL WORK【網路限定55價】童防潑水飛行外套(100cm-120cm)-二色-638908",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11561960/0/639307726657430000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11561960/0/639312242652100000?v=1",
   "current_price": 355,
   "original_price": 890,
   "min_price": 355,
   "max_price": 890,
   "listed_date": "2026-02-12",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

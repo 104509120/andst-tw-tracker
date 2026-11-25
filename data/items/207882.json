@@ -2,15 +2,10 @@
   "sku": "207882",
   "history": [
     {
-      "date": "2025-02-26",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=207882",
   "salepage_id": "10546829",
   "url": "https://www.dot-st.tw/SalePage/Index/10546829",
   "title": "LAKOLE放射狀圖樣設計圓形杯墊四入組-一色-207882",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2025-02-26",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

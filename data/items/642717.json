@@ -2,15 +2,10 @@
   "sku": "642717",
   "history": [
     {
-      "date": "2026-02-05",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=642717",
   "salepage_id": "11545491",
   "url": "https://www.dot-st.tw/SalePage/Index/11545491",
   "title": "LAKOLE【網路限定55價】女不收邊下襬喇叭丹寧長褲-三色-642717",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-02-05",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

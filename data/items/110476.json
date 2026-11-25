@@ -2,15 +2,10 @@
   "sku": "110476",
   "history": [
     {
-      "date": "2024-04-11",
-      "price": 230
-    },
-    {
       "date": "2026-11-24",
       "price": 161
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=110476",
   "salepage_id": "9693012",
   "url": "https://www.dot-st.tw/SalePage/Index/9693012",
   "title": "niko and原創BILLY熊系列大學校園壓克力鑰匙圈-二色-110476",
@@ -21,5 +16,6 @@
   "max_price": 230,
   "listed_date": "2024-04-11",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

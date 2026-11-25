@@ -2,15 +2,10 @@
   "sku": "681466",
   "history": [
     {
-      "date": "2026-08-18",
-      "price": 900
-    },
-    {
       "date": "2026-11-24",
       "price": 630
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=681466",
   "salepage_id": "12071370",
   "url": "https://www.dot-st.tw/SalePage/Index/12071370",
   "title": "niko and【やおきん聯名】公仔擺飾-二款-681466",
@@ -21,5 +16,6 @@
   "max_price": 900,
   "listed_date": "2026-08-18",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "420649",
   "history": [
     {
-      "date": "2025-10-23",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1145
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=420649",
   "salepage_id": "11251869",
   "url": "https://www.dot-st.tw/SalePage/Index/11251869",
   "title": "niko and女層次感抓皺混羊毛長袖連身洋裝(短版/長版)-四色-420649",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2025-10-23",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

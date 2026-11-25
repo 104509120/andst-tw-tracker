@@ -2,15 +2,10 @@
   "sku": "887878",
   "history": [
     {
-      "date": "2026-06-30",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=887878",
   "salepage_id": "11939634",
   "url": "https://www.dot-st.tw/SalePage/Index/11939634",
   "title": "RAGEBLUE【網路限定55價】男街頭風CRAVE英文T恤上衣-三色-887878",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-06-30",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

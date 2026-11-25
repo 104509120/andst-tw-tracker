@@ -2,15 +2,10 @@
   "sku": "578626",
   "history": [
     {
-      "date": "2025-10-21",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=578626",
   "salepage_id": "11244678",
   "url": "https://www.dot-st.tw/SalePage/Index/11244678",
   "title": "niko and女迷你針織水果造型鑰匙圈吊飾-三款-578626",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2025-10-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

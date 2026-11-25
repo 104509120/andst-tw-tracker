@@ -2,24 +2,20 @@
   "sku": "1068423",
   "history": [
     {
-      "date": "2026-09-23",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 2055
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1068423",
   "salepage_id": "12179641",
   "url": "https://www.dot-st.tw/SalePage/Index/12179641",
   "title": "RAGEBLUE【網路限定55價】女俐落西裝外套與寬版西裝長褲二件組-二色-1068423",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12179641/0/639307647606430000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12179641/0/639312242588170000?v=1",
   "current_price": 2055,
   "original_price": 2990,
   "min_price": 2055,
   "max_price": 2990,
   "listed_date": "2026-09-23",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "626960",
   "history": [
     {
-      "date": "2026-08-04",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=626960",
   "salepage_id": "12036981",
   "url": "https://www.dot-st.tw/SalePage/Index/12036981",
   "title": "studio CLIP多功能Peep手提收納包-二色-626960",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-08-04",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

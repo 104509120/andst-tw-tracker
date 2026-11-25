@@ -2,15 +2,10 @@
   "sku": "666467",
   "history": [
     {
-      "date": "2026-04-28",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=666467",
   "salepage_id": "11747578",
   "url": "https://www.dot-st.tw/SalePage/Index/11747578",
   "title": "LOWRYS FARM女不鏽鋼蝴蝶結鍊條項鍊-二色-666467",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2026-04-28",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

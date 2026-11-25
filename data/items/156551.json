@@ -2,15 +2,10 @@
   "sku": "156551",
   "history": [
     {
-      "date": "2025-08-06",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=156551",
   "salepage_id": "11009172",
   "url": "https://www.dot-st.tw/SalePage/Index/11009172",
   "title": "LAKOLE簡約直立式13吋筆電收納包-二色-156551",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2025-08-06",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "252798",
   "history": [
     {
-      "date": "2025-09-03",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 414
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=252798",
   "salepage_id": "11076059",
   "url": "https://www.dot-st.tw/SalePage/Index/11076059",
   "title": "LAKOLE質感POTTERY香氛精油組(150ml)-三款-252798",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2025-09-03",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "646777",
   "history": [
     {
-      "date": "2026-05-04",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=646777",
   "salepage_id": "11763796",
   "url": "https://www.dot-st.tw/SalePage/Index/11763796",
   "title": "niko and女立體皺褶手提細肩後背包-九色-646777",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-05-04",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

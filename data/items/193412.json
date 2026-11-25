@@ -2,15 +2,10 @@
   "sku": "193412",
   "history": [
     {
-      "date": "2023-07-26",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=193412",
   "salepage_id": "9053385",
   "url": "https://www.dot-st.tw/SalePage/Index/9053385",
   "title": "studio CLIP天然編織花朵竹柳收納置物籃S-一色-193412",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2023-07-26",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

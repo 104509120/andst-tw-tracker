@@ -2,15 +2,10 @@
   "sku": "794191",
   "history": [
     {
-      "date": "2026-08-21",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=794191",
   "salepage_id": "12090243",
   "url": "https://www.dot-st.tw/SalePage/Index/12090243",
   "title": "LAKOLE附手把不鏽鋼保溫保冷水瓶350ml-三色-794191",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-08-21",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

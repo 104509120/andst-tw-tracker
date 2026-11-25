@@ -2,15 +2,10 @@
   "sku": "6377301",
   "history": [
     {
-      "date": "2026-09-07",
-      "price": 3080
-    },
-    {
       "date": "2026-11-24",
       "price": 2156
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=6377301",
   "salepage_id": "12130864",
   "url": "https://www.dot-st.tw/SalePage/Index/12130864",
   "title": "◎index女OPAQUE.CLIP亮絲混紡運動長裙-兩色-63773012 NT$2,156",
@@ -21,5 +16,6 @@
   "max_price": 3080,
   "listed_date": "2026-09-07",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

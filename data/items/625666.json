@@ -2,24 +2,20 @@
   "sku": "625666",
   "history": [
     {
-      "date": "2026-01-28",
-      "price": 2890
-    },
-    {
       "date": "2026-11-24",
       "price": 1055
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=625666",
   "salepage_id": "11519655",
   "url": "https://www.dot-st.tw/SalePage/Index/11519655",
   "title": "studio CLIP【網路限定55價】蕾絲袖反摺設計感西裝外套《正式場合系列》-二色-625666",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11519655/0/639310380343500000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11519655/0/639312242634300000?v=1",
   "current_price": 1055,
   "original_price": 2890,
   "min_price": 1055,
   "max_price": 2890,
   "listed_date": "2026-01-28",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1045549",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 250
-    },
-    {
       "date": "2026-11-24",
       "price": 250
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1045549",
   "salepage_id": "12272769",
   "url": "https://www.dot-st.tw/SalePage/Index/12272769",
   "title": "niko and復古紐約藝術風格玻璃鑰匙圈-一款-1045549",
@@ -21,5 +16,6 @@
   "max_price": 250,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

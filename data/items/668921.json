@@ -2,24 +2,24 @@
   "sku": "668921",
   "history": [
     {
-      "date": "2026-09-24",
+      "date": "2026-11-24",
       "price": 590
     },
     {
-      "date": "2026-11-24",
-      "price": 590
+      "date": "2026-11-25",
+      "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=668921",
   "salepage_id": "12181944",
   "url": "https://www.dot-st.tw/SalePage/Index/12181944",
   "title": "LOWRYS FARM女水滴造型磁吸多功能收納套-三色-668921",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12181944/0/639294128163070000?v=1",
-  "current_price": 590,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12181944/0/639312241574400000?v=1",
+  "current_price": 390,
   "original_price": 590,
-  "min_price": 590,
+  "min_price": 390,
   "max_price": 590,
   "listed_date": "2026-09-24",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

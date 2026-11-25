@@ -2,15 +2,10 @@
   "sku": "1079680",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1079680",
   "salepage_id": "12270211",
   "url": "https://www.dot-st.tw/SalePage/Index/12270211",
   "title": "LOWRYS FARM女素色立領雙拉鍊長袖上衣-四色-1079680",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

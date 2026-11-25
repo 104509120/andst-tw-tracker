@@ -2,15 +2,10 @@
   "sku": "656440",
   "history": [
     {
-      "date": "2026-07-14",
-      "price": 3490
-    },
-    {
       "date": "2026-11-24",
       "price": 3141
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=656440",
   "salepage_id": "11974122",
   "url": "https://www.dot-st.tw/SalePage/Index/11974122",
   "title": "niko and原創系列CITY CREEK摺疊收納速開帳篷-一色-656440",
@@ -21,5 +16,6 @@
   "max_price": 3490,
   "listed_date": "2026-07-14",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

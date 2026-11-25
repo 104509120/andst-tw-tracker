@@ -2,15 +2,10 @@
   "sku": "656611",
   "history": [
     {
-      "date": "2026-03-18",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 276
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=656611",
   "salepage_id": "11626716",
   "url": "https://www.dot-st.tw/SalePage/Index/11626716",
   "title": "LEPSIM童刺繡Logo斜紋棒球帽-五色-656611",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-03-18",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

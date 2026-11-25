@@ -2,24 +2,20 @@
   "sku": "1080692",
   "history": [
     {
-      "date": "2026-10-08",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1255
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1080692",
   "salepage_id": "12223444",
   "url": "https://www.dot-st.tw/SalePage/Index/12223444",
   "title": "Heather【網路限定55價】拼接荷葉高腰修身迷你短裙-二色-1080692",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12223444/0/639311256285700000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12223444/0/639312242829830000?v=1",
   "current_price": 1255,
   "original_price": 1990,
   "min_price": 1255,
   "max_price": 1990,
   "listed_date": "2026-10-08",
   "updated_at": "2026-11-25",
-  "brand": "Heather"
+  "brand": "Heather",
+  "first_seen": "2026-11-24"
 }

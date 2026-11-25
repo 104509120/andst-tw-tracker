@@ -2,15 +2,10 @@
   "sku": "659786",
   "history": [
     {
-      "date": "2026-03-23",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 676
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=659786",
   "salepage_id": "11637301",
   "url": "https://www.dot-st.tw/SalePage/Index/11637301",
   "title": "studio CLIP 鏤空綁帶2WAY針織背心外套-三色-659786",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-03-23",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

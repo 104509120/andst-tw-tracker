@@ -2,15 +2,10 @@
   "sku": "103623",
   "history": [
     {
-      "date": "2024-10-14",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 196
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=103623",
   "salepage_id": "10186948",
   "url": "https://www.dot-st.tw/SalePage/Index/10186948",
   "title": "LAKOLE簡約菱格紋束口袋《兒童系列》-三色-103623",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2024-10-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

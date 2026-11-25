@@ -2,15 +2,10 @@
   "sku": "289957",
   "history": [
     {
-      "date": "2025-02-19",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=289957",
   "salepage_id": "10535835",
   "url": "https://www.dot-st.tw/SalePage/Index/10535835",
   "title": "niko and女層次感網紗點點針織帽-三色-289957",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2025-02-19",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

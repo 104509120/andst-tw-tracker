@@ -2,15 +2,10 @@
   "sku": "640099",
   "history": [
     {
-      "date": "2026-04-23",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 273
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=640099",
   "salepage_id": "11733172",
   "url": "https://www.dot-st.tw/SalePage/Index/11733172",
   "title": "LAKOLE女扭結珍珠耳骨夾耳夾-二色-640099",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-04-23",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "324033",
   "history": [
     {
-      "date": "2025-06-24",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=324033",
   "salepage_id": "10898629",
   "url": "https://www.dot-st.tw/SalePage/Index/10898629",
   "title": "niko and女可愛皮革蝴蝶結髮夾二入組-三色-324033",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2025-06-24",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "680703",
   "history": [
     {
-      "date": "2026-06-26",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=680703",
   "salepage_id": "11931639",
   "url": "https://www.dot-st.tw/SalePage/Index/11931639",
   "title": "niko and女【tiy nie yee】Apple Watch錶框一體式錶帶-二色-680703",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-06-26",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

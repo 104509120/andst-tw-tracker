@@ -2,15 +2,10 @@
   "sku": "647315",
   "history": [
     {
-      "date": "2026-03-10",
-      "price": 1170
-    },
-    {
       "date": "2026-11-24",
       "price": 1170
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647315",
   "salepage_id": "11605932",
   "url": "https://www.dot-st.tw/SalePage/Index/11605932",
   "title": "niko and品牌LOGO流行肩背手提托特包(中)-四色-647315",
@@ -21,5 +16,6 @@
   "max_price": 1170,
   "listed_date": "2026-03-10",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "639529",
   "history": [
     {
-      "date": "2026-05-06",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 916
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=639529",
   "salepage_id": "11769547",
   "url": "https://www.dot-st.tw/SalePage/Index/11769547",
   "title": "LEPSIM輕盈仿舊英文刺繡短版五分繡丹寧襯衫上衣-七色-639529",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-05-06",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "644577",
   "history": [
     {
-      "date": "2026-08-07",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=644577",
   "salepage_id": "12047555",
   "url": "https://www.dot-st.tw/SalePage/Index/12047555",
   "title": "LAKOLE女立體花朵華麗項鍊-二色-644577",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-08-07",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

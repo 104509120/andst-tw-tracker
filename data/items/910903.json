@@ -2,15 +2,10 @@
   "sku": "910903",
   "history": [
     {
-      "date": "2026-07-03",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 507
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=910903",
   "salepage_id": "11947476",
   "url": "https://www.dot-st.tw/SalePage/Index/11947476",
   "title": "LAKOLE男簡約撞色無領短袖襯衫上衣-三色-910903",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-07-03",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

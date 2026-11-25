@@ -2,15 +2,10 @@
   "sku": "1067087",
   "history": [
     {
-      "date": "2026-10-23",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 2955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1067087",
   "salepage_id": "12260779",
   "url": "https://www.dot-st.tw/SalePage/Index/12260779",
   "title": "Heather【網路限定55價】內增高毛絨麂皮長靴-二色-1067087",
@@ -21,5 +16,6 @@
   "max_price": 3990,
   "listed_date": "2026-10-23",
   "updated_at": "2026-11-25",
-  "brand": "Heather"
+  "brand": "Heather",
+  "first_seen": "2026-11-24"
 }

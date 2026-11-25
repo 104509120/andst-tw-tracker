@@ -2,24 +2,20 @@
   "sku": "659871",
   "history": [
     {
-      "date": "2026-04-21",
-      "price": 3690
-    },
-    {
       "date": "2026-11-24",
       "price": 1107
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=659871",
   "salepage_id": "11726299",
   "url": "https://www.dot-st.tw/SalePage/Index/11726299",
   "title": "PAGEBOY厚底尼龍釦環休閒涼鞋-三色-659871",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11726299/0/639310388561330000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11726299/0/639312242685200000?v=1",
   "current_price": 1107,
   "original_price": 3690,
   "min_price": 1107,
   "max_price": 3690,
   "listed_date": "2026-04-21",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

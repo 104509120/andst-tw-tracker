@@ -2,15 +2,10 @@
   "sku": "329527",
   "history": [
     {
-      "date": "2025-05-15",
-      "price": 3090
-    },
-    {
       "date": "2026-11-24",
       "price": 3090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=329527",
   "salepage_id": "10763379",
   "url": "https://www.dot-st.tw/SalePage/Index/10763379",
   "title": "HARE女皮革壓花手提肩背小方包-三色-329527",
@@ -21,5 +16,6 @@
   "max_price": 3090,
   "listed_date": "2025-05-15",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

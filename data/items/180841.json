@@ -2,15 +2,10 @@
   "sku": "180841",
   "history": [
     {
-      "date": "2025-11-12",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=180841",
   "salepage_id": "8839141",
   "url": "https://www.dot-st.tw/SalePage/Index/8839141",
   "title": "HARE男日本製金屬凹凸圓形可調整項鍊-二色-180841",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2025-11-12",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

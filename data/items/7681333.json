@@ -2,15 +2,10 @@
   "sku": "7681333",
   "history": [
     {
-      "date": "2026-09-07",
-      "price": 2580
-    },
-    {
       "date": "2026-11-24",
       "price": 1806
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=7681333",
   "salepage_id": "12131288",
   "url": "https://www.dot-st.tw/SalePage/Index/12131288",
   "title": "◎index女grove透膚荷葉袖設計短袖上衣-兩色-76813330 NT$1,806",
@@ -21,5 +16,6 @@
   "max_price": 2580,
   "listed_date": "2026-09-07",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "989848",
   "history": [
     {
-      "date": "2023-12-08",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=989848",
   "salepage_id": "9392158",
   "url": "https://www.dot-st.tw/SalePage/Index/9392158",
   "title": "LOWRYS FARM女串珠珍珠2WAY時尚髮圈手鍊-六色-989848",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2023-12-08",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

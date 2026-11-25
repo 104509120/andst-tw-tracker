@@ -2,15 +2,10 @@
   "sku": "608731",
   "history": [
     {
-      "date": "2026-03-21",
-      "price": 780
-    },
-    {
       "date": "2026-11-24",
       "price": 780
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=608731",
   "salepage_id": "11643611",
   "url": "https://www.dot-st.tw/SalePage/Index/11643611",
   "title": "niko and寧靜復古風印度棉地墊腳踏墊-二色-608731",
@@ -21,5 +16,6 @@
   "max_price": 780,
   "listed_date": "2026-03-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

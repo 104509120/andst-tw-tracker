@@ -2,15 +2,10 @@
   "sku": "203043",
   "history": [
     {
-      "date": "2024-11-11",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=203043",
   "salepage_id": "10303324",
   "url": "https://www.dot-st.tw/SalePage/Index/10303324",
   "title": "PAGEBOY時髦百搭2WAY雙面兩用不規則金屬釦皮帶-二色-203043",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2024-11-11",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

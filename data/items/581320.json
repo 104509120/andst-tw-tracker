@@ -2,15 +2,10 @@
   "sku": "581320",
   "history": [
     {
-      "date": "2026-09-11",
-      "price": 1480
-    },
-    {
       "date": "2026-11-24",
       "price": 1480
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=581320",
   "salepage_id": "12149928",
   "url": "https://www.dot-st.tw/SalePage/Index/12149928",
   "title": "niko and【Wpc.品牌go-koh】防風晴雨兩用抗UV摺疊傘-一色-581320",
@@ -21,5 +16,6 @@
   "max_price": 1480,
   "listed_date": "2026-09-11",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

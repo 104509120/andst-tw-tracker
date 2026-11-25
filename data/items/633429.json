@@ -2,15 +2,10 @@
   "sku": "633429",
   "history": [
     {
-      "date": "2026-08-14",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=633429",
   "salepage_id": "12067621",
   "url": "https://www.dot-st.tw/SalePage/Index/12067621",
   "title": "LAKOLE登山扣晴雨兩用隔熱折疊傘-一色-633429",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-08-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

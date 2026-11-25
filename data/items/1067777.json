@@ -2,24 +2,20 @@
   "sku": "1067777",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1067777",
   "salepage_id": "12266536",
   "url": "https://www.dot-st.tw/SalePage/Index/12266536",
   "title": "GLOBAL WORK童舒適內刷毛羅紋長褲(130cm-160cm)-二色-1067777",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12266536/0/639304428354130000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12266536/0/639312026092200000?v=1",
   "current_price": 990,
   "original_price": 990,
   "min_price": 990,
   "max_price": 990,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

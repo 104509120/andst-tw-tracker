@@ -2,15 +2,10 @@
   "sku": "287227",
   "history": [
     {
-      "date": "2025-07-04",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=287227",
   "salepage_id": "10928301",
   "url": "https://www.dot-st.tw/SalePage/Index/10928301",
   "title": "LAKOLE多功能簡易保冷保溫瓶袋(附背帶)-五色-287227",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2025-07-04",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

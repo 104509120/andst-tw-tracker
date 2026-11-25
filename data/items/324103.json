@@ -2,15 +2,10 @@
   "sku": "324103",
   "history": [
     {
-      "date": "2025-06-24",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=324103",
   "salepage_id": "10898633",
   "url": "https://www.dot-st.tw/SalePage/Index/10898633",
   "title": "niko and女圈圈愛心設計耳針式耳環-二色-324103",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2025-06-24",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "975746",
   "history": [
     {
-      "date": "2024-03-19",
-      "price": 620
-    },
-    {
       "date": "2026-11-24",
       "price": 620
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=975746",
   "salepage_id": "9633855",
   "url": "https://www.dot-st.tw/SalePage/Index/9633855",
   "title": "niko and立體鯨魚圖案置物盤擺飾-一色-975746",
@@ -21,5 +16,6 @@
   "max_price": 620,
   "listed_date": "2024-03-19",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

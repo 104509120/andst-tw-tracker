@@ -2,24 +2,20 @@
   "sku": "823730",
   "history": [
     {
-      "date": "2026-11-10",
-      "price": 3390
-    },
-    {
       "date": "2026-11-24",
       "price": 3390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=823730",
   "salepage_id": "12251805",
   "url": "https://www.dot-st.tw/SalePage/Index/12251805",
   "title": "BARNYARDSTORM異材質拼接透膚網紗寬版上衣-三色-823730",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12251805/0/639295606679500000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12251805/0/639311980112130000?v=1",
   "current_price": 3390,
   "original_price": 3390,
   "min_price": 3390,
   "max_price": 3390,
   "listed_date": "2026-11-10",
   "updated_at": "2026-11-25",
-  "brand": "BARNYARDSTORM"
+  "brand": "BARNYARDSTORM",
+  "first_seen": "2026-11-24"
 }

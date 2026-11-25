@@ -2,15 +2,10 @@
   "sku": "632818",
   "history": [
     {
-      "date": "2026-05-06",
-      "price": 270
-    },
-    {
       "date": "2026-11-24",
       "price": 270
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=632818",
   "salepage_id": "11772543",
   "url": "https://www.dot-st.tw/SalePage/Index/11772543",
   "title": "niko and繽紛立體紋路花瓶-四色-632818",
@@ -21,5 +16,6 @@
   "max_price": 270,
   "listed_date": "2026-05-06",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "612198",
   "history": [
     {
-      "date": "2025-11-11",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=612198",
   "salepage_id": "11309121",
   "url": "https://www.dot-st.tw/SalePage/Index/11309121",
   "title": "repipi armario童內刷毛蕾絲拼接大學T恤上衣-三色-612198",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2025-11-11",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

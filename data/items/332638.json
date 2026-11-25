@@ -2,15 +2,10 @@
   "sku": "332638",
   "history": [
     {
-      "date": "2021-06-24",
-      "price": 370
-    },
-    {
       "date": "2026-11-24",
       "price": 370
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=332638",
   "salepage_id": "7111162",
   "url": "https://www.dot-st.tw/SalePage/Index/7111162",
   "title": "niko and質感紋路陶瓷馬克杯咖啡杯-六色-332638",
@@ -21,5 +16,6 @@
   "max_price": 370,
   "listed_date": "2021-06-24",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

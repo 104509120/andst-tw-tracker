@@ -2,24 +2,20 @@
   "sku": "1018058",
   "history": [
     {
-      "date": "2026-07-17",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 355
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1018058",
   "salepage_id": "11985372",
   "url": "https://www.dot-st.tw/SalePage/Index/11985372",
   "title": "LAKOLE【網路限定55價】女涼感彩色色塊印花T恤上衣-三色-1018058",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11985372/0/639307650297500000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11985372/0/639312242734300000?v=1",
   "current_price": 355,
   "original_price": 990,
   "min_price": 355,
   "max_price": 990,
   "listed_date": "2026-07-17",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

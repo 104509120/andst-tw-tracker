@@ -2,15 +2,10 @@
   "sku": "645173",
   "history": [
     {
-      "date": "2026-04-10",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 236
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=645173",
   "salepage_id": "11664424",
   "url": "https://www.dot-st.tw/SalePage/Index/11664424",
   "title": "JEANASIS【HELLO KITTY聯名】品牌LOGO金屬鑰匙圈-一色-645173",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2026-04-10",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

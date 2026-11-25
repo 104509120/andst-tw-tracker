@@ -2,24 +2,20 @@
   "sku": "1061286",
   "history": [
     {
-      "date": "2026-08-26",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1061286",
   "salepage_id": "12103607",
   "url": "https://www.dot-st.tw/SalePage/Index/12103607",
   "title": "repipi armario童荷葉邊蕾絲蓬鬆短版裙褲-二色-1061286",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12103607/0/639300744083630000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12103607/0/639312242765570000?v=1",
   "current_price": 790,
   "original_price": 1490,
   "min_price": 790,
   "max_price": 1490,
   "listed_date": "2026-08-26",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

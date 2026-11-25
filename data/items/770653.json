@@ -2,24 +2,20 @@
   "sku": "770653",
   "history": [
     {
-      "date": "2026-06-02",
-      "price": 3490
-    },
-    {
       "date": "2026-11-24",
       "price": 1745
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=770653",
   "salepage_id": "11853082",
   "url": "https://www.dot-st.tw/SalePage/Index/11853082",
   "title": "PAGEBOY男女PBLIM系列側邊口袋寬版休閒工作七分褲-三色-770653",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11853082/0/639310388573430000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11853082/0/639312242701200000?v=1",
   "current_price": 1745,
   "original_price": 3490,
   "min_price": 1745,
   "max_price": 3490,
   "listed_date": "2026-06-02",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

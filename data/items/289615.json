@@ -2,15 +2,10 @@
   "sku": "289615",
   "history": [
     {
-      "date": "2025-02-26",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1614
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=289615",
   "salepage_id": "10553445",
   "url": "https://www.dot-st.tw/SalePage/Index/10553445",
   "title": "niko and男品牌NMR系列異色曲線長袖連帽T恤上衣-二色-289615",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2025-02-26",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

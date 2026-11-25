@@ -2,15 +2,10 @@
   "sku": "173065",
   "history": [
     {
-      "date": "2023-03-16",
-      "price": 700
-    },
-    {
       "date": "2026-11-24",
       "price": 700
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=173065",
   "salepage_id": "8718811",
   "url": "https://www.dot-st.tw/SalePage/Index/8718811",
   "title": "niko and原創BILLY熊系列大學校園不鏽鋼保溫杯-五色-173065",
@@ -21,5 +16,6 @@
   "max_price": 700,
   "listed_date": "2023-03-16",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

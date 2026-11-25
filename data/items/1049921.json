@@ -2,24 +2,20 @@
   "sku": "1049921",
   "history": [
     {
-      "date": "2026-10-15",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 855
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1049921",
   "salepage_id": "12237817",
   "url": "https://www.dot-st.tw/SalePage/Index/12237817",
   "title": "LAKOLE【網路限定55價】男女動物圖騰毛圈大學T恤上衣-三色-1049921",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12237817/0/639310374481100000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12237817/0/639312242829830000?v=1",
   "current_price": 855,
   "original_price": 1690,
   "min_price": 855,
   "max_price": 1690,
   "listed_date": "2026-10-15",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

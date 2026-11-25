@@ -2,15 +2,10 @@
   "sku": "600810",
   "history": [
     {
-      "date": "2025-11-19",
-      "price": 5290
-    },
-    {
       "date": "2026-11-24",
       "price": 4155
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=600810",
   "salepage_id": "11333196",
   "url": "https://www.dot-st.tw/SalePage/Index/11333196",
   "title": "HARE【網路限定55價】男皮革綁帶厚底紳士鞋-一色-600810",
@@ -21,5 +16,6 @@
   "max_price": 5290,
   "listed_date": "2025-11-19",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

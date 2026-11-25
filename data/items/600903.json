@@ -2,15 +2,10 @@
   "sku": "600903",
   "history": [
     {
-      "date": "2025-12-11",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 345
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=600903",
   "salepage_id": "11396038",
   "url": "https://www.dot-st.tw/SalePage/Index/11396038",
   "title": "repipi armario多層垂墜串飾長吊飾-二色-600903",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2025-12-11",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

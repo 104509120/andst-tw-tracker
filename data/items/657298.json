@@ -2,15 +2,10 @@
   "sku": "657298",
   "history": [
     {
-      "date": "2026-05-06",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=657298",
   "salepage_id": "11770495",
   "url": "https://www.dot-st.tw/SalePage/Index/11770495",
   "title": "niko and男NEW ERA品牌美國職棒大聯盟刺繡短帽沿帽-二色-657298",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-05-06",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

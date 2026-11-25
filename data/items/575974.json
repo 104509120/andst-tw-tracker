@@ -2,15 +2,10 @@
   "sku": "575974",
   "history": [
     {
-      "date": "2025-10-31",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 343
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=575974",
   "salepage_id": "11270680",
   "url": "https://www.dot-st.tw/SalePage/Index/11270680",
   "title": "studio CLIP傳統風網眼布條紋迷你環保購物袋《ASIA MARKET》-三色-575974",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2025-10-31",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

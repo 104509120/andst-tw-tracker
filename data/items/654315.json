@@ -2,15 +2,10 @@
   "sku": "654315",
   "history": [
     {
-      "date": "2026-03-24",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 995
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=654315",
   "salepage_id": "11653075",
   "url": "https://www.dot-st.tw/SalePage/Index/11653075",
   "title": "studio CLIP金屬扣環三隔層2WAY手提肩背包-二色-654315",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-03-24",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

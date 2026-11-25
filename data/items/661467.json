@@ -2,15 +2,10 @@
   "sku": "661467",
   "history": [
     {
-      "date": "2026-04-29",
-      "price": 5290
-    },
-    {
       "date": "2026-11-24",
       "price": 2645
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=661467",
   "salepage_id": "11748883",
   "url": "https://www.dot-st.tw/SalePage/Index/11748883",
   "title": "HARE女細肩膀帶印花前拉鍊打褶傘狀連身褲-二色-661467",
@@ -21,5 +16,6 @@
   "max_price": 5290,
   "listed_date": "2026-04-29",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

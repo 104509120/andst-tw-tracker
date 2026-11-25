@@ -2,15 +2,10 @@
   "sku": "1074956",
   "history": [
     {
-      "date": "2026-11-11",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 2990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1074956",
   "salepage_id": "12300126",
   "url": "https://www.dot-st.tw/SalePage/Index/12300126",
   "title": "niko and女復古機能防臭防潑水加工中筒靴-二色-1074956",
@@ -21,5 +16,6 @@
   "max_price": 2990,
   "listed_date": "2026-11-11",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

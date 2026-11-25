@@ -2,15 +2,10 @@
   "sku": "662003",
   "history": [
     {
-      "date": "2026-04-16",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1352
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=662003",
   "salepage_id": "11713683",
   "url": "https://www.dot-st.tw/SalePage/Index/11713683",
   "title": "niko and女輕便柔軟摺疊收納手提包後背包-二色-662003",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-04-16",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

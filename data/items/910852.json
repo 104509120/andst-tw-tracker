@@ -2,24 +2,20 @@
   "sku": "910852",
   "history": [
     {
-      "date": "2026-08-05",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=910852",
   "salepage_id": "12041301",
   "url": "https://www.dot-st.tw/SalePage/Index/12041301",
   "title": "repipi armario【網路限定55價】皮革字母壓紋拉鍊肩背包-三色-910852",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12041301/0/639307656406530000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12041301/0/639312242734300000?v=1",
   "current_price": 655,
   "original_price": 1890,
   "min_price": 655,
   "max_price": 1890,
   "listed_date": "2026-08-05",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

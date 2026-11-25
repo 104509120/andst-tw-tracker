@@ -2,15 +2,10 @@
   "sku": "6373502",
   "history": [
     {
-      "date": "2026-09-07",
-      "price": 3480
-    },
-    {
       "date": "2026-11-24",
       "price": 2088
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=6373502",
   "salepage_id": "12102407",
   "url": "https://www.dot-st.tw/SalePage/Index/12102407",
   "title": "◎index女OPAQUE.CLIP仿花呢V領針織長袖開襟衫-兩色-63735028 NT$2,088",
@@ -21,5 +16,6 @@
   "max_price": 3480,
   "listed_date": "2026-09-07",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

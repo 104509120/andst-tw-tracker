@@ -2,15 +2,10 @@
   "sku": "849657",
   "history": [
     {
-      "date": "2021-07-02",
-      "price": 860
-    },
-    {
       "date": "2026-11-24",
       "price": 860
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=849657",
   "salepage_id": "7129261",
   "url": "https://www.dot-st.tw/SalePage/Index/7129261",
   "title": "niko and簡約紋路透明玻璃壺M-一色-849657",
@@ -21,5 +16,6 @@
   "max_price": 860,
   "listed_date": "2021-07-02",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

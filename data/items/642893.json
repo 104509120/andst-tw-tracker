@@ -2,15 +2,10 @@
   "sku": "642893",
   "history": [
     {
-      "date": "2026-04-24",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 273
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=642893",
   "salepage_id": "11737663",
   "url": "https://www.dot-st.tw/SalePage/Index/11737663",
   "title": "LAKOLE雙層玻璃花瓶-二色-642893",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-04-24",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

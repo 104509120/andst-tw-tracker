@@ -2,15 +2,10 @@
   "sku": "606964",
   "history": [
     {
-      "date": "2026-03-02",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=606964",
   "salepage_id": "11582182",
   "url": "https://www.dot-st.tw/SalePage/Index/11582182",
   "title": "niko and女機能防臭絨布瑪莉珍平底鞋-六色-606964",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-03-02",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

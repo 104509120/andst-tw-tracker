@@ -2,24 +2,20 @@
   "sku": "816451",
   "history": [
     {
-      "date": "2026-06-23",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 845
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=816451",
   "salepage_id": "11921610",
   "url": "https://www.dot-st.tw/SalePage/Index/11921610",
   "title": "GLOBAL WORK男涼感背心與透膚T恤短袖上衣二件組-三色-816451",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11921610/0/639300798560570000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11921610/0/639312242552370000?v=1",
   "current_price": 845,
   "original_price": 1690,
   "min_price": 845,
   "max_price": 1690,
   "listed_date": "2026-06-23",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

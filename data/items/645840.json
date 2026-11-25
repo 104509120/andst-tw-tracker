@@ -2,15 +2,10 @@
   "sku": "645840",
   "history": [
     {
-      "date": "2026-04-01",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1749
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=645840",
   "salepage_id": "11674937",
   "url": "https://www.dot-st.tw/SalePage/Index/11674937",
   "title": "niko and男JEANS丹寧牛仔【COOLMAX&#174;】涼感輕量漸層色繭型寬褲長褲-三色-645840",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2026-04-01",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "999555",
   "history": [
     {
-      "date": "2026-10-08",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=999555",
   "salepage_id": "12223246",
   "url": "https://www.dot-st.tw/SalePage/Index/12223246",
   "title": "niko and老虎圖紋迷你裝飾墊防滑墊-一色-999555",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-10-08",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

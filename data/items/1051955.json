@@ -2,24 +2,20 @@
   "sku": "1051955",
   "history": [
     {
-      "date": "2026-08-27",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1345
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1051955",
   "salepage_id": "12109419",
   "url": "https://www.dot-st.tw/SalePage/Index/12109419",
   "title": "RAGEBLUE女斜格紋荷葉層次傘襬長裙-二色-1051955",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12109419/0/639310372962770000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12109419/0/639312242765570000?v=1",
   "current_price": 1345,
   "original_price": 2690,
   "min_price": 1345,
   "max_price": 2690,
   "listed_date": "2026-08-27",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

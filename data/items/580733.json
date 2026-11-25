@@ -2,15 +2,10 @@
   "sku": "580733",
   "history": [
     {
-      "date": "2025-08-21",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 894
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=580733",
   "salepage_id": "11046084",
   "url": "https://www.dot-st.tw/SalePage/Index/11046084",
   "title": "LAKOLE【官網獨售】男微透膚條紋短袖T恤上衣-三色-580733",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2025-08-21",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,24 @@
   "sku": "828789",
   "history": [
     {
-      "date": "2026-10-01",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 455
+    },
+    {
+      "date": "2026-11-25",
+      "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=828789",
   "salepage_id": "12197479",
   "url": "https://www.dot-st.tw/SalePage/Index/12197479",
   "title": "LEPSIM【網路限定55價】童蕾絲格紋拼接長袖上衣-三色-828789",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12197479/0/639307790333200000?v=1",
-  "current_price": 455,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12197479/0/639312139538800000?v=1",
+  "current_price": 490,
   "original_price": 990,
   "min_price": 455,
   "max_price": 990,
   "listed_date": "2026-10-01",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

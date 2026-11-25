@@ -2,15 +2,10 @@
   "sku": "1081478",
   "history": [
     {
-      "date": "2026-11-13",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1081478",
   "salepage_id": "12306385",
   "url": "https://www.dot-st.tw/SalePage/Index/12306385",
   "title": "studio CLIP彩色麻花針織衫上衣-四色-1081478",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-11-13",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

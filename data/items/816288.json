@@ -2,15 +2,10 @@
   "sku": "816288",
   "history": [
     {
-      "date": "2026-10-07",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1255
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=816288",
   "salepage_id": "12220179",
   "url": "https://www.dot-st.tw/SalePage/Index/12220179",
   "title": "niko and【網路限定55價】男女【GORELAX x Bubbling BUBBLE聯名】長袖T恤上衣-三色-816288",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-10-07",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

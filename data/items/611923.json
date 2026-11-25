@@ -2,15 +2,10 @@
   "sku": "611923",
   "history": [
     {
-      "date": "2026-03-17",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1603
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=611923",
   "salepage_id": "11625917",
   "url": "https://www.dot-st.tw/SalePage/Index/11625917",
   "title": "niko and男復古刷色畫家褲丹寧牛仔短褲-四色-611923",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-03-17",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

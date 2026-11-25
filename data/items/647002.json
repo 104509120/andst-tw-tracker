@@ -2,24 +2,20 @@
   "sku": "647002",
   "history": [
     {
-      "date": "2026-10-06",
-      "price": 3290
-    },
-    {
       "date": "2026-11-24",
       "price": 2303
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647002",
   "salepage_id": "12216481",
   "url": "https://www.dot-st.tw/SalePage/Index/12216481",
   "title": "studio CLIP輕羽毛無領繭型外套-三色-647002",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12216481/0/639306080581130000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12216481/0/639312048406430000?v=1",
   "current_price": 2303,
   "original_price": 3290,
   "min_price": 2303,
   "max_price": 3290,
   "listed_date": "2026-10-06",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

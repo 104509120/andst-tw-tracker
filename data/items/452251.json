@@ -2,15 +2,10 @@
   "sku": "452251",
   "history": [
     {
-      "date": "2025-02-27",
-      "price": 380
-    },
-    {
       "date": "2026-11-24",
       "price": 380
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=452251",
   "salepage_id": "10557734",
   "url": "https://www.dot-st.tw/SalePage/Index/10557734",
   "title": "niko and女【PAPERSELF品牌】幾何系列經典格紋透紗中筒襪-四色-452251",
@@ -21,5 +16,6 @@
   "max_price": 380,
   "listed_date": "2025-02-27",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

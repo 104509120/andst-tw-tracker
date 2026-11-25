@@ -2,15 +2,10 @@
   "sku": "672579",
   "history": [
     {
-      "date": "2026-06-05",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 396
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=672579",
   "salepage_id": "11867609",
   "url": "https://www.dot-st.tw/SalePage/Index/11867609",
   "title": "niko and男機能防臭涼感抗UV短帽沿帽-三色-672579",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-06-05",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1049013",
   "history": [
     {
-      "date": "2026-11-05",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1049013",
   "salepage_id": "12287600",
   "url": "https://www.dot-st.tw/SalePage/Index/12287600",
   "title": "LOWRYS FARM童古學院字母印花落肩上衣-四色-1049013",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-11-05",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

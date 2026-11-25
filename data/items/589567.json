@@ -2,15 +2,10 @@
   "sku": "589567",
   "history": [
     {
-      "date": "2025-11-25",
-      "price": 230
-    },
-    {
       "date": "2026-11-24",
       "price": 230
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=589567",
   "salepage_id": "11349985",
   "url": "https://www.dot-st.tw/SalePage/Index/11349985",
   "title": "niko and【Bubbling BUBBLE】沐浴系列補充瓶1L-二色-589567",
@@ -21,5 +16,6 @@
   "max_price": 230,
   "listed_date": "2025-11-25",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

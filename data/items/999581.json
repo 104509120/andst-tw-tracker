@@ -2,15 +2,10 @@
   "sku": "999581",
   "history": [
     {
-      "date": "2026-07-22",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=999581",
   "salepage_id": "11996504",
   "url": "https://www.dot-st.tw/SalePage/Index/11996504",
   "title": "LEPSIM緞面下擺蕾絲短裙-三色-999581",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2026-07-22",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "777892",
   "history": [
     {
-      "date": "2026-06-23",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 687
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=777892",
   "salepage_id": "11917924",
   "url": "https://www.dot-st.tw/SalePage/Index/11917924",
   "title": "repipi armario澎澎感蓬鬆軟墊厚底涼鞋-二色-777892",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-06-23",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

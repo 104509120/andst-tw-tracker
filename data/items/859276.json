@@ -2,15 +2,10 @@
   "sku": "859276",
   "history": [
     {
-      "date": "2026-06-10",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 897
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=859276",
   "salepage_id": "11880087",
   "url": "https://www.dot-st.tw/SalePage/Index/11880087",
   "title": "PAGEBOY光澤感格紋透膚西裝外套-二色-859276",
@@ -21,5 +16,6 @@
   "max_price": 2990,
   "listed_date": "2026-06-10",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

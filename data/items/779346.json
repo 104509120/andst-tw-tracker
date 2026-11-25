@@ -2,15 +2,10 @@
   "sku": "779346",
   "history": [
     {
-      "date": "2021-06-11",
-      "price": 700
-    },
-    {
       "date": "2026-11-24",
       "price": 700
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=779346",
   "salepage_id": "7083018",
   "url": "https://www.dot-st.tw/SalePage/Index/7083018",
   "title": "niko and居家生活室內壁掛花架裝飾-一色-779346",
@@ -21,5 +16,6 @@
   "max_price": 700,
   "listed_date": "2021-06-11",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

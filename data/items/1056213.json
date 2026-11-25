@@ -2,12 +2,11 @@
   "sku": "1056213",
   "history": [
     {
-      "date": "2026-09-17",
+      "date": "2026-11-25",
       "price": 590
     }
   ],
   "listed_date": "2026-09-17",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1056213",
   "salepage_id": "12165443",
   "url": "https://www.dot-st.tw/SalePage/Index/12165443",
   "title": "GLOBAL WORK女不鏽鋼三層鍊條-二色-1056213",
@@ -17,5 +16,6 @@
   "min_price": 590,
   "max_price": 590,
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-25"
 }

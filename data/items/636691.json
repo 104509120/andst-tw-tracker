@@ -2,15 +2,10 @@
   "sku": "636691",
   "history": [
     {
-      "date": "2026-03-26",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 845
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=636691",
   "salepage_id": "11658370",
   "url": "https://www.dot-st.tw/SalePage/Index/11658370",
   "title": "LEPSIM流蘇造型迷你斜背包-二色-636691",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-03-26",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

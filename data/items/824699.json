@@ -2,24 +2,24 @@
   "sku": "824699",
   "history": [
     {
-      "date": "2026-10-15",
+      "date": "2026-11-24",
       "price": 2290
     },
     {
-      "date": "2026-11-24",
-      "price": 2290
+      "date": "2026-11-25",
+      "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=824699",
   "salepage_id": "12240624",
   "url": "https://www.dot-st.tw/SalePage/Index/12240624",
   "title": "LEPSIM【MOUL系列】雪尼爾柔軟光澤感花朵圖樣彈性針織直筒長裙-三色-824699",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12240624/0/639277694253270000?v=1",
-  "current_price": 2290,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12240624/0/639312139480770000?v=1",
+  "current_price": 1690,
   "original_price": 2290,
-  "min_price": 2290,
+  "min_price": 1690,
   "max_price": 2290,
   "listed_date": "2026-10-15",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1080657",
   "history": [
     {
-      "date": "2026-11-11",
-      "price": 3290
-    },
-    {
       "date": "2026-11-24",
       "price": 2455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1080657",
   "salepage_id": "12300104",
   "url": "https://www.dot-st.tw/SalePage/Index/12300104",
   "title": "LAKOLE【網路限定55價】女無領羊羔毛蓬鬆夾克外套-三色-1080657",
@@ -21,5 +16,6 @@
   "max_price": 3290,
   "listed_date": "2026-11-11",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

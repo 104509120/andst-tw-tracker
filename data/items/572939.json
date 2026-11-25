@@ -2,15 +2,10 @@
   "sku": "572939",
   "history": [
     {
-      "date": "2026-01-21",
-      "price": 1090
-    },
-    {
       "date": "2026-11-24",
       "price": 1090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=572939",
   "salepage_id": "11500659",
   "url": "https://www.dot-st.tw/SalePage/Index/11500659",
   "title": "niko and招福2026年彩繪招財貓存錢筒擺飾-一色-572939",
@@ -21,5 +16,6 @@
   "max_price": 1090,
   "listed_date": "2026-01-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

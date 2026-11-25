@@ -2,15 +2,10 @@
   "sku": "177241",
   "history": [
     {
-      "date": "2023-04-14",
-      "price": 1090
-    },
-    {
       "date": "2026-11-24",
       "price": 1090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=177241",
   "salepage_id": "8786565",
   "url": "https://www.dot-st.tw/SalePage/Index/8786565",
   "title": "studio CLIP櫥櫃下置物掛式鐵籃《HOUSEHOLD GOODS》-二色-177241",
@@ -21,5 +16,6 @@
   "max_price": 1090,
   "listed_date": "2023-04-14",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

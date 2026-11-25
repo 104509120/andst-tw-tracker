@@ -2,24 +2,20 @@
   "sku": "1060711",
   "history": [
     {
-      "date": "2026-08-26",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1055
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1060711",
   "salepage_id": "12103605",
   "url": "https://www.dot-st.tw/SalePage/Index/12103605",
   "title": "repipi armario【網路限定55價】街頭風寬版連帽長袖襯衫外套-三色-1060711",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12103605/0/639307807289430000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12103605/0/639312242765570000?v=1",
   "current_price": 1055,
   "original_price": 2290,
   "min_price": 1055,
   "max_price": 2290,
   "listed_date": "2026-08-26",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

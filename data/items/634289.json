@@ -2,24 +2,24 @@
   "sku": "634289",
   "history": [
     {
-      "date": "2026-04-30",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 990
+    },
+    {
+      "date": "2026-11-25",
+      "price": 745
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=634289",
   "salepage_id": "11754735",
   "url": "https://www.dot-st.tw/SalePage/Index/11754735",
   "title": "GLOBAL WORK男舒適質感短袖襯衫上衣-三色-634289",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11754735/0/639300744105700000?v=1",
-  "current_price": 990,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11754735/0/639312261244900000?v=1",
+  "current_price": 745,
   "original_price": 1490,
-  "min_price": 990,
+  "min_price": 745,
   "max_price": 1490,
   "listed_date": "2026-04-30",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

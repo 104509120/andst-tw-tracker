@@ -2,15 +2,10 @@
   "sku": "1052529",
   "history": [
     {
-      "date": "2026-10-07",
-      "price": 5590
-    },
-    {
       "date": "2026-11-24",
       "price": 4955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1052529",
   "salepage_id": "12220848",
   "url": "https://www.dot-st.tw/SalePage/Index/12220848",
   "title": "HARE【網路限定55價】男異材質拼接皮革短版風衣外套-三色-1052529",
@@ -21,5 +16,6 @@
   "max_price": 5590,
   "listed_date": "2026-10-07",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

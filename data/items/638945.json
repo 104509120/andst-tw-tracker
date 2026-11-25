@@ -2,24 +2,20 @@
   "sku": "638945",
   "history": [
     {
-      "date": "2026-10-05",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=638945",
   "salepage_id": "12209737",
   "url": "https://www.dot-st.tw/SalePage/Index/12209737",
   "title": "niko and【網路限定55價】女時髦披肩造型針織長袖上衣-三色-638945",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12209737/0/639307653109500000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12209737/0/639312242588170000?v=1",
   "current_price": 1655,
   "original_price": 2290,
   "min_price": 1655,
   "max_price": 2290,
   "listed_date": "2026-10-05",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

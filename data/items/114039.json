@@ -2,15 +2,10 @@
   "sku": "114039",
   "history": [
     {
-      "date": "2024-11-28",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 145
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=114039",
   "salepage_id": "10350437",
   "url": "https://www.dot-st.tw/SalePage/Index/10350437",
   "title": "LAKOLE女大小C字造型耳針式耳環2對一組-二色-114039",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2024-11-28",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

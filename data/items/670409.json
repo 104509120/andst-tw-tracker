@@ -2,15 +2,10 @@
   "sku": "670409",
   "history": [
     {
-      "date": "2026-07-21",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 676
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=670409",
   "salepage_id": "11989899",
   "url": "https://www.dot-st.tw/SalePage/Index/11989899",
   "title": "LAKOLE男滿版印花開襟短袖襯衫上衣-三色-670409",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-07-21",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

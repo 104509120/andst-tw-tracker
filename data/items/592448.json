@@ -2,15 +2,10 @@
   "sku": "592448",
   "history": [
     {
-      "date": "2025-10-17",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=592448",
   "salepage_id": "11234724",
   "url": "https://www.dot-st.tw/SalePage/Index/11234724",
   "title": "niko and女【tiy nie yee】仿真食物主題鑰匙圈吊飾-三款-592448",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2025-10-17",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

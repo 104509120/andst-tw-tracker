@@ -2,15 +2,10 @@
   "sku": "1051621",
   "history": [
     {
-      "date": "2026-08-20",
-      "price": 1190
-    },
-    {
       "date": "2026-11-24",
       "price": 355
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1051621",
   "salepage_id": "12086251",
   "url": "https://www.dot-st.tw/SalePage/Index/12086251",
   "title": "repipi armario【網路限定55價】假兩件立體字母亨利領背心-三色-1051621",
@@ -21,5 +16,6 @@
   "max_price": 1190,
   "listed_date": "2026-08-20",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "672193",
   "history": [
     {
-      "date": "2026-06-16",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 236
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=672193",
   "salepage_id": "11896151",
   "url": "https://www.dot-st.tw/SalePage/Index/11896151",
   "title": "LEPSIM串珠金屬造型項鍊-二色-672193",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2026-06-16",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

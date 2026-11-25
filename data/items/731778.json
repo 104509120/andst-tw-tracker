@@ -2,15 +2,10 @@
   "sku": "731778",
   "history": [
     {
-      "date": "2021-07-02",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=731778",
   "salepage_id": "7130086",
   "url": "https://www.dot-st.tw/SalePage/Index/7130086",
   "title": "studio CLIP天然木萬用收納架-一色-731778",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2021-07-02",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

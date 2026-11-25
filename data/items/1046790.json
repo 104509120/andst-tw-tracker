@@ -2,24 +2,20 @@
   "sku": "1046790",
   "history": [
     {
-      "date": "2026-09-16",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 355
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1046790",
   "salepage_id": "12161447",
   "url": "https://www.dot-st.tw/SalePage/Index/12161447",
   "title": "GLOBAL WORK【網路限定55價】童高山直子聯名EiiS聯名滿版圖案羅紋內搭長褲(100cm-120cm)-三色-1046790",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12161447/0/639311145086500000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12161447/0/639312242615400000?v=1",
   "current_price": 355,
   "original_price": 790,
   "min_price": 355,
   "max_price": 790,
   "listed_date": "2026-09-16",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

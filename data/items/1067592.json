@@ -2,24 +2,20 @@
   "sku": "1067592",
   "history": [
     {
-      "date": "2026-09-30",
-      "price": 2790
-    },
-    {
       "date": "2026-11-24",
       "price": 1655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1067592",
   "salepage_id": "12191210",
   "url": "https://www.dot-st.tw/SalePage/Index/12191210",
   "title": "HARE【網路限定55價】女背部花朵圖樣拼接暈染休閒上衣-三色-1067592",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12191210/0/639307801167270000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12191210/0/639312044446870000?v=1",
   "current_price": 1655,
   "original_price": 2790,
   "min_price": 1655,
   "max_price": 2790,
   "listed_date": "2026-09-30",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

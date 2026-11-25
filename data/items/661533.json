@@ -2,15 +2,10 @@
   "sku": "661533",
   "history": [
     {
-      "date": "2026-03-11",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=661533",
   "salepage_id": "11609221",
   "url": "https://www.dot-st.tw/SalePage/Index/11609221",
   "title": "Heather氣質鏤空麻花一字領針織長版上衣-三色-661533",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-03-11",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

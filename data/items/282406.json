@@ -2,15 +2,10 @@
   "sku": "282406",
   "history": [
     {
-      "date": "2025-01-20",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=282406",
   "salepage_id": "10472400",
   "url": "https://www.dot-st.tw/SalePage/Index/10472400",
   "title": "GLOBAL WORK女減壓輕盈兩穿尖頭平底休閒鞋-四色-282406",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2025-01-20",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

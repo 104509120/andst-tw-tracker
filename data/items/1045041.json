@@ -2,24 +2,20 @@
   "sku": "1045041",
   "history": [
     {
-      "date": "2026-09-30",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1045041",
   "salepage_id": "12190549",
   "url": "https://www.dot-st.tw/SalePage/Index/12190549",
   "title": "studio CLIP抗靜電格紋雙面圍巾-四色-1045041",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12190549/0/639307723981530000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12190549/0/639312048400230000?v=1",
   "current_price": 1490,
   "original_price": 1490,
   "min_price": 1490,
   "max_price": 1490,
   "listed_date": "2026-09-30",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

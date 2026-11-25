@@ -2,24 +2,20 @@
   "sku": "1063892",
   "history": [
     {
-      "date": "2026-09-17",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1063892",
   "salepage_id": "12165507",
   "url": "https://www.dot-st.tw/SalePage/Index/12165507",
   "title": "Heather【網路限定55價】蕾絲滾邊絲絨細肩短洋裝-三色-1063892",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12165507/0/639311256268270000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12165507/0/639312242799600000?v=1",
   "current_price": 1455,
   "original_price": 2690,
   "min_price": 1455,
   "max_price": 2690,
   "listed_date": "2026-09-17",
   "updated_at": "2026-11-25",
-  "brand": "Heather"
+  "brand": "Heather",
+  "first_seen": "2026-11-24"
 }

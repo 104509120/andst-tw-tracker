@@ -2,15 +2,10 @@
   "sku": "613417",
   "history": [
     {
-      "date": "2026-01-22",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=613417",
   "salepage_id": "11465440",
   "url": "https://www.dot-st.tw/SalePage/Index/11465440",
   "title": "LOWRYS FARM【三麗鷗聯名】草莓新聞迷你隨身鏡-五色-613417",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-01-22",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

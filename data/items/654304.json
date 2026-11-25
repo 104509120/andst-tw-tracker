@@ -2,15 +2,10 @@
   "sku": "654304",
   "history": [
     {
-      "date": "2026-05-01",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 894
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=654304",
   "salepage_id": "11756442",
   "url": "https://www.dot-st.tw/SalePage/Index/11756442",
   "title": "niko and女條紋刺繡圖案短袖上衣-四色-654304",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-05-01",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

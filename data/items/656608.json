@@ -2,15 +2,10 @@
   "sku": "656608",
   "history": [
     {
-      "date": "2026-05-20",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 745
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=656608",
   "salepage_id": "11814921",
   "url": "https://www.dot-st.tw/SalePage/Index/11814921",
   "title": "GLOBAL WORK女涼感舒適喇叭寬版長褲(標準/短版)-四色-656608",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-05-20",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

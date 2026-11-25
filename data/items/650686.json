@@ -2,15 +2,10 @@
   "sku": "650686",
   "history": [
     {
-      "date": "2026-05-22",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 355
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=650686",
   "salepage_id": "11817066",
   "url": "https://www.dot-st.tw/SalePage/Index/11817066",
   "title": "LAKOLE【網路限定55價】男微光澤吸濕快乾不易皺寬版長褲(另有上衣賣場)-四色-650686",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-05-22",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

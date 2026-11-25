@@ -2,15 +2,10 @@
   "sku": "581648",
   "history": [
     {
-      "date": "2025-02-06",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=581648",
   "salepage_id": "11546451",
   "url": "https://www.dot-st.tw/SalePage/Index/11546451",
   "title": "studio CLIP鐵絲編織手提收納籃-一色-581648",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2025-02-06",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "911374",
   "history": [
     {
-      "date": "2026-09-22",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=911374",
   "salepage_id": "12176149",
   "url": "https://www.dot-st.tw/SalePage/Index/12176149",
   "title": "repipi armario彈性羅紋針織合身短褲-二色-911374",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2026-09-22",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "1043847",
   "history": [
     {
-      "date": "2026-09-02",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1043847",
   "salepage_id": "12124852",
   "url": "https://www.dot-st.tw/SalePage/Index/12124852",
   "title": "niko and【網路限定55價】女透膚毛絨感荷葉邊針織長袖上衣-三色-1043847",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12124852/0/639307786652100000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12124852/0/639312242765570000?v=1",
   "current_price": 955,
   "original_price": 1990,
   "min_price": 955,
   "max_price": 1990,
   "listed_date": "2026-09-02",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

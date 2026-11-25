@@ -2,24 +2,20 @@
   "sku": "871915",
   "history": [
     {
-      "date": "2026-09-10",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=871915",
   "salepage_id": "12146569",
   "url": "https://www.dot-st.tw/SalePage/Index/12146569",
   "title": "GLOBAL WORK【網路限定55價】女輕薄燈芯絨細肩帶背心-三色-871915",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12146569/0/639307656304170000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12146569/0/639312242615400000?v=1",
   "current_price": 555,
   "original_price": 1290,
   "min_price": 555,
   "max_price": 1290,
   "listed_date": "2026-09-10",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

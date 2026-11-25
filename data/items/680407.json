@@ -2,15 +2,10 @@
   "sku": "680407",
   "history": [
     {
-      "date": "2026-07-01",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 343
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=680407",
   "salepage_id": "11941993",
   "url": "https://www.dot-st.tw/SalePage/Index/11941993",
   "title": "studio CLIP精緻水滴倒鉤耳針式耳環-二色-680407",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-07-01",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "137335",
   "history": [
     {
-      "date": "2024-11-19",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=137335",
   "salepage_id": "11565238",
   "url": "https://www.dot-st.tw/SalePage/Index/11565238",
   "title": "LOWRYS FARM童2WAY迷你托特包-八色-137335",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2024-11-19",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

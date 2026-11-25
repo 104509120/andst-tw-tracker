@@ -2,15 +2,10 @@
   "sku": "656626",
   "history": [
     {
-      "date": "2026-04-01",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 316
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=656626",
   "salepage_id": "11661499",
   "url": "https://www.dot-st.tw/SalePage/Index/11661499",
   "title": "repipi armario童甜美皺褶設計背心-三色-656626",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-04-01",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "290171",
   "history": [
     {
-      "date": "2026-03-04",
-      "price": 4790
-    },
-    {
       "date": "2026-11-24",
       "price": 2355
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=290171",
   "salepage_id": "11589902",
   "url": "https://www.dot-st.tw/SalePage/Index/11589902",
   "title": "HARE【網路限定55價】男《定番設計TOROMI系列》高級光澤感西裝外套-三色-290171",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11589902/0/639307653236200000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11589902/0/639312242652100000?v=1",
   "current_price": 2355,
   "original_price": 4790,
   "min_price": 2355,
   "max_price": 4790,
   "listed_date": "2026-03-04",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

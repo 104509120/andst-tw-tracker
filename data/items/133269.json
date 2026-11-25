@@ -2,15 +2,10 @@
   "sku": "133269",
   "history": [
     {
-      "date": "2024-10-25",
-      "price": 2190
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=133269",
   "salepage_id": "10254540",
   "url": "https://www.dot-st.tw/SalePage/Index/10254540",
   "title": "LEPSIM機能RAKURYL防起毛V領後開衩針織長袖上衣-七色-133269",
@@ -21,5 +16,6 @@
   "max_price": 2190,
   "listed_date": "2024-10-25",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

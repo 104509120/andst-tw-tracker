@@ -2,15 +2,10 @@
   "sku": "885083",
   "history": [
     {
-      "date": "2026-08-14",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=885083",
   "salepage_id": "12067614",
   "url": "https://www.dot-st.tw/SalePage/Index/12067614",
   "title": "LAKOLE可調式背帶束口斜背小包(附證件夾)-二色-885083",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2026-08-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

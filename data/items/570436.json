@@ -2,15 +2,10 @@
   "sku": "570436",
   "history": [
     {
-      "date": "2025-10-09",
-      "price": 4290
-    },
-    {
       "date": "2026-11-24",
       "price": 3861
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=570436",
   "salepage_id": "11210155",
   "url": "https://www.dot-st.tw/SalePage/Index/11210155",
   "title": "niko and女【ichi品牌】華麗曲線抓皺泡泡長裙-二色-570436",
@@ -21,5 +16,6 @@
   "max_price": 4290,
   "listed_date": "2025-10-09",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

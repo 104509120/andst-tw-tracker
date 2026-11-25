@@ -2,15 +2,10 @@
   "sku": "582179",
   "history": [
     {
-      "date": "2025-11-07",
-      "price": 1050
-    },
-    {
       "date": "2026-11-24",
       "price": 1050
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=582179",
   "salepage_id": "11301474",
   "url": "https://www.dot-st.tw/SalePage/Index/11301474",
   "title": "niko and旅行收納充氣頸枕-二色-582179",
@@ -21,5 +16,6 @@
   "max_price": 1050,
   "listed_date": "2025-11-07",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

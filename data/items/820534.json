@@ -2,15 +2,10 @@
   "sku": "820534",
   "history": [
     {
-      "date": "2026-11-04",
-      "price": 1480
-    },
-    {
       "date": "2026-11-24",
       "price": 1480
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=820534",
   "salepage_id": "12282316",
   "url": "https://www.dot-st.tw/SalePage/Index/12282316",
   "title": "niko and聖誕裝飾Xmas復古風LED自動飄雪水晶球擺飾-三色-820534",
@@ -21,5 +16,6 @@
   "max_price": 1480,
   "listed_date": "2026-11-04",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

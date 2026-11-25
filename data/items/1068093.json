@@ -2,24 +2,20 @@
   "sku": "1068093",
   "history": [
     {
-      "date": "2026-10-06",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1068093",
   "salepage_id": "12215947",
   "url": "https://www.dot-st.tw/SalePage/Index/12215947",
   "title": "GLOBAL WORK女柔軟動物圖案針織長袖上衣-四色-1068093",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12215947/0/639305949328400000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12215947/0/639312025908970000?v=1",
   "current_price": 1990,
   "original_price": 1990,
   "min_price": 1990,
   "max_price": 1990,
   "listed_date": "2026-10-06",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

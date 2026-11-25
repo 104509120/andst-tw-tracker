@@ -2,15 +2,10 @@
   "sku": "1074560",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 2490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1074560",
   "salepage_id": "12270208",
   "url": "https://www.dot-st.tw/SalePage/Index/12270208",
   "title": "LOWRYS FARM女蓬袖雙拉鍊針織上衣罩衫-三色-1074560",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

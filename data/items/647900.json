@@ -2,15 +2,10 @@
   "sku": "647900",
   "history": [
     {
-      "date": "2026-03-06",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 676
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647900",
   "salepage_id": "11594800",
   "url": "https://www.dot-st.tw/SalePage/Index/11594800",
   "title": "LAKOLE男拼接半拉鍊POLO衫上衣-二色-647900",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-03-06",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

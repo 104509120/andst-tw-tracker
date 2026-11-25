@@ -2,15 +2,10 @@
   "sku": "1052430",
   "history": [
     {
-      "date": "2026-09-10",
-      "price": 2190
-    },
-    {
       "date": "2026-11-24",
       "price": 1533
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1052430",
   "salepage_id": "12146902",
   "url": "https://www.dot-st.tw/SalePage/Index/12146902",
   "title": "studio CLIP【官網/統一時代限定】純棉羅紗格紋五分褲《natural by clip》-二色-1052430",
@@ -21,5 +16,6 @@
   "max_price": 2190,
   "listed_date": "2026-09-10",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "679678",
   "history": [
     {
-      "date": "2026-09-07",
-      "price": 2720
-    },
-    {
       "date": "2026-11-24",
       "price": 1904
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=679678",
   "salepage_id": "12137606",
   "url": "https://www.dot-st.tw/SalePage/Index/12137606",
   "title": "niko and【紅虎餃子房聯名】地墊腳踏墊90*130-一色-679678",
@@ -21,5 +16,6 @@
   "max_price": 2720,
   "listed_date": "2026-09-07",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

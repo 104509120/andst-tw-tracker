@@ -2,15 +2,10 @@
   "sku": "1017493",
   "history": [
     {
-      "date": "2026-09-24",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1017493",
   "salepage_id": "12184348",
   "url": "https://www.dot-st.tw/SalePage/Index/12184348",
   "title": "LAKOLE手把式保冷吸管水壺500ml【HOTEL系列】-二色-1017493",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-09-24",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

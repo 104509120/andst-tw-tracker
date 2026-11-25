@@ -2,15 +2,10 @@
   "sku": "1073313",
   "history": [
     {
-      "date": "2026-11-13",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 2490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1073313",
   "salepage_id": "12306103",
   "url": "https://www.dot-st.tw/SalePage/Index/12306103",
   "title": "niko and女【Healthknit品牌】復古亨利領短版長袖上衣-三色-1073313",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-11-13",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

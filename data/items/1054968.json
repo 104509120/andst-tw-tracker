@@ -2,15 +2,10 @@
   "sku": "1054968",
   "history": [
     {
-      "date": "2026-09-22",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1054968",
   "salepage_id": "12176183",
   "url": "https://www.dot-st.tw/SalePage/Index/12176183",
   "title": "studio CLIP【官網/統一時代限定】2WAY流蘇馬甲背心上衣《natural by clip》-二色-1054968",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-09-22",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "646289",
   "history": [
     {
-      "date": "2026-03-06",
-      "price": 4990
-    },
-    {
       "date": "2026-11-24",
       "price": 1497
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=646289",
   "salepage_id": "11598175",
   "url": "https://www.dot-st.tw/SalePage/Index/11598175",
   "title": "RAGEBLUE女2WAY雙面兩穿格紋翻領長版大衣-一色-646289",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11598175/0/639307774952100000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11598175/0/639312242497970000?v=1",
   "current_price": 1497,
   "original_price": 4990,
   "min_price": 1497,
   "max_price": 4990,
   "listed_date": "2026-03-06",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

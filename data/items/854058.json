@@ -2,15 +2,10 @@
   "sku": "854058",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=854058",
   "salepage_id": "12274048",
   "url": "https://www.dot-st.tw/SalePage/Index/12274048",
   "title": "LAKOLE高密度壓縮木質纖維砧板-一色-854058",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

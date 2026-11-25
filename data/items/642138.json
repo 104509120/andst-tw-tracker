@@ -2,24 +2,20 @@
   "sku": "642138",
   "history": [
     {
-      "date": "2026-03-16",
-      "price": 2090
-    },
-    {
       "date": "2026-11-24",
       "price": 755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=642138",
   "salepage_id": "11610291",
   "url": "https://www.dot-st.tw/SalePage/Index/11610291",
   "title": "studio CLIP【網路限定55價】立體蕾絲刺繡V領襯衫-三色-642138",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11610291/0/639307653264600000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11610291/0/639312242652100000?v=1",
   "current_price": 755,
   "original_price": 2090,
   "min_price": 755,
   "max_price": 2090,
   "listed_date": "2026-03-16",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "153058",
   "history": [
     {
-      "date": "2024-12-24",
-      "price": 300
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=153058",
   "salepage_id": "10415941",
   "url": "https://www.dot-st.tw/SalePage/Index/10415941",
   "title": "niko and女【tiy nie yee】愛心鏈條鑰匙圈吊飾-二色-153058",
@@ -21,5 +16,6 @@
   "max_price": 300,
   "listed_date": "2024-12-24",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

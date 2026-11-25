@@ -2,15 +2,10 @@
   "sku": "635139",
   "history": [
     {
-      "date": "2026-04-21",
-      "price": 3490
-    },
-    {
       "date": "2026-11-24",
       "price": 1047
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=635139",
   "salepage_id": "11726297",
   "url": "https://www.dot-st.tw/SalePage/Index/11726297",
   "title": "PAGEBOY男女PBLIM系列復古刷色休閒繭型長褲-四色-635139",
@@ -21,5 +16,6 @@
   "max_price": 3490,
   "listed_date": "2026-04-21",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

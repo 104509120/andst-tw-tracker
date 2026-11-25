@@ -2,15 +2,10 @@
   "sku": "1050010",
   "history": [
     {
-      "date": "2026-09-27",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1050010",
   "salepage_id": "12186485",
   "url": "https://www.dot-st.tw/SalePage/Index/12186485",
   "title": "niko and女【日本人氣店員企劃】雙面兩穿七分袖上衣-三色-1050010",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-09-27",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

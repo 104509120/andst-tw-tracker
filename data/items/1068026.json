@@ -2,15 +2,10 @@
   "sku": "1068026",
   "history": [
     {
-      "date": "2026-10-08",
-      "price": 2090
-    },
-    {
       "date": "2026-11-24",
       "price": 1463
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1068026",
   "salepage_id": "12223316",
   "url": "https://www.dot-st.tw/SalePage/Index/12223316",
   "title": "studio CLIP雙拉鍊衛衣開襟外套-三色-1068026",
@@ -21,5 +16,6 @@
   "max_price": 2090,
   "listed_date": "2026-10-08",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

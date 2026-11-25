@@ -2,15 +2,10 @@
   "sku": "808759",
   "history": [
     {
-      "date": "2026-07-01",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 445
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=808759",
   "salepage_id": "11941679",
   "url": "https://www.dot-st.tw/SalePage/Index/11941679",
   "title": "GLOBAL WORK童印花POLO領短袖上衣(130cm-160cm)-四色-808759",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2026-07-01",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

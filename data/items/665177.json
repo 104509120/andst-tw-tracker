@@ -2,15 +2,10 @@
   "sku": "665177",
   "history": [
     {
-      "date": "2026-04-13",
-      "price": 2090
-    },
-    {
       "date": "2026-11-24",
       "price": 836
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=665177",
   "salepage_id": "11694557",
   "url": "https://www.dot-st.tw/SalePage/Index/11694557",
   "title": "studio CLIP微透格紋紋理V領長袖襯衫-三色-665177",
@@ -21,5 +16,6 @@
   "max_price": 2090,
   "listed_date": "2026-04-13",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "880816",
   "history": [
     {
-      "date": "2020-06-03",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=880816",
   "salepage_id": "6379554",
   "url": "https://www.dot-st.tw/SalePage/Index/6379554",
   "title": "studio CLIP日本製砥部焼柔和輪廓陶瓷碗-二色-880816",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2020-06-03",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

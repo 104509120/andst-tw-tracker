@@ -2,15 +2,10 @@
   "sku": "289887",
   "history": [
     {
-      "date": "2026-04-09",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 133
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=289887",
   "salepage_id": "11694313",
   "url": "https://www.dot-st.tw/SalePage/Index/11694313",
   "title": "LAKOLE復古風玻璃小碟-一色-289887",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2026-04-09",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

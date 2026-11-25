@@ -2,15 +2,10 @@
   "sku": "1089056",
   "history": [
     {
-      "date": "2026-09-25",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 2690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1089056",
   "salepage_id": "12179143",
   "url": "https://www.dot-st.tw/SalePage/Index/12179143",
   "title": "HARE男女【台灣限定販售】27SS COLLECTION限定圖樣T恤上衣-一色-1089056",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2026-09-25",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "658825",
   "history": [
     {
-      "date": "2026-04-08",
-      "price": 5290
-    },
-    {
       "date": "2026-11-24",
       "price": 2645
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=658825",
   "salepage_id": "11690291",
   "url": "https://www.dot-st.tw/SalePage/Index/11690291",
   "title": "HARE女細肩帶荷葉前拉鍊百褶附腰帶百褶長洋裝-三色-658825",
@@ -21,5 +16,6 @@
   "max_price": 5290,
   "listed_date": "2026-04-08",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

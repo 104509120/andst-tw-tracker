@@ -2,24 +2,20 @@
   "sku": "320212",
   "history": [
     {
-      "date": "2025-02-26",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 1794
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=320212",
   "salepage_id": "10553451",
   "url": "https://www.dot-st.tw/SalePage/Index/10553451",
   "title": "niko and男女設計師品牌Fishs Eddy印花長袖連帽T恤上衣-四色-320212",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/10553451/0/639160164972600000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/10553451/0/639312160410300000?v=1",
   "current_price": 1794,
   "original_price": 2990,
   "min_price": 1794,
   "max_price": 2990,
   "listed_date": "2025-02-26",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1046575",
   "history": [
     {
-      "date": "2026-09-18",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1046575",
   "salepage_id": "12169684",
   "url": "https://www.dot-st.tw/SalePage/Index/12169684",
   "title": "niko and女【tiy nie yee】L型零錢包票卡夾吊飾-三色-1046575",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-09-18",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

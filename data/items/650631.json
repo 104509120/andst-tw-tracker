@@ -2,15 +2,10 @@
   "sku": "650631",
   "history": [
     {
-      "date": "2026-02-06",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1076
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=650631",
   "salepage_id": "11545898",
   "url": "https://www.dot-st.tw/SalePage/Index/11545898",
   "title": "JEANASIS大翻領抓皺設計襯衫上衣-三色-650631",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2026-02-06",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "640007",
   "history": [
     {
-      "date": "2026-04-15",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=640007",
   "salepage_id": "11708100",
   "url": "https://www.dot-st.tw/SalePage/Index/11708100",
   "title": "LAKOLE摺疊攜彈式洗衣籃-一色-640007",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-04-15",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

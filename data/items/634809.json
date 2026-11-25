@@ -2,15 +2,10 @@
   "sku": "634809",
   "history": [
     {
-      "date": "2026-05-21",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=634809",
   "salepage_id": "11817431",
   "url": "https://www.dot-st.tw/SalePage/Index/11817431",
   "title": "studio CLIP時髦亮色迷你玻璃水壺(75ML)-一色-634809",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-05-21",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

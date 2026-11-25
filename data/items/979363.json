@@ -2,15 +2,10 @@
   "sku": "979363",
   "history": [
     {
-      "date": "2024-01-05",
-      "price": 510
-    },
-    {
       "date": "2026-11-24",
       "price": 510
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=979363",
   "salepage_id": "9461290",
   "url": "https://www.dot-st.tw/SalePage/Index/9461290",
   "title": "niko and品牌LOGO皮革筆筒眼鏡盒-二色-979363",
@@ -21,5 +16,6 @@
   "max_price": 510,
   "listed_date": "2024-01-05",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

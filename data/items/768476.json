@@ -2,15 +2,10 @@
   "sku": "768476",
   "history": [
     {
-      "date": "2020-05-11",
-      "price": 470
-    },
-    {
       "date": "2026-11-24",
       "price": 329
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=768476",
   "salepage_id": "6333578",
   "url": "https://www.dot-st.tw/SalePage/Index/6333578",
   "title": "niko and素色皮革LOGO壓紋頸掛繩票卡夾套-六色-768476",
@@ -21,5 +16,6 @@
   "max_price": 470,
   "listed_date": "2020-05-11",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "1054517",
   "history": [
     {
-      "date": "2026-09-22",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 1955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1054517",
   "salepage_id": "12177388",
   "url": "https://www.dot-st.tw/SalePage/Index/12177388",
   "title": "PAGEBOY【網路限定55價】接觸涼感雙排扣打褶西裝外套-三色-1054517",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12177388/0/639307656402870000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12177388/0/639312242799600000?v=1",
   "current_price": 1955,
   "original_price": 3990,
   "min_price": 1955,
   "max_price": 3990,
   "listed_date": "2026-09-22",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

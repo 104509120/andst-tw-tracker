@@ -2,15 +2,10 @@
   "sku": "286089",
   "history": [
     {
-      "date": "2025-05-14",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=286089",
   "salepage_id": "10756854",
   "url": "https://www.dot-st.tw/SalePage/Index/10756854",
   "title": "niko and女【tiy nie yee】圓形零錢包掛飾(不含圓形片墜飾)-二色-286089",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2025-05-14",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

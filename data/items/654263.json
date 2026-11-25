@@ -2,24 +2,20 @@
   "sku": "654263",
   "history": [
     {
-      "date": "2026-07-07",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 916
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=654263",
   "salepage_id": "11955161",
   "url": "https://www.dot-st.tw/SalePage/Index/11955161",
   "title": "studio CLIP亞麻羅紋半袖T恤-四色-654263",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11955161/0/639310380071300000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11955161/0/639312242718330000?v=1",
   "current_price": 916,
   "original_price": 2290,
   "min_price": 916,
   "max_price": 2290,
   "listed_date": "2026-07-07",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

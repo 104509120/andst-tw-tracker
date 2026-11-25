@@ -2,24 +2,20 @@
   "sku": "595372",
   "history": [
     {
-      "date": "2025-11-04",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 345
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=595372",
   "salepage_id": "11271282",
   "url": "https://www.dot-st.tw/SalePage/Index/11271282",
   "title": "GLOBAL WORK女【三麗鷗聯名】HELLO KITTY壓克力吊飾-三色-595372",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11271282/0/639299286204070000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11271282/0/639312242479130000?v=1",
   "current_price": 345,
   "original_price": 690,
   "min_price": 345,
   "max_price": 690,
   "listed_date": "2025-11-04",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

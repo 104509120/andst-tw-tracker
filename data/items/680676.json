@@ -2,24 +2,20 @@
   "sku": "680676",
   "history": [
     {
-      "date": "2026-09-01",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1194
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=680676",
   "salepage_id": "12120442",
   "url": "https://www.dot-st.tw/SalePage/Index/12120442",
   "title": "GLOBAL WORK男俐落挺版開領長袖襯衫上衣-六色-680676",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12120442/0/639300744107730000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12120442/0/639312242765570000?v=1",
   "current_price": 1194,
   "original_price": 1990,
   "min_price": 1194,
   "max_price": 1990,
   "listed_date": "2026-09-01",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

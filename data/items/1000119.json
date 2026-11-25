@@ -2,24 +2,20 @@
   "sku": "1000119",
   "history": [
     {
-      "date": "2026-11-10",
-      "price": 4090
-    },
-    {
       "date": "2026-11-24",
       "price": 4090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1000119",
   "salepage_id": "12251766",
   "url": "https://www.dot-st.tw/SalePage/Index/12251766",
   "title": "BARNYARDSTORM字母圖樣針織休閒上衣-二色-1000119",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12251766/0/639295606580030000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12251766/0/639311985555670000?v=1",
   "current_price": 4090,
   "original_price": 4090,
   "min_price": 4090,
   "max_price": 4090,
   "listed_date": "2026-11-10",
   "updated_at": "2026-11-25",
-  "brand": "BARNYARDSTORM"
+  "brand": "BARNYARDSTORM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "667504",
   "history": [
     {
-      "date": "2026-07-15",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 623
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=667504",
   "salepage_id": "11977891",
   "url": "https://www.dot-st.tw/SalePage/Index/11977891",
   "title": "niko and接觸冷感室內拖鞋-二色-667504",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2026-07-15",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

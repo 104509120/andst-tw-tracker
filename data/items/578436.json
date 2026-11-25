@@ -2,15 +2,10 @@
   "sku": "578436",
   "history": [
     {
-      "date": "2025-10-16",
-      "price": 1130
-    },
-    {
       "date": "2026-11-24",
       "price": 1130
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=578436",
   "salepage_id": "11214438",
   "url": "https://www.dot-st.tw/SalePage/Index/11214438",
   "title": "niko and【PUPPET SUNSUN聯名】洗臉手腕帶髮圈二入組-一款-578436",
@@ -21,5 +16,6 @@
   "max_price": 1130,
   "listed_date": "2025-10-16",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

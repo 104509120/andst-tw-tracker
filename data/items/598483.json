@@ -2,15 +2,10 @@
   "sku": "598483",
   "history": [
     {
-      "date": "2025-10-31",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=598483",
   "salepage_id": "11270366",
   "url": "https://www.dot-st.tw/SalePage/Index/11270366",
   "title": "repipi armario童可調式腰帶寬版百褶丹寧短裙(不含襪套)-三色-598483",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2025-10-31",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

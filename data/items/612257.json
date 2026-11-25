@@ -2,15 +2,10 @@
   "sku": "612257",
   "history": [
     {
-      "date": "2026-01-21",
-      "price": 930
-    },
-    {
       "date": "2026-11-24",
       "price": 930
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=612257",
   "salepage_id": "11467348",
   "url": "https://www.dot-st.tw/SalePage/Index/11467348",
   "title": "niko and【STRANGER THINGS】怪奇物語聯名不鏽鋼隨行保溫杯430ml-二色-612257",
@@ -21,5 +16,6 @@
   "max_price": 930,
   "listed_date": "2026-01-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

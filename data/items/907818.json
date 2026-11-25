@@ -2,15 +2,10 @@
   "sku": "907818",
   "history": [
     {
-      "date": "2024-10-14",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 195
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=907818",
   "salepage_id": "10169270",
   "url": "https://www.dot-st.tw/SalePage/Index/10169270",
   "title": "LAKOLE可拆式地板擦拭器(無附手柄桿需另購)-一色-907818",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2024-10-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

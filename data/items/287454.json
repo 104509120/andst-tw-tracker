@@ -2,15 +2,10 @@
   "sku": "287454",
   "history": [
     {
-      "date": "2025-01-22",
-      "price": 470
-    },
-    {
       "date": "2026-11-24",
       "price": 329
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=287454",
   "salepage_id": "10477098",
   "url": "https://www.dot-st.tw/SalePage/Index/10477098",
   "title": "niko and品牌LOGO燙金皮革AirPods Pro保護套-二色-287454",
@@ -21,5 +16,6 @@
   "max_price": 470,
   "listed_date": "2025-01-22",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

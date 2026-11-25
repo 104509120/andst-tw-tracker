@@ -2,15 +2,10 @@
   "sku": "643924",
   "history": [
     {
-      "date": "2026-04-01",
-      "price": 350
-    },
-    {
       "date": "2026-11-24",
       "price": 210
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=643924",
   "salepage_id": "11667103",
   "url": "https://www.dot-st.tw/SalePage/Index/11667103",
   "title": "repipi armario甜美荷葉邊束口小包-四色-643924",
@@ -21,5 +16,6 @@
   "max_price": 350,
   "listed_date": "2026-04-01",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

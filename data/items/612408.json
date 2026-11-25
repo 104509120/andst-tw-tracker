@@ -2,15 +2,10 @@
   "sku": "612408",
   "history": [
     {
-      "date": "2026-05-18",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 645
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=612408",
   "salepage_id": "11803086",
   "url": "https://www.dot-st.tw/SalePage/Index/11803086",
   "title": "GLOBAL WORK男多款印花T恤短袖上衣-八色-612408",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-05-18",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

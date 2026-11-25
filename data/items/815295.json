@@ -2,24 +2,20 @@
   "sku": "815295",
   "history": [
     {
-      "date": "2026-10-02",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 1055
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=815295",
   "salepage_id": "12194189",
   "url": "https://www.dot-st.tw/SalePage/Index/12194189",
   "title": "LAKOLE【網路限定55價】男燈芯絨微磨毛襯衫外套-三色-815295",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12194189/0/639307650304500000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12194189/0/639312242815030000?v=1",
   "current_price": 1055,
   "original_price": 2490,
   "min_price": 1055,
   "max_price": 2490,
   "listed_date": "2026-10-02",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

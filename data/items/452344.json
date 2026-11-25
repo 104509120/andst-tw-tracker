@@ -2,15 +2,10 @@
   "sku": "452344",
   "history": [
     {
-      "date": "2026-01-23",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 483
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=452344",
   "salepage_id": "11508027",
   "url": "https://www.dot-st.tw/SalePage/Index/11508027",
   "title": "LAKOLE女混合鍊條吊飾鑰匙圈-三色-452344",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-01-23",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "645822",
   "history": [
     {
-      "date": "2026-04-23",
-      "price": 470
-    },
-    {
       "date": "2026-11-24",
       "price": 470
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=645822",
   "salepage_id": "11727033",
   "url": "https://www.dot-st.tw/SalePage/Index/11727033",
   "title": "niko and【湯姆貓與傑利鼠聯名】便當包巾-二款-645822",
@@ -21,5 +16,6 @@
   "max_price": 470,
   "listed_date": "2026-04-23",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

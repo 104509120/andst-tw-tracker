@@ -2,15 +2,10 @@
   "sku": "321030",
   "history": [
     {
-      "date": "2025-08-15",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 273
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=321030",
   "salepage_id": "11031988",
   "url": "https://www.dot-st.tw/SalePage/Index/11031988",
   "title": "LAKOLE毛巾布交叉設計室內拖鞋-二色-321030",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2025-08-15",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

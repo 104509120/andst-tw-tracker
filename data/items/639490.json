@@ -2,24 +2,20 @@
   "sku": "639490",
   "history": [
     {
-      "date": "2026-03-26",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=639490",
   "salepage_id": "11658383",
   "url": "https://www.dot-st.tw/SalePage/Index/11658383",
   "title": "LEPSIM【網路限定55價】前後兩穿2WAY鬆緊綁帶長袖上衣與無袖背心上衣二件組-八色-639490",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11658383/0/639311251444430000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11658383/0/639312242668930000?v=1",
   "current_price": 655,
   "original_price": 1990,
   "min_price": 655,
   "max_price": 1990,
   "listed_date": "2026-03-26",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

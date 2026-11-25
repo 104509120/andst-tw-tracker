@@ -2,15 +2,10 @@
   "sku": "625565",
   "history": [
     {
-      "date": "2026-05-21",
-      "price": 1090
-    },
-    {
       "date": "2026-11-24",
       "price": 1090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=625565",
   "salepage_id": "11817420",
   "url": "https://www.dot-st.tw/SalePage/Index/11817420",
   "title": "studio CLIP浪漫感花朵寬肩帶圍裙-二色-625565",
@@ -21,5 +16,6 @@
   "max_price": 1090,
   "listed_date": "2026-05-21",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

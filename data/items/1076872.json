@@ -2,24 +2,20 @@
   "sku": "1076872",
   "history": [
     {
-      "date": "2026-10-16",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 2755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1076872",
   "salepage_id": "12244528",
   "url": "https://www.dot-st.tw/SalePage/Index/12244528",
   "title": "RAGEBLUE【網路限定55價】男復古尼龍褲管抽繩打褶寬版長褲-二色-1076872",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12244528/0/639307647606430000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12244528/0/639312242845100000?v=1",
   "current_price": 2755,
   "original_price": 2990,
   "min_price": 2755,
   "max_price": 2990,
   "listed_date": "2026-10-16",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

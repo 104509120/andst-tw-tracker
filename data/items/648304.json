@@ -2,15 +2,10 @@
   "sku": "648304",
   "history": [
     {
-      "date": "2026-06-05",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=648304",
   "salepage_id": "11860193",
   "url": "https://www.dot-st.tw/SalePage/Index/11860193",
   "title": "LAKOLE【網路限定55價】男時髦楊柳寬鬆襯衫上衣(另有下身賣場)-四色-648304",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-06-05",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

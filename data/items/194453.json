@@ -2,15 +2,10 @@
   "sku": "194453",
   "history": [
     {
-      "date": "2023-09-01",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=194453",
   "salepage_id": "9145101",
   "url": "https://www.dot-st.tw/SalePage/Index/9145101",
   "title": "studio CLIP銀古典造型蛋糕叉【daily CLIP】-一色-194453",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2023-09-01",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

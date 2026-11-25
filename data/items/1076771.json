@@ -2,24 +2,24 @@
   "sku": "1076771",
   "history": [
     {
-      "date": "2026-10-08",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1090
+    },
+    {
+      "date": "2026-11-25",
+      "price": 890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1076771",
   "salepage_id": "12198742",
   "url": "https://www.dot-st.tw/SalePage/Index/12198742",
   "title": "LEPSIM媽媽系列蕾絲拼接Logo長袖上衣-三色-1076771",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12198742/0/639300744105800000?v=1",
-  "current_price": 1090,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12198742/0/639312139656970000?v=1",
+  "current_price": 890,
   "original_price": 1990,
-  "min_price": 1090,
+  "min_price": 890,
   "max_price": 1990,
   "listed_date": "2026-10-08",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

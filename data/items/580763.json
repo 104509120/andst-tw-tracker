@@ -2,24 +2,20 @@
   "sku": "580763",
   "history": [
     {
-      "date": "2025-09-16",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=580763",
   "salepage_id": "11119974",
   "url": "https://www.dot-st.tw/SalePage/Index/11119974",
   "title": "GLOBAL WORK【網路限定55價】男Rich Clean無領簡約針織罩衫外套-四色-580763",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11119974/0/639310365116830000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11119974/0/639312242617500000?v=1",
   "current_price": 455,
   "original_price": 1290,
   "min_price": 455,
   "max_price": 1290,
   "listed_date": "2025-09-16",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

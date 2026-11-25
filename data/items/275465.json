@@ -2,15 +2,10 @@
   "sku": "275465",
   "history": [
     {
-      "date": "2022-08-26",
-      "price": 4670
-    },
-    {
       "date": "2026-11-24",
       "price": 4670
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=275465",
   "salepage_id": "8054149",
   "url": "https://www.dot-st.tw/SalePage/Index/8054149",
   "title": "niko and組裝四輪多層收納鞋架鞋櫃-一色-275465",
@@ -21,5 +16,6 @@
   "max_price": 4670,
   "listed_date": "2022-08-26",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

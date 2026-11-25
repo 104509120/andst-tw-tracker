@@ -2,24 +2,20 @@
   "sku": "637044",
   "history": [
     {
-      "date": "2026-07-01",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=637044",
   "salepage_id": "11941647",
   "url": "https://www.dot-st.tw/SalePage/Index/11941647",
   "title": "GLOBAL WORK童夏日印花T恤短袖上衣(100cm-160cm)-六色-637044",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11941647/0/639300798562900000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11941647/0/639312242718330000?v=1",
   "current_price": 590,
   "original_price": 790,
   "min_price": 590,
   "max_price": 790,
   "listed_date": "2026-07-01",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

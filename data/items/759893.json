@@ -2,15 +2,10 @@
   "sku": "759893",
   "history": [
     {
-      "date": "2026-06-11",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 676
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=759893",
   "salepage_id": "11886268",
   "url": "https://www.dot-st.tw/SalePage/Index/11886268",
   "title": "repipi armario牛仔丹寧塑身馬甲背心-二色-759893",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-06-11",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

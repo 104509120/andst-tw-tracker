@@ -2,15 +2,10 @@
   "sku": "644510",
   "history": [
     {
-      "date": "2026-07-30",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=644510",
   "salepage_id": "12030044",
   "url": "https://www.dot-st.tw/SalePage/Index/12030044",
   "title": "LAKOLE女小巧飾鑽圈型樹脂耳針式耳環-二色-644510",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-07-30",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "668916",
   "history": [
     {
-      "date": "2026-05-14",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 916
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=668916",
   "salepage_id": "11797754",
   "url": "https://www.dot-st.tw/SalePage/Index/11797754",
   "title": "repipi armario下擺鏤空丹寧百褶裙-二色-668916",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-05-14",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

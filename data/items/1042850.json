@@ -2,24 +2,24 @@
   "sku": "1042850",
   "history": [
     {
-      "date": "2026-10-02",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 790
+    },
+    {
+      "date": "2026-11-25",
+      "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1042850",
   "salepage_id": "12208160",
   "url": "https://www.dot-st.tw/SalePage/Index/12208160",
   "title": "LOWRYS FARM童裝立體荷葉邊針織長袖上衣-三色-1042850",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12208160/0/639306075059570000?v=1",
-  "current_price": 790,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12208160/0/639312241623200000?v=1",
+  "current_price": 590,
   "original_price": 1290,
-  "min_price": 790,
+  "min_price": 590,
   "max_price": 1290,
   "listed_date": "2026-10-02",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

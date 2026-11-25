@@ -2,15 +2,10 @@
   "sku": "823987",
   "history": [
     {
-      "date": "2026-09-30",
-      "price": 1090
-    },
-    {
       "date": "2026-11-24",
       "price": 763
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=823987",
   "salepage_id": "12180963",
   "url": "https://www.dot-st.tw/SalePage/Index/12180963",
   "title": "niko and【P-kies Family聯名】摺疊收納購物袋-一色-823987",
@@ -21,5 +16,6 @@
   "max_price": 1090,
   "listed_date": "2026-09-30",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1068891",
   "history": [
     {
-      "date": "2026-10-21",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 3990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1068891",
   "salepage_id": "12256175",
   "url": "https://www.dot-st.tw/SalePage/Index/12256175",
   "title": "LEPSIM皮革拉鍊騎士風夾克外套-二色-1068891",
@@ -21,5 +16,6 @@
   "max_price": 3990,
   "listed_date": "2026-10-21",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

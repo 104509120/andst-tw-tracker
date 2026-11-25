@@ -2,24 +2,20 @@
   "sku": "636407",
   "history": [
     {
-      "date": "2026-03-20",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 495
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=636407",
   "salepage_id": "11640321",
   "url": "https://www.dot-st.tw/SalePage/Index/11640321",
   "title": "GLOBAL WORK男女清爽舒適印花T恤短袖上衣-八色-636407",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11640321/0/639299286276230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11640321/0/639312242497970000?v=1",
   "current_price": 495,
   "original_price": 990,
   "min_price": 495,
   "max_price": 990,
   "listed_date": "2026-03-20",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

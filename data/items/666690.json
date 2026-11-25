@@ -2,15 +2,10 @@
   "sku": "666690",
   "history": [
     {
-      "date": "2026-06-18",
-      "price": 350
-    },
-    {
       "date": "2026-11-24",
       "price": 350
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=666690",
   "salepage_id": "11892677",
   "url": "https://www.dot-st.tw/SalePage/Index/11892677",
   "title": "niko and【超人力霸王聯名】方巾手帕-二款-666690",
@@ -21,5 +16,6 @@
   "max_price": 350,
   "listed_date": "2026-06-18",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

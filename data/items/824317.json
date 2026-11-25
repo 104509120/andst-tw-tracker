@@ -2,15 +2,10 @@
   "sku": "824317",
   "history": [
     {
-      "date": "2026-09-16",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=824317",
   "salepage_id": "12160315",
   "url": "https://www.dot-st.tw/SalePage/Index/12160315",
   "title": "LOWRYS FARM女復古甜美蕾絲水手領襯衫-二色-824317",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-09-16",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1077969",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 2690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1077969",
   "salepage_id": "12270210",
   "url": "https://www.dot-st.tw/SalePage/Index/12270210",
   "title": "LOWRYS FARM女珠飾打褶西裝長褲-二色-1077969",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

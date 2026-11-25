@@ -2,15 +2,10 @@
   "sku": "576042",
   "history": [
     {
-      "date": "2025-10-20",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=576042",
   "salepage_id": "11238838",
   "url": "https://www.dot-st.tw/SalePage/Index/11238838",
   "title": "niko and女運動主題鑰匙圈吊飾-八款-576042",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2025-10-20",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

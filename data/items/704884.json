@@ -2,15 +2,10 @@
   "sku": "704884",
   "history": [
     {
-      "date": "2023-07-28",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=704884",
   "salepage_id": "9058674",
   "url": "https://www.dot-st.tw/SalePage/Index/9058674",
   "title": "studio CLIP藤鐵製編織製物籃M【daily CLIP】-一色-704884",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2023-07-28",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

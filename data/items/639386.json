@@ -2,15 +2,10 @@
   "sku": "639386",
   "history": [
     {
-      "date": "2026-04-09",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 356
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=639386",
   "salepage_id": "11694362",
   "url": "https://www.dot-st.tw/SalePage/Index/11694362",
   "title": "LAKOLE男城市LOGO棒球帽-三色-639386",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2026-04-09",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

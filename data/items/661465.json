@@ -2,15 +2,10 @@
   "sku": "661465",
   "history": [
     {
-      "date": "2026-03-18",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 596
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=661465",
   "salepage_id": "11626522",
   "url": "https://www.dot-st.tw/SalePage/Index/11626522",
   "title": "LEPSIM復古感拼接繫帶腰帶造型片裙-二色-661465",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-03-18",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

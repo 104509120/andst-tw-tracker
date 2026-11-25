@@ -2,24 +2,20 @@
   "sku": "1049477",
   "history": [
     {
-      "date": "2026-10-14",
-      "price": 1090
-    },
-    {
       "date": "2026-11-24",
       "price": 1090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1049477",
   "salepage_id": "12235470",
   "url": "https://www.dot-st.tw/SalePage/Index/12235470",
   "title": "studio CLIP燈芯絨字母棒球帽-四色-1049477",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12235470/0/639307723995070000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12235470/0/639312048422800000?v=1",
   "current_price": 1090,
   "original_price": 1090,
   "min_price": 1090,
   "max_price": 1090,
   "listed_date": "2026-10-14",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "848934",
   "history": [
     {
-      "date": "2026-06-16",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 845
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=848934",
   "salepage_id": "11896998",
   "url": "https://www.dot-st.tw/SalePage/Index/11896998",
   "title": "RAGEBLUE男水洗噴染亨利領短袖T恤上衣-三色-848934",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11896998/0/639305979046330000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11896998/0/639312242552370000?v=1",
   "current_price": 845,
   "original_price": 1690,
   "min_price": 845,
   "max_price": 1690,
   "listed_date": "2026-06-16",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

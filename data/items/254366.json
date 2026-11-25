@@ -2,15 +2,10 @@
   "sku": "254366",
   "history": [
     {
-      "date": "2025-04-01",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=254366",
   "salepage_id": "10647295",
   "url": "https://www.dot-st.tw/SalePage/Index/10647295",
   "title": "niko and品牌LOGO迷你馬克杯10ml-四色-254366",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2025-04-01",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

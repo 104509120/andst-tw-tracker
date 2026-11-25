@@ -2,15 +2,10 @@
   "sku": "1067346",
   "history": [
     {
-      "date": "2026-09-24",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1067346",
   "salepage_id": "12184258",
   "url": "https://www.dot-st.tw/SalePage/Index/12184258",
   "title": "studio CLIP金屬珠雙層項鍊-二色-1067346",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-09-24",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

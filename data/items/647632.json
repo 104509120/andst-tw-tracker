@@ -2,15 +2,10 @@
   "sku": "647632",
   "history": [
     {
-      "date": "2026-02-06",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647632",
   "salepage_id": "11545891",
   "url": "https://www.dot-st.tw/SalePage/Index/11545891",
   "title": "JEANASIS【網路限定55價】刺繡LOGO棉質長袖上衣-三色-647632",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2026-02-06",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

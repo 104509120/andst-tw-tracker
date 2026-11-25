@@ -2,15 +2,10 @@
   "sku": "661588",
   "history": [
     {
-      "date": "2026-04-21",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 756
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=661588",
   "salepage_id": "11717507",
   "url": "https://www.dot-st.tw/SalePage/Index/11717507",
   "title": "LEPSIM皮革編織羅馬2WAY低跟鞋-二色-661588",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2026-04-21",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

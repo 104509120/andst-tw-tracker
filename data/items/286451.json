@@ -2,15 +2,10 @@
   "sku": "286451",
   "history": [
     {
-      "date": "2025-02-14",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=286451",
   "salepage_id": "10518327",
   "url": "https://www.dot-st.tw/SalePage/Index/10518327",
   "title": "LAKOLE女皮革素色絎縫愛心方型收納化妝包掛飾-二色-286451",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2025-02-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

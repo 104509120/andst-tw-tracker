@@ -2,15 +2,10 @@
   "sku": "650643",
   "history": [
     {
-      "date": "2026-05-06",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=650643",
   "salepage_id": "11772362",
   "url": "https://www.dot-st.tw/SalePage/Index/11772362",
   "title": "LAKOLE【網路限定55價】男紋理泡泡紗T恤上衣-三色-650643",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-05-06",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

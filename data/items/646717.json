@@ -2,15 +2,10 @@
   "sku": "646717",
   "history": [
     {
-      "date": "2026-05-20",
-      "price": 1240
-    },
-    {
       "date": "2026-11-24",
       "price": 1240
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=646717",
   "salepage_id": "11815203",
   "url": "https://www.dot-st.tw/SalePage/Index/11815203",
   "title": "niko and品牌LOGO晴雨兩用抗UV摺疊傘-二色-646717",
@@ -21,5 +16,6 @@
   "max_price": 1240,
   "listed_date": "2026-05-20",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

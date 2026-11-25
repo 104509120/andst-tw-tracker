@@ -2,15 +2,10 @@
   "sku": "1070202",
   "history": [
     {
-      "date": "2026-11-11",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1070202",
   "salepage_id": "12300100",
   "url": "https://www.dot-st.tw/SalePage/Index/12300100",
   "title": "LAKOLE男觸感滑順附小包皮革肩背包-二色-1070202",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-11-11",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

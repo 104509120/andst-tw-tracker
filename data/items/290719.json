@@ -2,15 +2,10 @@
   "sku": "290719",
   "history": [
     {
-      "date": "2025-01-25",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 507
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=290719",
   "salepage_id": "10482683",
   "url": "https://www.dot-st.tw/SalePage/Index/10482683",
   "title": "LAKOLE【官網獨售】女立體緹花舒適長褲-三色-290719",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2025-01-25",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

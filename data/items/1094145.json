@@ -2,15 +2,10 @@
   "sku": "1094145",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 6990
-    },
-    {
       "date": "2026-11-24",
       "price": 6555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1094145",
   "salepage_id": "12273064",
   "url": "https://www.dot-st.tw/SalePage/Index/12273064",
   "title": "PAGEBOY【網路限定55價】光澤感毛絨翻領附皮革綁帶長版外套大衣-二色-1094145",
@@ -21,5 +16,6 @@
   "max_price": 6990,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

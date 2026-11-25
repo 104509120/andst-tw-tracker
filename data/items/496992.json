@@ -2,15 +2,10 @@
   "sku": "496992",
   "history": [
     {
-      "date": "2025-06-13",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=496992",
   "salepage_id": "12162707",
   "url": "https://www.dot-st.tw/SalePage/Index/12162707",
   "title": "LOWRYS FARM女不鏽鋼墜飾雙層項鍊-四色-496992",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2025-06-13",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

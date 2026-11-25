@@ -2,15 +2,10 @@
   "sku": "576397",
   "history": [
     {
-      "date": "2025-08-21",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=576397",
   "salepage_id": "11041085",
   "url": "https://www.dot-st.tw/SalePage/Index/11041085",
   "title": "LOWRYS FARM女【官網/南港LLP獨售_日本人氣店員企劃】垂墜鍊條珍珠耳扣耳骨夾二件組-二色-576397",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2025-08-21",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

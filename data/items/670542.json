@@ -2,15 +2,10 @@
   "sku": "670542",
   "history": [
     {
-      "date": "2026-05-27",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 316
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=670542",
   "salepage_id": "11837104",
   "url": "https://www.dot-st.tw/SalePage/Index/11837104",
   "title": "JEANASIS玻璃愛心吊墜項鍊-二色-670542",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-05-27",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

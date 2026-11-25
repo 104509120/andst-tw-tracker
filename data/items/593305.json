@@ -2,24 +2,20 @@
   "sku": "593305",
   "history": [
     {
-      "date": "2025-11-21",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 745
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=593305",
   "salepage_id": "11335548",
   "url": "https://www.dot-st.tw/SalePage/Index/11335548",
   "title": "LAKOLE女多口袋2WAY手拿肩背托特包-四色-593305",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11335548/0/639311309406270000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11335548/0/639312134405500000?v=1",
   "current_price": 745,
   "original_price": 1490,
   "min_price": 745,
   "max_price": 1490,
   "listed_date": "2025-11-21",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

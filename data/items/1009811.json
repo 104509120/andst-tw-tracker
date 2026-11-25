@@ -2,24 +2,20 @@
   "sku": "1009811",
   "history": [
     {
-      "date": "2026-07-07",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 855
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1009811",
   "salepage_id": "11957603",
   "url": "https://www.dot-st.tw/SalePage/Index/11957603",
   "title": "RAGEBLUE【網路限定55價】女夏日微透膚落肩短版襯衫上衣-四色-1009811",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11957603/0/639307647606430000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11957603/0/639312242734300000?v=1",
   "current_price": 855,
   "original_price": 1990,
   "min_price": 855,
   "max_price": 1990,
   "listed_date": "2026-07-07",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

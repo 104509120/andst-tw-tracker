@@ -2,24 +2,24 @@
   "sku": "1032354",
   "history": [
     {
-      "date": "2026-07-08",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 790
+    },
+    {
+      "date": "2026-11-25",
+      "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1032354",
   "salepage_id": "11962352",
   "url": "https://www.dot-st.tw/SalePage/Index/11962352",
   "title": "LOWRYS FARM層次穿搭蕾絲圍裙片裙-二色-1032354",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11962352/0/639311392957570000?v=1",
-  "current_price": 790,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11962352/0/639312241732400000?v=1",
+  "current_price": 390,
   "original_price": 1290,
-  "min_price": 790,
+  "min_price": 390,
   "max_price": 1290,
   "listed_date": "2026-07-08",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

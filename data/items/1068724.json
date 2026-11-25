@@ -2,15 +2,10 @@
   "sku": "1068724",
   "history": [
     {
-      "date": "2026-09-10",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1068724",
   "salepage_id": "12147508",
   "url": "https://www.dot-st.tw/SalePage/Index/12147508",
   "title": "repipi armario【網路限定55價】童工裝氣球蓬蓬短褲-二色-1068724",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-09-10",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

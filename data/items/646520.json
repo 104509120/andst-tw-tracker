@@ -2,15 +2,10 @@
   "sku": "646520",
   "history": [
     {
-      "date": "2026-05-13",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 396
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=646520",
   "salepage_id": "11793437",
   "url": "https://www.dot-st.tw/SalePage/Index/11793437",
   "title": "niko and女2WAY雙面兩用佩斯利花紋漁夫帽-二色-646520",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-05-13",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "839444",
   "history": [
     {
-      "date": "2026-09-02",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=839444",
   "salepage_id": "12124940",
   "url": "https://www.dot-st.tw/SalePage/Index/12124940",
   "title": "LEPSIM圓弧下擺基礎款長袖上衣-三色-839444",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-09-02",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

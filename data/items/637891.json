@@ -2,15 +2,10 @@
   "sku": "637891",
   "history": [
     {
-      "date": "2026-07-14",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=637891",
   "salepage_id": "11974103",
   "url": "https://www.dot-st.tw/SalePage/Index/11974103",
   "title": "niko and原創系列CITY CREEK手機防水袋-二色-637891",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-07-14",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

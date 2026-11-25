@@ -2,15 +2,10 @@
   "sku": "288094",
   "history": [
     {
-      "date": "2025-04-18",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 237
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=288094",
   "salepage_id": "10688936",
   "url": "https://www.dot-st.tw/SalePage/Index/10688936",
   "title": "LAKOLE男基礎必備短袖T恤上衣-六色-288094",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2025-04-18",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

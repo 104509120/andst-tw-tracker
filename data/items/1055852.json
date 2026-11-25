@@ -2,15 +2,10 @@
   "sku": "1055852",
   "history": [
     {
-      "date": "2026-09-09",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1255
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1055852",
   "salepage_id": "12145369",
   "url": "https://www.dot-st.tw/SalePage/Index/12145369",
   "title": "RAGEBLUE【網路限定55價】男抽象圖像假兩件層次感長袖T恤上衣-二色-1055852",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-09-09",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

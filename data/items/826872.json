@@ -2,15 +2,10 @@
   "sku": "826872",
   "history": [
     {
-      "date": "2026-07-03",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 645
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=826872",
   "salepage_id": "11947472",
   "url": "https://www.dot-st.tw/SalePage/Index/11947472",
   "title": "LAKOLE女夏季透膚鏤空法式袖針織上衣-三色-826872",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-07-03",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

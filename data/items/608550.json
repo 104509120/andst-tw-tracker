@@ -2,24 +2,20 @@
   "sku": "608550",
   "history": [
     {
-      "date": "2026-02-28",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1345
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=608550",
   "salepage_id": "11580987",
   "url": "https://www.dot-st.tw/SalePage/Index/11580987",
   "title": "niko and女刺繡圖紋輕盈尼龍雙頭拉鍊外套-三色-608550",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11580987/0/639301751178370000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11580987/0/639312242652100000?v=1",
   "current_price": 1345,
   "original_price": 2690,
   "min_price": 1345,
   "max_price": 2690,
   "listed_date": "2026-02-28",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

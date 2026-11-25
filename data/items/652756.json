@@ -2,15 +2,10 @@
   "sku": "652756",
   "history": [
     {
-      "date": "2026-04-08",
-      "price": 5090
-    },
-    {
       "date": "2026-11-24",
       "price": 2955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=652756",
   "salepage_id": "11690271",
   "url": "https://www.dot-st.tw/SalePage/Index/11690271",
   "title": "HARE【網路限定55價】男【ICY FEEL接觸涼感】褲管可拆側邊口袋拉鍊設計工作長褲-五色-652756",
@@ -21,5 +16,6 @@
   "max_price": 5090,
   "listed_date": "2026-04-08",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

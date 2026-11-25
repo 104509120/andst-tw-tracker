@@ -2,15 +2,10 @@
   "sku": "5085503",
   "history": [
     {
-      "date": "2026-09-07",
-      "price": 4880
-    },
-    {
       "date": "2026-11-24",
       "price": 2928
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=5085503",
   "salepage_id": "12102629",
   "url": "https://www.dot-st.tw/SalePage/Index/12102629",
   "title": "◎index女Couture BroochLogo刺繡襯衫長袖洋裝-三色-50855030 NT$2,928",
@@ -21,5 +16,6 @@
   "max_price": 4880,
   "listed_date": "2026-09-07",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

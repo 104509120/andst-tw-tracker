@@ -2,15 +2,10 @@
   "sku": "1056203",
   "history": [
     {
-      "date": "2026-08-18",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1056203",
   "salepage_id": "12078237",
   "url": "https://www.dot-st.tw/SalePage/Index/12078237",
   "title": "Heather雙拉鍊粗花呢鍊條波士頓包-三色-1056203",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-08-18",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

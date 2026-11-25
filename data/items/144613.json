@@ -2,15 +2,10 @@
   "sku": "144613",
   "history": [
     {
-      "date": "2024-10-14",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 245
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=144613",
   "salepage_id": "10157236",
   "url": "https://www.dot-st.tw/SalePage/Index/10157236",
   "title": "LAKOLE女不規則立體愛心耳針式耳環-二色-144613",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2024-10-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "496180",
   "history": [
     {
-      "date": "2025-11-04",
-      "price": 300
-    },
-    {
       "date": "2026-11-24",
       "price": 200
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=496180",
   "salepage_id": "11285397",
   "url": "https://www.dot-st.tw/SalePage/Index/11285397",
   "title": "niko and女【tiy nie yee】透明袋糖果鑰匙圈吊飾-四色-496180",
@@ -21,5 +16,6 @@
   "max_price": 300,
   "listed_date": "2025-11-04",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

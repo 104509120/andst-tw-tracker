@@ -2,15 +2,10 @@
   "sku": "1047096",
   "history": [
     {
-      "date": "2026-09-10",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1047096",
   "salepage_id": "12144484",
   "url": "https://www.dot-st.tw/SalePage/Index/12144484",
   "title": "LEPSIM格紋拼接蕾絲細肩帶背心上衣-二色-1047096",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2026-09-10",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

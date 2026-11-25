@@ -2,15 +2,10 @@
   "sku": "655184",
   "history": [
     {
-      "date": "2026-08-07",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=655184",
   "salepage_id": "12047528",
   "url": "https://www.dot-st.tw/SalePage/Index/12047528",
   "title": "LAKOLE保冷凝膠密封袋3入組-二色-655184",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-08-07",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

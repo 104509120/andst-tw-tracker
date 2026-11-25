@@ -2,15 +2,10 @@
   "sku": "616748",
   "history": [
     {
-      "date": "2026-01-30",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 145
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=616748",
   "salepage_id": "11526111",
   "url": "https://www.dot-st.tw/SalePage/Index/11526111",
   "title": "LAKOLE日本製美濃燒雙梅花小皿-二色-616748",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-01-30",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

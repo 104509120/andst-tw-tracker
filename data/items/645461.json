@@ -2,15 +2,10 @@
   "sku": "645461",
   "history": [
     {
-      "date": "2026-04-28",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 1196
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=645461",
   "salepage_id": "11717479",
   "url": "https://www.dot-st.tw/SalePage/Index/11717479",
   "title": "LEPSIM拼接式腰部綁帶連身長褲-三色-645461",
@@ -21,5 +16,6 @@
   "max_price": 2990,
   "listed_date": "2026-04-28",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

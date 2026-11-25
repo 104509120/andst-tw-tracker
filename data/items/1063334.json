@@ -2,15 +2,10 @@
   "sku": "1063334",
   "history": [
     {
-      "date": "2026-09-24",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1063334",
   "salepage_id": "12183660",
   "url": "https://www.dot-st.tw/SalePage/Index/12183660",
   "title": "GLOBAL WORK女Melty荷葉邊開襟衫針織外套-三色-1063334",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-09-24",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "1023733",
   "history": [
     {
-      "date": "2026-07-16",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 796
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1023733",
   "salepage_id": "11980801",
   "url": "https://www.dot-st.tw/SalePage/Index/11980801",
   "title": "RAGEBLUE男接觸涼感吸水速乾抗UV半拉鍊英文刺繡T恤上衣-三色-1023733",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11980801/0/639289511506400000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11980801/0/639312242552370000?v=1",
   "current_price": 796,
   "original_price": 1990,
   "min_price": 796,
   "max_price": 1990,
   "listed_date": "2026-07-16",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

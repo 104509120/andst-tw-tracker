@@ -2,15 +2,10 @@
   "sku": "638065",
   "history": [
     {
-      "date": "2026-05-25",
-      "price": 3690
-    },
-    {
       "date": "2026-11-24",
       "price": 3690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=638065",
   "salepage_id": "11824906",
   "url": "https://www.dot-st.tw/SalePage/Index/11824906",
   "title": "niko and女INDIA IS BEAUTIFUL系列布貼短袖襯衫-一色-638065",
@@ -21,5 +16,6 @@
   "max_price": 3690,
   "listed_date": "2026-05-25",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

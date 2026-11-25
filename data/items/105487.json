@@ -2,15 +2,10 @@
   "sku": "105487",
   "history": [
     {
-      "date": "2024-05-08",
-      "price": 310
-    },
-    {
       "date": "2026-11-24",
       "price": 310
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=105487",
   "salepage_id": "9772129",
   "url": "https://www.dot-st.tw/SalePage/Index/9772129",
   "title": "niko and品牌LOGO潛水鱷魚圖樣直傘雨傘-二色-105487",
@@ -21,5 +16,6 @@
   "max_price": 310,
   "listed_date": "2024-05-08",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

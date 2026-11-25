@@ -2,15 +2,10 @@
   "sku": "1056223",
   "history": [
     {
-      "date": "2026-09-03",
-      "price": 3790
-    },
-    {
       "date": "2026-11-24",
       "price": 1955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1056223",
   "salepage_id": "12127717",
   "url": "https://www.dot-st.tw/SalePage/Index/12127717",
   "title": "HARE【網路限定55價】女圖樣設計拼接雙層傘袖長袖襯衫上衣-二色-1056223",
@@ -21,5 +16,6 @@
   "max_price": 3790,
   "listed_date": "2026-09-03",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

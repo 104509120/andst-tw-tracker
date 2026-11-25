@@ -2,15 +2,10 @@
   "sku": "1000087",
   "history": [
     {
-      "date": "2026-11-06",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1000087",
   "salepage_id": "12288561",
   "url": "https://www.dot-st.tw/SalePage/Index/12288561",
   "title": "studio CLIP手織針織吊飾《CHRISTMAS 2026》-三色-1000087",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-11-06",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

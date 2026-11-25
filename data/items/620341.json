@@ -2,24 +2,20 @@
   "sku": "620341",
   "history": [
     {
-      "date": "2026-01-29",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 2394
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=620341",
   "salepage_id": "11526058",
   "url": "https://www.dot-st.tw/SalePage/Index/11526058",
   "title": "niko and男古著感休閒外套-三色-620341",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11526058/0/639300744064400000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11526058/0/639312242634300000?v=1",
   "current_price": 2394,
   "original_price": 3990,
   "min_price": 2394,
   "max_price": 3990,
   "listed_date": "2026-01-29",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

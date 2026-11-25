@@ -2,15 +2,10 @@
   "sku": "1023752",
   "history": [
     {
-      "date": "2026-07-16",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1023752",
   "salepage_id": "11980804",
   "url": "https://www.dot-st.tw/SalePage/Index/11980804",
   "title": "RAGEBLUE【網路限定55價】男接觸涼感吸水速乾抗UV不對稱花朵短袖T恤上衣-二色-1023752",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-07-16",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

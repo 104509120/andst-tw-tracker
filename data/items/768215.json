@@ -2,15 +2,10 @@
   "sku": "768215",
   "history": [
     {
-      "date": "2026-06-25",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=768215",
   "salepage_id": "11928390",
   "url": "https://www.dot-st.tw/SalePage/Index/11928390",
   "title": "studio CLIP迷你晴雨兩用登山扣摺疊傘雨傘-三色-768215",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-06-25",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

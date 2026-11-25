@@ -2,15 +2,10 @@
   "sku": "144277",
   "history": [
     {
-      "date": "2024-10-11",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=144277",
   "salepage_id": "10217995",
   "url": "https://www.dot-st.tw/SalePage/Index/10217995",
   "title": "niko and女【tiy nie yee】柔軟絎縫愛心刺繡手提托特包-七色-144277",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2024-10-11",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

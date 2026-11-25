@@ -2,15 +2,10 @@
   "sku": "327792",
   "history": [
     {
-      "date": "2025-05-14",
-      "price": 270
-    },
-    {
       "date": "2026-11-24",
       "price": 270
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=327792",
   "salepage_id": "10756156",
   "url": "https://www.dot-st.tw/SalePage/Index/10756156",
   "title": "niko and迷你恐龍可動公仔鑰匙圈-五色-327792",
@@ -21,5 +16,6 @@
   "max_price": 270,
   "listed_date": "2025-05-14",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

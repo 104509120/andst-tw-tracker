@@ -2,24 +2,20 @@
   "sku": "1049214",
   "history": [
     {
-      "date": "2026-08-26",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 745
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1049214",
   "salepage_id": "12103415",
   "url": "https://www.dot-st.tw/SalePage/Index/12103415",
   "title": "GLOBAL WORK女輕盈飄逸光澤百褶傘長裙-三色-1049214",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12103415/0/639301784534470000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12103415/0/639312242570770000?v=1",
   "current_price": 745,
   "original_price": 1490,
   "min_price": 745,
   "max_price": 1490,
   "listed_date": "2026-08-26",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

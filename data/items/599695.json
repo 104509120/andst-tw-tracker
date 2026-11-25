@@ -2,15 +2,10 @@
   "sku": "599695",
   "history": [
     {
-      "date": "2026-07-03",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=599695",
   "salepage_id": "11947403",
   "url": "https://www.dot-st.tw/SalePage/Index/11947403",
   "title": "LAKOLE輕量可疊放椅凳-五色-599695",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-07-03",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

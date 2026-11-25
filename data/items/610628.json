@@ -2,15 +2,10 @@
   "sku": "610628",
   "history": [
     {
-      "date": "2026-04-02",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 645
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=610628",
   "salepage_id": "11680022",
   "url": "https://www.dot-st.tw/SalePage/Index/11680022",
   "title": "LAKOLE女設計簡約三摺皮革短夾-二色-610628",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-04-02",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

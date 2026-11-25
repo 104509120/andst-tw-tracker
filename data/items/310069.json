@@ -2,15 +2,10 @@
   "sku": "310069",
   "history": [
     {
-      "date": "2026-05-29",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=310069",
   "salepage_id": "11846312",
   "url": "https://www.dot-st.tw/SalePage/Index/11846312",
   "title": "LAKOLE彈蓋式隨行保溫瓶單手杯蓋-一色-310069",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2026-05-29",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1063134",
   "history": [
     {
-      "date": "2026-09-16",
-      "price": 1090
-    },
-    {
       "date": "2026-11-24",
       "price": 655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1063134",
   "salepage_id": "12160070",
   "url": "https://www.dot-st.tw/SalePage/Index/12160070",
   "title": "studio CLIP【網路限定55價】高雅光澤斜紋印花絲巾-二色-1063134",
@@ -21,5 +16,6 @@
   "max_price": 1090,
   "listed_date": "2026-09-16",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

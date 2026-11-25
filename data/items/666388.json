@@ -2,15 +2,10 @@
   "sku": "666388",
   "history": [
     {
-      "date": "2026-04-14",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=666388",
   "salepage_id": "11705990",
   "url": "https://www.dot-st.tw/SalePage/Index/11705990",
   "title": "PAGEBOY【網路限定55價】針織前開釦坦克背心上衣-五色-666388",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-04-14",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

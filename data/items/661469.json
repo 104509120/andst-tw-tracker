@@ -2,15 +2,10 @@
   "sku": "661469",
   "history": [
     {
-      "date": "2026-04-29",
-      "price": 3690
-    },
-    {
       "date": "2026-11-24",
       "price": 1755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=661469",
   "salepage_id": "11748884",
   "url": "https://www.dot-st.tw/SalePage/Index/11748884",
   "title": "HARE【網路限定55價】女印花緞面拼接側拉鍊開衩直筒長裙-二色-661469",
@@ -21,5 +16,6 @@
   "max_price": 3690,
   "listed_date": "2026-04-29",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

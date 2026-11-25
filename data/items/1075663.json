@@ -2,15 +2,10 @@
   "sku": "1075663",
   "history": [
     {
-      "date": "2026-10-14",
-      "price": 2590
-    },
-    {
       "date": "2026-11-24",
       "price": 1813
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1075663",
   "salepage_id": "12235491",
   "url": "https://www.dot-st.tw/SalePage/Index/12235491",
   "title": "studio CLIP【官網/統一時代限定】包布釦巴登蕾絲純棉上衣《natural by clip》-二色-1075663",
@@ -21,5 +16,6 @@
   "max_price": 2590,
   "listed_date": "2026-10-14",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

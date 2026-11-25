@@ -2,15 +2,10 @@
   "sku": "1050001",
   "history": [
     {
-      "date": "2026-09-03",
-      "price": 5290
-    },
-    {
       "date": "2026-11-24",
       "price": 3155
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1050001",
   "salepage_id": "12127706",
   "url": "https://www.dot-st.tw/SalePage/Index/12127706",
   "title": "HARE【網路限定55價】男縫線設計皮革德訓鞋-一色-1050001",
@@ -21,5 +16,6 @@
   "max_price": 5290,
   "listed_date": "2026-09-03",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

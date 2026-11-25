@@ -2,24 +2,20 @@
   "sku": "657054",
   "history": [
     {
-      "date": "2026-02-25",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 395
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=657054",
   "salepage_id": "11575749",
   "url": "https://www.dot-st.tw/SalePage/Index/11575749",
   "title": "GLOBAL WORK女動物刺繡圖案棒球帽-十色-657054",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11575749/0/639310365174300000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11575749/0/639312242497970000?v=1",
   "current_price": 395,
   "original_price": 790,
   "min_price": 395,
   "max_price": 790,
   "listed_date": "2026-02-25",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

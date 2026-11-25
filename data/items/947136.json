@@ -2,15 +2,10 @@
   "sku": "947136",
   "history": [
     {
-      "date": "2023-11-15",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=947136",
   "salepage_id": "9339231",
   "url": "https://www.dot-st.tw/SalePage/Index/9339231",
   "title": "niko and設計師品牌Fishs Eddy可愛冰淇淋杯子230ml-二色-947136",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2023-11-15",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "252851",
   "history": [
     {
-      "date": "2025-03-05",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=252851",
   "salepage_id": "10569119",
   "url": "https://www.dot-st.tw/SalePage/Index/10569119",
   "title": "niko and男品牌NMR系列多功能收納包化妝包-四色-252851",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2025-03-05",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

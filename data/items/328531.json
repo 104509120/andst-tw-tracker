@@ -2,15 +2,10 @@
   "sku": "328531",
   "history": [
     {
-      "date": "2025-12-17",
-      "price": 90
-    },
-    {
       "date": "2026-11-24",
       "price": 63
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=328531",
   "salepage_id": "11411604",
   "url": "https://www.dot-st.tw/SalePage/Index/11411604",
   "title": "LAKOLE透明花紋玻璃花瓶-三色-328531",
@@ -21,5 +16,6 @@
   "max_price": 90,
   "listed_date": "2025-12-17",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

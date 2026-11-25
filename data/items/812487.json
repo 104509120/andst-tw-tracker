@@ -2,15 +2,10 @@
   "sku": "812487",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 855
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=812487",
   "salepage_id": "12274066",
   "url": "https://www.dot-st.tw/SalePage/Index/12274066",
   "title": "LAKOLE【網路限定55價】男細緻針織燈芯絨POLO衫上衣-三色-812487",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

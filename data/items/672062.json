@@ -2,15 +2,10 @@
   "sku": "672062",
   "history": [
     {
-      "date": "2026-04-17",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=672062",
   "salepage_id": "11717666",
   "url": "https://www.dot-st.tw/SalePage/Index/11717666",
   "title": "JEANASIS【網路限定55價】素色2WAY前後兩穿不規則荷葉細肩帶長版上衣-三色-672062",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-04-17",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

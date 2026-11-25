@@ -2,15 +2,10 @@
   "sku": "1043534",
   "history": [
     {
-      "date": "2026-07-29",
-      "price": 1790
-    },
-    {
       "date": "2026-11-24",
       "price": 716
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1043534",
   "salepage_id": "12023295",
   "url": "https://www.dot-st.tw/SalePage/Index/12023295",
   "title": "studio CLIP【官網/統一時代限定】亞麻混紡透膚蛋糕層次上衣《natural by clip》-二色-1043534",
@@ -21,5 +16,6 @@
   "max_price": 1790,
   "listed_date": "2026-07-29",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

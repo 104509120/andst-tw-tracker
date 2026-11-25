@@ -2,15 +2,10 @@
   "sku": "680581",
   "history": [
     {
-      "date": "2026-06-16",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1076
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=680581",
   "salepage_id": "11896155",
   "url": "https://www.dot-st.tw/SalePage/Index/11896155",
   "title": "LEPSIM荷葉邊V領連身吊帶褲-二色-680581",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2026-06-16",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

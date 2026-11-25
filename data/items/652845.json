@@ -2,15 +2,10 @@
   "sku": "652845",
   "history": [
     {
-      "date": "2026-08-04",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=652845",
   "salepage_id": "12037002",
   "url": "https://www.dot-st.tw/SalePage/Index/12037002",
   "title": "studio CLIP日本製淺野綠九谷燒花卉餐盤10.5cm-二色-652845",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2026-08-04",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

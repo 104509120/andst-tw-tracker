@@ -2,24 +2,20 @@
   "sku": "638827",
   "history": [
     {
-      "date": "2026-09-29",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=638827",
   "salepage_id": "12188704",
   "url": "https://www.dot-st.tw/SalePage/Index/12188704",
   "title": "JEANASIS【網路限定55價】垂墜感抽繩繭型西裝長褲-四色-638827",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12188704/0/639310491318700000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12188704/0/639312242815030000?v=1",
   "current_price": 1655,
   "original_price": 2690,
   "min_price": 1655,
   "max_price": 2690,
   "listed_date": "2026-09-29",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

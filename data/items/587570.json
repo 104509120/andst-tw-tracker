@@ -2,15 +2,10 @@
   "sku": "587570",
   "history": [
     {
-      "date": "2025-09-16",
-      "price": 550
-    },
-    {
       "date": "2026-11-24",
       "price": 385
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=587570",
   "salepage_id": "11120845",
   "url": "https://www.dot-st.tw/SalePage/Index/11120845",
   "title": "repipi armario長蝴蝶結澎澎造型吊飾-四色-587570",
@@ -21,5 +16,6 @@
   "max_price": 550,
   "listed_date": "2025-09-16",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

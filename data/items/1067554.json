@@ -2,15 +2,10 @@
   "sku": "1067554",
   "history": [
     {
-      "date": "2026-10-08",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1067554",
   "salepage_id": "12198741",
   "url": "https://www.dot-st.tw/SalePage/Index/12198741",
   "title": "LEPSIM復古輕量厚底麂皮樂福鞋-二色-1067554",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-10-08",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

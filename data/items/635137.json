@@ -2,15 +2,10 @@
   "sku": "635137",
   "history": [
     {
-      "date": "2026-02-05",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=635137",
   "salepage_id": "11545455",
   "url": "https://www.dot-st.tw/SalePage/Index/11545455",
   "title": "LAKOLE日本製美濃燒花型小鉢80ml-三色-635137",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2026-02-05",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

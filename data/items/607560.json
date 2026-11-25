@@ -2,15 +2,10 @@
   "sku": "607560",
   "history": [
     {
-      "date": "2026-05-21",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=607560",
   "salepage_id": "11817417",
   "url": "https://www.dot-st.tw/SalePage/Index/11817417",
   "title": "studio CLIP字母琺瑯廚房工具收納筒(1.1L)《PUDDING BEFORE DINNER》-一色-607560",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-05-21",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

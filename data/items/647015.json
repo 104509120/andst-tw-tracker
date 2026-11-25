@@ -2,24 +2,20 @@
   "sku": "647015",
   "history": [
     {
-      "date": "2026-04-16",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 995
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647015",
   "salepage_id": "11711021",
   "url": "https://www.dot-st.tw/SalePage/Index/11711021",
   "title": "GLOBAL WORK男輕薄亞麻混紡丹寧長褲-二色-647015",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11711021/0/639301785193530000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11711021/0/639312242685200000?v=1",
   "current_price": 995,
   "original_price": 1990,
   "min_price": 995,
   "max_price": 1990,
   "listed_date": "2026-04-16",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

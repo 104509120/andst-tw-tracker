@@ -2,15 +2,10 @@
   "sku": "679686",
   "history": [
     {
-      "date": "2026-11-12",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=679686",
   "salepage_id": "12302565",
   "url": "https://www.dot-st.tw/SalePage/Index/12302565",
   "title": "studio CLIP壓克力鑰匙吊飾《CREATORS CIRCUS》-二色-679686",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-11-12",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

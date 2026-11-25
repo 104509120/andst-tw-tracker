@@ -2,24 +2,20 @@
   "sku": "812420",
   "history": [
     {
-      "date": "2026-09-27",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 3990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=812420",
   "salepage_id": "12186469",
   "url": "https://www.dot-st.tw/SalePage/Index/12186469",
   "title": "niko and男工裝風燈芯絨領夾克外套-四色-812420",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12186469/0/639310431927570000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12186469/0/639312160648970000?v=1",
   "current_price": 3990,
   "original_price": 3990,
   "min_price": 3990,
   "max_price": 3990,
   "listed_date": "2026-09-27",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

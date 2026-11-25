@@ -2,15 +2,10 @@
   "sku": "656087",
   "history": [
     {
-      "date": "2026-09-02",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=656087",
   "salepage_id": "12123780",
   "url": "https://www.dot-st.tw/SalePage/Index/12123780",
   "title": "studio CLIP植物圖騰樹脂杯墊-一色-656087",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-09-02",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

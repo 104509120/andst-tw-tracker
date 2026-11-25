@@ -2,15 +2,10 @@
   "sku": "740470",
   "history": [
     {
-      "date": "2026-10-07",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=740470",
   "salepage_id": "12221348",
   "url": "https://www.dot-st.tw/SalePage/Index/12221348",
   "title": "LOWRYS FARM童英倫學院風百褶裙-三色-740470",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-10-07",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

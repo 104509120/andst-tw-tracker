@@ -2,15 +2,10 @@
   "sku": "140912",
   "history": [
     {
-      "date": "2024-08-28",
-      "price": 1590
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=140912",
   "salepage_id": "10110027",
   "url": "https://www.dot-st.tw/SalePage/Index/10110027",
   "title": "LEPSIM【網路限定55價】人氣百搭素色拼接透紗設計長袖上衣-十五色-140912",
@@ -21,5 +16,6 @@
   "max_price": 1590,
   "listed_date": "2024-08-28",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

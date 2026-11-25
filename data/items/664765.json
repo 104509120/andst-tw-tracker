@@ -2,24 +2,20 @@
   "sku": "664765",
   "history": [
     {
-      "date": "2026-04-28",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 756
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=664765",
   "salepage_id": "11740124",
   "url": "https://www.dot-st.tw/SalePage/Index/11740124",
   "title": "LEPSIM皺感緞面方領細肩背心上衣-三色-664765",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11740124/0/639292286860270000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11740124/0/639312124705730000?v=1",
   "current_price": 756,
   "original_price": 1890,
   "min_price": 756,
   "max_price": 1890,
   "listed_date": "2026-04-28",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

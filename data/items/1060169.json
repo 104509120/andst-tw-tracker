@@ -2,24 +2,20 @@
   "sku": "1060169",
   "history": [
     {
-      "date": "2026-10-07",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1255
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1060169",
   "salepage_id": "12220230",
   "url": "https://www.dot-st.tw/SalePage/Index/12220230",
   "title": "niko and【網路限定55價】女腰部綁繩寬鬆褲裙-二色-1060169",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12220230/0/639310431939170000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12220230/0/639312242829830000?v=1",
   "current_price": 1255,
   "original_price": 1990,
   "min_price": 1255,
   "max_price": 1990,
   "listed_date": "2026-10-07",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

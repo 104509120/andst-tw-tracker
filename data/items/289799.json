@@ -2,15 +2,10 @@
   "sku": "289799",
   "history": [
     {
-      "date": "2025-09-17",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 2690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=289799",
   "salepage_id": "11123876",
   "url": "https://www.dot-st.tw/SalePage/Index/11123876",
   "title": "LOWRYS FARM女蝴蝶結綁帶丹寧寬褲長褲-五色-289799",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2025-09-17",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

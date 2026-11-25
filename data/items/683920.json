@@ -2,15 +2,10 @@
   "sku": "683920",
   "history": [
     {
-      "date": "2026-10-21",
-      "price": 1170
-    },
-    {
       "date": "2026-11-24",
       "price": 1170
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=683920",
   "salepage_id": "12256419",
   "url": "https://www.dot-st.tw/SalePage/Index/12256419",
   "title": "niko and動物主題2027年曆桌曆-一款-683920",
@@ -21,5 +16,6 @@
   "max_price": 1170,
   "listed_date": "2026-10-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

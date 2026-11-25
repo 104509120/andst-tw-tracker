@@ -2,15 +2,10 @@
   "sku": "152371",
   "history": [
     {
-      "date": "2025-03-26",
-      "price": 620
-    },
-    {
       "date": "2026-11-24",
       "price": 620
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=152371",
   "salepage_id": "10628561",
   "url": "https://www.dot-st.tw/SalePage/Index/10628561",
   "title": "niko and復古風立體紋路置物盤擺飾-二款-152371",
@@ -21,5 +16,6 @@
   "max_price": 620,
   "listed_date": "2025-03-26",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

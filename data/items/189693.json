@@ -2,24 +2,20 @@
   "sku": "189693",
   "history": [
     {
-      "date": "2025-11-12",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=189693",
   "salepage_id": "8664259",
   "url": "https://www.dot-st.tw/SalePage/Index/8664259",
   "title": "HARE女金屬質感長度可調整項鍊-三色-189693",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/8664259/0/639293875776300000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/8664259/0/639312044395430000?v=1",
   "current_price": 990,
   "original_price": 990,
   "min_price": 990,
   "max_price": 990,
   "listed_date": "2025-11-12",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

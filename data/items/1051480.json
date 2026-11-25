@@ -2,15 +2,10 @@
   "sku": "1051480",
   "history": [
     {
-      "date": "2026-11-12",
-      "price": 90
-    },
-    {
       "date": "2026-11-24",
       "price": 90
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1051480",
   "salepage_id": "12302594",
   "url": "https://www.dot-st.tw/SalePage/Index/12302594",
   "title": "studio CLIP日本製裝飾紙膠帶15mm&#215;5m-一色-1051480",
@@ -21,5 +16,6 @@
   "max_price": 90,
   "listed_date": "2026-11-12",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

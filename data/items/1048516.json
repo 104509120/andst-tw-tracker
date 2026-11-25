@@ -2,15 +2,10 @@
   "sku": "1048516",
   "history": [
     {
-      "date": "2026-11-11",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1048516",
   "salepage_id": "12288525",
   "url": "https://www.dot-st.tw/SalePage/Index/12288525",
   "title": "GLOBAL WORK男女【Harry Potter聯名】印花大學T恤長袖上衣-四色-1048516",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-11-11",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

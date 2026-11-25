@@ -1,11 +1,6 @@
 {
   "sku": "1089093",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1089093",
   "history": [
-    {
-      "date": "2026-11-18",
-      "price": 2990
-    },
     {
       "date": "2026-11-24",
       "price": 2990
@@ -14,12 +9,13 @@
   "salepage_id": "12318497",
   "url": "https://www.dot-st.tw/SalePage/Index/12318497",
   "title": "LOWRYS FARM【LFM(U)】男女UNISEX系列菱格紋寬鬆圓領針織上衣-二色-1089093",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12318497/0/639306193012430000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12318497/0/639312229963000000?v=1",
   "current_price": 2990,
   "original_price": 2990,
   "min_price": 2990,
   "max_price": 2990,
   "listed_date": "2026-11-18",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

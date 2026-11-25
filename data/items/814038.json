@@ -2,15 +2,10 @@
   "sku": "814038",
   "history": [
     {
-      "date": "2026-11-06",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 1355
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=814038",
   "salepage_id": "12289967",
   "url": "https://www.dot-st.tw/SalePage/Index/12289967",
   "title": "LAKOLE【網路限定55價】男經典復古獵裝夾克外套-四色-814038",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-11-06",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

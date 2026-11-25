@@ -2,16 +2,11 @@
   "sku": "636180",
   "history": [
     {
-      "date": "2026-02-12",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 395
     }
   ],
   "listed_date": "2026-02-12",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=636180",
   "salepage_id": "11561969",
   "url": "https://www.dot-st.tw/SalePage/Index/11561969",
   "title": "GLOBAL WORK女【Cat&#39;s  ISSUE】防潑绗縫水化妝包-二色-636180",
@@ -21,5 +16,6 @@
   "min_price": 395,
   "max_price": 790,
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

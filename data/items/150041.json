@@ -2,15 +2,10 @@
   "sku": "150041",
   "history": [
     {
-      "date": "2024-09-26",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 712
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=150041",
   "salepage_id": "10180686",
   "url": "https://www.dot-st.tw/SalePage/Index/10180686",
   "title": "repipi armario字母扣環個性皮革腰帶-三色-150041",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2024-09-26",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

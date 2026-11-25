@@ -2,15 +2,10 @@
   "sku": "884424",
   "history": [
     {
-      "date": "2026-08-12",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 745
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=884424",
   "salepage_id": "12061756",
   "url": "https://www.dot-st.tw/SalePage/Index/12061756",
   "title": "niko and女復古足球風印花短袖上衣-四色-884424",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-08-12",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

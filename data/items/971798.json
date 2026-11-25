@@ -2,15 +2,10 @@
   "sku": "971798",
   "history": [
     {
-      "date": "2023-11-30",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=971798",
   "salepage_id": "9377065",
   "url": "https://www.dot-st.tw/SalePage/Index/9377065",
   "title": "studio CLIP日本製漸層色木筷-六色-971798",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2023-11-30",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

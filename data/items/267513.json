@@ -2,15 +2,10 @@
   "sku": "267513",
   "history": [
     {
-      "date": "2022-04-27",
-      "price": 1360
-    },
-    {
       "date": "2026-11-24",
       "price": 1360
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=267513",
   "salepage_id": "7767213",
   "url": "https://www.dot-st.tw/SalePage/Index/7767213",
   "title": "niko and品牌OLD SMITH摺疊收納置物架-二色-267513",
@@ -21,5 +16,6 @@
   "max_price": 1360,
   "listed_date": "2022-04-27",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

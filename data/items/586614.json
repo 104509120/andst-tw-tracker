@@ -2,15 +2,10 @@
   "sku": "586614",
   "history": [
     {
-      "date": "2025-11-05",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 745
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=586614",
   "salepage_id": "11292120",
   "url": "https://www.dot-st.tw/SalePage/Index/11292120",
   "title": "LEPSIM天鵝絨流蘇束口包-三色-586614",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2025-11-05",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

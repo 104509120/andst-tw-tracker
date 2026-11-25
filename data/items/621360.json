@@ -2,15 +2,10 @@
   "sku": "621360",
   "history": [
     {
-      "date": "2026-04-02",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 114
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=621360",
   "salepage_id": "11680565",
   "url": "https://www.dot-st.tw/SalePage/Index/11680565",
   "title": "LAKOLE毛絨手機掛環貼片吊飾-四色-621360",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2026-04-02",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

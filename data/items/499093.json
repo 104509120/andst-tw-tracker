@@ -2,15 +2,10 @@
   "sku": "499093",
   "history": [
     {
-      "date": "2025-11-03",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 483
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=499093",
   "salepage_id": "11371971",
   "url": "https://www.dot-st.tw/SalePage/Index/11371971",
   "title": "studio CLIP編織棉麻流蘇腳踏墊地墊-二色-499093",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2025-11-03",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

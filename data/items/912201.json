@@ -2,15 +2,10 @@
   "sku": "912201",
   "history": [
     {
-      "date": "2026-10-08",
-      "price": 1010
-    },
-    {
       "date": "2026-11-24",
       "price": 1010
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=912201",
   "salepage_id": "12223245",
   "url": "https://www.dot-st.tw/SalePage/Index/12223245",
   "title": "niko and原創2WAY遊戲風格LED電子鐘壁鐘座鐘-一色-912201",
@@ -21,5 +16,6 @@
   "max_price": 1010,
   "listed_date": "2026-10-08",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

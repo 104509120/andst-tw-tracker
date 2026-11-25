@@ -2,15 +2,10 @@
   "sku": "903699",
   "history": [
     {
-      "date": "2026-11-05",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=903699",
   "salepage_id": "12287235",
   "url": "https://www.dot-st.tw/SalePage/Index/12287235",
   "title": "LAKOLE世界名作彈蓋式保溫瓶500ml-三色-903699",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-11-05",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

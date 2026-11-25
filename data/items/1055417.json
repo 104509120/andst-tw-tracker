@@ -2,24 +2,24 @@
   "sku": "1055417",
   "history": [
     {
-      "date": "2026-08-28",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1603
+    },
+    {
+      "date": "2026-11-25",
+      "price": 1145
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1055417",
   "salepage_id": "12113765",
   "url": "https://www.dot-st.tw/SalePage/Index/12113765",
   "title": "JEANASIS透膚絲絨蕾絲拼接短褲-二色-1055417",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12113765/0/639307793229200000?v=1",
-  "current_price": 1603,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12113765/0/639312241075970000?v=1",
+  "current_price": 1145,
   "original_price": 2290,
-  "min_price": 1603,
+  "min_price": 1145,
   "max_price": 2290,
   "listed_date": "2026-08-28",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

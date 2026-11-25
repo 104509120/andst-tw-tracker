@@ -2,24 +2,20 @@
   "sku": "147756",
   "history": [
     {
-      "date": "2026-10-01",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=147756",
   "salepage_id": "12197477",
   "url": "https://www.dot-st.tw/SalePage/Index/12197477",
   "title": "LEPSIM【網路限定55價】雲朵柔軟感天鵝絨蕾絲拼接細肩帶上衣-二色-147756",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12197477/0/639311251502630000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12197477/0/639312242815030000?v=1",
   "current_price": 755,
   "original_price": 1990,
   "min_price": 755,
   "max_price": 1990,
   "listed_date": "2026-10-01",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

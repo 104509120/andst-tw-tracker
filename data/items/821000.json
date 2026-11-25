@@ -2,15 +2,10 @@
   "sku": "821000",
   "history": [
     {
-      "date": "2026-09-08",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=821000",
   "salepage_id": "12140028",
   "url": "https://www.dot-st.tw/SalePage/Index/12140028",
   "title": "studio CLIP【Pancho與Gabacho】手機支架氣囊夾《CAT BY CLIP》-二色-821000",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-09-08",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

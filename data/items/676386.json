@@ -2,15 +2,10 @@
   "sku": "676386",
   "history": [
     {
-      "date": "2026-09-18",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=676386",
   "salepage_id": "12166487",
   "url": "https://www.dot-st.tw/SalePage/Index/12166487",
   "title": "LAKOLE女交叉彩色線條髮圈-二色-676386",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-09-18",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

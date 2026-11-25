@@ -2,24 +2,20 @@
   "sku": "1074589",
   "history": [
     {
-      "date": "2026-10-27",
-      "price": 5290
-    },
-    {
       "date": "2026-11-24",
       "price": 5055
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1074589",
   "salepage_id": "12262280",
   "url": "https://www.dot-st.tw/SalePage/Index/12262280",
   "title": "RAGEBLUE【網路限定55價】男俐落經典柔軟皮革翻領騎士外套-一色-1074589",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12262280/0/639307647606430000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12262280/0/639312242845100000?v=1",
   "current_price": 5055,
   "original_price": 5290,
   "min_price": 5055,
   "max_price": 5290,
   "listed_date": "2026-10-27",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

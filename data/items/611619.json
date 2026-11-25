@@ -2,15 +2,10 @@
   "sku": "611619",
   "history": [
     {
-      "date": "2026-05-21",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=611619",
   "salepage_id": "11817418",
   "url": "https://www.dot-st.tw/SalePage/Index/11817418",
   "title": "studio CLIP日本製簡約鮮豔字母玻璃杯(435ML)《PUDDING BEFORE DINNER》-二色-611619",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-05-21",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

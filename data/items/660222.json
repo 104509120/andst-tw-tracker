@@ -2,15 +2,10 @@
   "sku": "660222",
   "history": [
     {
-      "date": "2026-03-24",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=660222",
   "salepage_id": "11654156",
   "url": "https://www.dot-st.tw/SalePage/Index/11654156",
   "title": "Heather個性金屬環裝飾側抓皺寬領上衣-三色-660222",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-03-24",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

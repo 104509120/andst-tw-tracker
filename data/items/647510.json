@@ -2,24 +2,20 @@
   "sku": "647510",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647510",
   "salepage_id": "12269614",
   "url": "https://www.dot-st.tw/SalePage/Index/12269614",
   "title": "niko and【品牌好友｜曾敬驊 江齊著用款】男2WAY雙面兩穿長袖上衣-四色-647510",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12269614/0/639310445481530000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12269614/0/639312160868070000?v=1",
   "current_price": 1990,
   "original_price": 1990,
   "min_price": 1990,
   "max_price": 1990,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

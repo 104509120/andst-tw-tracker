@@ -2,15 +2,10 @@
   "sku": "274031",
   "history": [
     {
-      "date": "2024-10-14",
-      "price": 90
-    },
-    {
       "date": "2026-11-24",
       "price": 63
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=274031",
   "salepage_id": "10169225",
   "url": "https://www.dot-st.tw/SalePage/Index/10169225",
   "title": "LAKOLE孔板專用剪刀收納掛勾-三色-274031",
@@ -21,5 +16,6 @@
   "max_price": 90,
   "listed_date": "2024-10-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

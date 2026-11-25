@@ -2,15 +2,10 @@
   "sku": "122142",
   "history": [
     {
-      "date": "2024-11-28",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 195
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=122142",
   "salepage_id": "10350462",
   "url": "https://www.dot-st.tw/SalePage/Index/10350462",
   "title": "LAKOLE女扭轉金屬感耳夾式耳環-二色-122142",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2024-11-28",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

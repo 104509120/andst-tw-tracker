@@ -2,15 +2,10 @@
   "sku": "499974",
   "history": [
     {
-      "date": "2025-12-29",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=499974",
   "salepage_id": "11438432",
   "url": "https://www.dot-st.tw/SalePage/Index/11438432",
   "title": "studio CLIP日本製美濃燒線條設計馬克杯(275ML)-一色-499974",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2025-12-29",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "643431",
   "history": [
     {
-      "date": "2026-03-25",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 756
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=643431",
   "salepage_id": "11654200",
   "url": "https://www.dot-st.tw/SalePage/Index/11654200",
   "title": "repipi armario異材質拼接圓弧後背包-三色-643431",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2026-03-25",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

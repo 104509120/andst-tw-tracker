@@ -2,15 +2,10 @@
   "sku": "1078510",
   "history": [
     {
-      "date": "2026-11-13",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1078510",
   "salepage_id": "12306372",
   "url": "https://www.dot-st.tw/SalePage/Index/12306372",
   "title": "studio CLIP時尚霧面雙環耳針式耳環-二色-1078510",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-11-13",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

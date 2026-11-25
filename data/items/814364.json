@@ -2,15 +2,10 @@
   "sku": "814364",
   "history": [
     {
-      "date": "2026-09-30",
-      "price": 820
-    },
-    {
       "date": "2026-11-24",
       "price": 574
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=814364",
   "salepage_id": "12180960",
   "url": "https://www.dot-st.tw/SalePage/Index/12180960",
   "title": "niko and【P-kies Family聯名】地墊腳踏墊-二色-814364",
@@ -21,5 +16,6 @@
   "max_price": 820,
   "listed_date": "2026-09-30",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

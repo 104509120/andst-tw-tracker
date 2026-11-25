@@ -2,15 +2,10 @@
   "sku": "1067492",
   "history": [
     {
-      "date": "2026-11-13",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 2690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1067492",
   "salepage_id": "12306097",
   "url": "https://www.dot-st.tw/SalePage/Index/12306097",
   "title": "niko and男雪尼爾紗織紋長袖襯衫上衣-三色-1067492",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2026-11-13",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

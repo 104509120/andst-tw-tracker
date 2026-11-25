@@ -2,24 +2,20 @@
   "sku": "666094",
   "history": [
     {
-      "date": "2026-03-23",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 516
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=666094",
   "salepage_id": "11646974",
   "url": "https://www.dot-st.tw/SalePage/Index/11646974",
   "title": "JEANASIS基本款棉質短袖上衣-五色-666094",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11646974/0/639310491887300000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11646974/0/639312230196000000?v=1",
   "current_price": 516,
   "original_price": 1290,
   "min_price": 516,
   "max_price": 1290,
   "listed_date": "2026-03-23",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

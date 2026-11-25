@@ -2,15 +2,10 @@
   "sku": "878866",
   "history": [
     {
-      "date": "2026-07-02",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=878866",
   "salepage_id": "11947868",
   "url": "https://www.dot-st.tw/SalePage/Index/11947868",
   "title": "repipi armario【網路限定55價】鏤空孔眼包設計2WAY肩背包-二色-878866",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-07-02",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

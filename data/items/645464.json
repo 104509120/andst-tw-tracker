@@ -2,15 +2,10 @@
   "sku": "645464",
   "history": [
     {
-      "date": "2026-03-30",
-      "price": 3090
-    },
-    {
       "date": "2026-11-24",
       "price": 1545
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=645464",
   "salepage_id": "11667349",
   "url": "https://www.dot-st.tw/SalePage/Index/11667349",
   "title": "HARE男金屬釦環露趾涼鞋拖鞋-二色-645464",
@@ -21,5 +16,6 @@
   "max_price": 3090,
   "listed_date": "2026-03-30",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

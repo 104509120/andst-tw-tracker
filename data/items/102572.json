@@ -2,15 +2,10 @@
   "sku": "102572",
   "history": [
     {
-      "date": "2025-02-26",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 174
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=102572",
   "salepage_id": "10546663",
   "url": "https://www.dot-st.tw/SalePage/Index/10546663",
   "title": "LAKOLE蜂巢編織靠墊枕套-二色-102572",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2025-02-26",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "910676",
   "history": [
     {
-      "date": "2026-10-29",
-      "price": 3290
-    },
-    {
       "date": "2026-11-24",
       "price": 1955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=910676",
   "salepage_id": "12268763",
   "url": "https://www.dot-st.tw/SalePage/Index/12268763",
   "title": "repipi armario【網路限定55價】復古刷色丹寧毛毛連帽鋪棉外套-二色-910676",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12268763/0/639307656406230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12268763/0/639312242845100000?v=1",
   "current_price": 1955,
   "original_price": 3290,
   "min_price": 1955,
   "max_price": 3290,
   "listed_date": "2026-10-29",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

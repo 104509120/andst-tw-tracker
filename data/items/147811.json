@@ -2,15 +2,10 @@
   "sku": "147811",
   "history": [
     {
-      "date": "2025-08-28",
-      "price": 2890
-    },
-    {
       "date": "2026-11-24",
       "price": 2023
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=147811",
   "salepage_id": "11064992",
   "url": "https://www.dot-st.tw/SalePage/Index/11064992",
   "title": "studio CLIP搪瓷手把附蓋圓形收納罐(5.5L)-一色-147811",
@@ -21,5 +16,6 @@
   "max_price": 2890,
   "listed_date": "2025-08-28",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

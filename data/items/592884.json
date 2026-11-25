@@ -2,15 +2,10 @@
   "sku": "592884",
   "history": [
     {
-      "date": "2025-10-02",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1393
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=592884",
   "salepage_id": "11197419",
   "url": "https://www.dot-st.tw/SalePage/Index/11197419",
   "title": "niko and男NATOKii古著感胸前刺繡長袖上衣-二色-592884",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2025-10-02",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

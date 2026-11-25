@@ -2,24 +2,20 @@
   "sku": "1055909",
   "history": [
     {
-      "date": "2026-09-23",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1155
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1055909",
   "salepage_id": "12179762",
   "url": "https://www.dot-st.tw/SalePage/Index/12179762",
   "title": "LEPSIM【網路限定55價】【滿足感針織系列】可機洗不易起毛球配色口袋復古針織開襟外套-四色-1055909",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12179762/0/639311251493470000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12179762/0/639312242815030000?v=1",
   "current_price": 1155,
   "original_price": 2290,
   "min_price": 1155,
   "max_price": 2290,
   "listed_date": "2026-09-23",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

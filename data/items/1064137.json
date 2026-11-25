@@ -2,15 +2,10 @@
   "sku": "1064137",
   "history": [
     {
-      "date": "2026-10-21",
-      "price": 1240
-    },
-    {
       "date": "2026-11-24",
       "price": 1240
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1064137",
   "salepage_id": "12256462",
   "url": "https://www.dot-st.tw/SalePage/Index/12256462",
   "title": "niko and防寒保暖運動鞋設計室內拖鞋-三色-1064137",
@@ -21,5 +16,6 @@
   "max_price": 1240,
   "listed_date": "2026-10-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

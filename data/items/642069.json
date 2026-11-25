@@ -2,15 +2,10 @@
   "sku": "642069",
   "history": [
     {
-      "date": "2026-03-03",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 796
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=642069",
   "salepage_id": "11587788",
   "url": "https://www.dot-st.tw/SalePage/Index/11587788",
   "title": "JEANASIS寬領仿舊落肩寬版短袖上衣-五色-642069",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-03-03",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

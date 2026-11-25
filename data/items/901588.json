@@ -2,24 +2,20 @@
   "sku": "901588",
   "history": [
     {
-      "date": "2026-09-08",
-      "price": 3490
-    },
-    {
       "date": "2026-11-24",
       "price": 1755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=901588",
   "salepage_id": "12138996",
   "url": "https://www.dot-st.tw/SalePage/Index/12138996",
   "title": "GLOBAL WORK【網路限定55價】男URBAN DENIM AIR牛仔丹寧俐落拉鍊外套-一色-901588",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12138996/0/639307656304170000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12138996/0/639312242615400000?v=1",
   "current_price": 1755,
   "original_price": 3490,
   "min_price": 1755,
   "max_price": 3490,
   "listed_date": "2026-09-08",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

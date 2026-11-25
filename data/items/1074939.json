@@ -2,15 +2,10 @@
   "sku": "1074939",
   "history": [
     {
-      "date": "2026-09-08",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 2455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1074939",
   "salepage_id": "12140494",
   "url": "https://www.dot-st.tw/SalePage/Index/12140494",
   "title": "PAGEBOY【網路限定55價】男女PBLIM系列貓咪照片印花蕾絲拼接休閒上衣-二色-1074939",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2026-09-08",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

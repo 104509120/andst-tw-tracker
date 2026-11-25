@@ -2,15 +2,10 @@
   "sku": "6371530",
   "history": [
     {
-      "date": "2026-09-07",
-      "price": 2580
-    },
-    {
       "date": "2026-11-24",
       "price": 1548
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=6371530",
   "salepage_id": "12102572",
   "url": "https://www.dot-st.tw/SalePage/Index/12102572",
   "title": "◎index女OPAQUE.CLIP下擺雙層荷葉拼接長袖上衣-三色-63715304 NT$1,548",
@@ -21,5 +16,6 @@
   "max_price": 2580,
   "listed_date": "2026-09-07",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

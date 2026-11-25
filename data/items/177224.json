@@ -2,15 +2,10 @@
   "sku": "177224",
   "history": [
     {
-      "date": "2023-06-28",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=177224",
   "salepage_id": "8975031",
   "url": "https://www.dot-st.tw/SalePage/Index/8975031",
   "title": "studio CLIP天然木蓋收納盒S《HOUSEHOLD GOODS》-一色-177224",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2023-06-28",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

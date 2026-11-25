@@ -2,15 +2,10 @@
   "sku": "1046363",
   "history": [
     {
-      "date": "2026-07-22",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 645
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1046363",
   "salepage_id": "11996095",
   "url": "https://www.dot-st.tw/SalePage/Index/11996095",
   "title": "GLOBAL WORK女防曬荷葉下擺開襟外套-四色-1046363",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-07-22",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

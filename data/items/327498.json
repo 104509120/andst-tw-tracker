@@ -2,15 +2,10 @@
   "sku": "327498",
   "history": [
     {
-      "date": "2026-03-06",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 245
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=327498",
   "salepage_id": "11597921",
   "url": "https://www.dot-st.tw/SalePage/Index/11597921",
   "title": "LAKOLE女不鏽鋼變形設計細版戒指-二色-327498",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-03-06",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

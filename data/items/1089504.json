@@ -2,15 +2,10 @@
   "sku": "1089504",
   "history": [
     {
-      "date": "2026-11-05",
-      "price": 3690
-    },
-    {
       "date": "2026-11-24",
       "price": 2455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1089504",
   "salepage_id": "12284135",
   "url": "https://www.dot-st.tw/SalePage/Index/12284135",
   "title": "PAGEBOY【網路限定55價】男女PBLIM系列格紋圖樣側邊線條褲管抽繩寬版長褲-二色-1089504",
@@ -21,5 +16,6 @@
   "max_price": 3690,
   "listed_date": "2026-11-05",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "612372",
   "history": [
     {
-      "date": "2026-06-23",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=612372",
   "salepage_id": "11919562",
   "url": "https://www.dot-st.tw/SalePage/Index/11919562",
   "title": "studio CLIP蓬鬆除塵毛撢《HOUSEHOLD GOODS》-一色-612372",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2026-06-23",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

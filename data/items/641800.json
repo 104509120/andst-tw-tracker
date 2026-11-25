@@ -2,15 +2,10 @@
   "sku": "641800",
   "history": [
     {
-      "date": "2026-05-20",
-      "price": 740
-    },
-    {
       "date": "2026-11-24",
       "price": 740
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=641800",
   "salepage_id": "11815210",
   "url": "https://www.dot-st.tw/SalePage/Index/11815210",
   "title": "niko and品牌OLD SMITH鐵製工具箱-二色-641800",
@@ -21,5 +16,6 @@
   "max_price": 740,
   "listed_date": "2026-05-20",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "323006",
   "history": [
     {
-      "date": "2026-02-06",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=323006",
   "salepage_id": "11545881",
   "url": "https://www.dot-st.tw/SalePage/Index/11545881",
   "title": "JEANASIS【網路限定55價】長度可選混亮蔥露肩寬版長袖上衣-三色-323006",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11545881/0/639307647600700000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11545881/0/639312242634300000?v=1",
   "current_price": 955,
   "original_price": 2490,
   "min_price": 955,
   "max_price": 2490,
   "listed_date": "2026-02-06",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

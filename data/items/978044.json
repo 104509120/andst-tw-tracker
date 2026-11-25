@@ -2,15 +2,10 @@
   "sku": "978044",
   "history": [
     {
-      "date": "2025-03-06",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=978044",
   "salepage_id": "10570276",
   "url": "https://www.dot-st.tw/SalePage/Index/10570276",
   "title": "studio CLIP錘紋黃銅蓋玻璃罐-一色-978044",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2025-03-06",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

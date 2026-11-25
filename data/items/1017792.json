@@ -2,15 +2,10 @@
   "sku": "1017792",
   "history": [
     {
-      "date": "2026-09-11",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1017792",
   "salepage_id": "12151331",
   "url": "https://www.dot-st.tw/SalePage/Index/12151331",
   "title": "LAKOLE女簡約刺繡細燈芯絨棒球帽-五色-1017792",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-09-11",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

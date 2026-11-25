@@ -2,15 +2,10 @@
   "sku": "1049476",
   "history": [
     {
-      "date": "2026-10-08",
-      "price": 1090
-    },
-    {
       "date": "2026-11-24",
       "price": 1090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1049476",
   "salepage_id": "12223313",
   "url": "https://www.dot-st.tw/SalePage/Index/12223313",
   "title": "studio CLIP可機洗格紋披肩圍巾-四色-1049476",
@@ -21,5 +16,6 @@
   "max_price": 1090,
   "listed_date": "2026-10-08",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

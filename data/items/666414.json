@@ -2,15 +2,10 @@
   "sku": "666414",
   "history": [
     {
-      "date": "2026-06-23",
-      "price": 160
-    },
-    {
       "date": "2026-11-24",
       "price": 160
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=666414",
   "salepage_id": "11917928",
   "url": "https://www.dot-st.tw/SalePage/Index/11917928",
   "title": "repipi armario草寫品牌Logo字母長襪-五色-666414",
@@ -19,5 +14,8 @@
   "original_price": 160,
   "min_price": 160,
   "max_price": 160,
-  "listed_date": "2026-06-23"
+  "listed_date": "2026-06-23",
+  "updated_at": "2026-11-25",
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

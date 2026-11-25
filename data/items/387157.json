@@ -2,15 +2,10 @@
   "sku": "387157",
   "history": [
     {
-      "date": "2026-07-01",
-      "price": 180
-    },
-    {
       "date": "2026-11-24",
       "price": 180
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=387157",
   "salepage_id": "11940845",
   "url": "https://www.dot-st.tw/SalePage/Index/11940845",
   "title": "niko and室內裝飾復古牛鈴吊飾-一色-387157",
@@ -21,5 +16,6 @@
   "max_price": 180,
   "listed_date": "2026-07-01",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

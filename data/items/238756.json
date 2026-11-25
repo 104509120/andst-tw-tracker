@@ -2,15 +2,10 @@
   "sku": "238756",
   "history": [
     {
-      "date": "2022-03-09",
-      "price": 470
-    },
-    {
       "date": "2026-11-24",
       "price": 470
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=238756",
   "salepage_id": "7653511",
   "url": "https://www.dot-st.tw/SalePage/Index/7653511",
   "title": "niko and可愛動物天然木羊毛氈冰箱貼磁鐵-四款-238756",
@@ -21,5 +16,6 @@
   "max_price": 470,
   "listed_date": "2022-03-09",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

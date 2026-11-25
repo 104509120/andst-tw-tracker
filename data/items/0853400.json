@@ -2,15 +2,10 @@
   "sku": "0853400",
   "history": [
     {
-      "date": "2026-11-16",
-      "price": 7200
-    },
-    {
       "date": "2026-11-24",
       "price": 4555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=0853400",
   "salepage_id": "12320806",
   "url": "https://www.dot-st.tw/SalePage/Index/12320806",
   "title": "◎index女DRESSTERIOR棉質喀什米爾針織開襟外套-二色-08534006 NT$4,555",
@@ -21,5 +16,6 @@
   "max_price": 7200,
   "listed_date": "2026-11-16",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

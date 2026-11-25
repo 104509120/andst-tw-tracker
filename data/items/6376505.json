@@ -2,15 +2,10 @@
   "sku": "6376505",
   "history": [
     {
-      "date": "2026-09-07",
-      "price": 3680
-    },
-    {
       "date": "2026-11-24",
       "price": 2208
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=6376505",
   "salepage_id": "12102541",
   "url": "https://www.dot-st.tw/SalePage/Index/12102541",
   "title": "◎index女OPAQUE.CLIP緞面拼接層次感寬褲-兩色-63765052 NT$2,208",
@@ -21,5 +16,6 @@
   "max_price": 3680,
   "listed_date": "2026-09-07",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1063860",
   "history": [
     {
-      "date": "2026-09-16",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1063860",
   "salepage_id": "12161459",
   "url": "https://www.dot-st.tw/SalePage/Index/12161459",
   "title": "GLOBAL WORK簡約多功能拉鍊後背包-一色-1063860",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-09-16",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

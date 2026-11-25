@@ -2,15 +2,10 @@
   "sku": "499980",
   "history": [
     {
-      "date": "2025-12-11",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=499980",
   "salepage_id": "11395708",
   "url": "https://www.dot-st.tw/SalePage/Index/11395708",
   "title": "studio CLIP絎縫V領短版背心圍裙-二色-499980",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2025-12-11",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

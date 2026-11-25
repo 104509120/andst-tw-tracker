@@ -2,15 +2,10 @@
   "sku": "319621",
   "history": [
     {
-      "date": "2026-04-10",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=319621",
   "salepage_id": "11696109",
   "url": "https://www.dot-st.tw/SalePage/Index/11696109",
   "title": "LAKOLE輕量16骨設計抗風直傘-三色-319621",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-04-10",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

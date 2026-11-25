@@ -2,15 +2,10 @@
   "sku": "1076706",
   "history": [
     {
-      "date": "2026-10-29",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1076706",
   "salepage_id": "12268795",
   "url": "https://www.dot-st.tw/SalePage/Index/12268795",
   "title": "repipi armario【網路限定55價】童棉質荷葉邊褲裙-三色-1076706",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-10-29",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

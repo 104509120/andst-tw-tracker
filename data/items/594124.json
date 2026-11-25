@@ -2,15 +2,10 @@
   "sku": "594124",
   "history": [
     {
-      "date": "2025-11-04",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 1245
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=594124",
   "salepage_id": "11285418",
   "url": "https://www.dot-st.tw/SalePage/Index/11285418",
   "title": "niko and男法蘭絨工裝風大口袋寬褲長褲-二色-594124",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2025-11-04",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

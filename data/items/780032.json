@@ -2,15 +2,10 @@
   "sku": "780032",
   "history": [
     {
-      "date": "2026-07-29",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1043
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=780032",
   "salepage_id": "12027549",
   "url": "https://www.dot-st.tw/SalePage/Index/12027549",
   "title": "niko and男【日本人氣店員企劃】復古印花短袖上衣-二色-780032",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-07-29",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

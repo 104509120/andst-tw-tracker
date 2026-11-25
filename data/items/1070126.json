@@ -2,24 +2,20 @@
   "sku": "1070126",
   "history": [
     {
-      "date": "2026-11-11",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1070126",
   "salepage_id": "12300263",
   "url": "https://www.dot-st.tw/SalePage/Index/12300263",
   "title": "LAKOLE女溫柔手臂保暖針織袖套-三色-1070126",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12300263/0/639300106033270000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12300263/0/639312134945200000?v=1",
   "current_price": 890,
   "original_price": 890,
   "min_price": 890,
   "max_price": 890,
   "listed_date": "2026-11-11",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

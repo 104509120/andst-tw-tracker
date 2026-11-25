@@ -2,24 +2,20 @@
   "sku": "639438",
   "history": [
     {
-      "date": "2026-01-28",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 596
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=639438",
   "salepage_id": "11521702",
   "url": "https://www.dot-st.tw/SalePage/Index/11521702",
   "title": "LEPSIM異材質針織圖案拼色長袖上衣-四色-639438",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11521702/0/639295672270600000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11521702/0/639312242479130000?v=1",
   "current_price": 596,
   "original_price": 1490,
   "min_price": 596,
   "max_price": 1490,
   "listed_date": "2026-01-28",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

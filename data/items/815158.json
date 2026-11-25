@@ -2,24 +2,24 @@
   "sku": "815158",
   "history": [
     {
-      "date": "2026-08-13",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 903
+    },
+    {
+      "date": "2026-11-25",
+      "price": 645
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=815158",
   "salepage_id": "12067698",
   "url": "https://www.dot-st.tw/SalePage/Index/12067698",
   "title": "JEANASIS不規則蕾絲綁帶腰飾-二色-815158",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12067698/0/639289512633800000?v=1",
-  "current_price": 903,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12067698/0/639312241662700000?v=1",
+  "current_price": 645,
   "original_price": 1290,
-  "min_price": 903,
+  "min_price": 645,
   "max_price": 1290,
   "listed_date": "2026-08-13",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

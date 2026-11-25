@@ -2,15 +2,10 @@
   "sku": "1063816",
   "history": [
     {
-      "date": "2026-10-16",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1063816",
   "salepage_id": "12244380",
   "url": "https://www.dot-st.tw/SalePage/Index/12244380",
   "title": "niko and女可愛條紋髮圈-二色-1063816",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2026-10-16",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

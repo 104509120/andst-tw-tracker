@@ -2,15 +2,10 @@
   "sku": "284624",
   "history": [
     {
-      "date": "2025-04-29",
-      "price": 140
-    },
-    {
       "date": "2026-11-24",
       "price": 140
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=284624",
   "salepage_id": "10720622",
   "url": "https://www.dot-st.tw/SalePage/Index/10720622",
   "title": "niko and品牌OLD SMITH尼龍織紋S掛勾三入組S-二色-284624",
@@ -21,5 +16,6 @@
   "max_price": 140,
   "listed_date": "2025-04-29",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

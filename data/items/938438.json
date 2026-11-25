@@ -2,15 +2,10 @@
   "sku": "938438",
   "history": [
     {
-      "date": "2024-12-02",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 195
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=938438",
   "salepage_id": "10356547",
   "url": "https://www.dot-st.tw/SalePage/Index/10356547",
   "title": "LAKOLE耐熱耐冷簡約玻璃碗1.6L-938438",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2024-12-02",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

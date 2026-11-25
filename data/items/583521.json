@@ -2,15 +2,10 @@
   "sku": "583521",
   "history": [
     {
-      "date": "2025-10-02",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 995
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=583521",
   "salepage_id": "11197434",
   "url": "https://www.dot-st.tw/SalePage/Index/11197434",
   "title": "niko and女【日本人氣店員企劃】2WAY可拆袖背心長袖上衣-三色-583521",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2025-10-02",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "119524",
   "history": [
     {
-      "date": "2024-09-18",
-      "price": 470
-    },
-    {
       "date": "2026-11-24",
       "price": 470
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=119524",
   "salepage_id": "10154035",
   "url": "https://www.dot-st.tw/SalePage/Index/10154035",
   "title": "niko and品牌LOGO摺疊收納購物袋手提包-六色-119524",
@@ -21,5 +16,6 @@
   "max_price": 470,
   "listed_date": "2024-09-18",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

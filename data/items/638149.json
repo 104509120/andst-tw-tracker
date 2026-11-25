@@ -2,24 +2,20 @@
   "sku": "638149",
   "history": [
     {
-      "date": "2026-05-27",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 745
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=638149",
   "salepage_id": "11833197",
   "url": "https://www.dot-st.tw/SalePage/Index/11833197",
   "title": "GLOBAL WORK男Airy Breeze涼感透氣短袖襯衫-三色-638149",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11833197/0/639299286277230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11833197/0/639312242534600000?v=1",
   "current_price": 745,
   "original_price": 1490,
   "min_price": 745,
   "max_price": 1490,
   "listed_date": "2026-05-27",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

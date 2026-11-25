@@ -2,15 +2,10 @@
   "sku": "818507",
   "history": [
     {
-      "date": "2026-10-16",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=818507",
   "salepage_id": "12241616",
   "url": "https://www.dot-st.tw/SalePage/Index/12241616",
   "title": "repipi armario童愛心/蝴蝶結針織上衣-五色-818507",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-10-16",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

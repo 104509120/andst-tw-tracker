@@ -2,24 +2,20 @@
   "sku": "1042471",
   "history": [
     {
-      "date": "2026-08-25",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1145
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1042471",
   "salepage_id": "12098636",
   "url": "https://www.dot-st.tw/SalePage/Index/12098636",
   "title": "PAGEBOY蕾絲滾邊細肩帶背心上衣-二色-1042471",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12098636/0/639300744068930000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12098636/0/639312242749830000?v=1",
   "current_price": 1145,
   "original_price": 2290,
   "min_price": 1145,
   "max_price": 2290,
   "listed_date": "2026-08-25",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

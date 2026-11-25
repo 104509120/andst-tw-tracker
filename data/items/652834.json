@@ -2,15 +2,10 @@
   "sku": "652834",
   "history": [
     {
-      "date": "2026-07-30",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 195
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=652834",
   "salepage_id": "12030053",
   "url": "https://www.dot-st.tw/SalePage/Index/12030053",
   "title": "LAKOLE夏日降溫側背冰敷袋-二色-652834",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-07-30",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

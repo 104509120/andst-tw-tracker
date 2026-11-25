@@ -2,15 +2,10 @@
   "sku": "492860",
   "history": [
     {
-      "date": "2025-11-11",
-      "price": 4290
-    },
-    {
       "date": "2026-11-24",
       "price": 3432
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=492860",
   "salepage_id": "11310795",
   "url": "https://www.dot-st.tw/SalePage/Index/11310795",
   "title": "niko and男WOOLLYTEC機能性羊毛狩獵夾克外套-三色-492860",
@@ -21,5 +16,6 @@
   "max_price": 4290,
   "listed_date": "2025-11-11",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

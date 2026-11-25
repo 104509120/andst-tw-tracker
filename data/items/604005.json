@@ -2,24 +2,20 @@
   "sku": "604005",
   "history": [
     {
-      "date": "2026-02-28",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 1245
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=604005",
   "salepage_id": "11580980",
   "url": "https://www.dot-st.tw/SalePage/Index/11580980",
   "title": "niko and女【MODE NORM CORE】丹寧牛仔拼接吊帶褲-三色-604005",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11580980/0/639301751172270000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11580980/0/639312242652100000?v=1",
   "current_price": 1245,
   "original_price": 2490,
   "min_price": 1245,
   "max_price": 2490,
   "listed_date": "2026-02-28",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

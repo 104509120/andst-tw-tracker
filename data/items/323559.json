@@ -2,15 +2,10 @@
   "sku": "323559",
   "history": [
     {
-      "date": "2025-05-06",
-      "price": 780
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=323559",
   "salepage_id": "10736801",
   "url": "https://www.dot-st.tw/SalePage/Index/10736801",
   "title": "niko and【LOONEY TUNES】樂一通聯名透明iPhone16ProMAX手機殼-二色-323559",
@@ -21,5 +16,6 @@
   "max_price": 780,
   "listed_date": "2025-05-06",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

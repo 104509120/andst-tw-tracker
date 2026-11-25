@@ -2,15 +2,10 @@
   "sku": "969182",
   "history": [
     {
-      "date": "2023-10-13",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=969182",
   "salepage_id": "9247056",
   "url": "https://www.dot-st.tw/SalePage/Index/9247056",
   "title": "studio CLIP天然木收納收納盒L-二色-969182",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2023-10-13",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

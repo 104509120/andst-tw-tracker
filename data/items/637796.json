@@ -2,15 +2,10 @@
   "sku": "637796",
   "history": [
     {
-      "date": "2026-03-05",
-      "price": 470
-    },
-    {
       "date": "2026-11-24",
       "price": 470
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=637796",
   "salepage_id": "11594118",
   "url": "https://www.dot-st.tw/SalePage/Index/11594118",
   "title": "niko and原創BILLY熊玩偶娃娃吊飾-一色-637796",
@@ -21,5 +16,6 @@
   "max_price": 470,
   "listed_date": "2026-03-05",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

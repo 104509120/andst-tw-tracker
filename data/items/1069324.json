@@ -2,15 +2,10 @@
   "sku": "1069324",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 3555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1069324",
   "salepage_id": "12273038",
   "url": "https://www.dot-st.tw/SalePage/Index/12273038",
   "title": "PAGEBOY【網路限定55價】植絨立體繭型丹寧褲-一色-1069324",
@@ -21,5 +16,6 @@
   "max_price": 3990,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

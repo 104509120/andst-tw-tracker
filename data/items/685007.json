@@ -2,15 +2,10 @@
   "sku": "685007",
   "history": [
     {
-      "date": "2026-06-04",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=685007",
   "salepage_id": "11861515",
   "url": "https://www.dot-st.tw/SalePage/Index/11861515",
   "title": "LOWRYS FARM女異材質拼接頸鍊項鍊-五色-685007",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2026-06-04",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

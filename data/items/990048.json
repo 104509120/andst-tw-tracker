@@ -2,15 +2,10 @@
   "sku": "990048",
   "history": [
     {
-      "date": "2024-03-11",
-      "price": 160
-    },
-    {
       "date": "2026-11-24",
       "price": 160
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=990048",
   "salepage_id": "9599515",
   "url": "https://www.dot-st.tw/SalePage/Index/9599515",
   "title": "repipi armario刺繡基本款設計短襪-五色-990048",
@@ -21,5 +16,6 @@
   "max_price": 160,
   "listed_date": "2024-03-11",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "670095",
   "history": [
     {
-      "date": "2026-05-13",
-      "price": 4590
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=670095",
   "salepage_id": "11793453",
   "url": "https://www.dot-st.tw/SalePage/Index/11793453",
   "title": "HARE男拼色口袋短袖西裝外套-三色-670095",
@@ -21,5 +16,6 @@
   "max_price": 4590,
   "listed_date": "2026-05-13",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

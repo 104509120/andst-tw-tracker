@@ -2,15 +2,10 @@
   "sku": "127868",
   "history": [
     {
-      "date": "2024-09-11",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=127868",
   "salepage_id": "10146286",
   "url": "https://www.dot-st.tw/SalePage/Index/10146286",
   "title": "studio CLIP柔和氛圍色塊拼接環保袋-四色-127868",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2024-09-11",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

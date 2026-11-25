@@ -2,15 +2,10 @@
   "sku": "654697",
   "history": [
     {
-      "date": "2026-09-11",
-      "price": 2790
-    },
-    {
       "date": "2026-11-24",
       "price": 2790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=654697",
   "salepage_id": "12149403",
   "url": "https://www.dot-st.tw/SalePage/Index/12149403",
   "title": "HARE男女防皺設計寬鬆襯衫上衣-三色-654697",
@@ -21,5 +16,6 @@
   "max_price": 2790,
   "listed_date": "2026-09-11",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "999587",
   "history": [
     {
-      "date": "2026-08-28",
-      "price": 2890
-    },
-    {
       "date": "2026-11-24",
       "price": 1156
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=999587",
   "salepage_id": "12112481",
   "url": "https://www.dot-st.tw/SalePage/Index/12112481",
   "title": "studio CLIP水玉拼接細肩帶背心上衣《Kin.聯名款》-三色-999587",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12112481/0/639310379590470000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12112481/0/639312242765570000?v=1",
   "current_price": 1156,
   "original_price": 2890,
   "min_price": 1156,
   "max_price": 2890,
   "listed_date": "2026-08-28",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

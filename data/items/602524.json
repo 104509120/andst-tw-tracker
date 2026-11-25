@@ -2,15 +2,10 @@
   "sku": "602524",
   "history": [
     {
-      "date": "2025-12-03",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1145
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=602524",
   "salepage_id": "11371250",
   "url": "https://www.dot-st.tw/SalePage/Index/11371250",
   "title": "repipi armario附緞面緞帶厚底設計樂福紳士鞋-二色-602524",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2025-12-03",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

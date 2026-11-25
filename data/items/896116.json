@@ -2,15 +2,10 @@
   "sku": "896116",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 3090
-    },
-    {
       "date": "2026-11-24",
       "price": 3090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=896116",
   "salepage_id": "12270861",
   "url": "https://www.dot-st.tw/SalePage/Index/12270861",
   "title": "studio CLIP造型吊飾組合桌上型聖誕樹《CHRISTMAS 2026》-二色-896116",
@@ -21,5 +16,6 @@
   "max_price": 3090,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "147408",
   "history": [
     {
-      "date": "2025-01-10",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=147408",
   "salepage_id": "10452148",
   "url": "https://www.dot-st.tw/SalePage/Index/10452148",
   "title": "GLOBAL WORK童GOOD DENIM系列圖樣寬鬆直筒丹寧長褲-十七色-147408",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2025-01-10",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

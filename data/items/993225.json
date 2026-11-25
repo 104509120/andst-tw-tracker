@@ -2,15 +2,10 @@
   "sku": "993225",
   "history": [
     {
-      "date": "2025-02-26",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=993225",
   "salepage_id": "10546901",
   "url": "https://www.dot-st.tw/SalePage/Index/10546901",
   "title": "LAKOLE英文字母多功能手機掛繩背繩-五色-993225",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2025-02-26",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

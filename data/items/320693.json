@@ -2,15 +2,10 @@
   "sku": "320693",
   "history": [
     {
-      "date": "2025-05-02",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=320693",
   "salepage_id": "10728956",
   "url": "https://www.dot-st.tw/SalePage/Index/10728956",
   "title": "niko and女可愛層次花邊串珠項鍊-六色-320693",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2025-05-02",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

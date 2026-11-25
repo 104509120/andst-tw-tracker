@@ -2,15 +2,10 @@
   "sku": "1074025",
   "history": [
     {
-      "date": "2026-10-16",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1074025",
   "salepage_id": "12244515",
   "url": "https://www.dot-st.tw/SalePage/Index/12244515",
   "title": "RAGEBLUE男質感緹花圖紋領帶-四色-1074025",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-10-16",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

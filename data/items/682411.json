@@ -2,15 +2,10 @@
   "sku": "682411",
   "history": [
     {
-      "date": "2026-07-23",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 343
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=682411",
   "salepage_id": "11985541",
   "url": "https://www.dot-st.tw/SalePage/Index/11985541",
   "title": "studio CLIP【ぽっこしPOKKOSHI聯名】自黏式手機吊飾-二款-682411",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-07-23",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

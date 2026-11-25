@@ -2,15 +2,10 @@
   "sku": "646574",
   "history": [
     {
-      "date": "2026-04-27",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=646574",
   "salepage_id": "11740737",
   "url": "https://www.dot-st.tw/SalePage/Index/11740737",
   "title": "niko and女【tiy nie yee】閃閃愛心蝴蝶結耳針式耳環-二色-646574",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-04-27",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

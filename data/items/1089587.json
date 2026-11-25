@@ -2,24 +2,24 @@
   "sku": "1089587",
   "history": [
     {
-      "date": "2026-10-28",
+      "date": "2026-11-24",
       "price": 1490
     },
     {
-      "date": "2026-11-24",
-      "price": 1490
+      "date": "2026-11-25",
+      "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1089587",
   "salepage_id": "12265456",
   "url": "https://www.dot-st.tw/SalePage/Index/12265456",
   "title": "LEPSIM袖口下擺蕾絲拼接長袖上衣-三色-1089587",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12265456/0/639299994550730000?v=1",
-  "current_price": 1490,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12265456/0/639312139752700000?v=1",
+  "current_price": 990,
   "original_price": 1490,
-  "min_price": 1490,
+  "min_price": 990,
   "max_price": 1490,
   "listed_date": "2026-10-28",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

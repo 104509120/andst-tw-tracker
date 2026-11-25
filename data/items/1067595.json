@@ -2,24 +2,24 @@
   "sku": "1067595",
   "history": [
     {
-      "date": "2026-10-29",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1890
+    },
+    {
+      "date": "2026-11-25",
+      "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1067595",
   "salepage_id": "12270007",
   "url": "https://www.dot-st.tw/SalePage/Index/12270007",
   "title": "LEPSIM麻花針織短版背心與素色長袖襯衫上衣二件組-二色-1067595",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12270007/0/639311251696470000?v=1",
-  "current_price": 1890,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12270007/0/639312139771870000?v=1",
+  "current_price": 1490,
   "original_price": 2690,
-  "min_price": 1890,
+  "min_price": 1490,
   "max_price": 2690,
   "listed_date": "2026-10-29",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

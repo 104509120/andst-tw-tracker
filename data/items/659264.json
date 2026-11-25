@@ -2,15 +2,10 @@
   "sku": "659264",
   "history": [
     {
-      "date": "2026-06-25",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 483
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=659264",
   "salepage_id": "11909811",
   "url": "https://www.dot-st.tw/SalePage/Index/11909811",
   "title": "studio CLIP機能保冷便當包巾L【小貓丹丹聯名】-一色-659264",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-06-25",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

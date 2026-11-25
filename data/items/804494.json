@@ -2,15 +2,10 @@
   "sku": "804494",
   "history": [
     {
-      "date": "2026-06-16",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1076
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=804494",
   "salepage_id": "11896165",
   "url": "https://www.dot-st.tw/SalePage/Index/11896165",
   "title": "LEPSIM多WAY細肩帶不規則下襬背心與短袖短版襯衫上衣二件組-二色-804494",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2026-06-16",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

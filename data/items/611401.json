@@ -2,15 +2,10 @@
   "sku": "611401",
   "history": [
     {
-      "date": "2026-01-30",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 116
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=611401",
   "salepage_id": "11526108",
   "url": "https://www.dot-st.tw/SalePage/Index/11526108",
   "title": "LAKOLE金色蒔繪透明筷架-三色-611401",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-01-30",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

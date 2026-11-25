@@ -2,24 +2,20 @@
   "sku": "1097100",
   "history": [
     {
-      "date": "2026-11-12",
-      "price": 2190
-    },
-    {
       "date": "2026-11-24",
       "price": 2055
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1097100",
   "salepage_id": "12303892",
   "url": "https://www.dot-st.tw/SalePage/Index/12303892",
   "title": "PAGEBOY【網路限定55價】撞色羅紋亨利高領開釦長袖針織上衣-三色-1097100",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12303892/0/639307793286230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12303892/0/639312015090030000?v=1",
   "current_price": 2055,
   "original_price": 2190,
   "min_price": 2055,
   "max_price": 2190,
   "listed_date": "2026-11-12",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

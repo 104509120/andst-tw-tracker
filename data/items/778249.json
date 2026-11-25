@@ -2,24 +2,20 @@
   "sku": "778249",
   "history": [
     {
-      "date": "2026-07-16",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 1196
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=778249",
   "salepage_id": "11980795",
   "url": "https://www.dot-st.tw/SalePage/Index/11980795",
   "title": "RAGEBLUE男厚底增高運動休閒涼鞋-一色-778249",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11980795/0/639305077238470000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11980795/0/639312242552370000?v=1",
   "current_price": 1196,
   "original_price": 2990,
   "min_price": 1196,
   "max_price": 2990,
   "listed_date": "2026-07-16",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

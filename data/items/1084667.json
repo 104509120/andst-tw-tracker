@@ -2,15 +2,10 @@
   "sku": "1084667",
   "history": [
     {
-      "date": "2026-11-05",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 2055
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1084667",
   "salepage_id": "12284131",
   "url": "https://www.dot-st.tw/SalePage/Index/12284131",
   "title": "PAGEBOY【網路限定55價】亮蔥羅紋短版針織上衣-二色-1084667",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-11-05",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "600210",
   "history": [
     {
-      "date": "2026-07-09",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=600210",
   "salepage_id": "11965052",
   "url": "https://www.dot-st.tw/SalePage/Index/11965052",
   "title": "LAKOLE日式罩衫工作服圍裙-二色-600210",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11965052/0/639307810177970000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11965052/0/639312134429930000?v=1",
   "current_price": 490,
   "original_price": 490,
   "min_price": 490,
   "max_price": 490,
   "listed_date": "2026-07-09",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

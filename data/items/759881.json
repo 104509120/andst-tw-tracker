@@ -2,15 +2,10 @@
   "sku": "759881",
   "history": [
     {
-      "date": "2026-06-11",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 516
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=759881",
   "salepage_id": "11886266",
   "url": "https://www.dot-st.tw/SalePage/Index/11886266",
   "title": "repipi armario彈性水鑽裝飾T恤上衣-三色-759881",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-06-11",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

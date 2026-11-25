@@ -2,15 +2,10 @@
   "sku": "459174",
   "history": [
     {
-      "date": "2025-07-11",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=459174",
   "salepage_id": "10947014",
   "url": "https://www.dot-st.tw/SalePage/Index/10947014",
   "title": "niko and女【tiy nie yee】成熟感珠珠耳針式耳環-二色-459174",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2025-07-11",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

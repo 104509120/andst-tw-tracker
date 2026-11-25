@@ -2,15 +2,10 @@
   "sku": "1078465",
   "history": [
     {
-      "date": "2026-11-03",
-      "price": 3890
-    },
-    {
       "date": "2026-11-24",
       "price": 3890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1078465",
   "salepage_id": "12278200",
   "url": "https://www.dot-st.tw/SalePage/Index/12278200",
   "title": "studio CLIP【官網/統一時代限定】短版蝙蝠袖風衣外套《natural by clip》-二色-1078465",
@@ -21,5 +16,6 @@
   "max_price": 3890,
   "listed_date": "2026-11-03",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

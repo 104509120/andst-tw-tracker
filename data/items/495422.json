@@ -2,15 +2,10 @@
   "sku": "495422",
   "history": [
     {
-      "date": "2025-09-26",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 645
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=495422",
   "salepage_id": "11146439",
   "url": "https://www.dot-st.tw/SalePage/Index/11146439",
   "title": "LAKOLE男簡約翻蓋設計皮革肩背包-二色-495422",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2025-09-26",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

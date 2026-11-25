@@ -2,24 +2,20 @@
   "sku": "801175",
   "history": [
     {
-      "date": "2026-11-10",
-      "price": 10490
-    },
-    {
       "date": "2026-11-24",
       "price": 6555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=801175",
   "salepage_id": "12251794",
   "url": "https://www.dot-st.tw/SalePage/Index/12251794",
   "title": "BARNYARDSTORM【網路限定55價】防潑水立領口袋夾克外套-一色-801175",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12251794/0/639311596851700000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12251794/0/639311981746800000?v=1",
   "current_price": 6555,
   "original_price": 10490,
   "min_price": 6555,
   "max_price": 10490,
   "listed_date": "2026-11-10",
   "updated_at": "2026-11-25",
-  "brand": "BARNYARDSTORM"
+  "brand": "BARNYARDSTORM",
+  "first_seen": "2026-11-24"
 }

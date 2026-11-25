@@ -2,15 +2,10 @@
   "sku": "667438",
   "history": [
     {
-      "date": "2026-04-28",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 996
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=667438",
   "salepage_id": "11740116",
   "url": "https://www.dot-st.tw/SalePage/Index/11740116",
   "title": "LEPSIM媽媽系列透氣性極佳結粒感網紗洋裝-二色-667438",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-04-28",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

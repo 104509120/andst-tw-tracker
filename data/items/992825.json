@@ -2,15 +2,10 @@
   "sku": "992825",
   "history": [
     {
-      "date": "2024-10-14",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=992825",
   "salepage_id": "10169369",
   "url": "https://www.dot-st.tw/SalePage/Index/10169369",
   "title": "LAKOLE簡約純色絎縫收納包-三色-992825",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2024-10-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

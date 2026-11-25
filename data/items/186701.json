@@ -2,15 +2,10 @@
   "sku": "186701",
   "history": [
     {
-      "date": "2024-10-14",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 273
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=186701",
   "salepage_id": "10169161",
   "url": "https://www.dot-st.tw/SalePage/Index/10169161",
   "title": "LAKOLE亞麻混紡前開式露趾拖鞋-二色-186701",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2024-10-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

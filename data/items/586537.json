@@ -2,15 +2,10 @@
   "sku": "586537",
   "history": [
     {
-      "date": "2026-01-05",
-      "price": 580
-    },
-    {
       "date": "2026-11-24",
       "price": 580
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=586537",
   "salepage_id": "11451585",
   "url": "https://www.dot-st.tw/SalePage/Index/11451585",
   "title": "niko and天然木動物造型關節可動玩具擺飾-三色-586537",
@@ -21,5 +16,6 @@
   "max_price": 580,
   "listed_date": "2026-01-05",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

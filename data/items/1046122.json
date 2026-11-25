@@ -2,15 +2,10 @@
   "sku": "1046122",
   "history": [
     {
-      "date": "2026-10-05",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1046122",
   "salepage_id": "12209849",
   "url": "https://www.dot-st.tw/SalePage/Index/12209849",
   "title": "GLOBAL WORK女前後穿2WAY雪紡絨面薄紗長袖上衣-三色-1046122",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-10-05",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

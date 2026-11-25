@@ -2,15 +2,10 @@
   "sku": "250541",
   "history": [
     {
-      "date": "2025-01-22",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=250541",
   "salepage_id": "10479445",
   "url": "https://www.dot-st.tw/SalePage/Index/10479445",
   "title": "niko and女【tiy nie yee】細閃寶石iPhone13/14手機殼-二色-250541",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2025-01-22",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

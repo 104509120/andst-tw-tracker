@@ -2,15 +2,10 @@
   "sku": "656584",
   "history": [
     {
-      "date": "2026-09-18",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=656584",
   "salepage_id": "12166435",
   "url": "https://www.dot-st.tw/SalePage/Index/12166435",
   "title": "LAKOLE蓬鬆交叉居家室內拖鞋-二色-656584",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-09-18",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

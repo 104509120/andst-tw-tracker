@@ -1,11 +1,6 @@
 {
   "sku": "1071743",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1071743",
   "history": [
-    {
-      "date": "2026-11-18",
-      "price": 2290
-    },
     {
       "date": "2026-11-24",
       "price": 2290
@@ -14,12 +9,13 @@
   "salepage_id": "12316130",
   "url": "https://www.dot-st.tw/SalePage/Index/12316130",
   "title": "studio CLIP【官網/統一時代限定】細燈芯絨抽繩裙褲《natural by clip》-三色-1071743",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12316130/0/639306106180270000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12316130/0/639312048491370000?v=1",
   "current_price": 2290,
   "original_price": 2290,
   "min_price": 2290,
   "max_price": 2290,
   "listed_date": "2026-11-18",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

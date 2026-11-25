@@ -2,24 +2,20 @@
   "sku": "1047436",
   "history": [
     {
-      "date": "2026-08-07",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 255
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1047436",
   "salepage_id": "12047517",
   "url": "https://www.dot-st.tw/SalePage/Index/12047517",
   "title": "LAKOLE【網路限定55價】男輕盈速乾直紋紋理T恤上衣-三色-1047436",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12047517/0/639310374255870000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12047517/0/639312242749830000?v=1",
   "current_price": 255,
   "original_price": 890,
   "min_price": 255,
   "max_price": 890,
   "listed_date": "2026-08-07",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

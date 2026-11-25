@@ -2,15 +2,10 @@
   "sku": "635791",
   "history": [
     {
-      "date": "2026-02-05",
-      "price": 5090
-    },
-    {
       "date": "2026-11-24",
       "price": 2455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=635791",
   "salepage_id": "11543065",
   "url": "https://www.dot-st.tw/SalePage/Index/11543065",
   "title": "HARE【網路限定55價】男附腰帶打褶直筒丹寧長褲-三色-635791",
@@ -21,5 +16,6 @@
   "max_price": 5090,
   "listed_date": "2026-02-05",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "679634",
   "history": [
     {
-      "date": "2026-08-07",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 316
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=679634",
   "salepage_id": "12047501",
   "url": "https://www.dot-st.tw/SalePage/Index/12047501",
   "title": "LAKOLE女涼感時髦側開衩法國袖上衣-四色-679634",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12047501/0/639307810191000000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12047501/0/639312242734300000?v=1",
   "current_price": 316,
   "original_price": 790,
   "min_price": 316,
   "max_price": 790,
   "listed_date": "2026-08-07",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

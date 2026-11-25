@@ -2,24 +2,24 @@
   "sku": "1069573",
   "history": [
     {
-      "date": "2026-09-24",
+      "date": "2026-11-24",
       "price": 3990
     },
     {
-      "date": "2026-11-24",
-      "price": 3990
+      "date": "2026-11-25",
+      "price": 2690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1069573",
   "salepage_id": "12185006",
   "url": "https://www.dot-st.tw/SalePage/Index/12185006",
   "title": "JEANASIS丹寧拼接空氣層鬆緊腰寬版長褲-四色-1069573",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12185006/0/639289512633800000?v=1",
-  "current_price": 3990,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12185006/0/639312242588170000?v=1",
+  "current_price": 2690,
   "original_price": 3990,
-  "min_price": 3990,
+  "min_price": 2690,
   "max_price": 3990,
   "listed_date": "2026-09-24",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

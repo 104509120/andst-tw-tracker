@@ -2,15 +2,10 @@
   "sku": "669032",
   "history": [
     {
-      "date": "2026-08-07",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=669032",
   "salepage_id": "12047500",
   "url": "https://www.dot-st.tw/SalePage/Index/12047500",
   "title": "LAKOLE【網路限定55價】男涼感柔軟素色格紋襯衫上衣-四色-669032",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-08-07",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "1063372",
   "history": [
     {
-      "date": "2026-09-23",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 2255
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1063372",
   "salepage_id": "12179634",
   "url": "https://www.dot-st.tw/SalePage/Index/12179634",
   "title": "RAGEBLUE【網路限定55價】【品牌好友｜曾敬驊 江齊著用款】女附圍巾Ｖ領條紋落肩針織上衣-二色-1063372",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12179634/0/639310372971970000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12179634/0/639312242799600000?v=1",
   "current_price": 2255,
   "original_price": 2490,
   "min_price": 2255,
   "max_price": 2490,
   "listed_date": "2026-09-23",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

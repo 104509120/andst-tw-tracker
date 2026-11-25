@@ -2,15 +2,10 @@
   "sku": "1043573",
   "history": [
     {
-      "date": "2026-09-16",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 1155
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1043573",
   "salepage_id": "12160058",
   "url": "https://www.dot-st.tw/SalePage/Index/12160058",
   "title": "studio CLIP【網路限定55價】亞麻荷葉領雙面穿上衣-三色-1043573",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-09-16",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

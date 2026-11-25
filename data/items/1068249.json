@@ -2,15 +2,10 @@
   "sku": "1068249",
   "history": [
     {
-      "date": "2026-10-15",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1068249",
   "salepage_id": "12237847",
   "url": "https://www.dot-st.tw/SalePage/Index/12237847",
   "title": "LAKOLE男輕盈鋪棉格紋托特包-二色-1068249",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-10-15",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "782926",
   "history": [
     {
-      "date": "2026-11-12",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=782926",
   "salepage_id": "12302569",
   "url": "https://www.dot-st.tw/SalePage/Index/12302569",
   "title": "studio CLIP日本製2027可愛動物A5月間日誌-三色-782926",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2026-11-12",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

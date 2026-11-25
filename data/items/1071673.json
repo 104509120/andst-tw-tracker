@@ -2,15 +2,10 @@
   "sku": "1071673",
   "history": [
     {
-      "date": "2026-09-27",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1071673",
   "salepage_id": "12186484",
   "url": "https://www.dot-st.tw/SalePage/Index/12186484",
   "title": "niko and女復古風異色動物印花長袖上衣-四色-1071673",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-09-27",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

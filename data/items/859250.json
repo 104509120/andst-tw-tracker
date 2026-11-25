@@ -2,24 +2,20 @@
   "sku": "859250",
   "history": [
     {
-      "date": "2026-06-04",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1076
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=859250",
   "salepage_id": "11863259",
   "url": "https://www.dot-st.tw/SalePage/Index/11863259",
   "title": "JEANASIS蕾絲罩杯背心與開襟罩衫二件組-三色-859250",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11863259/0/639310491702100000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11863259/0/639312242718330000?v=1",
   "current_price": 1076,
   "original_price": 2690,
   "min_price": 1076,
   "max_price": 2690,
   "listed_date": "2026-06-04",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1052808",
   "history": [
     {
-      "date": "2026-08-26",
-      "price": 3090
-    },
-    {
       "date": "2026-11-24",
       "price": 2155
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1052808",
   "salepage_id": "12101534",
   "url": "https://www.dot-st.tw/SalePage/Index/12101534",
   "title": "HARE【網路限定55價】女領口可調節金屬釦荷葉透膚長袖襯衫上衣-二色-1052808",
@@ -21,5 +16,6 @@
   "max_price": 3090,
   "listed_date": "2026-08-26",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

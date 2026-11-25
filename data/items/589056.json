@@ -2,15 +2,10 @@
   "sku": "589056",
   "history": [
     {
-      "date": "2026-07-30",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 145
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=589056",
   "salepage_id": "12030035",
   "url": "https://www.dot-st.tw/SalePage/Index/12030035",
   "title": "LAKOLE女簡約氣質環狀耳針式耳環-二色-589056",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-07-30",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

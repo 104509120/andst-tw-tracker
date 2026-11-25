@@ -2,24 +2,24 @@
   "sku": "1057360",
   "history": [
     {
-      "date": "2026-08-18",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1590
+    },
+    {
+      "date": "2026-11-25",
+      "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1057360",
   "salepage_id": "12078230",
   "url": "https://www.dot-st.tw/SalePage/Index/12078230",
   "title": "Heather不對稱層次拼接附褲襯百褶短裙-三色-1057360",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12078230/0/639310372950600000?v=1",
-  "current_price": 1590,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12078230/0/639312242749830000?v=1",
+  "current_price": 990,
   "original_price": 1990,
-  "min_price": 1590,
+  "min_price": 990,
   "max_price": 1990,
   "listed_date": "2026-08-18",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "888188",
   "history": [
     {
-      "date": "2026-09-02",
-      "price": 1090
-    },
-    {
       "date": "2026-11-24",
       "price": 1090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=888188",
   "salepage_id": "12123800",
   "url": "https://www.dot-st.tw/SalePage/Index/12123800",
   "title": "studio CLIP仿藤編PP收納籃-一色-888188",
@@ -21,5 +16,6 @@
   "max_price": 1090,
   "listed_date": "2026-09-02",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

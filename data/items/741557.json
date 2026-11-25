@@ -2,15 +2,10 @@
   "sku": "741557",
   "history": [
     {
-      "date": "2026-08-07",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 645
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=741557",
   "salepage_id": "12047503",
   "url": "https://www.dot-st.tw/SalePage/Index/12047503",
   "title": "LAKOLE男涼感縫線剪裁T恤上衣-二色-741557",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-08-07",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

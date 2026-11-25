@@ -2,15 +2,10 @@
   "sku": "586624",
   "history": [
     {
-      "date": "2025-12-01",
-      "price": 230
-    },
-    {
       "date": "2026-11-24",
       "price": 115
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=586624",
   "salepage_id": "11364499",
   "url": "https://www.dot-st.tw/SalePage/Index/11364499",
   "title": "niko and原創BILLY熊漂浮吊飾鑰匙圈-二色-586624",
@@ -21,5 +16,6 @@
   "max_price": 230,
   "listed_date": "2025-12-01",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "290712",
   "history": [
     {
-      "date": "2025-05-05",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 796
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=290712",
   "salepage_id": "10733007",
   "url": "https://www.dot-st.tw/SalePage/Index/10733007",
   "title": "studio CLIP棉麻燈籠羅紋半袖T恤-七色-290712",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2025-05-05",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

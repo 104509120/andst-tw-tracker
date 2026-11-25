@@ -2,15 +2,10 @@
   "sku": "637618",
   "history": [
     {
-      "date": "2026-03-06",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 996
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=637618",
   "salepage_id": "11597473",
   "url": "https://www.dot-st.tw/SalePage/Index/11597473",
   "title": "LEPSIM翻折設計配色側線長褲-二色-637618",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-03-06",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

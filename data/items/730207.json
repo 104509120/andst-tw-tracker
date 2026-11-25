@@ -2,15 +2,10 @@
   "sku": "730207",
   "history": [
     {
-      "date": "2026-05-21",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 916
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=730207",
   "salepage_id": "11815354",
   "url": "https://www.dot-st.tw/SalePage/Index/11815354",
   "title": "LEPSIM異材質拼接網眼針織POLO上衣-二色-730207",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-05-21",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "289145",
   "history": [
     {
-      "date": "2025-04-22",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 483
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=289145",
   "salepage_id": "10699566",
   "url": "https://www.dot-st.tw/SalePage/Index/10699566",
   "title": "studio CLIP多功能異國民族風圍裙-三色-289145",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2025-04-22",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

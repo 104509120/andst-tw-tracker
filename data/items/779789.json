@@ -2,15 +2,10 @@
   "sku": "779789",
   "history": [
     {
-      "date": "2026-09-30",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 623
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=779789",
   "salepage_id": "12180932",
   "url": "https://www.dot-st.tw/SalePage/Index/12180932",
   "title": "niko and【P-kies Family聯名】玩偶毛巾掛環-一色-779789",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2026-09-30",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

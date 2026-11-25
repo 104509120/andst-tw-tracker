@@ -2,15 +2,10 @@
   "sku": "1044420",
   "history": [
     {
-      "date": "2026-08-21",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 596
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1044420",
   "salepage_id": "12090337",
   "url": "https://www.dot-st.tw/SalePage/Index/12090337",
   "title": "studio CLIP柔美蕾絲層次拼接上衣-三色-1044420",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-08-21",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

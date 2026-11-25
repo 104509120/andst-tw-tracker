@@ -2,15 +2,10 @@
   "sku": "190580",
   "history": [
     {
-      "date": "2026-02-26",
-      "price": 7780
-    },
-    {
       "date": "2026-11-24",
       "price": 7780
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=190580",
   "salepage_id": "11578986",
   "url": "https://www.dot-st.tw/SalePage/Index/11578986",
   "title": "niko and草坪主題腳踏墊地墊200*200-一色-190580",
@@ -21,5 +16,6 @@
   "max_price": 7780,
   "listed_date": "2026-02-26",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1090218",
   "history": [
     {
-      "date": "2026-11-05",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 2490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1090218",
   "salepage_id": "12284485",
   "url": "https://www.dot-st.tw/SalePage/Index/12284485",
   "title": "studio CLIP寬鬆連帽針織外套【CLIP BY STAFF】-三色-1090218",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-11-05",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

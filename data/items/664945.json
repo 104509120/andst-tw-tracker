@@ -2,15 +2,10 @@
   "sku": "664945",
   "history": [
     {
-      "date": "2026-04-08",
-      "price": 2890
-    },
-    {
       "date": "2026-11-24",
       "price": 1156
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=664945",
   "salepage_id": "11690798",
   "url": "https://www.dot-st.tw/SalePage/Index/11690798",
   "title": "repipi armario五分袖格紋連帽上衣與綁帶短褲二件組-二色-664945",
@@ -21,5 +16,6 @@
   "max_price": 2890,
   "listed_date": "2026-04-08",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

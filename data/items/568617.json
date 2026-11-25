@@ -2,15 +2,10 @@
   "sku": "568617",
   "history": [
     {
-      "date": "2025-11-06",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=568617",
   "salepage_id": "11296733",
   "url": "https://www.dot-st.tw/SalePage/Index/11296733",
   "title": "niko and女透明串珠水果吊飾鑰匙圈-三色-568617",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2025-11-06",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

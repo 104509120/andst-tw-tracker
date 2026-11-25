@@ -2,15 +2,10 @@
   "sku": "611373",
   "history": [
     {
-      "date": "2025-12-03",
-      "price": 2190
-    },
-    {
       "date": "2026-11-24",
       "price": 2055
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=611373",
   "salepage_id": "11372692",
   "url": "https://www.dot-st.tw/SalePage/Index/11372692",
   "title": "PAGEBOY【網路限定55價】【品牌好友｜曾敬驊 江齊著用款】大領口寬版彈性長絨毛上衣-五色-611373",
@@ -21,5 +16,6 @@
   "max_price": 2190,
   "listed_date": "2025-12-03",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

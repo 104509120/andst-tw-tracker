@@ -2,15 +2,10 @@
   "sku": "675774",
   "history": [
     {
-      "date": "2026-07-08",
-      "price": 540
-    },
-    {
       "date": "2026-11-24",
       "price": 540
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=675774",
   "salepage_id": "11962085",
   "url": "https://www.dot-st.tw/SalePage/Index/11962085",
   "title": "niko and網狀2WAY摺疊收納肩背手提包L-三色-675774",
@@ -21,5 +16,6 @@
   "max_price": 540,
   "listed_date": "2026-07-08",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

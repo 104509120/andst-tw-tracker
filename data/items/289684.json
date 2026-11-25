@@ -2,15 +2,10 @@
   "sku": "289684",
   "history": [
     {
-      "date": "2025-05-27",
-      "price": 1090
-    },
-    {
       "date": "2026-11-24",
       "price": 1090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=289684",
   "salepage_id": "10791326",
   "url": "https://www.dot-st.tw/SalePage/Index/10791326",
   "title": "studio CLIP刺繡流蘇晴雨兩用摺疊傘雨傘-二色-289684",
@@ -21,5 +16,6 @@
   "max_price": 1090,
   "listed_date": "2025-05-27",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

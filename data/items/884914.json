@@ -2,15 +2,10 @@
   "sku": "884914",
   "history": [
     {
-      "date": "2026-08-04",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 796
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=884914",
   "salepage_id": "12040141",
   "url": "https://www.dot-st.tw/SalePage/Index/12040141",
   "title": "LEPSIM刺繡開襟蝴蝶結短袖襯衫上衣-三色-884914",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-08-04",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

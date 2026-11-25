@@ -2,24 +2,20 @@
   "sku": "1050067",
   "history": [
     {
-      "date": "2026-07-30",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1050067",
   "salepage_id": "12031058",
   "url": "https://www.dot-st.tw/SalePage/Index/12031058",
   "title": "repipi armario【網路限定55價】接觸冷感開衩蝴蝶結棉質運動長褲-三色-1050067",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12031058/0/639311249118370000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12031058/0/639312242734300000?v=1",
   "current_price": 755,
   "original_price": 2290,
   "min_price": 755,
   "max_price": 2290,
   "listed_date": "2026-07-30",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

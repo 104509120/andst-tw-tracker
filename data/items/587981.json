@@ -2,15 +2,10 @@
   "sku": "587981",
   "history": [
     {
-      "date": "2025-12-05",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 445
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=587981",
   "salepage_id": "11380426",
   "url": "https://www.dot-st.tw/SalePage/Index/11380426",
   "title": "LEPSIM格紋撞色流蘇圍巾-三色-587981",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2025-12-05",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

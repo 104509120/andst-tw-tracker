@@ -2,24 +2,20 @@
   "sku": "848935",
   "history": [
     {
-      "date": "2026-07-30",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 596
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=848935",
   "salepage_id": "11998920",
   "url": "https://www.dot-st.tw/SalePage/Index/11998920",
   "title": "repipi armario【HELLO KITTY聯名】水鑽圖印愛心短袖T恤上衣-三色-848935",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11998920/0/639293950321330000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11998920/0/639312242552370000?v=1",
   "current_price": 596,
   "original_price": 1490,
   "min_price": 596,
   "max_price": 1490,
   "listed_date": "2026-07-30",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

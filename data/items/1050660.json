@@ -2,15 +2,10 @@
   "sku": "1050660",
   "history": [
     {
-      "date": "2026-10-16",
-      "price": 1190
-    },
-    {
       "date": "2026-11-24",
       "price": 1190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1050660",
   "salepage_id": "12241658",
   "url": "https://www.dot-st.tw/SalePage/Index/12241658",
   "title": "repipi armario麻花編織毛毛2WAY手套-五色-1050660",
@@ -21,5 +16,6 @@
   "max_price": 1190,
   "listed_date": "2026-10-16",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

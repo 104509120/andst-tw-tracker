@@ -2,15 +2,10 @@
   "sku": "645248",
   "history": [
     {
-      "date": "2026-04-08",
-      "price": 3290
-    },
-    {
       "date": "2026-11-24",
       "price": 1255
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=645248",
   "salepage_id": "11691785",
   "url": "https://www.dot-st.tw/SalePage/Index/11691785",
   "title": "JEANASIS【網路限定55價】緞面花卉繭型長褲-二色-645248",
@@ -21,5 +16,6 @@
   "max_price": 3290,
   "listed_date": "2026-04-08",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

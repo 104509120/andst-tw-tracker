@@ -2,24 +2,20 @@
   "sku": "821879",
   "history": [
     {
-      "date": "2026-09-02",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=821879",
   "salepage_id": "12124531",
   "url": "https://www.dot-st.tw/SalePage/Index/12124531",
   "title": "GLOBAL WORK【網路限定55價】女GOOD DENIM系列牛仔丹寧腰鬆緊寬版長褲-三色-821879",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12124531/0/639311144929330000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12124531/0/639312242615400000?v=1",
   "current_price": 955,
   "original_price": 1990,
   "min_price": 955,
   "max_price": 1990,
   "listed_date": "2026-09-02",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

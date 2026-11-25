@@ -2,15 +2,10 @@
   "sku": "149758",
   "history": [
     {
-      "date": "2024-10-18",
-      "price": 340
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=149758",
   "salepage_id": "10237574",
   "url": "https://www.dot-st.tw/SalePage/Index/10237574",
   "title": "niko and女【tiy nie yee】氣球狗造型耳針式耳環-二色-149758",
@@ -21,5 +16,6 @@
   "max_price": 340,
   "listed_date": "2024-10-18",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

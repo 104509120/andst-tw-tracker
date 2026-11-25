@@ -2,15 +2,10 @@
   "sku": "1049072",
   "history": [
     {
-      "date": "2026-11-11",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1049072",
   "salepage_id": "12288529",
   "url": "https://www.dot-st.tw/SalePage/Index/12288529",
   "title": "GLOBAL WORK童【Harry Potter聯名】印花大學T恤長袖上衣(100cm-140cm)-四色-1049072",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-11-11",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

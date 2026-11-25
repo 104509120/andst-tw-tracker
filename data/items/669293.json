@@ -2,15 +2,10 @@
   "sku": "669293",
   "history": [
     {
-      "date": "2026-07-08",
-      "price": 280
-    },
-    {
       "date": "2026-11-24",
       "price": 280
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=669293",
   "salepage_id": "11962081",
   "url": "https://www.dot-st.tw/SalePage/Index/11962081",
   "title": "niko and仿真糖果包裝珠鍊吊飾-二色-669293",
@@ -21,5 +16,6 @@
   "max_price": 280,
   "listed_date": "2026-07-08",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

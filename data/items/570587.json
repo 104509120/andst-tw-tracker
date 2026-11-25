@@ -2,15 +2,10 @@
   "sku": "570587",
   "history": [
     {
-      "date": "2025-10-20",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=570587",
   "salepage_id": "11238836",
   "url": "https://www.dot-st.tw/SalePage/Index/11238836",
   "title": "niko and女迷你愛心墜飾鍊條組合鑰匙圈吊飾-二色-570587",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2025-10-20",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

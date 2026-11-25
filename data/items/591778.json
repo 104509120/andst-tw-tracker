@@ -2,15 +2,10 @@
   "sku": "591778",
   "history": [
     {
-      "date": "2025-09-12",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=591778",
   "salepage_id": "11102530",
   "url": "https://www.dot-st.tw/SalePage/Index/11102530",
   "title": "repipi armario短版側邊線條運動夾克-四色-591778",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2025-09-12",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1077796",
   "history": [
     {
-      "date": "2026-10-23",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1077796",
   "salepage_id": "12260784",
   "url": "https://www.dot-st.tw/SalePage/Index/12260784",
   "title": "Heather毛絨拼接修身短褲-三色-1077796",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-10-23",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

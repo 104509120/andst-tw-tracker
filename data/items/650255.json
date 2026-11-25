@@ -2,15 +2,10 @@
   "sku": "650255",
   "history": [
     {
-      "date": "2026-04-16",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 145
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=650255",
   "salepage_id": "11709169",
   "url": "https://www.dot-st.tw/SalePage/Index/11709169",
   "title": "studio CLIP盒裝串燒造型吊飾鑰匙圈-二色-650255",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-04-16",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

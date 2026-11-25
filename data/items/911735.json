@@ -2,15 +2,10 @@
   "sku": "911735",
   "history": [
     {
-      "date": "2026-08-25",
-      "price": 5290
-    },
-    {
       "date": "2026-11-24",
       "price": 3703
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=911735",
   "salepage_id": "12097958",
   "url": "https://www.dot-st.tw/SalePage/Index/12097958",
   "title": "JEANASIS復古厚底釦帶長靴-二色-911735",
@@ -21,5 +16,6 @@
   "max_price": 5290,
   "listed_date": "2026-08-25",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

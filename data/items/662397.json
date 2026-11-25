@@ -2,15 +2,10 @@
   "sku": "662397",
   "history": [
     {
-      "date": "2026-03-16",
-      "price": 2090
-    },
-    {
       "date": "2026-11-24",
       "price": 836
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=662397",
   "salepage_id": "11610303",
   "url": "https://www.dot-st.tw/SalePage/Index/11610303",
   "title": "studio CLIP拼接假兩件式層次設計上衣-三色-662397",
@@ -21,5 +16,6 @@
   "max_price": 2090,
   "listed_date": "2026-03-16",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

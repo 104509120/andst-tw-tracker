@@ -2,15 +2,10 @@
   "sku": "581390",
   "history": [
     {
-      "date": "2025-12-12",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 245
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=581390",
   "salepage_id": "11405827",
   "url": "https://www.dot-st.tw/SalePage/Index/11405827",
   "title": "LAKOLE女可愛玳瑁隨身鏡掛飾-二色-581390",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2025-12-12",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

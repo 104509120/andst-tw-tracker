@@ -2,15 +2,10 @@
   "sku": "669725",
   "history": [
     {
-      "date": "2026-06-24",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=669725",
   "salepage_id": "11924923",
   "url": "https://www.dot-st.tw/SalePage/Index/11924923",
   "title": "LAKOLE男2WAY不鏽鋼垂墜耳針式耳環-四色-669725",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-06-24",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

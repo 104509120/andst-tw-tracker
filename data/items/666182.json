@@ -2,15 +2,10 @@
   "sku": "666182",
   "history": [
     {
-      "date": "2026-06-25",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 903
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=666182",
   "salepage_id": "11909818",
   "url": "https://www.dot-st.tw/SalePage/Index/11909818",
   "title": "studio CLIP機能保冷保溫手提肩背便當袋【小貓丹丹聯名】-一色-666182",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-06-25",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

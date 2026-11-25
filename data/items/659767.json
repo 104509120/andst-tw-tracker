@@ -2,15 +2,10 @@
   "sku": "659767",
   "history": [
     {
-      "date": "2026-07-07",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 916
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=659767",
   "salepage_id": "11955166",
   "url": "https://www.dot-st.tw/SalePage/Index/11955166",
   "title": "studio CLIP聯名MARSALA紗感緹花直筒長褲-二色-659767",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-07-07",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "637575",
   "history": [
     {
-      "date": "2026-03-24",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 996
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=637575",
   "salepage_id": "11653071",
   "url": "https://www.dot-st.tw/SalePage/Index/11653071",
   "title": "studio CLIP挺度2WAY腰綁造型針織長裙-二色-637575",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11653071/0/639307724260670000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11653071/0/639312242668930000?v=1",
   "current_price": 996,
   "original_price": 2490,
   "min_price": 996,
   "max_price": 2490,
   "listed_date": "2026-03-24",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

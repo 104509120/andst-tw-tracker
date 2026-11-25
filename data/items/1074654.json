@@ -2,24 +2,20 @@
   "sku": "1074654",
   "history": [
     {
-      "date": "2026-10-08",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 2490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1074654",
   "salepage_id": "12207338",
   "url": "https://www.dot-st.tw/SalePage/Index/12207338",
   "title": "repipi armario甜美格紋百褶短裙褲-三色-1074654",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12207338/0/639311249165570000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12207338/0/639312014747030000?v=1",
   "current_price": 2490,
   "original_price": 2490,
   "min_price": 2490,
   "max_price": 2490,
   "listed_date": "2026-10-08",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

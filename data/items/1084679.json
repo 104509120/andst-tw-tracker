@@ -2,15 +2,10 @@
   "sku": "1084679",
   "history": [
     {
-      "date": "2026-11-05",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 2455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1084679",
   "salepage_id": "12284133",
   "url": "https://www.dot-st.tw/SalePage/Index/12284133",
   "title": "PAGEBOY【網路限定55價】連帽粗針織羅紋短版開襟罩衫上衣-二色-1084679",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2026-11-05",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

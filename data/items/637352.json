@@ -2,24 +2,20 @@
   "sku": "637352",
   "history": [
     {
-      "date": "2026-02-13",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 1955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=637352",
   "salepage_id": "11566092",
   "url": "https://www.dot-st.tw/SalePage/Index/11566092",
   "title": "HARE【網路限定55價】男YOSE系列高級感前打褶金屬釦襯衫上衣-四色-637352",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11566092/0/639307653236200000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11566092/0/639312242652100000?v=1",
   "current_price": 1955,
   "original_price": 3990,
   "min_price": 1955,
   "max_price": 3990,
   "listed_date": "2026-02-13",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

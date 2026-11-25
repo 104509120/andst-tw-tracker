@@ -2,15 +2,10 @@
   "sku": "574838",
   "history": [
     {
-      "date": "2025-11-03",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 413
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=574838",
   "salepage_id": "11371995",
   "url": "https://www.dot-st.tw/SalePage/Index/11371995",
   "title": "studio CLIP花草造型刺繡餐墊桌墊-二色-574838",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2025-11-03",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "665483",
   "history": [
     {
-      "date": "2026-05-14",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 1155
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=665483",
   "salepage_id": "11796291",
   "url": "https://www.dot-st.tw/SalePage/Index/11796291",
   "title": "JEANASIS【網路限定55價】前拉鍊針織背心-三色-665483",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11796291/0/639307647537770000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11796291/0/639312242701200000?v=1",
   "current_price": 1155,
   "original_price": 2990,
   "min_price": 1155,
   "max_price": 2990,
   "listed_date": "2026-05-14",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

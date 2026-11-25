@@ -2,15 +2,10 @@
   "sku": "308252",
   "history": [
     {
-      "date": "2026-04-09",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=308252",
   "salepage_id": "11694316",
   "url": "https://www.dot-st.tw/SalePage/Index/11694316",
   "title": "LAKOLE不鏽鋼保溫杯專用滑蓋(保溫杯另售)-一色-308252",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2026-04-09",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

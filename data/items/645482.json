@@ -2,15 +2,10 @@
   "sku": "645482",
   "history": [
     {
-      "date": "2026-03-02",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 796
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=645482",
   "salepage_id": "11583801",
   "url": "https://www.dot-st.tw/SalePage/Index/11583801",
   "title": "studio CLIP修身雙扣錐形寬長褲【CLIP BY STAFF】-三色-645482",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-03-02",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

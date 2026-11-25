@@ -2,15 +2,10 @@
   "sku": "1076877",
   "history": [
     {
-      "date": "2026-09-30",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 2055
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1076877",
   "salepage_id": "12190528",
   "url": "https://www.dot-st.tw/SalePage/Index/12190528",
   "title": "PAGEBOY【網路限定55價】照片印花立體袖型短版大學T-三色-1076877",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-09-30",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "679687",
   "history": [
     {
-      "date": "2026-06-10",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 553
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=679687",
   "salepage_id": "11881216",
   "url": "https://www.dot-st.tw/SalePage/Index/11881216",
   "title": "LAKOLE男心形刺繡棒球帽-三色-679687",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-06-10",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

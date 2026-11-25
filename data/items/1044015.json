@@ -2,15 +2,10 @@
   "sku": "1044015",
   "history": [
     {
-      "date": "2026-07-22",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1044015",
   "salepage_id": "11996506",
   "url": "https://www.dot-st.tw/SalePage/Index/11996506",
   "title": "LEPSIM多色綁帶可調節疊穿小背心上衣-四色-1044015",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-07-22",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

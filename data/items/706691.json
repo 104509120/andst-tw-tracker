@@ -2,15 +2,10 @@
   "sku": "706691",
   "history": [
     {
-      "date": "2026-09-08",
-      "price": 1090
-    },
-    {
       "date": "2026-11-24",
       "price": 1090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=706691",
   "salepage_id": "12140013",
   "url": "https://www.dot-st.tw/SalePage/Index/12140013",
   "title": "studio CLIP玩偶馬克杯《CAT BY CLIP》-一色-706691",
@@ -21,5 +16,6 @@
   "max_price": 1090,
   "listed_date": "2026-09-08",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

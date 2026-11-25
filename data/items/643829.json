@@ -2,15 +2,10 @@
   "sku": "643829",
   "history": [
     {
-      "date": "2026-02-12",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 676
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=643829",
   "salepage_id": "11563161",
   "url": "https://www.dot-st.tw/SalePage/Index/11563161",
   "title": "studio CLIP蕾絲網紗紋理傘狀長袖上衣-四色-643829",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-02-12",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

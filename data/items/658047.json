@@ -2,15 +2,10 @@
   "sku": "658047",
   "history": [
     {
-      "date": "2026-05-13",
-      "price": 240
-    },
-    {
       "date": "2026-11-24",
       "price": 240
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=658047",
   "salepage_id": "11793431",
   "url": "https://www.dot-st.tw/SalePage/Index/11793431",
   "title": "niko and女【tiy nie yee】愛心點點耳針式耳環-二色-658047",
@@ -21,5 +16,6 @@
   "max_price": 240,
   "listed_date": "2026-05-13",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

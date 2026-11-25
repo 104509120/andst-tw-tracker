@@ -2,15 +2,10 @@
   "sku": "1049172",
   "history": [
     {
-      "date": "2026-10-08",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1049172",
   "salepage_id": "12223249",
   "url": "https://www.dot-st.tw/SalePage/Index/12223249",
   "title": "niko and設計師品牌Fishs Eddy紐約剪影馬克杯320ml-一色-1049172",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2026-10-08",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

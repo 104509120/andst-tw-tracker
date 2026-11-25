@@ -2,24 +2,20 @@
   "sku": "601223",
   "history": [
     {
-      "date": "2026-02-23",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 355
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=601223",
   "salepage_id": "11569870",
   "url": "https://www.dot-st.tw/SalePage/Index/11569870",
   "title": "GLOBAL WORK【網路限定55價】男質感字母T恤長袖上衣-四色-601223",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11569870/0/639307656304830000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11569870/0/639312242652100000?v=1",
   "current_price": 355,
   "original_price": 990,
   "min_price": 355,
   "max_price": 990,
   "listed_date": "2026-02-23",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

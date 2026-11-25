@@ -2,15 +2,10 @@
   "sku": "670988",
   "history": [
     {
-      "date": "2026-06-02",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=670988",
   "salepage_id": "11856183",
   "url": "https://www.dot-st.tw/SalePage/Index/11856183",
   "title": "RAGEBLUE男女經典復古休閒小偷帽-三色-670988",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-06-02",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

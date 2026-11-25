@@ -2,15 +2,10 @@
   "sku": "661369",
   "history": [
     {
-      "date": "2026-05-21",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 747
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=661369",
   "salepage_id": "11816262",
   "url": "https://www.dot-st.tw/SalePage/Index/11816262",
   "title": "PAGEBOY接觸涼感抗UV打褶西裝長褲-四色-661369",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-05-21",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

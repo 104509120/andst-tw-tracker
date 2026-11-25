@@ -2,24 +2,20 @@
   "sku": "657698",
   "history": [
     {
-      "date": "2026-03-12",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 345
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=657698",
   "salepage_id": "11610564",
   "url": "https://www.dot-st.tw/SalePage/Index/11610564",
   "title": "GLOBAL WORK女動物印花托特包-四色-657698",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11610564/0/639311144853000000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11610564/0/639312025437200000?v=1",
   "current_price": 345,
   "original_price": 690,
   "min_price": 345,
   "max_price": 690,
   "listed_date": "2026-03-12",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

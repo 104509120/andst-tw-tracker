@@ -2,15 +2,10 @@
   "sku": "656330",
   "history": [
     {
-      "date": "2026-08-14",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 273
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=656330",
   "salepage_id": "12067629",
   "url": "https://www.dot-st.tw/SalePage/Index/12067629",
   "title": "LAKOLE透膚透氣袖套-二色-656330",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-08-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

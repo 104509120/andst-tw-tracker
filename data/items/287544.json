@@ -2,15 +2,10 @@
   "sku": "287544",
   "history": [
     {
-      "date": "2025-03-11",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=287544",
   "salepage_id": "10582900",
   "url": "https://www.dot-st.tw/SalePage/Index/10582900",
   "title": "LEPSIM華麗感三層圓珠項鍊-二色-287544",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2025-03-11",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

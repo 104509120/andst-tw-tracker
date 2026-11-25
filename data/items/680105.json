@@ -2,15 +2,10 @@
   "sku": "680105",
   "history": [
     {
-      "date": "2026-09-07",
-      "price": 470
-    },
-    {
       "date": "2026-11-24",
       "price": 329
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=680105",
   "salepage_id": "12137611",
   "url": "https://www.dot-st.tw/SalePage/Index/12137611",
   "title": "niko and【紅虎餃子房聯名】絨毛吊飾鑰匙圈-二款-680105",
@@ -21,5 +16,6 @@
   "max_price": 470,
   "listed_date": "2026-09-07",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

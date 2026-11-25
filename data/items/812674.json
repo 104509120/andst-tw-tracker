@@ -2,15 +2,10 @@
   "sku": "812674",
   "history": [
     {
-      "date": "2026-11-11",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 2990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=812674",
   "salepage_id": "12301577",
   "url": "https://www.dot-st.tw/SalePage/Index/12301577",
   "title": "LOWRYS FARM【LFM(U)】男女UNISEX系列寬鬆直筒剪裁工作長褲-三色-812674",
@@ -21,5 +16,6 @@
   "max_price": 2990,
   "listed_date": "2026-11-11",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

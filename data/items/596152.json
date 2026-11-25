@@ -2,15 +2,10 @@
   "sku": "596152",
   "history": [
     {
-      "date": "2025-12-12",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 356
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=596152",
   "salepage_id": "11405836",
   "url": "https://www.dot-st.tw/SalePage/Index/11405836",
   "title": "LAKOLE女拉鍊皮革零錢收納包-三色-596152",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2025-12-12",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

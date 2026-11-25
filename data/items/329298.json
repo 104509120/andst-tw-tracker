@@ -2,15 +2,10 @@
   "sku": "329298",
   "history": [
     {
-      "date": "2025-04-22",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 516
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=329298",
   "salepage_id": "10695253",
   "url": "https://www.dot-st.tw/SalePage/Index/10695253",
   "title": "repipi armario丹寧貼布字母抽皺T恤上衣-四色-329298",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2025-04-22",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

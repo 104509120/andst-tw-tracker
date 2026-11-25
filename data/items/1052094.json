@@ -2,15 +2,10 @@
   "sku": "1052094",
   "history": [
     {
-      "date": "2026-09-24",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1052094",
   "salepage_id": "12177367",
   "url": "https://www.dot-st.tw/SalePage/Index/12177367",
   "title": "Heather【PEACH JOHN聯名】蝴蝶結圖案荷葉滾邊柔軟毛毯-一色-1052094",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-09-24",
   "updated_at": "2026-11-25",
-  "brand": "Heather"
+  "brand": "Heather",
+  "first_seen": "2026-11-24"
 }

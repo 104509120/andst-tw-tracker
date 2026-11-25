@@ -2,15 +2,10 @@
   "sku": "1044447",
   "history": [
     {
-      "date": "2026-10-08",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 2455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1044447",
   "salepage_id": "12222695",
   "url": "https://www.dot-st.tw/SalePage/Index/12222695",
   "title": "PAGEBOY【網路限定55價】慵懶親膚毛絨V領針織開襟罩衫上衣-三色-1044447",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2026-10-08",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

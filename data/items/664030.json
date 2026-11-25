@@ -2,15 +2,10 @@
   "sku": "664030",
   "history": [
     {
-      "date": "2026-03-25",
-      "price": 1190
-    },
-    {
       "date": "2026-11-24",
       "price": 476
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=664030",
   "salepage_id": "11654214",
   "url": "https://www.dot-st.tw/SalePage/Index/11654214",
   "title": "repipi armario童領口項鍊印花短袖T恤上衣-三色-664030",
@@ -21,5 +16,6 @@
   "max_price": 1190,
   "listed_date": "2026-03-25",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

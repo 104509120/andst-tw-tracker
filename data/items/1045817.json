@@ -2,15 +2,10 @@
   "sku": "1045817",
   "history": [
     {
-      "date": "2026-08-27",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1045817",
   "salepage_id": "12097915",
   "url": "https://www.dot-st.tw/SalePage/Index/12097915",
   "title": "Heather【三麗鷗聯名】角色臉型絨毛束口收納小包-四色-1045817",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-08-27",
   "updated_at": "2026-11-25",
-  "brand": "Heather"
+  "brand": "Heather",
+  "first_seen": "2026-11-24"
 }

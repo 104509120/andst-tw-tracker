@@ -2,15 +2,10 @@
   "sku": "131611",
   "history": [
     {
-      "date": "2024-09-18",
-      "price": 930
-    },
-    {
       "date": "2026-11-24",
       "price": 650
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=131611",
   "salepage_id": "10153681",
   "url": "https://www.dot-st.tw/SalePage/Index/10153681",
   "title": "niko and【月刊ムー】聯名企劃便攜摺疊扇子-二色-131611",
@@ -21,5 +16,6 @@
   "max_price": 930,
   "listed_date": "2024-09-18",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

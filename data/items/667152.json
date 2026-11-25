@@ -2,15 +2,10 @@
   "sku": "667152",
   "history": [
     {
-      "date": "2026-05-13",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 796
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=667152",
   "salepage_id": "11791832",
   "url": "https://www.dot-st.tw/SalePage/Index/11791832",
   "title": "studio CLIP蕾絲下擺字母印花T恤【CLIP BY STAFF】-三色-667152",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-05-13",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

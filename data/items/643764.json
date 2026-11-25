@@ -2,15 +2,10 @@
   "sku": "643764",
   "history": [
     {
-      "date": "2026-03-20",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 845
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=643764",
   "salepage_id": "11638578",
   "url": "https://www.dot-st.tw/SalePage/Index/11638578",
   "title": "LAKOLE男復古襯衫式開襟罩衫外套(另有下身)-三色-643764",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-03-20",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "622441",
   "history": [
     {
-      "date": "2026-02-24",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 796
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=622441",
   "salepage_id": "11573585",
   "url": "https://www.dot-st.tw/SalePage/Index/11573585",
   "title": "studio CLIP俐落緞光打摺直筒寬長褲-三色-622441",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-02-24",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

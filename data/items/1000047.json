@@ -2,24 +2,20 @@
   "sku": "1000047",
   "history": [
     {
-      "date": "2026-11-10",
-      "price": 9890
-    },
-    {
       "date": "2026-11-24",
       "price": 9890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1000047",
   "salepage_id": "12251761",
   "url": "https://www.dot-st.tw/SalePage/Index/12251761",
   "title": "BARNYARDSTORM皮革拉鍊下襬縮口短版夾克外套-二色-1000047",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12251761/0/639295606569730000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12251761/0/639311985607730000?v=1",
   "current_price": 9890,
   "original_price": 9890,
   "min_price": 9890,
   "max_price": 9890,
   "listed_date": "2026-11-10",
   "updated_at": "2026-11-25",
-  "brand": "BARNYARDSTORM"
+  "brand": "BARNYARDSTORM",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,24 @@
   "sku": "1068715",
   "history": [
     {
-      "date": "2026-10-08",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1590
+    },
+    {
+      "date": "2026-11-25",
+      "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1068715",
   "salepage_id": "12198720",
   "url": "https://www.dot-st.tw/SalePage/Index/12198720",
   "title": "LEPSIM機能款刷毛抽繩長版背心-三色-1068715",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12198720/0/639311251515100000?v=1",
-  "current_price": 1590,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12198720/0/639312242815030000?v=1",
+  "current_price": 1290,
   "original_price": 2290,
-  "min_price": 1590,
+  "min_price": 1290,
   "max_price": 2290,
   "listed_date": "2026-10-08",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "778062",
   "history": [
     {
-      "date": "2026-07-02",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 676
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=778062",
   "salepage_id": "11947862",
   "url": "https://www.dot-st.tw/SalePage/Index/11947862",
   "title": "repipi armario透明清爽Logo金屬飾牌2WAY肩背包-三色-778062",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-07-02",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

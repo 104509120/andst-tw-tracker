@@ -2,15 +2,10 @@
   "sku": "608505",
   "history": [
     {
-      "date": "2026-05-15",
-      "price": 310
-    },
-    {
       "date": "2026-11-24",
       "price": 310
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=608505",
   "salepage_id": "11800801",
   "url": "https://www.dot-st.tw/SalePage/Index/11800801",
   "title": "niko and經典格紋午餐墊桌墊-二色-608505",
@@ -21,5 +16,6 @@
   "max_price": 310,
   "listed_date": "2026-05-15",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

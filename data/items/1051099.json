@@ -2,15 +2,10 @@
   "sku": "1051099",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 1480
-    },
-    {
       "date": "2026-11-24",
       "price": 1480
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1051099",
   "salepage_id": "12272743",
   "url": "https://www.dot-st.tw/SalePage/Index/12272743",
   "title": "niko and老虎主題防寒保暖毛毯-二色-1051099",
@@ -21,5 +16,6 @@
   "max_price": 1480,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

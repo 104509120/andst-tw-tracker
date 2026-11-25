@@ -2,15 +2,10 @@
   "sku": "131397",
   "history": [
     {
-      "date": "2024-09-26",
-      "price": 210
-    },
-    {
       "date": "2026-11-24",
       "price": 210
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=131397",
   "salepage_id": "10185363",
   "url": "https://www.dot-st.tw/SalePage/Index/10185363",
   "title": "niko and立體動物造型擺飾手機架手機座-五款-131397",
@@ -21,5 +16,6 @@
   "max_price": 210,
   "listed_date": "2024-09-26",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

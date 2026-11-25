@@ -2,15 +2,10 @@
   "sku": "1087966",
   "history": [
     {
-      "date": "2026-11-12",
-      "price": 3090
-    },
-    {
       "date": "2026-11-24",
       "price": 3090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1087966",
   "salepage_id": "12299909",
   "url": "https://www.dot-st.tw/SalePage/Index/12299909",
   "title": "HARE男花朵圖樣刺繡連帽休閒上衣-三色-1087966",
@@ -21,5 +16,6 @@
   "max_price": 3090,
   "listed_date": "2026-11-12",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

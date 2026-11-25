@@ -2,15 +2,10 @@
   "sku": "240729",
   "history": [
     {
-      "date": "2025-08-13",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1603
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=240729",
   "salepage_id": "11025396",
   "url": "https://www.dot-st.tw/SalePage/Index/11025396",
   "title": "niko and女立體刺繡剪影寬褲長褲-三色-240729",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2025-08-13",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

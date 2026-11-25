@@ -2,15 +2,10 @@
   "sku": "1063379",
   "history": [
     {
-      "date": "2026-09-24",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1063379",
   "salepage_id": "12181960",
   "url": "https://www.dot-st.tw/SalePage/Index/12181960",
   "title": "LOWRYS FARM女花卉刺繡絲絨蕾絲長裙-二色-1063379",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-09-24",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

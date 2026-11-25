@@ -2,15 +2,10 @@
   "sku": "626923",
   "history": [
     {
-      "date": "2026-01-08",
-      "price": 450
-    },
-    {
       "date": "2026-11-24",
       "price": 315
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=626923",
   "salepage_id": "11465840",
   "url": "https://www.dot-st.tw/SalePage/Index/11465840",
   "title": "repipi armario亮片毛呢愛心髮夾二件組-三色-626923",
@@ -21,5 +16,6 @@
   "max_price": 450,
   "listed_date": "2026-01-08",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

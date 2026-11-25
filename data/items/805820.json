@@ -2,24 +2,20 @@
   "sku": "805820",
   "history": [
     {
-      "date": "2026-06-24",
-      "price": 5290
-    },
-    {
       "date": "2026-11-24",
       "price": 2645
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=805820",
   "salepage_id": "11924448",
   "url": "https://www.dot-st.tw/SalePage/Index/11924448",
   "title": "HARE女細肩帶前拉鍊百褶荷葉長洋裝-三色-805820",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11924448/0/639300744123400000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11924448/0/639312242718330000?v=1",
   "current_price": 2645,
   "original_price": 5290,
   "min_price": 2645,
   "max_price": 5290,
   "listed_date": "2026-06-24",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

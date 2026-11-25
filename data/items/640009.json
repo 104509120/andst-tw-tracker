@@ -2,15 +2,10 @@
   "sku": "640009",
   "history": [
     {
-      "date": "2026-05-22",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=640009",
   "salepage_id": "11817062",
   "url": "https://www.dot-st.tw/SalePage/Index/11817062",
   "title": "LAKOLE鞋子專用洗衣網袋-一色-640009",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-05-22",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

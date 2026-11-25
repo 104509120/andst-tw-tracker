@@ -2,15 +2,10 @@
   "sku": "1081165",
   "history": [
     {
-      "date": "2026-10-27",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1255
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1081165",
   "salepage_id": "12264257",
   "url": "https://www.dot-st.tw/SalePage/Index/12264257",
   "title": "niko and【網路限定55價】女輕盈透膚針織長袖洋裝-二色-1081165",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-10-27",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "629877",
   "history": [
     {
-      "date": "2026-02-23",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 255
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=629877",
   "salepage_id": "11569768",
   "url": "https://www.dot-st.tw/SalePage/Index/11569768",
   "title": "GLOBAL WORK【網路限定55價】童百褶短裙造型短褲(100cm-120cm)-五色-629877",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11569768/0/639307656304830000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11569768/0/639312242652100000?v=1",
   "current_price": 255,
   "original_price": 590,
   "min_price": 255,
   "max_price": 590,
   "listed_date": "2026-02-23",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

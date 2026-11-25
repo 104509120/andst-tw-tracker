@@ -2,15 +2,10 @@
   "sku": "794230",
   "history": [
     {
-      "date": "2026-09-08",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=794230",
   "salepage_id": "12133457",
   "url": "https://www.dot-st.tw/SalePage/Index/12133457",
   "title": "LAKOLE保冷保溫手提式不鏽鋼保溫瓶560ml-三色-794230",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-09-08",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

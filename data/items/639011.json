@@ -2,15 +2,10 @@
   "sku": "639011",
   "history": [
     {
-      "date": "2026-03-18",
-      "price": 1190
-    },
-    {
       "date": "2026-11-24",
       "price": 476
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=639011",
   "salepage_id": "11630704",
   "url": "https://www.dot-st.tw/SalePage/Index/11630704",
   "title": "repipi armario水鑽亮片純棉字母T恤上衣-六色-639011",
@@ -21,5 +16,6 @@
   "max_price": 1190,
   "listed_date": "2026-03-18",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

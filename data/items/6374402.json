@@ -2,15 +2,10 @@
   "sku": "6374402",
   "history": [
     {
-      "date": "2026-10-06",
-      "price": 5480
-    },
-    {
       "date": "2026-11-24",
       "price": 3655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=6374402",
   "salepage_id": "12229503",
   "url": "https://www.dot-st.tw/SalePage/Index/12229503",
   "title": "◎index女OPAQUE.CLIP彈力雙排釦西裝外套-二色-63744020 NT$3,655",
@@ -21,5 +16,6 @@
   "max_price": 5480,
   "listed_date": "2026-10-06",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

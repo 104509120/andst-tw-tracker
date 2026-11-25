@@ -2,15 +2,10 @@
   "sku": "1043484",
   "history": [
     {
-      "date": "2026-07-29",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 945
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1043484",
   "salepage_id": "12025409",
   "url": "https://www.dot-st.tw/SalePage/Index/12025409",
   "title": "LEPSIM輕量附收納小包方形斜背包-三色-1043484",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2026-07-29",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

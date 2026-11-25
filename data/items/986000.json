@@ -2,15 +2,10 @@
   "sku": "986000",
   "history": [
     {
-      "date": "2024-04-03",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=986000",
   "salepage_id": "9673542",
   "url": "https://www.dot-st.tw/SalePage/Index/9673542",
   "title": "studio CLIP輕透乾燥花朵三格相框-一色-986000",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2024-04-03",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

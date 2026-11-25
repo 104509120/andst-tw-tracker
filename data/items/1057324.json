@@ -2,15 +2,10 @@
   "sku": "1057324",
   "history": [
     {
-      "date": "2026-09-02",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1043
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1057324",
   "salepage_id": "12125253",
   "url": "https://www.dot-st.tw/SalePage/Index/12125253",
   "title": "JEANASIS日常實用手機肩背小包-三色-1057324",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-09-02",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "689218",
   "history": [
     {
-      "date": "2026-11-13",
-      "price": 4690
-    },
-    {
       "date": "2026-11-24",
       "price": 4690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=689218",
   "salepage_id": "12306094",
   "url": "https://www.dot-st.tw/SalePage/Index/12306094",
   "title": "niko and男WOOLLYTEC機能性羊毛保暖大衣外套-二色-689218",
@@ -21,5 +16,6 @@
   "max_price": 4690,
   "listed_date": "2026-11-13",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1049299",
   "history": [
     {
-      "date": "2026-07-28",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1049299",
   "salepage_id": "12020128",
   "url": "https://www.dot-st.tw/SalePage/Index/12020128",
   "title": "PAGEBOY【網路限定55價】前後兩穿2WAY接觸涼感緞面光澤感背心上衣-三色-1049299",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-07-28",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

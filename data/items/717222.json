@@ -2,24 +2,20 @@
   "sku": "717222",
   "history": [
     {
-      "date": "2026-06-03",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 745
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=717222",
   "salepage_id": "11860253",
   "url": "https://www.dot-st.tw/SalePage/Index/11860253",
   "title": "GLOBAL WORK女鏤空蕾絲開襟短袖襯衫-三色-717222",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11860253/0/639310365434370000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11860253/0/639312242534600000?v=1",
   "current_price": 745,
   "original_price": 1490,
   "min_price": 745,
   "max_price": 1490,
   "listed_date": "2026-06-03",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

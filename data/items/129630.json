@@ -2,15 +2,10 @@
   "sku": "129630",
   "history": [
     {
-      "date": "2024-08-13",
-      "price": 210
-    },
-    {
       "date": "2026-11-24",
       "price": 210
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=129630",
   "salepage_id": "10062821",
   "url": "https://www.dot-st.tw/SalePage/Index/10062821",
   "title": "niko and品牌OLD SMITH迷你工具組鑰匙圈-五款-129630",
@@ -21,5 +16,6 @@
   "max_price": 210,
   "listed_date": "2024-08-13",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

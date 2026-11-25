@@ -2,24 +2,20 @@
   "sku": "1089544",
   "history": [
     {
-      "date": "2026-10-15",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 2090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1089544",
   "salepage_id": "12241388",
   "url": "https://www.dot-st.tw/SalePage/Index/12241388",
   "title": "JEANASIS可拆毛絨領短版針織上衣罩衫-四色-1089544",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12241388/0/639311392786330000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12241388/0/639312229706530000?v=1",
   "current_price": 2090,
   "original_price": 2690,
   "min_price": 2090,
   "max_price": 2690,
   "listed_date": "2026-10-15",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

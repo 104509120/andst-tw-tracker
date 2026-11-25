@@ -2,15 +2,10 @@
   "sku": "979054",
   "history": [
     {
-      "date": "2024-01-22",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=979054",
   "salepage_id": "9503508",
   "url": "https://www.dot-st.tw/SalePage/Index/9503508",
   "title": "studio CLIP廚房置物轉彎角架《HOUSEHOLD GOODS》-一色-979054",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2024-01-22",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

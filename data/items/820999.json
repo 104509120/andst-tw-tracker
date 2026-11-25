@@ -2,15 +2,10 @@
   "sku": "820999",
   "history": [
     {
-      "date": "2026-09-08",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=820999",
   "salepage_id": "12140027",
   "url": "https://www.dot-st.tw/SalePage/Index/12140027",
   "title": "studio CLIP【Pancho與Gabacho】繽紛蓬鬆吊飾《CAT BY CLIP》-二色-820999",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-09-08",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

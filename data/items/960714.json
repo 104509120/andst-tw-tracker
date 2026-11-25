@@ -2,15 +2,10 @@
   "sku": "960714",
   "history": [
     {
-      "date": "2023-11-15",
-      "price": 310
-    },
-    {
       "date": "2026-11-24",
       "price": 310
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=960714",
   "salepage_id": "9339283",
   "url": "https://www.dot-st.tw/SalePage/Index/9339283",
   "title": "niko and設計師品牌Fishs Eddy裝飾DIY膠帶-一款-960714",
@@ -21,5 +16,6 @@
   "max_price": 310,
   "listed_date": "2023-11-15",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

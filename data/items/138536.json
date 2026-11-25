@@ -2,15 +2,10 @@
   "sku": "138536",
   "history": [
     {
-      "date": "2025-02-26",
-      "price": 90
-    },
-    {
       "date": "2026-11-24",
       "price": 90
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=138536",
   "salepage_id": "10546686",
   "url": "https://www.dot-st.tw/SalePage/Index/10546686",
   "title": "LAKOLE【新色到】日本製美濃燒自然紋路窯釉醬料碟-六色-138536",
@@ -21,5 +16,6 @@
   "max_price": 90,
   "listed_date": "2025-02-26",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

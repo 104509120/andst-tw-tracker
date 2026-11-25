@@ -2,24 +2,20 @@
   "sku": "318689",
   "history": [
     {
-      "date": "2026-08-14",
-      "price": 3900
-    },
-    {
       "date": "2026-11-24",
       "price": 3900
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=318689",
   "salepage_id": "12051488",
   "url": "https://www.dot-st.tw/SalePage/Index/12051488",
   "title": "RAGEBLUE【排球少年!!聯名】男女潮流運動風長袖V領上衣與長褲二件組-五色-318689",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12051488/0/639300743468230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12051488/0/639312242749830000?v=1",
   "current_price": 3900,
   "original_price": 3900,
   "min_price": 3900,
   "max_price": 3900,
   "listed_date": "2026-08-14",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

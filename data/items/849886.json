@@ -2,24 +2,20 @@
   "sku": "849886",
   "history": [
     {
-      "date": "2026-07-30",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 356
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=849886",
   "salepage_id": "11998955",
   "url": "https://www.dot-st.tw/SalePage/Index/11998955",
   "title": "repipi armario【HELLO KITTY聯名】童可愛圖印休閒圓領背心-三色-849886",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11998955/0/639292283857800000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11998955/0/639312242552370000?v=1",
   "current_price": 356,
   "original_price": 890,
   "min_price": 356,
   "max_price": 890,
   "listed_date": "2026-07-30",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

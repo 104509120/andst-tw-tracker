@@ -2,15 +2,10 @@
   "sku": "890456",
   "history": [
     {
-      "date": "2021-05-28",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=890456",
   "salepage_id": "7048486",
   "url": "https://www.dot-st.tw/SalePage/Index/7048486",
   "title": "studio CLIP手持HOUSEHOLD附蓋子收納盒(中)-一色-890456",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2021-05-28",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

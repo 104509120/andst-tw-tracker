@@ -2,15 +2,10 @@
   "sku": "288129",
   "history": [
     {
-      "date": "2025-02-26",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=288129",
   "salepage_id": "10553440",
   "url": "https://www.dot-st.tw/SalePage/Index/10553440",
   "title": "niko and女【tiy nie yee】簡約愛心串珠鑰匙圈-二款-288129",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2025-02-26",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

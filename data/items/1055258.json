@@ -2,15 +2,10 @@
   "sku": "1055258",
   "history": [
     {
-      "date": "2026-08-21",
-      "price": 3090
-    },
-    {
       "date": "2026-11-24",
       "price": 2755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1055258",
   "salepage_id": "12079789",
   "url": "https://www.dot-st.tw/SalePage/Index/12079789",
   "title": "HARE【網路限定55價】男【晴祭GOSHOW&#215;HARE【網路限定55價】】背部圖樣設計V領短袖T恤上衣-二色-1055258",
@@ -21,5 +16,6 @@
   "max_price": 3090,
   "listed_date": "2026-08-21",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

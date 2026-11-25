@@ -2,15 +2,10 @@
   "sku": "1048197",
   "history": [
     {
-      "date": "2026-09-02",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1048197",
   "salepage_id": "12124546",
   "url": "https://www.dot-st.tw/SalePage/Index/12124546",
   "title": "GLOBAL WORK女絎縫2WAY束口托特包-五色-1048197",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-09-02",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

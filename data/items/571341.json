@@ -2,15 +2,10 @@
   "sku": "571341",
   "history": [
     {
-      "date": "2025-10-31",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=571341",
   "salepage_id": "11263193",
   "url": "https://www.dot-st.tw/SalePage/Index/11263193",
   "title": "repipi armario童背後字母網眼拉鍊外套-三色-571341",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2025-10-31",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

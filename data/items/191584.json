@@ -2,15 +2,10 @@
   "sku": "191584",
   "history": [
     {
-      "date": "2024-10-22",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=191584",
   "salepage_id": "11470283",
   "url": "https://www.dot-st.tw/SalePage/Index/11470283",
   "title": "LOWRYS FARM女金屬層次感珍珠項鍊-三色-191584",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2024-10-22",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

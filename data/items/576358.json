@@ -2,15 +2,10 @@
   "sku": "576358",
   "history": [
     {
-      "date": "2025-09-12",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 195
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=576358",
   "salepage_id": "11101853",
   "url": "https://www.dot-st.tw/SalePage/Index/11101853",
   "title": "LAKOLE不規則三角形耳夾式耳環-二色-576358",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2025-09-12",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,24 @@
   "sku": "1084542",
   "history": [
     {
-      "date": "2026-11-12",
+      "date": "2026-11-24",
       "price": 2690
     },
     {
-      "date": "2026-11-24",
-      "price": 2690
+      "date": "2026-11-25",
+      "price": 1890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1084542",
   "salepage_id": "12304230",
   "url": "https://www.dot-st.tw/SalePage/Index/12304230",
   "title": "LEPSIM口袋設計薄鋪棉長袖襯衫上衣-三色-1084542",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12304230/0/639301727689600000?v=1",
-  "current_price": 2690,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12304230/0/639312139597100000?v=1",
+  "current_price": 1890,
   "original_price": 2690,
-  "min_price": 2690,
+  "min_price": 1890,
   "max_price": 2690,
   "listed_date": "2026-11-12",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

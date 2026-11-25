@@ -2,15 +2,10 @@
   "sku": "1067224",
   "history": [
     {
-      "date": "2026-09-14",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1067224",
   "salepage_id": "12156674",
   "url": "https://www.dot-st.tw/SalePage/Index/12156674",
   "title": "LOWRYS FARM女圓點網紗荷葉邊緞帶髮夾-二色-1067224",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2026-09-14",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

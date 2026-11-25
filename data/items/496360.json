@@ -2,12 +2,11 @@
   "sku": "496360",
   "history": [
     {
-      "date": "2025-08-26",
+      "date": "2026-11-25",
       "price": 890
     }
   ],
   "listed_date": "2025-08-26",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=496360",
   "salepage_id": "11053599",
   "url": "https://www.dot-st.tw/SalePage/Index/11053599",
   "title": "niko and女古典風仿舊鏈條腰帶-三款-496360",
@@ -17,5 +16,6 @@
   "min_price": 890,
   "max_price": 890,
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-25"
 }

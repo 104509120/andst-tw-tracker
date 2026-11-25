@@ -2,15 +2,10 @@
   "sku": "910895",
   "history": [
     {
-      "date": "2026-08-28",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=910895",
   "salepage_id": "12112478",
   "url": "https://www.dot-st.tw/SalePage/Index/12112478",
   "title": "studio CLIP絎縫束口2WAY斜背手提包-四色-910895",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-08-28",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

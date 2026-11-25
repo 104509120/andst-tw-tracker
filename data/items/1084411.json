@@ -2,15 +2,10 @@
   "sku": "1084411",
   "history": [
     {
-      "date": "2026-11-05",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1084411",
   "salepage_id": "12284480",
   "url": "https://www.dot-st.tw/SalePage/Index/12284480",
   "title": "studio CLIP多口袋束口錢包斜背包【可放500ml寶特瓶/保溫保冷機能】-三色-1084411",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-11-05",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

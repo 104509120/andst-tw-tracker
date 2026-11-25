@@ -2,24 +2,24 @@
   "sku": "1067543",
   "history": [
     {
-      "date": "2026-09-02",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1890
+    },
+    {
+      "date": "2026-11-25",
+      "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1067543",
   "salepage_id": "12125255",
   "url": "https://www.dot-st.tw/SalePage/Index/12125255",
   "title": "JEANASIS蕾絲開襟衫與背心二件組-四色-1067543",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12125255/0/639307793248900000?v=1",
-  "current_price": 1890,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12125255/0/639312242570770000?v=1",
+  "current_price": 1290,
   "original_price": 2690,
-  "min_price": 1890,
+  "min_price": 1290,
   "max_price": 2690,
   "listed_date": "2026-09-02",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

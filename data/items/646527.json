@@ -2,15 +2,10 @@
   "sku": "646527",
   "history": [
     {
-      "date": "2026-03-24",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 495
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=646527",
   "salepage_id": "11653788",
   "url": "https://www.dot-st.tw/SalePage/Index/11653788",
   "title": "niko and男女【Netflix真人版影集(航海王)ONE PIECE】帆布肩背手提包-四色-646527",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-03-24",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

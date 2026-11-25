@@ -2,15 +2,10 @@
   "sku": "625148",
   "history": [
     {
-      "date": "2026-01-20",
-      "price": 4590
-    },
-    {
       "date": "2026-11-24",
       "price": 4590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=625148",
   "salepage_id": "11495746",
   "url": "https://www.dot-st.tw/SalePage/Index/11495746",
   "title": "HARE【品牌好友｜曾敬驊 江齊著用款】女仿麂皮金屬雕花釦環高跟短靴-三色-625148",
@@ -21,5 +16,6 @@
   "max_price": 4590,
   "listed_date": "2026-01-20",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1081025",
   "history": [
     {
-      "date": "2026-10-14",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1081025",
   "salepage_id": "12235638",
   "url": "https://www.dot-st.tw/SalePage/Index/12235638",
   "title": "GLOBAL WORK【網路限定55價】童花朵圖案洋裝與素色T恤長袖上衣二件組(130cm-160cm)-二色-1081025",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-10-14",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

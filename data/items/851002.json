@@ -2,15 +2,10 @@
   "sku": "851002",
   "history": [
     {
-      "date": "2022-09-21",
-      "price": 210
-    },
-    {
       "date": "2026-11-24",
       "price": 210
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=851002",
   "salepage_id": "8128449",
   "url": "https://www.dot-st.tw/SalePage/Index/8128449",
   "title": "niko and可愛動物LED手電筒鑰匙圈掛飾-二款-851002",
@@ -21,5 +16,6 @@
   "max_price": 210,
   "listed_date": "2022-09-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

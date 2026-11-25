@@ -2,24 +2,20 @@
   "sku": "1084575",
   "history": [
     {
-      "date": "2026-11-12",
-      "price": 3690
-    },
-    {
       "date": "2026-11-24",
       "price": 1955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1084575",
   "salepage_id": "12303886",
   "url": "https://www.dot-st.tw/SalePage/Index/12303886",
   "title": "PAGEBOY【網路限定55價】後腰扣帶修身繭型連身長褲-二色-1084575",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12303886/0/639307656406230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12303886/0/639312015082200000?v=1",
   "current_price": 1955,
   "original_price": 3690,
   "min_price": 1955,
   "max_price": 3690,
   "listed_date": "2026-11-12",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

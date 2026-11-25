@@ -2,15 +2,10 @@
   "sku": "257119",
   "history": [
     {
-      "date": "2021-12-30",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=257119",
   "salepage_id": "10658412",
   "url": "https://www.dot-st.tw/SalePage/Index/10658412",
   "title": "LOWRYS FARM女多層次感不規則金屬片造型項鍊二入組-七色-257119",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2021-12-30",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

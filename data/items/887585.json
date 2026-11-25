@@ -2,16 +2,11 @@
   "sku": "887585",
   "history": [
     {
-      "date": "2026-07-23",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1603
     }
   ],
   "listed_date": "2026-07-23",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=887585",
   "salepage_id": "11985562",
   "url": "https://www.dot-st.tw/SalePage/Index/11985562",
   "title": "studio CLIP【ぽっこしPOKKOSHI聯名】造型壁鐘時鐘-一色-887585",
@@ -21,5 +16,6 @@
   "min_price": 1603,
   "max_price": 2290,
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

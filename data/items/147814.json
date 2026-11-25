@@ -2,15 +2,10 @@
   "sku": "147814",
   "history": [
     {
-      "date": "2025-02-04",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 693
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=147814",
   "salepage_id": "10492873",
   "url": "https://www.dot-st.tw/SalePage/Index/10492873",
   "title": "studio CLIP幾何圖長方附蓋收納盒M-一色-147814",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2025-02-04",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

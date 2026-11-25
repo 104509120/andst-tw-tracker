@@ -2,24 +2,20 @@
   "sku": "784232",
   "history": [
     {
-      "date": "2026-08-28",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 1196
     }
   ],
   "listed_date": "2026-08-28",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=784232",
   "salepage_id": "12112474",
   "url": "https://www.dot-st.tw/SalePage/Index/12112474",
   "title": "studio CLIP荷葉領喇叭袖連身裙《高山都聯名款》-三色-784232",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12112474/0/639310393784400000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12112474/0/639312242765570000?v=1",
   "current_price": 1196,
   "original_price": 2990,
   "min_price": 1196,
   "max_price": 2990,
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

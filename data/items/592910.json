@@ -2,15 +2,10 @@
   "sku": "592910",
   "history": [
     {
-      "date": "2026-03-26",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 203
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=592910",
   "salepage_id": "11661341",
   "url": "https://www.dot-st.tw/SalePage/Index/11661341",
   "title": "LAKOLE女時髦耳針式耳環(3對一組)-二色-592910",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-03-26",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

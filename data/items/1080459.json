@@ -2,24 +2,20 @@
   "sku": "1080459",
   "history": [
     {
-      "date": "2026-10-23",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1080459",
   "salepage_id": "12260790",
   "url": "https://www.dot-st.tw/SalePage/Index/12260790",
   "title": "Heather蝴蝶結吊飾毛呢方形手提包-三色-1080459",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12260790/0/639283697020200000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12260790/0/639312003065670000?v=1",
   "current_price": 1990,
   "original_price": 1990,
   "min_price": 1990,
   "max_price": 1990,
   "listed_date": "2026-10-23",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

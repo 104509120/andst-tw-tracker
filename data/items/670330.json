@@ -2,24 +2,20 @@
   "sku": "670330",
   "history": [
     {
-      "date": "2026-09-16",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=670330",
   "salepage_id": "12161418",
   "url": "https://www.dot-st.tw/SalePage/Index/12161418",
   "title": "GLOBAL WORK【網路限定55價】女休閒V領針織長袖上衣-四色-670330",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12161418/0/639310365743430000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12161418/0/639312242615400000?v=1",
   "current_price": 655,
   "original_price": 1290,
   "min_price": 655,
   "max_price": 1290,
   "listed_date": "2026-09-16",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

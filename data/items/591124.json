@@ -2,15 +2,10 @@
   "sku": "591124",
   "history": [
     {
-      "date": "2026-06-10",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 133
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=591124",
   "salepage_id": "11881211",
   "url": "https://www.dot-st.tw/SalePage/Index/11881211",
   "title": "LAKOLE女閃亮亮片隨身收納包-三色-591124",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2026-06-10",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

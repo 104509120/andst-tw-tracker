@@ -2,15 +2,10 @@
   "sku": "376743",
   "history": [
     {
-      "date": "2026-07-01",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=376743",
   "salepage_id": "11940844",
   "url": "https://www.dot-st.tw/SalePage/Index/11940844",
   "title": "niko and品牌LOGO英文字樣馬克杯270ml-一色-376743",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-07-01",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "242600",
   "history": [
     {
-      "date": "2025-11-07",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=242600",
   "salepage_id": "11301795",
   "url": "https://www.dot-st.tw/SalePage/Index/11301795",
   "title": "LAKOLE化妝粉撲六件組-一色-242600",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2025-11-07",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

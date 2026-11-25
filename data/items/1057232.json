@@ -2,15 +2,10 @@
   "sku": "1057232",
   "history": [
     {
-      "date": "2026-10-22",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 3555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1057232",
   "salepage_id": "12259523",
   "url": "https://www.dot-st.tw/SalePage/Index/12259523",
   "title": "PAGEBOY【網路限定55價】男女PBLIM系列不規則排釦復古寬版丹寧牛仔褲-二色-1057232",
@@ -21,5 +16,6 @@
   "max_price": 3990,
   "listed_date": "2026-10-22",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

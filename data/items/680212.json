@@ -2,24 +2,20 @@
   "sku": "680212",
   "history": [
     {
-      "date": "2026-10-02",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=680212",
   "salepage_id": "12208157",
   "url": "https://www.dot-st.tw/SalePage/Index/12208157",
   "title": "LOWRYS FARM女柔軟彈性撞色針織上衣-四色-680212",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12208157/0/639304336566200000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12208157/0/639312229444930000?v=1",
   "current_price": 1290,
   "original_price": 1290,
   "min_price": 1290,
   "max_price": 1290,
   "listed_date": "2026-10-02",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

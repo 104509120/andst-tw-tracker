@@ -2,24 +2,20 @@
   "sku": "591356",
   "history": [
     {
-      "date": "2025-10-16",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=591356",
   "salepage_id": "11230180",
   "url": "https://www.dot-st.tw/SalePage/Index/11230180",
   "title": "PAGEBOY【網路限定55價】男女PBLIM系列【BASIC SERIES】品牌刺繡LOGO連帽拉鍊上衣-五色-591356",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11230180/0/639307656402870000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11230180/0/639312242617500000?v=1",
   "current_price": 1455,
   "original_price": 2690,
   "min_price": 1455,
   "max_price": 2690,
   "listed_date": "2025-10-16",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "665860",
   "history": [
     {
-      "date": "2026-06-08",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=665860",
   "salepage_id": "11871017",
   "url": "https://www.dot-st.tw/SalePage/Index/11871017",
   "title": "niko and日式復古紋路碗-二色-665860",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-06-08",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

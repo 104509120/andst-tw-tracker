@@ -2,15 +2,10 @@
   "sku": "658898",
   "history": [
     {
-      "date": "2026-03-25",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 596
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=658898",
   "salepage_id": "11654210",
   "url": "https://www.dot-st.tw/SalePage/Index/11654210",
   "title": "repipi armario童工裝口袋綁帶休閒長褲-一色-658898",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-03-25",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1063353",
   "history": [
     {
-      "date": "2026-10-07",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1063353",
   "salepage_id": "12221305",
   "url": "https://www.dot-st.tw/SalePage/Index/12221305",
   "title": "LOWRYS FARM童前短後長條紋襯衫-三色-1063353",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-10-07",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

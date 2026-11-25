@@ -2,15 +2,10 @@
   "sku": "663852",
   "history": [
     {
-      "date": "2026-04-14",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 516
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=663852",
   "salepage_id": "11705989",
   "url": "https://www.dot-st.tw/SalePage/Index/11705989",
   "title": "PAGEBOY男女PBLIM系列品牌刺繡LOGO休閒棒球帽-二色-663852",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-04-14",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

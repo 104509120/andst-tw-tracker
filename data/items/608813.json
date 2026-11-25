@@ -2,24 +2,20 @@
   "sku": "608813",
   "history": [
     {
-      "date": "2026-04-14",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 916
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=608813",
   "salepage_id": "11705870",
   "url": "https://www.dot-st.tw/SalePage/Index/11705870",
   "title": "studio CLIP簡約廓形棉麻半袖襯衫-四色-608813",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11705870/0/639300741141270000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11705870/0/639312242685200000?v=1",
   "current_price": 916,
   "original_price": 2290,
   "min_price": 916,
   "max_price": 2290,
   "listed_date": "2026-04-14",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

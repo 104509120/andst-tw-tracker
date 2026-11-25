@@ -2,15 +2,10 @@
   "sku": "663086",
   "history": [
     {
-      "date": "2026-03-30",
-      "price": 4290
-    },
-    {
       "date": "2026-11-24",
       "price": 2055
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=663086",
   "salepage_id": "11667367",
   "url": "https://www.dot-st.tw/SalePage/Index/11667367",
   "title": "HARE【網路限定55價】男花朵刺繡直條紋襯衫上衣-二色-663086",
@@ -21,5 +16,6 @@
   "max_price": 4290,
   "listed_date": "2026-03-30",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

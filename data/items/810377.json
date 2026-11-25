@@ -2,15 +2,10 @@
   "sku": "810377",
   "history": [
     {
-      "date": "2022-07-08",
-      "price": 1910
-    },
-    {
       "date": "2026-11-24",
       "price": 1910
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=810377",
   "salepage_id": "7940236",
   "url": "https://www.dot-st.tw/SalePage/Index/7940236",
   "title": "niko and天然木水晶配色板凳椅子(大)-二款-810377",
@@ -21,5 +16,6 @@
   "max_price": 1910,
   "listed_date": "2022-07-08",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

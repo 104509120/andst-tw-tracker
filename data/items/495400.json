@@ -2,15 +2,10 @@
   "sku": "495400",
   "history": [
     {
-      "date": "2025-09-03",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 676
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=495400",
   "salepage_id": "11076067",
   "url": "https://www.dot-st.tw/SalePage/Index/11076067",
   "title": "LAKOLE【新色到】女霧面皮革肩背包-六色-495400",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2025-09-03",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

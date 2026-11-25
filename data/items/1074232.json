@@ -2,24 +2,20 @@
   "sku": "1074232",
   "history": [
     {
-      "date": "2026-09-17",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1074232",
   "salepage_id": "12164290",
   "url": "https://www.dot-st.tw/SalePage/Index/12164290",
   "title": "repipi armario【網路限定55價】甜美刺繡Logo水鑽長袖T恤上衣-四色-1074232",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12164290/0/639307656406530000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12164290/0/639312242799600000?v=1",
   "current_price": 555,
   "original_price": 1290,
   "min_price": 555,
   "max_price": 1290,
   "listed_date": "2026-09-17",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

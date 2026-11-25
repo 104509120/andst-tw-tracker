@@ -2,15 +2,10 @@
   "sku": "639363",
   "history": [
     {
-      "date": "2026-04-02",
-      "price": 510
-    },
-    {
       "date": "2026-11-24",
       "price": 510
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=639363",
   "salepage_id": "11679320",
   "url": "https://www.dot-st.tw/SalePage/Index/11679320",
   "title": "niko and原創BILLY熊收納包手拿包-一色-639363",
@@ -21,5 +16,6 @@
   "max_price": 510,
   "listed_date": "2026-04-02",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

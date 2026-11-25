@@ -2,24 +2,20 @@
   "sku": "1051180",
   "history": [
     {
-      "date": "2026-09-03",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 2255
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1051180",
   "salepage_id": "12128494",
   "url": "https://www.dot-st.tw/SalePage/Index/12128494",
   "title": "RAGEBLUE【網路限定55價】【品牌好友｜曾敬驊 江齊著用款】男女LUXEASY系列光澤感垂墜附領帶寬版長袖襯衫上衣-五色-1051180",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12128494/0/639307647606430000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12128494/0/639312242782500000?v=1",
   "current_price": 2255,
   "original_price": 2490,
   "min_price": 2255,
   "max_price": 2490,
   "listed_date": "2026-09-03",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

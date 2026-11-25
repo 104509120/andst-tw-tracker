@@ -2,15 +2,10 @@
   "sku": "1069120",
   "history": [
     {
-      "date": "2026-09-30",
-      "price": 3090
-    },
-    {
       "date": "2026-11-24",
       "price": 3090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1069120",
   "salepage_id": "12191219",
   "url": "https://www.dot-st.tw/SalePage/Index/12191219",
   "title": "HARE女領口袖口花朵刺繡寬版襯衫上衣-二色-1069120",
@@ -21,5 +16,6 @@
   "max_price": 3090,
   "listed_date": "2026-09-30",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1051893",
   "history": [
     {
-      "date": "2026-08-04",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1051893",
   "salepage_id": "12041214",
   "url": "https://www.dot-st.tw/SalePage/Index/12041214",
   "title": "Heather不對稱蝴蝶結氣球裙襬短洋裝-二色-1051893",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2026-08-04",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

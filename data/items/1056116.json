@@ -2,24 +2,24 @@
   "sku": "1056116",
   "history": [
     {
-      "date": "2026-10-21",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 990
+    },
+    {
+      "date": "2026-11-25",
+      "price": 455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1056116",
   "salepage_id": "12256501",
   "url": "https://www.dot-st.tw/SalePage/Index/12256501",
-  "title": "LOWRYS FARM童寬版軍裝休閒長褲-三色-1056116",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12256501/0/639304336641930000?v=1",
-  "current_price": 990,
+  "title": "LOWRYS FARM【網路限定55價】童寬版軍裝休閒長褲-三色-1056116",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12256501/0/639312242912770000?v=1",
+  "current_price": 455,
   "original_price": 1690,
-  "min_price": 990,
+  "min_price": 455,
   "max_price": 1690,
   "listed_date": "2026-10-21",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

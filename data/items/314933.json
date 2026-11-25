@@ -2,24 +2,20 @@
   "sku": "314933",
   "history": [
     {
-      "date": "2026-08-14",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=314933",
   "salepage_id": "12063828",
   "url": "https://www.dot-st.tw/SalePage/Index/12063828",
   "title": "Me%【排球少年!!聯名】制服造型卡片套鑰匙吊飾-五色-314933",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12063828/0/639307647600700000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12063828/0/639312242749830000?v=1",
   "current_price": 490,
   "original_price": 790,
   "min_price": 490,
   "max_price": 790,
   "listed_date": "2026-08-14",
   "updated_at": "2026-11-25",
-  "brand": "Me%"
+  "brand": "Me%",
+  "first_seen": "2026-11-24"
 }

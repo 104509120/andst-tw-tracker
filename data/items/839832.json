@@ -2,24 +2,20 @@
   "sku": "839832",
   "history": [
     {
-      "date": "2026-11-12",
-      "price": 5690
-    },
-    {
       "date": "2026-11-24",
       "price": 5055
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=839832",
   "salepage_id": "12303882",
   "url": "https://www.dot-st.tw/SalePage/Index/12303882",
   "title": "PAGEBOY【網路限定55價】附腰帶WOOLLYTEC機能性羊毛質感可立領長版雙排釦大衣-三色-839832",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12303882/0/639307656406230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12303882/0/639312015075830000?v=1",
   "current_price": 5055,
   "original_price": 5690,
   "min_price": 5055,
   "max_price": 5690,
   "listed_date": "2026-11-12",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

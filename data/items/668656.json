@@ -2,24 +2,20 @@
   "sku": "668656",
   "history": [
     {
-      "date": "2026-05-20",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 916
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=668656",
   "salepage_id": "11814819",
   "url": "https://www.dot-st.tw/SalePage/Index/11814819",
   "title": "RAGEBLUE女棉質微透細肩傘襬短洋裝-二色-668656",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11814819/0/639289511506400000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11814819/0/639312242534600000?v=1",
   "current_price": 916,
   "original_price": 2290,
   "min_price": 916,
   "max_price": 2290,
   "listed_date": "2026-05-20",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

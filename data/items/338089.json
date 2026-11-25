@@ -6,7 +6,6 @@
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=338089",
   "salepage_id": "5602116",
   "url": "https://www.dot-st.tw/SalePage/Index/5602116",
   "title": "studio CLIP日本製職人製作自然色燒釉面優雅陶瓷盤L-一色-338089",
@@ -17,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-11-24",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

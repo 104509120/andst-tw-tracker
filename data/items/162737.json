@@ -2,15 +2,10 @@
   "sku": "162737",
   "history": [
     {
-      "date": "2024-10-14",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 273
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=162737",
   "salepage_id": "10169106",
   "url": "https://www.dot-st.tw/SalePage/Index/10169106",
   "title": "LAKOLE桌上型可堆疊木質收納盒M-二色-162737",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2024-10-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

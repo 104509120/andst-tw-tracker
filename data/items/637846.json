@@ -2,24 +2,20 @@
   "sku": "637846",
   "history": [
     {
-      "date": "2026-03-18",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 445
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=637846",
   "salepage_id": "11629443",
   "url": "https://www.dot-st.tw/SalePage/Index/11629443",
   "title": "GLOBAL WORK童易打理連帽長袖襯衫上衣(130cm-160cm)-二色-637846",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11629443/0/639299286276230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11629443/0/639312242497970000?v=1",
   "current_price": 445,
   "original_price": 890,
   "min_price": 445,
   "max_price": 890,
   "listed_date": "2026-03-18",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "578326",
   "history": [
     {
-      "date": "2025-12-01",
-      "price": 1870
-    },
-    {
       "date": "2026-11-24",
       "price": 1870
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=578326",
   "salepage_id": "11364479",
   "url": "https://www.dot-st.tw/SalePage/Index/11364479",
   "title": "niko and藝術家Nathalie lete流蘇毯子-二色-578326",
@@ -21,5 +16,6 @@
   "max_price": 1870,
   "listed_date": "2025-12-01",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

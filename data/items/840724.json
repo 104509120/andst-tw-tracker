@@ -2,15 +2,10 @@
   "sku": "840724",
   "history": [
     {
-      "date": "2026-06-30",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 756
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=840724",
   "salepage_id": "11939820",
   "url": "https://www.dot-st.tw/SalePage/Index/11939820",
   "title": "LEPSIM亞麻混紡細肩帶背心-三色-840724",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2026-06-30",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

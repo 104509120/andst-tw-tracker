@@ -2,15 +2,10 @@
   "sku": "639788",
   "history": [
     {
-      "date": "2026-02-13",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 792
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=639788",
   "salepage_id": "11566582",
   "url": "https://www.dot-st.tw/SalePage/Index/11566582",
   "title": "niko and女流行花紋機能防臭棒球帽-三色-639788",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-02-13",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

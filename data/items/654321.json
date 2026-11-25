@@ -2,15 +2,10 @@
   "sku": "654321",
   "history": [
     {
-      "date": "2026-04-23",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=654321",
   "salepage_id": "11733264",
   "url": "https://www.dot-st.tw/SalePage/Index/11733264",
   "title": "LAKOLE懸掛式植栽盆-二色-654321",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-04-23",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

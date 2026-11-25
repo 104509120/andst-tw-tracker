@@ -2,15 +2,10 @@
   "sku": "672138",
   "history": [
     {
-      "date": "2026-10-02",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=672138",
   "salepage_id": "12193962",
   "url": "https://www.dot-st.tw/SalePage/Index/12193962",
   "title": "LOWRYS FARM【My Sweet Piano聯名】毛絨臉型收納包與蝴蝶結購物袋二件組-二色-672138",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2026-10-02",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

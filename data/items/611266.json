@@ -2,15 +2,10 @@
   "sku": "611266",
   "history": [
     {
-      "date": "2025-12-10",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 395
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=611266",
   "salepage_id": "11392400",
   "url": "https://www.dot-st.tw/SalePage/Index/11392400",
   "title": "LEPSIM金屬網格小包造型項鍊-二色-611266",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2025-12-10",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1017531",
   "history": [
     {
-      "date": "2026-06-30",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 845
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1017531",
   "salepage_id": "11937917",
   "url": "https://www.dot-st.tw/SalePage/Index/11937917",
   "title": "PAGEBOY男女PBLIM系列圓領前釦素色背心上衣二件組-三色-1017531",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-06-30",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

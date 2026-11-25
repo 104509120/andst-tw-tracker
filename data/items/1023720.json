@@ -2,15 +2,10 @@
   "sku": "1023720",
   "history": [
     {
-      "date": "2026-10-15",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1023720",
   "salepage_id": "12240632",
   "url": "https://www.dot-st.tw/SalePage/Index/12240632",
   "title": "LEPSIM可機洗防靜電流蘇格紋大圍巾-四色-1023720",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2026-10-15",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

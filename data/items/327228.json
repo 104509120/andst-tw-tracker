@@ -2,15 +2,10 @@
   "sku": "327228",
   "history": [
     {
-      "date": "2026-08-07",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=327228",
   "salepage_id": "12052460",
   "url": "https://www.dot-st.tw/SalePage/Index/12052460",
   "title": "Me%【官網/台中LLP獨售】粗繩編織手機掛繩與掛繩墊片二件組-二色-327228",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-08-07",
   "updated_at": "2026-11-25",
-  "brand": "Me%"
+  "brand": "Me%",
+  "first_seen": "2026-11-24"
 }

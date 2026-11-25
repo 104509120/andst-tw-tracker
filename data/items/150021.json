@@ -2,15 +2,10 @@
   "sku": "150021",
   "history": [
     {
-      "date": "2024-12-31",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=150021",
   "salepage_id": "10428036",
   "url": "https://www.dot-st.tw/SalePage/Index/10428036",
   "title": "studio CLIP日本製美濃燒手繪飛冠茶碗-二色-150021",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2024-12-31",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

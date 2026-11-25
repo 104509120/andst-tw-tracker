@@ -2,15 +2,10 @@
   "sku": "494239",
   "history": [
     {
-      "date": "2025-11-07",
-      "price": 970
-    },
-    {
       "date": "2026-11-24",
       "price": 970
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=494239",
   "salepage_id": "11301471",
   "url": "https://www.dot-st.tw/SalePage/Index/11301471",
   "title": "niko and復古風格紋掛脖圍裙-二色-494239",
@@ -21,5 +16,6 @@
   "max_price": 970,
   "listed_date": "2025-11-07",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

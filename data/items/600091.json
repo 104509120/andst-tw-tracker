@@ -2,15 +2,10 @@
   "sku": "600091",
   "history": [
     {
-      "date": "2025-12-11",
-      "price": 450
-    },
-    {
       "date": "2026-11-24",
       "price": 315
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=600091",
   "salepage_id": "11396027",
   "url": "https://www.dot-st.tw/SalePage/Index/11396027",
   "title": "repipi armario緞面雙蝴蝶結髮夾-二色-600091",
@@ -21,5 +16,6 @@
   "max_price": 450,
   "listed_date": "2025-12-11",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

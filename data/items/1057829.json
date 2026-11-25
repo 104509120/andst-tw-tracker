@@ -2,24 +2,20 @@
   "sku": "1057829",
   "history": [
     {
-      "date": "2026-09-10",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1057829",
   "salepage_id": "12147503",
   "url": "https://www.dot-st.tw/SalePage/Index/12147503",
   "title": "repipi armario【網路限定55價】字母七分袖迷你洋裝-三色-1057829",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12147503/0/639311249150230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12147503/0/639312242570770000?v=1",
   "current_price": 655,
   "original_price": 1890,
   "min_price": 655,
   "max_price": 1890,
   "listed_date": "2026-09-10",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

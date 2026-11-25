@@ -2,15 +2,10 @@
   "sku": "1051681",
   "history": [
     {
-      "date": "2026-09-22",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1051681",
   "salepage_id": "12177386",
   "url": "https://www.dot-st.tw/SalePage/Index/12177386",
   "title": "PAGEBOY【網路限定55價】假兩件露肩亨利領上衣-三色-1051681",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-09-22",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

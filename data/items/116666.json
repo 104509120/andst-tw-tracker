@@ -2,15 +2,10 @@
   "sku": "116666",
   "history": [
     {
-      "date": "2024-05-14",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=116666",
   "salepage_id": "9786177",
   "url": "https://www.dot-st.tw/SalePage/Index/9786177",
   "title": "niko and女可愛花朵荷葉邊皺褶手機掛繩背繩-六色-116666",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2024-05-14",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

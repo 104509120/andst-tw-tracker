@@ -2,15 +2,10 @@
   "sku": "912364",
   "history": [
     {
-      "date": "2026-08-19",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1603
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=912364",
   "salepage_id": "12078539",
   "url": "https://www.dot-st.tw/SalePage/Index/12078539",
   "title": "niko and女蕾絲邊丹寧牛仔寬褲長褲-三色-912364",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-08-19",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

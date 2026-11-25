@@ -2,24 +2,20 @@
   "sku": "612878",
   "history": [
     {
-      "date": "2025-12-10",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=612878",
   "salepage_id": "11393491",
   "url": "https://www.dot-st.tw/SalePage/Index/11393491",
   "title": "GLOBAL WORK【網路限定55價】女華夫格可調肩帶背心與素色T恤上衣二件組-四色-612878",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11393491/0/639310365125800000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11393491/0/639312242598530000?v=1",
   "current_price": 555,
   "original_price": 1490,
   "min_price": 555,
   "max_price": 1490,
   "listed_date": "2025-12-10",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

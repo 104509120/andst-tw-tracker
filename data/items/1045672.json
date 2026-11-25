@@ -2,24 +2,20 @@
   "sku": "1045672",
   "history": [
     {
-      "date": "2026-09-02",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1045672",
   "salepage_id": "12124540",
   "url": "https://www.dot-st.tw/SalePage/Index/12124540",
   "title": "GLOBAL WORK女復古光澤皮革多口袋托特包- 三色-1045672",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12124540/0/639300798776270000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12124540/0/639312025661400000?v=1",
   "current_price": 1490,
   "original_price": 1490,
   "min_price": 1490,
   "max_price": 1490,
   "listed_date": "2026-09-02",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

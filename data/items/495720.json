@@ -2,24 +2,20 @@
   "sku": "495720",
   "history": [
     {
-      "date": "2025-07-09",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=495720",
   "salepage_id": "10937857",
   "url": "https://www.dot-st.tw/SalePage/Index/10937857",
   "title": "GLOBAL WORK女超輕量皮革附吊飾波士頓包-十色-495720",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/10937857/0/639300744103330000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/10937857/0/639312242617500000?v=1",
   "current_price": 990,
   "original_price": 1490,
   "min_price": 990,
   "max_price": 1490,
   "listed_date": "2025-07-09",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

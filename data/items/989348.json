@@ -2,15 +2,10 @@
   "sku": "989348",
   "history": [
     {
-      "date": "2024-10-14",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 203
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=989348",
   "salepage_id": "10169358",
   "url": "https://www.dot-st.tw/SalePage/Index/10169358",
   "title": "LAKOLE磁吸式附保護套剪刀-一色-989348",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2024-10-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

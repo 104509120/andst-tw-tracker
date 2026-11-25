@@ -2,24 +2,20 @@
   "sku": "590149",
   "history": [
     {
-      "date": "2025-09-12",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 894
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=590149",
   "salepage_id": "11099659",
   "url": "https://www.dot-st.tw/SalePage/Index/11099659",
   "title": "studio CLIP【品牌好友｜曾敬驊 江齊著用款】 袖薄紗拼接圓領長袖上衣-十三色-590149",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11099659/0/639307724265400000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11099659/0/639312242617500000?v=1",
   "current_price": 894,
   "original_price": 1490,
   "min_price": 894,
   "max_price": 1490,
   "listed_date": "2025-09-12",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

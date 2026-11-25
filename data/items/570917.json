@@ -2,24 +2,20 @@
   "sku": "570917",
   "history": [
     {
-      "date": "2025-11-27",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=570917",
   "salepage_id": "11356144",
   "url": "https://www.dot-st.tw/SalePage/Index/11356144",
   "title": "niko and男女經典款防寒保暖拼接飛行帽-五色-570917",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11356144/0/639304317648200000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11356144/0/639312160421730000?v=1",
   "current_price": 1690,
   "original_price": 1690,
   "min_price": 1690,
   "max_price": 1690,
   "listed_date": "2025-11-27",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

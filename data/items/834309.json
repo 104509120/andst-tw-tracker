@@ -2,15 +2,10 @@
   "sku": "834309",
   "history": [
     {
-      "date": "2026-11-11",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=834309",
   "salepage_id": "12301380",
   "url": "https://www.dot-st.tw/SalePage/Index/12301380",
   "title": "LEPSIM媽媽系列【滿足感針織系列】可機洗不易起毛球木耳邊修身針織長褲-三色-834309",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-11-11",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

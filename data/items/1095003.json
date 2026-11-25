@@ -2,15 +2,10 @@
   "sku": "1095003",
   "history": [
     {
-      "date": "2026-11-06",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 2690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1095003",
   "salepage_id": "12290314",
   "url": "https://www.dot-st.tw/SalePage/Index/12290314",
   "title": "JEANASIS短版蓬袖圓領針織開襟衫上衣-三色-1095003",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2026-11-06",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

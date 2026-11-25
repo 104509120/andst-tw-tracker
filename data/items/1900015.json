@@ -2,24 +2,20 @@
   "sku": "1900015",
   "history": [
     {
-      "date": "2026-01-20",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1900015",
   "salepage_id": "11494623",
   "url": "https://www.dot-st.tw/SalePage/Index/11494623",
   "title": "GLOBAL WORK【網路限定55價】女美人系寬版直筒褲長褲-四色-581010",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11494623/0/639307656304830000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11494623/0/639312242598530000?v=1",
   "current_price": 755,
   "original_price": 1990,
   "min_price": 755,
   "max_price": 1990,
   "listed_date": "2026-01-20",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

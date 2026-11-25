@@ -2,15 +2,10 @@
   "sku": "637073",
   "history": [
     {
-      "date": "2026-05-29",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=637073",
   "salepage_id": "11846323",
   "url": "https://www.dot-st.tw/SalePage/Index/11846323",
   "title": "LAKOLE提把尼龍保溫便當袋-二色-637073",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-05-29",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

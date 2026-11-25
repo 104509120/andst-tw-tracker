@@ -2,15 +2,10 @@
   "sku": "1069958",
   "history": [
     {
-      "date": "2026-09-29",
-      "price": 3290
-    },
-    {
       "date": "2026-11-24",
       "price": 2490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1069958",
   "salepage_id": "12188711",
   "url": "https://www.dot-st.tw/SalePage/Index/12188711",
   "title": "JEANASIS垂墜感中長版百褶裙-二色-1069958",
@@ -21,5 +16,6 @@
   "max_price": 3290,
   "listed_date": "2026-09-29",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

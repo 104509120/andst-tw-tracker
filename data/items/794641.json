@@ -2,15 +2,10 @@
   "sku": "794641",
   "history": [
     {
-      "date": "2026-06-16",
-      "price": 450
-    },
-    {
       "date": "2026-11-24",
       "price": 450
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=794641",
   "salepage_id": "11897470",
   "url": "https://www.dot-st.tw/SalePage/Index/11897470",
   "title": "repipi armario鍊條造型裝飾髮夾二件組-二色-794641",
@@ -21,5 +16,6 @@
   "max_price": 450,
   "listed_date": "2026-06-16",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

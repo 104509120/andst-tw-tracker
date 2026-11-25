@@ -2,15 +2,10 @@
   "sku": "308249",
   "history": [
     {
-      "date": "2026-04-09",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=308249",
   "salepage_id": "11694314",
   "url": "https://www.dot-st.tw/SalePage/Index/11694314",
   "title": "LAKOLE真空二重構造不鏽鋼保溫杯330ml(杯蓋另售)-二色-308249",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-04-09",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

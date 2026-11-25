@@ -2,15 +2,10 @@
   "sku": "1009857",
   "history": [
     {
-      "date": "2026-08-12",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1009857",
   "salepage_id": "12063042",
   "url": "https://www.dot-st.tw/SalePage/Index/12063042",
   "title": "RAGEBLUE【網路限定55價】男破壞感漸層格紋寬版襯衫上衣-三色-1009857",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-08-12",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

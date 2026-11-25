@@ -2,15 +2,10 @@
   "sku": "654426",
   "history": [
     {
-      "date": "2026-05-22",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=654426",
   "salepage_id": "11822800",
   "url": "https://www.dot-st.tw/SalePage/Index/11822800",
   "title": "studio CLIP工業金屬感鐵絲方形收納籃-一色-654426",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-05-22",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

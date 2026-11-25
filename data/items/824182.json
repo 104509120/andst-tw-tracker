@@ -2,15 +2,10 @@
   "sku": "824182",
   "history": [
     {
-      "date": "2026-09-14",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=824182",
   "salepage_id": "12156668",
   "url": "https://www.dot-st.tw/SalePage/Index/12156668",
   "title": "LOWRYS FARM女2WAY短版毛絨背心-三色-824182",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-09-14",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

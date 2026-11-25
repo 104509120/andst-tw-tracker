@@ -2,15 +2,10 @@
   "sku": "647105",
   "history": [
     {
-      "date": "2026-06-04",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647105",
   "salepage_id": "11864556",
   "url": "https://www.dot-st.tw/SalePage/Index/11864556",
   "title": "HARE女金屬釦羅紋領口挖空短袖上衣-五色-647105",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-06-04",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

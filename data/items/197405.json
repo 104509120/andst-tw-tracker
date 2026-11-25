@@ -2,15 +2,10 @@
   "sku": "197405",
   "history": [
     {
-      "date": "2023-09-01",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=197405",
   "salepage_id": "9145120",
   "url": "https://www.dot-st.tw/SalePage/Index/9145120",
   "title": "studio CLIP立體刮削設計木紋相框【daily CLIP】-二色-197405",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2023-09-01",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

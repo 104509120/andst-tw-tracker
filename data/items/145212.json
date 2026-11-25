@@ -2,15 +2,10 @@
   "sku": "145212",
   "history": [
     {
-      "date": "2025-04-01",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=145212",
   "salepage_id": "10644031",
   "url": "https://www.dot-st.tw/SalePage/Index/10644031",
   "title": "studio CLIP天然木製雙色附蓋圓形收納盒L【daily CLIP】-一色-145212",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2025-04-01",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

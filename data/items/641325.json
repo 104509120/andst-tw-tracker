@@ -2,24 +2,20 @@
   "sku": "641325",
   "history": [
     {
-      "date": "2026-02-03",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 255
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=641325",
   "salepage_id": "11536526",
   "url": "https://www.dot-st.tw/SalePage/Index/11536526",
   "title": "GLOBAL WORK【網路限定55價】童舒適打摺寬版短褲(130cm-160cm)-二色-641325",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11536526/0/639307656304830000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11536526/0/639312242634300000?v=1",
   "current_price": 255,
   "original_price": 690,
   "min_price": 255,
   "max_price": 690,
   "listed_date": "2026-02-03",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

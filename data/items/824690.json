@@ -2,15 +2,10 @@
   "sku": "824690",
   "history": [
     {
-      "date": "2026-07-22",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 676
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=824690",
   "salepage_id": "11996497",
   "url": "https://www.dot-st.tw/SalePage/Index/11996497",
   "title": "LEPSIM光澤感垂墜寬鬆直筒長褲-三色-824690",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-07-22",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "630122",
   "history": [
     {
-      "date": "2026-07-03",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=630122",
   "salepage_id": "11947423",
   "url": "https://www.dot-st.tw/SalePage/Index/11947423",
   "title": "LAKOLE提把工業風黑色收納籃M(耐重2kg)-一色-630122",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-07-03",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

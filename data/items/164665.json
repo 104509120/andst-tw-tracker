@@ -2,15 +2,10 @@
   "sku": "164665",
   "history": [
     {
-      "date": "2024-11-29",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 95
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=164665",
   "salepage_id": "10353431",
   "url": "https://www.dot-st.tw/SalePage/Index/10353431",
   "title": "LAKOLE美濃燒日本製旋轉花瓣造型小碗-四色-164665",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2024-11-29",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

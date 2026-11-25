@@ -2,15 +2,10 @@
   "sku": "658149",
   "history": [
     {
-      "date": "2026-04-15",
-      "price": 3690
-    },
-    {
       "date": "2026-11-24",
       "price": 1755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=658149",
   "salepage_id": "11711151",
   "url": "https://www.dot-st.tw/SalePage/Index/11711151",
   "title": "HARE【網路限定55價】女高腰皮革綁帶下襬縮口寬版長褲-二色-658149",
@@ -21,5 +16,6 @@
   "max_price": 3690,
   "listed_date": "2026-04-15",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

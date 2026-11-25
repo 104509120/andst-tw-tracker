@@ -2,24 +2,20 @@
   "sku": "884263",
   "history": [
     {
-      "date": "2026-06-22",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 1995
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=884263",
   "salepage_id": "11901017",
   "url": "https://www.dot-st.tw/SalePage/Index/11901017",
   "title": "HARE男水墨圖樣胸前口袋造型襯衫上衣-三色-884263",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11901017/0/639300744123400000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11901017/0/639312242718330000?v=1",
   "current_price": 1995,
   "original_price": 3990,
   "min_price": 1995,
   "max_price": 3990,
   "listed_date": "2026-06-22",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

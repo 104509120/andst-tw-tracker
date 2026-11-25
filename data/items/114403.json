@@ -2,15 +2,10 @@
   "sku": "114403",
   "history": [
     {
-      "date": "2025-02-14",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 195
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=114403",
   "salepage_id": "10513760",
   "url": "https://www.dot-st.tw/SalePage/Index/10513760",
   "title": "LAKOLE女不鏽鋼層次圓圈耳針式耳環-二色-114403",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2025-02-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

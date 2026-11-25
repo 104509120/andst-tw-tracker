@@ -2,15 +2,10 @@
   "sku": "137072",
   "history": [
     {
-      "date": "2024-10-14",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=137072",
   "salepage_id": "10187230",
   "url": "https://www.dot-st.tw/SalePage/Index/10187230",
   "title": "LAKOLE電捲棒專用可懸掛式隔熱收納袋-二色-137072",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2024-10-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

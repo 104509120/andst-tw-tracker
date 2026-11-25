@@ -2,15 +2,10 @@
   "sku": "1042668",
   "history": [
     {
-      "date": "2026-08-26",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1042668",
   "salepage_id": "12101556",
   "url": "https://www.dot-st.tw/SalePage/Index/12101556",
   "title": "LEPSIM輕量厚底光澤運動樂福鞋-三色-1042668",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-08-26",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

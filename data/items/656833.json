@@ -2,15 +2,10 @@
   "sku": "656833",
   "history": [
     {
-      "date": "2026-05-06",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 596
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=656833",
   "salepage_id": "11770494",
   "url": "https://www.dot-st.tw/SalePage/Index/11770494",
   "title": "niko and女2WAY編織花紋磁扣手提肩背包-三色-656833",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-05-06",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

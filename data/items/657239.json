@@ -2,15 +2,10 @@
   "sku": "657239",
   "history": [
     {
-      "date": "2026-04-14",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=657239",
   "salepage_id": "11706747",
   "url": "https://www.dot-st.tw/SalePage/Index/11706747",
   "title": "LAKOLE【網路限定55價】女混紡紗感半袖西裝外套-四色-657239",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-04-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

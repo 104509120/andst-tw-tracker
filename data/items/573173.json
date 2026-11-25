@@ -2,15 +2,10 @@
   "sku": "573173",
   "history": [
     {
-      "date": "2025-12-08",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 273
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=573173",
   "salepage_id": "11386787",
   "url": "https://www.dot-st.tw/SalePage/Index/11386787",
   "title": "studio CLIP日本製異國風印花方形手帕毛巾-三色-573173",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2025-12-08",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

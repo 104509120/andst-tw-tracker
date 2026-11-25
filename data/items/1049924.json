@@ -2,24 +2,20 @@
   "sku": "1049924",
   "history": [
     {
-      "date": "2026-07-28",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 996
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1049924",
   "salepage_id": "12020971",
   "url": "https://www.dot-st.tw/SalePage/Index/12020971",
   "title": "RAGEBLUE女設計感抓褶收腰漸層短袖襯衫上衣-二色-1049924",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12020971/0/639310372946830000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12020971/0/639312242552370000?v=1",
   "current_price": 996,
   "original_price": 2490,
   "min_price": 996,
   "max_price": 2490,
   "listed_date": "2026-07-28",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

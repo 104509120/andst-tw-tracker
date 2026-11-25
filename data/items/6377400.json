@@ -2,15 +2,10 @@
   "sku": "6377400",
   "history": [
     {
-      "date": "2026-10-06",
-      "price": 4880
-    },
-    {
       "date": "2026-11-24",
       "price": 3355
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=6377400",
   "salepage_id": "12229495",
   "url": "https://www.dot-st.tw/SalePage/Index/12229495",
   "title": "◎index女OPAQUE.CLIP羽毛緹花打褶傘襬裙-二色-63774009 NT$3,355",
@@ -21,5 +16,6 @@
   "max_price": 4880,
   "listed_date": "2026-10-06",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

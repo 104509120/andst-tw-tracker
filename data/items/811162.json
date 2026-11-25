@@ -2,15 +2,10 @@
   "sku": "811162",
   "history": [
     {
-      "date": "2026-09-24",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=811162",
   "salepage_id": "12171517",
   "url": "https://www.dot-st.tw/SalePage/Index/12171517",
   "title": "studio CLIP【魔法小天使クリィミーマミ聯名】附緞帶提把化妝包-一色-811162",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-09-24",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

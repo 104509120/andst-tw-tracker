@@ -2,24 +2,24 @@
   "sku": "1056972",
   "history": [
     {
-      "date": "2026-08-25",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 693
+    },
+    {
+      "date": "2026-11-25",
+      "price": 495
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1056972",
   "salepage_id": "12097966",
   "url": "https://www.dot-st.tw/SalePage/Index/12097966",
   "title": "JEANASIS不規則造型長項鍊-二色-1056972",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12097966/0/639310491234900000?v=1",
-  "current_price": 693,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12097966/0/639312240581600000?v=1",
+  "current_price": 495,
   "original_price": 990,
-  "min_price": 693,
+  "min_price": 495,
   "max_price": 990,
   "listed_date": "2026-08-25",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

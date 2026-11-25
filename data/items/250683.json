@@ -2,15 +2,10 @@
   "sku": "250683",
   "history": [
     {
-      "date": "2026-01-23",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 345
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=250683",
   "salepage_id": "11508000",
   "url": "https://www.dot-st.tw/SalePage/Index/11508000",
   "title": "LAKOLE女優雅雙層珍珠項鍊-一色-250683",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-01-23",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "851141",
   "history": [
     {
-      "date": "2026-11-04",
-      "price": 970
-    },
-    {
       "date": "2026-11-24",
       "price": 970
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=851141",
   "salepage_id": "12282323",
   "url": "https://www.dot-st.tw/SalePage/Index/12282323",
   "title": "niko and聖誕裝飾Xmas驚喜馴鹿擺飾-一色-851141",
@@ -21,5 +16,6 @@
   "max_price": 970,
   "listed_date": "2026-11-04",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

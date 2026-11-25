@@ -2,24 +2,20 @@
   "sku": "739789",
   "history": [
     {
-      "date": "2026-07-01",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=739789",
   "salepage_id": "11941660",
   "url": "https://www.dot-st.tw/SalePage/Index/11941660",
   "title": "GLOBAL WORK童復古刷色T恤短袖上衣與短褲二件組(100cm-120cm)-三色-739789",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11941660/0/639310365452830000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11941660/0/639312242718330000?v=1",
   "current_price": 590,
   "original_price": 790,
   "min_price": 590,
   "max_price": 790,
   "listed_date": "2026-07-01",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

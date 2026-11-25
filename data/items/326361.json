@@ -2,15 +2,10 @@
   "sku": "326361",
   "history": [
     {
-      "date": "2025-06-30",
-      "price": 300
-    },
-    {
       "date": "2026-11-24",
       "price": 300
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=326361",
   "salepage_id": "10908372",
   "url": "https://www.dot-st.tw/SalePage/Index/10908372",
   "title": "niko and【FIZZ&amp;RICH PARLOR】冰淇淋店主題徽章胸針別針三入組-三款-326361",
@@ -21,5 +16,6 @@
   "max_price": 300,
   "listed_date": "2025-06-30",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

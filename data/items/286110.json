@@ -2,15 +2,10 @@
   "sku": "286110",
   "history": [
     {
-      "date": "2025-05-27",
-      "price": 1090
-    },
-    {
       "date": "2026-11-24",
       "price": 1090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=286110",
   "salepage_id": "10791324",
   "url": "https://www.dot-st.tw/SalePage/Index/10791324",
   "title": "studio CLIP簡約線條晴雨兩用直傘雨傘-三色-286110",
@@ -21,5 +16,6 @@
   "max_price": 1090,
   "listed_date": "2025-05-27",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "668892",
   "history": [
     {
-      "date": "2026-05-19",
-      "price": 1190
-    },
-    {
       "date": "2026-11-24",
       "price": 476
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=668892",
   "salepage_id": "11808232",
   "url": "https://www.dot-st.tw/SalePage/Index/11808232",
   "title": "repipi armario童抽繩運動風短褲-三色-668892",
@@ -21,5 +16,6 @@
   "max_price": 1190,
   "listed_date": "2026-05-19",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

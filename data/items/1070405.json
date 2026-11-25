@@ -2,24 +2,20 @@
   "sku": "1070405",
   "history": [
     {
-      "date": "2026-10-21",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 2490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1070405",
   "salepage_id": "12256520",
   "url": "https://www.dot-st.tw/SalePage/Index/12256520",
   "title": "LOWRYS FARM女彈性收腰荷葉針織迷你洋裝-三色-1070405",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12256520/0/639299953186430000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12256520/0/639312229719630000?v=1",
   "current_price": 2490,
   "original_price": 2490,
   "min_price": 2490,
   "max_price": 2490,
   "listed_date": "2026-10-21",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

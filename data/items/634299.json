@@ -2,15 +2,10 @@
   "sku": "634299",
   "history": [
     {
-      "date": "2026-04-02",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=634299",
   "salepage_id": "11679362",
   "url": "https://www.dot-st.tw/SalePage/Index/11679362",
   "title": "studio CLIP佩斯利多夾層手提托特包收納包-二色-634299",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-04-02",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

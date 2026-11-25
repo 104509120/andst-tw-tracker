@@ -2,24 +2,20 @@
   "sku": "640440",
   "history": [
     {
-      "date": "2026-03-26",
-      "price": 3490
-    },
-    {
       "date": "2026-11-24",
       "price": 2255
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=640440",
   "salepage_id": "11660770",
   "url": "https://www.dot-st.tw/SalePage/Index/11660770",
   "title": "PAGEBOY【網路限定55價】接觸涼感下襬不規則細肩帶丹寧洋裝-三色-640440",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11660770/0/639307656406230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11660770/0/639312242668930000?v=1",
   "current_price": 2255,
   "original_price": 3490,
   "min_price": 2255,
   "max_price": 3490,
   "listed_date": "2026-03-26",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

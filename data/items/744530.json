@@ -2,15 +2,10 @@
   "sku": "744530",
   "history": [
     {
-      "date": "2026-06-23",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1043
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=744530",
   "salepage_id": "11921999",
   "url": "https://www.dot-st.tw/SalePage/Index/11921999",
   "title": "niko and女【LOVEBOAT聯名】短袖T恤上衣(短版/長版)-二色-744530",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-06-23",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

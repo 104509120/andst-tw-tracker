@@ -2,15 +2,10 @@
   "sku": "453130",
   "history": [
     {
-      "date": "2026-01-05",
-      "price": 540
-    },
-    {
       "date": "2026-11-24",
       "price": 540
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=453130",
   "salepage_id": "11451580",
   "url": "https://www.dot-st.tw/SalePage/Index/11451580",
   "title": "niko and仿真落葉金色鑲邊置物盤-二色-453130",
@@ -21,5 +16,6 @@
   "max_price": 540,
   "listed_date": "2026-01-05",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1043831",
   "history": [
     {
-      "date": "2026-09-27",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 2990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1043831",
   "salepage_id": "12186472",
   "url": "https://www.dot-st.tw/SalePage/Index/12186472",
   "title": "niko and男【Russell Athletic品牌】保暖太空棉寬褲長褲-三色-1043831",
@@ -21,5 +16,6 @@
   "max_price": 2990,
   "listed_date": "2026-09-27",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

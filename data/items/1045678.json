@@ -2,24 +2,20 @@
   "sku": "1045678",
   "history": [
     {
-      "date": "2026-11-11",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1045678",
   "salepage_id": "12300068",
   "url": "https://www.dot-st.tw/SalePage/Index/12300068",
   "title": "LAKOLE鋪棉絎縫托特包-二色-1045678",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12300068/0/639300126777630000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12300068/0/639312134913470000?v=1",
   "current_price": 490,
   "original_price": 490,
   "min_price": 490,
   "max_price": 490,
   "listed_date": "2026-11-11",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

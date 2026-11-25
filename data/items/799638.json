@@ -2,16 +2,11 @@
   "sku": "799638",
   "history": [
     {
-      "date": "2026-07-23",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 623
     }
   ],
   "listed_date": "2026-07-23",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=799638",
   "salepage_id": "11985559",
   "url": "https://www.dot-st.tw/SalePage/Index/11985559",
   "title": "studio CLIP【ぽっこしPOKKOSHI聯名】矽膠隔熱手套-一款-799638",
@@ -21,5 +16,6 @@
   "min_price": 623,
   "max_price": 890,
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

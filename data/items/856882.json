@@ -2,15 +2,10 @@
   "sku": "856882",
   "history": [
     {
-      "date": "2020-05-14",
-      "price": 150
-    },
-    {
       "date": "2026-11-24",
       "price": 150
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=856882",
   "salepage_id": "6341181",
   "url": "https://www.dot-st.tw/SalePage/Index/6341181",
   "title": "niko and原創BILLY熊系列大學校園磁鐵夾子-六色-856882",
@@ -21,5 +16,6 @@
   "max_price": 150,
   "listed_date": "2020-05-14",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

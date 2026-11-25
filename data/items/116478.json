@@ -2,15 +2,10 @@
   "sku": "116478",
   "history": [
     {
-      "date": "2024-06-11",
-      "price": 3390
-    },
-    {
       "date": "2026-11-24",
       "price": 3390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=116478",
   "salepage_id": "9861128",
   "url": "https://www.dot-st.tw/SalePage/Index/9861128",
   "title": "HARE男《定番設計TOROMI系列》【ICY FEEL接觸涼感】高級光澤感領口袖部花朵刺繡襯衫上衣-四色-116478",
@@ -21,5 +16,6 @@
   "max_price": 3390,
   "listed_date": "2024-06-11",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

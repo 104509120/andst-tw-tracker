@@ -2,15 +2,10 @@
   "sku": "576446",
   "history": [
     {
-      "date": "2025-08-19",
-      "price": 860
-    },
-    {
       "date": "2026-11-24",
       "price": 860
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=576446",
   "salepage_id": "11039881",
   "url": "https://www.dot-st.tw/SalePage/Index/11039881",
   "title": "niko and籃球主題地墊腳踏墊-二色-576446",
@@ -21,5 +16,6 @@
   "max_price": 860,
   "listed_date": "2025-08-19",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,24 @@
   "sku": "1067591",
   "history": [
     {
-      "date": "2026-09-23",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 890
+    },
+    {
+      "date": "2026-11-25",
+      "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1067591",
   "salepage_id": "12179768",
   "url": "https://www.dot-st.tw/SalePage/Index/12179768",
   "title": "LEPSIM前後2WAY鏤空花邊針織上衣-三色-1067591",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12179768/0/639311240232730000?v=1",
-  "current_price": 890,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12179768/0/639312242815030000?v=1",
+  "current_price": 690,
   "original_price": 1290,
-  "min_price": 890,
+  "min_price": 690,
   "max_price": 1290,
   "listed_date": "2026-09-23",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

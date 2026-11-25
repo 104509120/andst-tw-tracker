@@ -2,15 +2,10 @@
   "sku": "1049417",
   "history": [
     {
-      "date": "2026-08-26",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 945
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1049417",
   "salepage_id": "12101566",
   "url": "https://www.dot-st.tw/SalePage/Index/12101566",
   "title": "LEPSIM皮革麂皮毛絨多功能3WAY肩背包-三色-1049417",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2026-08-26",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

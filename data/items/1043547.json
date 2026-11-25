@@ -2,24 +2,20 @@
   "sku": "1043547",
   "history": [
     {
-      "date": "2026-09-10",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1374
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1043547",
   "salepage_id": "12146886",
   "url": "https://www.dot-st.tw/SalePage/Index/12146886",
   "title": "studio CLIP純棉蕾絲直筒褲-四色-1043547",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12146886/0/639310379611300000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12146886/0/639312242782500000?v=1",
   "current_price": 1374,
   "original_price": 2290,
   "min_price": 1374,
   "max_price": 2290,
   "listed_date": "2026-09-10",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

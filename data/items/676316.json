@@ -2,16 +2,11 @@
   "sku": "676316",
   "history": [
     {
-      "date": "2026-07-23",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 273
     }
   ],
   "listed_date": "2026-07-23",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=676316",
   "salepage_id": "11985532",
   "url": "https://www.dot-st.tw/SalePage/Index/11985532",
   "title": "studio CLIP【ぽっこしPOKKOSHI聯名】造型醬料碟-三款-676316",
@@ -21,5 +16,6 @@
   "min_price": 273,
   "max_price": 390,
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

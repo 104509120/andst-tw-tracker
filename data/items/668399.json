@@ -2,15 +2,10 @@
   "sku": "668399",
   "history": [
     {
-      "date": "2026-05-14",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 676
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=668399",
   "salepage_id": "11797757",
   "url": "https://www.dot-st.tw/SalePage/Index/11797757",
   "title": "repipi armario吸水速乾網眼字母迷你洋裝-三色-668399",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-05-14",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

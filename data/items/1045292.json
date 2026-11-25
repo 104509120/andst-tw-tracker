@@ -2,24 +2,20 @@
   "sku": "1045292",
   "history": [
     {
-      "date": "2026-07-09",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 355
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1045292",
   "salepage_id": "11965089",
   "url": "https://www.dot-st.tw/SalePage/Index/11965089",
   "title": "LAKOLE【網路限定55價】女涼感下擺抽繩設計上衣-四色-1045292",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11965089/0/639307650297500000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11965089/0/639312242734300000?v=1",
   "current_price": 355,
   "original_price": 890,
   "min_price": 355,
   "max_price": 890,
   "listed_date": "2026-07-09",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

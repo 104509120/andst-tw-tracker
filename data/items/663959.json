@@ -2,15 +2,10 @@
   "sku": "663959",
   "history": [
     {
-      "date": "2026-03-13",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 996
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=663959",
   "salepage_id": "11616887",
   "url": "https://www.dot-st.tw/SalePage/Index/11616887",
   "title": "JEANASIS拼接蕾絲滾邊羅紋針織上衣-三色-663959",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-03-13",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

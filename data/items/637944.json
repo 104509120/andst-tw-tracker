@@ -2,15 +2,10 @@
   "sku": "637944",
   "history": [
     {
-      "date": "2026-04-23",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 597
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=637944",
   "salepage_id": "11733158",
   "url": "https://www.dot-st.tw/SalePage/Index/11733158",
   "title": "LAKOLE女線繩裝飾厚底涼鞋-二色-637944",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-04-23",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

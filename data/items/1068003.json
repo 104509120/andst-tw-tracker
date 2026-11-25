@@ -2,15 +2,10 @@
   "sku": "1068003",
   "history": [
     {
-      "date": "2026-11-05",
-      "price": 2090
-    },
-    {
       "date": "2026-11-24",
       "price": 2090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1068003",
   "salepage_id": "12284477",
   "url": "https://www.dot-st.tw/SalePage/Index/12284477",
   "title": "studio CLIP剪毛燈芯絨格紋長褲-四色-1068003",
@@ -21,5 +16,6 @@
   "max_price": 2090,
   "listed_date": "2026-11-05",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

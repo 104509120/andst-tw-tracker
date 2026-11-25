@@ -2,24 +2,20 @@
   "sku": "991428",
   "history": [
     {
-      "date": "2024-05-31",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=991428",
   "salepage_id": "9835111",
   "url": "https://www.dot-st.tw/SalePage/Index/9835111",
   "title": "niko and女簡約不規則金屬扣皮帶-五色-991428",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/9835111/0/639300002476030000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/9835111/0/639312160929170000?v=1",
   "current_price": 690,
   "original_price": 690,
   "min_price": 690,
   "max_price": 690,
   "listed_date": "2024-05-31",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

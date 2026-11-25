@@ -2,15 +2,10 @@
   "sku": "639528",
   "history": [
     {
-      "date": "2026-04-21",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 916
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=639528",
   "salepage_id": "11717498",
   "url": "https://www.dot-st.tw/SalePage/Index/11717498",
   "title": "LEPSIM輕盈不厚重仿舊丹寧襯衫上衣-五色-639528",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-04-21",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

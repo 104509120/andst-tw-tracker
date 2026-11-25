@@ -2,15 +2,10 @@
   "sku": "496772",
   "history": [
     {
-      "date": "2025-12-16",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=496772",
   "salepage_id": "11436961",
   "url": "https://www.dot-st.tw/SalePage/Index/11436961",
   "title": "LAKOLE日本製七寶燒瓷盤M-二色-496772",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2025-12-16",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

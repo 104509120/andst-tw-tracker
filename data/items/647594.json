@@ -2,24 +2,20 @@
   "sku": "647594",
   "history": [
     {
-      "date": "2026-03-20",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 345
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647594",
   "salepage_id": "11640328",
   "url": "https://www.dot-st.tw/SalePage/Index/11640328",
   "title": "GLOBAL WORK女彈性蕾絲T恤短袖上衣-五色-647594",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11640328/0/639307726682900000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11640328/0/639312242497970000?v=1",
   "current_price": 345,
   "original_price": 690,
   "min_price": 345,
   "max_price": 690,
   "listed_date": "2026-03-20",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

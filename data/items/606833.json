@@ -2,15 +2,10 @@
   "sku": "606833",
   "history": [
     {
-      "date": "2025-12-11",
-      "price": 450
-    },
-    {
       "date": "2026-11-24",
       "price": 360
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=606833",
   "salepage_id": "11397965",
   "url": "https://www.dot-st.tw/SalePage/Index/11397965",
   "title": "repipi armario可愛毛絨攜帶迷你化妝鏡-四色-606833",
@@ -21,5 +16,6 @@
   "max_price": 450,
   "listed_date": "2025-12-11",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

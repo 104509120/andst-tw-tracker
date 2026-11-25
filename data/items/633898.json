@@ -2,15 +2,10 @@
   "sku": "633898",
   "history": [
     {
-      "date": "2026-04-23",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 676
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=633898",
   "salepage_id": "11733150",
   "url": "https://www.dot-st.tw/SalePage/Index/11733150",
   "title": "LAKOLE女三隔層2WAY手拿波士頓包-三色-633898",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-04-23",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

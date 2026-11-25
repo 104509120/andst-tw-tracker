@@ -2,15 +2,10 @@
   "sku": "806588",
   "history": [
     {
-      "date": "2026-09-23",
-      "price": 4590
-    },
-    {
       "date": "2026-11-24",
       "price": 4590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=806588",
   "salepage_id": "12179115",
   "url": "https://www.dot-st.tw/SalePage/Index/12179115",
   "title": "HARE女復古緹花圖樣拉鍊短版夾克外套-二色-806588",
@@ -21,5 +16,6 @@
   "max_price": 4590,
   "listed_date": "2026-09-23",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,24 @@
   "sku": "1057325",
   "history": [
     {
-      "date": "2026-09-15",
+      "date": "2026-11-24",
       "price": 2690
     },
     {
-      "date": "2026-11-24",
-      "price": 2690
+      "date": "2026-11-25",
+      "price": 1890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1057325",
   "salepage_id": "12156765",
   "url": "https://www.dot-st.tw/SalePage/Index/12156765",
   "title": "JEANASIS皮革假兩件A字短褲裙-二色-1057325",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12156765/0/639306074837800000?v=1",
-  "current_price": 2690,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12156765/0/639312240970830000?v=1",
+  "current_price": 1890,
   "original_price": 2690,
-  "min_price": 2690,
+  "min_price": 1890,
   "max_price": 2690,
   "listed_date": "2026-09-15",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

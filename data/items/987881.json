@@ -2,15 +2,10 @@
   "sku": "987881",
   "history": [
     {
-      "date": "2024-03-19",
-      "price": 1560
-    },
-    {
       "date": "2026-11-24",
       "price": 1560
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=987881",
   "salepage_id": "9633857",
   "url": "https://www.dot-st.tw/SalePage/Index/9633857",
   "title": "niko and設計師品牌Fishs Eddy抽鬚桌墊長桌巾-一色-987881",
@@ -21,5 +16,6 @@
   "max_price": 1560,
   "listed_date": "2024-03-19",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

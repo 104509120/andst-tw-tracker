@@ -2,15 +2,10 @@
   "sku": "840477",
   "history": [
     {
-      "date": "2026-09-03",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=840477",
   "salepage_id": "12127859",
   "url": "https://www.dot-st.tw/SalePage/Index/12127859",
   "title": "studio CLIP抗菌防臭無撚紗手帕毛巾-五色-840477",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-09-03",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

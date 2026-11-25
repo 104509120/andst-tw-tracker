@@ -2,15 +2,10 @@
   "sku": "1043163",
   "history": [
     {
-      "date": "2026-07-08",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 756
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1043163",
   "salepage_id": "11960274",
   "url": "https://www.dot-st.tw/SalePage/Index/11960274",
   "title": "LEPSIM開領拼接蕾絲五分袖襯衫上衣-三色-1043163",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2026-07-08",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

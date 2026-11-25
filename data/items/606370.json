@@ -2,15 +2,10 @@
   "sku": "606370",
   "history": [
     {
-      "date": "2025-11-21",
-      "price": 1600
-    },
-    {
       "date": "2026-11-24",
       "price": 1600
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=606370",
   "salepage_id": "11326335",
   "url": "https://www.dot-st.tw/SalePage/Index/11326335",
   "title": "niko and【EVANGELION30週年】新世紀福音戰士聯名徽章-十入組-606370",
@@ -21,5 +16,6 @@
   "max_price": 1600,
   "listed_date": "2025-11-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

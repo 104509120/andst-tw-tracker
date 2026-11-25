@@ -2,15 +2,10 @@
   "sku": "1048844",
   "history": [
     {
-      "date": "2026-10-21",
-      "price": 1750
-    },
-    {
       "date": "2026-11-24",
       "price": 1750
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1048844",
   "salepage_id": "12256458",
   "url": "https://www.dot-st.tw/SalePage/Index/12256458",
   "title": "niko and防寒保暖外太空主題摺疊收納抱枕毛毯-二款-1048844",
@@ -21,5 +16,6 @@
   "max_price": 1750,
   "listed_date": "2026-10-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

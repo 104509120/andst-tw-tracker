@@ -2,15 +2,10 @@
   "sku": "102313",
   "history": [
     {
-      "date": "2024-03-07",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1155
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=102313",
   "salepage_id": "9600190",
   "url": "https://www.dot-st.tw/SalePage/Index/9600190",
   "title": "GLOBAL WORK【網路限定55價】女空氣感輕量交叉綁帶運動鞋-八色-102313",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2024-03-07",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

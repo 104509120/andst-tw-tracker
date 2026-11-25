@@ -2,15 +2,10 @@
   "sku": "601444",
   "history": [
     {
-      "date": "2026-03-17",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1194
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=601444",
   "salepage_id": "11625918",
   "url": "https://www.dot-st.tw/SalePage/Index/11625918",
   "title": "niko and男基本款短袖襯衫上衣-三色-601444",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-03-17",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

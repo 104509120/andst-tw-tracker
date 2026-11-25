@@ -2,15 +2,10 @@
   "sku": "638218",
   "history": [
     {
-      "date": "2026-05-15",
-      "price": 860
-    },
-    {
       "date": "2026-11-24",
       "price": 860
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=638218",
   "salepage_id": "11800809",
   "url": "https://www.dot-st.tw/SalePage/Index/11800809",
   "title": "niko and異國風情陶瓷盤-二色-638218",
@@ -21,5 +16,6 @@
   "max_price": 860,
   "listed_date": "2026-05-15",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

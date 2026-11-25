@@ -2,15 +2,10 @@
   "sku": "661601",
   "history": [
     {
-      "date": "2026-04-09",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 894
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=661601",
   "salepage_id": "11694260",
   "url": "https://www.dot-st.tw/SalePage/Index/11694260",
   "title": "niko and女機能防臭防潑水抗UV漁夫帽附收納袋-三色-661601",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-04-09",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

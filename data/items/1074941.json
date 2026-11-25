@@ -2,24 +2,20 @@
   "sku": "1074941",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1074941",
   "salepage_id": "12273053",
   "url": "https://www.dot-st.tw/SalePage/Index/12273053",
   "title": "PAGEBOY【網路限定55價】男女PBLIM系列假兩件層次感亨利領針織長袖上衣-二色-1074941",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12273053/0/639307656406230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12273053/0/639312242845100000?v=1",
   "current_price": 1755,
   "original_price": 2690,
   "min_price": 1755,
   "max_price": 2690,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

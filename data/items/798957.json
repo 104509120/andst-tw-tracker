@@ -2,15 +2,10 @@
   "sku": "798957",
   "history": [
     {
-      "date": "2026-11-02",
-      "price": 2190
-    },
-    {
       "date": "2026-11-24",
       "price": 2190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=798957",
   "salepage_id": "12275910",
   "url": "https://www.dot-st.tw/SalePage/Index/12275910",
   "title": "HARE女金蔥不規則羅紋立領合身上衣-二色-798957",
@@ -21,5 +16,6 @@
   "max_price": 2190,
   "listed_date": "2026-11-02",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

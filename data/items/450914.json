@@ -2,15 +2,10 @@
   "sku": "450914",
   "history": [
     {
-      "date": "2025-06-18",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 516
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=450914",
   "salepage_id": "10852457",
   "url": "https://www.dot-st.tw/SalePage/Index/10852457",
   "title": "LAKOLE【官網獨售】男內側綁繩錐形七分褲-四色-450914",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2025-06-18",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "250273",
   "history": [
     {
-      "date": "2025-04-07",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=250273",
   "salepage_id": "10658133",
   "url": "https://www.dot-st.tw/SalePage/Index/10658133",
   "title": "niko and女【tiy nie yee】鐳射愛心荷葉邊束口小包-二色-250273",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2025-04-07",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

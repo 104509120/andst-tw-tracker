@@ -2,15 +2,10 @@
   "sku": "283481",
   "history": [
     {
-      "date": "2025-03-14",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 387
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=283481",
   "salepage_id": "10595653",
   "url": "https://www.dot-st.tw/SalePage/Index/10595653",
   "title": "LAKOLE男半拉鍊色塊拼接設計上衣-五色-283481",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2025-03-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

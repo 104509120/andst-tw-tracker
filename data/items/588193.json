@@ -2,15 +2,10 @@
   "sku": "588193",
   "history": [
     {
-      "date": "2026-03-06",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 483
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=588193",
   "salepage_id": "11592114",
   "url": "https://www.dot-st.tw/SalePage/Index/11592114",
   "title": "LAKOLE童可愛印花托特包《KIDS系列》-五色-588193",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-03-06",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

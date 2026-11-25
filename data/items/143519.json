@@ -2,15 +2,10 @@
   "sku": "143519",
   "history": [
     {
-      "date": "2024-10-09",
-      "price": 340
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=143519",
   "salepage_id": "10215281",
   "url": "https://www.dot-st.tw/SalePage/Index/10215281",
   "title": "niko and女【tiy nie yee】飄逸蝴蝶結段帶髮夾-二色-143519",
@@ -21,5 +16,6 @@
   "max_price": 340,
   "listed_date": "2024-10-09",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

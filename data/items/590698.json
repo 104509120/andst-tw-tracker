@@ -2,15 +2,10 @@
   "sku": "590698",
   "history": [
     {
-      "date": "2025-12-11",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 945
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=590698",
   "salepage_id": "11396000",
   "url": "https://www.dot-st.tw/SalePage/Index/11396000",
   "title": "repipi armario百搭經典穿脫方便綁帶靴-三色-590698",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2025-12-11",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

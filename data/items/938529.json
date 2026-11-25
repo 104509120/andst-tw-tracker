@@ -2,15 +2,10 @@
   "sku": "938529",
   "history": [
     {
-      "date": "2024-12-02",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 195
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=938529",
   "salepage_id": "10356549",
   "url": "https://www.dot-st.tw/SalePage/Index/10356549",
   "title": "LAKOLE側面防護罩雙面切菜板-二色-938529",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2024-12-02",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

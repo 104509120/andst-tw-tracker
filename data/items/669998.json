@@ -2,24 +2,20 @@
   "sku": "669998",
   "history": [
     {
-      "date": "2026-07-22",
-      "price": 3290
-    },
-    {
       "date": "2026-11-24",
       "price": 1316
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=669998",
   "salepage_id": "11996416",
   "url": "https://www.dot-st.tw/SalePage/Index/11996416",
   "title": "JEANASIS柔軟垂墜鬆緊腰休閒寬褲-二色-669998",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11996416/0/639310491718170000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11996416/0/639312242734300000?v=1",
   "current_price": 1316,
   "original_price": 3290,
   "min_price": 1316,
   "max_price": 3290,
   "listed_date": "2026-07-22",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

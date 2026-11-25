@@ -2,15 +2,10 @@
   "sku": "657112",
   "history": [
     {
-      "date": "2026-08-28",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=657112",
   "salepage_id": "12111420",
   "url": "https://www.dot-st.tw/SalePage/Index/12111420",
   "title": "LAKOLE迷你玉子燒煎鍋(9&#215;14cm)-一色-657112",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-08-28",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

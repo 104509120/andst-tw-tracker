@@ -1,11 +1,6 @@
 {
   "sku": "1080962",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1080962",
   "history": [
-    {
-      "date": "2026-11-18",
-      "price": 1290
-    },
     {
       "date": "2026-11-24",
       "price": 1290
@@ -14,12 +9,13 @@
   "salepage_id": "12317471",
   "url": "https://www.dot-st.tw/SalePage/Index/12317471",
   "title": "GLOBAL WORK女磨毛細褶微喇叭長褲-三色-1080962",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12317471/0/639306130181030000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12317471/0/639312026159130000?v=1",
   "current_price": 1290,
   "original_price": 1290,
   "min_price": 1290,
   "max_price": 1290,
   "listed_date": "2026-11-18",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

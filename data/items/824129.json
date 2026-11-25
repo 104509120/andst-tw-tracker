@@ -2,15 +2,10 @@
   "sku": "824129",
   "history": [
     {
-      "date": "2026-11-12",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=824129",
   "salepage_id": "12302572",
   "url": "https://www.dot-st.tw/SalePage/Index/12302572",
   "title": "studio CLIP日本製花卉緹花2WAY小托特包S-三色-824129",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-11-12",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

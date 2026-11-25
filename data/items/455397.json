@@ -2,15 +2,10 @@
   "sku": "455397",
   "history": [
     {
-      "date": "2025-07-24",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=455397",
   "salepage_id": "10974676",
   "url": "https://www.dot-st.tw/SalePage/Index/10974676",
   "title": "niko and品牌OLD SMITH折疊直立式掃把畚箕組合-二色-455397",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2025-07-24",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

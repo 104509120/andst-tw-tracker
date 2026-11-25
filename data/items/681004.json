@@ -2,15 +2,10 @@
   "sku": "681004",
   "history": [
     {
-      "date": "2026-11-11",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 2990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=681004",
   "salepage_id": "12298872",
   "url": "https://www.dot-st.tw/SalePage/Index/12298872",
   "title": "GLOBAL WORK女輕盈保暖翻領飛行外套-二色-681004",
@@ -21,5 +16,6 @@
   "max_price": 2990,
   "listed_date": "2026-11-11",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

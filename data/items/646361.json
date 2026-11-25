@@ -2,15 +2,10 @@
   "sku": "646361",
   "history": [
     {
-      "date": "2026-04-22",
-      "price": 160
-    },
-    {
       "date": "2026-11-24",
       "price": 160
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=646361",
   "salepage_id": "11730523",
   "url": "https://www.dot-st.tw/SalePage/Index/11730523",
   "title": "repipi armario撞色線條寬鬆長襪-五色-646361",
@@ -21,5 +16,6 @@
   "max_price": 160,
   "listed_date": "2026-04-22",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

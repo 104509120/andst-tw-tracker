@@ -2,15 +2,10 @@
   "sku": "1049048",
   "history": [
     {
-      "date": "2026-07-29",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1049048",
   "salepage_id": "12025411",
   "url": "https://www.dot-st.tw/SalePage/Index/12025411",
   "title": "LEPSIM寬版肩帶多WAY拉鍊網紗拼接背心-三色-1049048",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-07-29",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

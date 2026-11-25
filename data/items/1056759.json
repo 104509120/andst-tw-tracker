@@ -2,24 +2,20 @@
   "sku": "1056759",
   "history": [
     {
-      "date": "2026-09-08",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1056759",
   "salepage_id": "12140471",
   "url": "https://www.dot-st.tw/SalePage/Index/12140471",
   "title": "PAGEBOY男女PBLIM系列鴕鳥紋皮帶-二色-1056759",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12140471/0/639305115903900000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12140471/0/639312015033200000?v=1",
   "current_price": 690,
   "original_price": 990,
   "min_price": 690,
   "max_price": 990,
   "listed_date": "2026-09-08",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "1048911",
   "history": [
     {
-      "date": "2026-09-24",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1048911",
   "salepage_id": "12181969",
   "url": "https://www.dot-st.tw/SalePage/Index/12181969",
   "title": "LOWRYS FARM童蓬袖寬鬆大學T-四色-1048911",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12181969/0/639307793299730000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12181969/0/639312229439930000?v=1",
   "current_price": 790,
   "original_price": 790,
   "min_price": 790,
   "max_price": 790,
   "listed_date": "2026-09-24",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

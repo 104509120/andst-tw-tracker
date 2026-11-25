@@ -2,24 +2,20 @@
   "sku": "672567",
   "history": [
     {
-      "date": "2026-04-29",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=672567",
   "salepage_id": "11749552",
   "url": "https://www.dot-st.tw/SalePage/Index/11749552",
   "title": "Heather蕾絲滾邊綁繩開襟針織外套上衣-三色-672567",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11749552/0/639289503177870000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11749552/0/639312242498670000?v=1",
   "current_price": 1490,
   "original_price": 1690,
   "min_price": 1490,
   "max_price": 1690,
   "listed_date": "2026-04-29",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

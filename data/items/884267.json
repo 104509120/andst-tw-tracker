@@ -2,16 +2,11 @@
   "sku": "884267",
   "history": [
     {
-      "date": "2026-09-24",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1183
     }
   ],
   "listed_date": "2026-09-24",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=884267",
   "salepage_id": "12171530",
   "url": "https://www.dot-st.tw/SalePage/Index/12171530",
   "title": "studio CLIP【魔法小天使クリィミーマミ聯名】經典場景印花T恤上衣-四色-884267",
@@ -21,5 +16,6 @@
   "min_price": 1183,
   "max_price": 1690,
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

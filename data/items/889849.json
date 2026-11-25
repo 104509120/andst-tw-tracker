@@ -2,15 +2,10 @@
   "sku": "889849",
   "history": [
     {
-      "date": "2026-07-15",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=889849",
   "salepage_id": "11976065",
   "url": "https://www.dot-st.tw/SalePage/Index/11976065",
   "title": "GLOBAL WORK男大尺寸鑰匙圈吊飾-四款-889849",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-07-15",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

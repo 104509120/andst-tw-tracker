@@ -2,24 +2,20 @@
   "sku": "1044884",
   "history": [
     {
-      "date": "2026-07-28",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1044884",
   "salepage_id": "12021110",
   "url": "https://www.dot-st.tw/SalePage/Index/12021110",
   "title": "Heather【網路限定55價】蝴蝶結大容量波士頓托特包-四色-1044884",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12021110/0/639307647289230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12021110/0/639312003019070000?v=1",
   "current_price": 1755,
   "original_price": 2290,
   "min_price": 1755,
   "max_price": 2290,
   "listed_date": "2026-07-28",
   "updated_at": "2026-11-25",
-  "brand": "Heather"
+  "brand": "Heather",
+  "first_seen": "2026-11-24"
 }

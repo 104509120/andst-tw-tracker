@@ -2,15 +2,10 @@
   "sku": "498931",
   "history": [
     {
-      "date": "2025-09-12",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 507
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=498931",
   "salepage_id": "11101954",
   "url": "https://www.dot-st.tw/SalePage/Index/11101954",
   "title": "LAKOLE【官網獨售】男半拉鍊T恤上衣-二色-498931",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2025-09-12",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

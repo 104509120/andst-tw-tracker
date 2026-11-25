@@ -2,24 +2,20 @@
   "sku": "902751",
   "history": [
     {
-      "date": "2026-08-18",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=902751",
   "salepage_id": "12076118",
   "url": "https://www.dot-st.tw/SalePage/Index/12076118",
   "title": "GLOBAL WORK女羅紋透膚V領長袖針織外套-三色-902751",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12076118/0/639311144893470000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12076118/0/639312242749830000?v=1",
   "current_price": 890,
   "original_price": 1290,
   "min_price": 890,
   "max_price": 1290,
   "listed_date": "2026-08-18",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

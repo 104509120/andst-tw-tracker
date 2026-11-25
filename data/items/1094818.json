@@ -2,15 +2,10 @@
   "sku": "1094818",
   "history": [
     {
-      "date": "2026-10-23",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1094818",
   "salepage_id": "12260794",
   "url": "https://www.dot-st.tw/SalePage/Index/12260794",
   "title": "Heather氣質光澤垂墜珍珠髮圈-二色-1094818",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2026-10-23",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

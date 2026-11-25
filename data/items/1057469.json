@@ -2,15 +2,10 @@
   "sku": "1057469",
   "history": [
     {
-      "date": "2026-10-16",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1057469",
   "salepage_id": "12244397",
   "url": "https://www.dot-st.tw/SalePage/Index/12244397",
   "title": "niko and男NATOKii迷彩圖案刺繡棒球帽-二色-1057469",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-10-16",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

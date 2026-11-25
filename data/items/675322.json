@@ -2,15 +2,10 @@
   "sku": "675322",
   "history": [
     {
-      "date": "2026-05-13",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 796
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=675322",
   "salepage_id": "11791800",
   "url": "https://www.dot-st.tw/SalePage/Index/11791800",
   "title": "studio CLIP層次感流蘇紗線針織背心-二色-675322",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-05-13",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

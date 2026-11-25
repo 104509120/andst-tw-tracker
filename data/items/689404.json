@@ -2,24 +2,20 @@
   "sku": "689404",
   "history": [
     {
-      "date": "2026-10-05",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=689404",
   "salepage_id": "12209720",
   "url": "https://www.dot-st.tw/SalePage/Index/12209720",
   "title": "niko and女【P-kies Family聯名】印花短袖T恤上衣-四色-689404",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12209720/0/639300744071730000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12209720/0/639312242815030000?v=1",
   "current_price": 1290,
   "original_price": 1690,
   "min_price": 1290,
   "max_price": 1690,
   "listed_date": "2026-10-05",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

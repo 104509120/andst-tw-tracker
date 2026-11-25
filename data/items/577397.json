@@ -2,15 +2,10 @@
   "sku": "577397",
   "history": [
     {
-      "date": "2026-03-16",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=577397",
   "salepage_id": "11620890",
   "url": "https://www.dot-st.tw/SalePage/Index/11620890",
   "title": "studio CLIP撞色多口袋手提收納包-二色-577397",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2026-03-16",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

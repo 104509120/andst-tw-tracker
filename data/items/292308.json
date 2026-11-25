@@ -2,15 +2,10 @@
   "sku": "292308",
   "history": [
     {
-      "date": "2025-05-29",
-      "price": 230
-    },
-    {
       "date": "2026-11-24",
       "price": 230
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=292308",
   "salepage_id": "10794800",
   "url": "https://www.dot-st.tw/SalePage/Index/10794800",
   "title": "niko and多款可愛圖樣手帳貼紙-三款-292308",
@@ -21,5 +16,6 @@
   "max_price": 230,
   "listed_date": "2025-05-29",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

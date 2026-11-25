@@ -2,15 +2,10 @@
   "sku": "452402",
   "history": [
     {
-      "date": "2025-05-26",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=452402",
   "salepage_id": "10784543",
   "url": "https://www.dot-st.tw/SalePage/Index/10784543",
   "title": "studio CLIP圖樣戳針刺繡套件組-二色-452402",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2025-05-26",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

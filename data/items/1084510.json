@@ -2,15 +2,10 @@
   "sku": "1084510",
   "history": [
     {
-      "date": "2026-11-13",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1084510",
   "salepage_id": "12306226",
   "url": "https://www.dot-st.tw/SalePage/Index/12306226",
   "title": "Heather荷葉傘襬收腰V領附綁繩針織上衣-三色-1084510",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-11-13",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

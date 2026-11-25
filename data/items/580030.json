@@ -2,15 +2,10 @@
   "sku": "580030",
   "history": [
     {
-      "date": "2025-11-06",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=580030",
   "salepage_id": "11295659",
   "url": "https://www.dot-st.tw/SalePage/Index/11295659",
   "title": "niko and女【tiy nie yee】愛心珠珠戒指-二色-580030",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2025-11-06",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

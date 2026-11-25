@@ -2,15 +2,10 @@
   "sku": "606228",
   "history": [
     {
-      "date": "2025-10-29",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 1155
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=606228",
   "salepage_id": "11264058",
   "url": "https://www.dot-st.tw/SalePage/Index/11264058",
   "title": "JEANASIS【網路限定55價】閃鑽亮片網紗迷你裙-二色-606228",
@@ -21,5 +16,6 @@
   "max_price": 2990,
   "listed_date": "2025-10-29",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

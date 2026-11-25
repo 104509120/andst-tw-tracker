@@ -2,15 +2,10 @@
   "sku": "581437",
   "history": [
     {
-      "date": "2025-10-31",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=581437",
   "salepage_id": "11270689",
   "url": "https://www.dot-st.tw/SalePage/Index/11270689",
   "title": "studio CLIP霧感圓點小貓直傘雨傘-二色-581437",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2025-10-31",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

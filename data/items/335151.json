@@ -2,15 +2,10 @@
   "sku": "335151",
   "history": [
     {
-      "date": "2021-06-04",
-      "price": 510
-    },
-    {
       "date": "2026-11-24",
       "price": 510
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=335151",
   "salepage_id": "7065031",
   "url": "https://www.dot-st.tw/SalePage/Index/7065031",
   "title": "studio CLIP日本製美濃燒職人製馬克杯(240ml)-一色-335151",
@@ -21,5 +16,6 @@
   "max_price": 510,
   "listed_date": "2021-06-04",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

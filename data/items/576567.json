@@ -2,15 +2,10 @@
   "sku": "576567",
   "history": [
     {
-      "date": "2025-08-28",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=576567",
   "salepage_id": "11058169",
   "url": "https://www.dot-st.tw/SalePage/Index/11058169",
   "title": "Me%【蠟筆小新聯名】可愛名牌鑰匙圈吊飾-三色-576567",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2025-08-28",
   "updated_at": "2026-11-25",
-  "brand": "Me%"
+  "brand": "Me%",
+  "first_seen": "2026-11-24"
 }

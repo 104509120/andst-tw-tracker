@@ -2,15 +2,10 @@
   "sku": "638492",
   "history": [
     {
-      "date": "2026-04-14",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 203
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=638492",
   "salepage_id": "11707171",
   "url": "https://www.dot-st.tw/SalePage/Index/11707171",
   "title": "niko and【ZOO ZOO ZOO FUUU!!】動物園主題造型磁鐵-三款-638492",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-04-14",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

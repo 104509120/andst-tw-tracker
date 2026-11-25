@@ -2,24 +2,20 @@
   "sku": "181895",
   "history": [
     {
-      "date": "2023-08-16",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=181895",
   "salepage_id": "9103344",
   "url": "https://www.dot-st.tw/SalePage/Index/9103344",
   "title": "HARE男金屬方頭釦環牛皮皮帶-三色-181895",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/9103344/0/639301606434070000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/9103344/0/639312044397530000?v=1",
   "current_price": 1990,
   "original_price": 1990,
   "min_price": 1990,
   "max_price": 1990,
   "listed_date": "2023-08-16",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

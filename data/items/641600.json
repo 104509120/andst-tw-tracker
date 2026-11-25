@@ -2,15 +2,10 @@
   "sku": "641600",
   "history": [
     {
-      "date": "2026-03-21",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 1995
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=641600",
   "salepage_id": "11643426",
   "url": "https://www.dot-st.tw/SalePage/Index/11643426",
   "title": "niko and男NATOKii復古印花吊帶褲-二色-641600",
@@ -21,5 +16,6 @@
   "max_price": 3990,
   "listed_date": "2026-03-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

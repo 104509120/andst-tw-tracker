@@ -2,15 +2,10 @@
   "sku": "639385",
   "history": [
     {
-      "date": "2026-03-26",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 596
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=639385",
   "salepage_id": "11658382",
   "url": "https://www.dot-st.tw/SalePage/Index/11658382",
   "title": "LEPSIM媽媽系列舒適彈性楊柳材質長褲-五色-639385",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-03-26",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

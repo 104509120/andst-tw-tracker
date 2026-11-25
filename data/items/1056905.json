@@ -2,15 +2,10 @@
   "sku": "1056905",
   "history": [
     {
-      "date": "2026-10-07",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 2990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1056905",
   "salepage_id": "12221301",
   "url": "https://www.dot-st.tw/SalePage/Index/12221301",
   "title": "LOWRYS FARM【LFM(U)】男女UNISEX系列復古感丹寧寬版直筒褲-二色-1056905",
@@ -21,5 +16,6 @@
   "max_price": 2990,
   "listed_date": "2026-10-07",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

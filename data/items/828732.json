@@ -2,15 +2,10 @@
   "sku": "828732",
   "history": [
     {
-      "date": "2026-09-16",
-      "price": 2890
-    },
-    {
       "date": "2026-11-24",
       "price": 2023
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=828732",
   "salepage_id": "12160056",
   "url": "https://www.dot-st.tw/SalePage/Index/12160056",
   "title": "studio CLIP【品牌好友｜曾敬驊 江齊著用款】澎袖牛仔短版夾克-二色-828732",
@@ -21,5 +16,6 @@
   "max_price": 2890,
   "listed_date": "2026-09-16",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1063460",
   "history": [
     {
-      "date": "2026-09-30",
-      "price": 4290
-    },
-    {
       "date": "2026-11-24",
       "price": 4290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1063460",
   "salepage_id": "12191206",
   "url": "https://www.dot-st.tw/SalePage/Index/12191206",
   "title": "HARE女抓皺設計拉鍊短版連帽休閒外套-二色-1063460",
@@ -21,5 +16,6 @@
   "max_price": 4290,
   "listed_date": "2026-09-30",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

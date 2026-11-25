@@ -2,15 +2,10 @@
   "sku": "1067319",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1067319",
   "salepage_id": "12274058",
   "url": "https://www.dot-st.tw/SalePage/Index/12274058",
   "title": "LAKOLE女優雅米粒鏈條不鏽鋼項鍊-二色-1067319",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

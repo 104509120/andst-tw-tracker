@@ -2,15 +2,10 @@
   "sku": "636468",
   "history": [
     {
-      "date": "2026-01-08",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=636468",
   "salepage_id": "11465934",
   "url": "https://www.dot-st.tw/SalePage/Index/11465934",
   "title": "LEPSIM童貼布徽章印花長袖上衣-二色-636468",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-01-08",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "1064598",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 3490
-    },
-    {
       "date": "2026-11-24",
       "price": 3490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1064598",
   "salepage_id": "12274105",
   "url": "https://www.dot-st.tw/SalePage/Index/12274105",
   "title": "niko and女燈芯絨領拼接夾克外套-三色-1064598",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12274105/0/639311265717700000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12274105/0/639312160888030000?v=1",
   "current_price": 3490,
   "original_price": 3490,
   "min_price": 3490,
   "max_price": 3490,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

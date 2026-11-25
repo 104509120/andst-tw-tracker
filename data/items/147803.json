@@ -2,15 +2,10 @@
   "sku": "147803",
   "history": [
     {
-      "date": "2025-02-04",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=147803",
   "salepage_id": "10492869",
   "url": "https://www.dot-st.tw/SalePage/Index/10492869",
   "title": "studio CLIP日本製柔和格紋木筷-四色-147803",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2025-02-04",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

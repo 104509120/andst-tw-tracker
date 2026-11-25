@@ -2,15 +2,10 @@
   "sku": "1070370",
   "history": [
     {
-      "date": "2026-10-21",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1070370",
   "salepage_id": "12256183",
   "url": "https://www.dot-st.tw/SalePage/Index/12256183",
   "title": "LEPSIM【網路限定55價】緹花2WAY長絨毛混色針織開襟罩衫上衣-四色-1070370",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-10-21",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

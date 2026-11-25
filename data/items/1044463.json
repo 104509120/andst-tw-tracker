@@ -2,15 +2,10 @@
   "sku": "1044463",
   "history": [
     {
-      "date": "2026-07-22",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 676
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1044463",
   "salepage_id": "11996507",
   "url": "https://www.dot-st.tw/SalePage/Index/11996507",
   "title": "LEPSIM混色英文印花寬版T恤上衣-四色-1044463",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-07-22",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

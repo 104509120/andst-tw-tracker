@@ -2,15 +2,10 @@
   "sku": "598441",
   "history": [
     {
-      "date": "2025-10-31",
-      "price": 2090
-    },
-    {
       "date": "2026-11-24",
       "price": 836
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=598441",
   "salepage_id": "11272909",
   "url": "https://www.dot-st.tw/SalePage/Index/11272909",
   "title": "studio CLIP柔軟V領長絨毛針織外套-二色-598441",
@@ -21,5 +16,6 @@
   "max_price": 2090,
   "listed_date": "2025-10-31",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

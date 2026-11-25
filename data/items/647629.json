@@ -2,24 +2,20 @@
   "sku": "647629",
   "history": [
     {
-      "date": "2026-01-30",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647629",
   "salepage_id": "11529288",
   "url": "https://www.dot-st.tw/SalePage/Index/11529288",
   "title": "JEANASIS【網路限定55價】基本破壞感圓領長袖上衣大學T-三色-647629",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11529288/0/639307647600700000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11529288/0/639312242634300000?v=1",
   "current_price": 955,
   "original_price": 2490,
   "min_price": 955,
   "max_price": 2490,
   "listed_date": "2026-01-30",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

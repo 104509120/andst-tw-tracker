@@ -2,15 +2,10 @@
   "sku": "660758",
   "history": [
     {
-      "date": "2026-07-09",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=660758",
   "salepage_id": "11965073",
   "url": "https://www.dot-st.tw/SalePage/Index/11965073",
   "title": "LAKOLE女四葉水鑽項鍊-二色-660758",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-07-09",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

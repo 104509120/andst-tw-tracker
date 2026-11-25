@@ -2,15 +2,10 @@
   "sku": "571182",
   "history": [
     {
-      "date": "2025-11-12",
-      "price": 5490
-    },
-    {
       "date": "2026-11-24",
       "price": 2755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=571182",
   "salepage_id": "11211190",
   "url": "https://www.dot-st.tw/SalePage/Index/11211190",
   "title": "HARE【網路限定55價】男奢華感飛行雙頭拉鍊短版夾克外套-六色-571182",
@@ -21,5 +16,6 @@
   "max_price": 5490,
   "listed_date": "2025-11-12",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

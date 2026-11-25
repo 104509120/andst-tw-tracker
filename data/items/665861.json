@@ -2,15 +2,10 @@
   "sku": "665861",
   "history": [
     {
-      "date": "2026-08-05",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=665861",
   "salepage_id": "12041297",
   "url": "https://www.dot-st.tw/SalePage/Index/12041297",
   "title": "repipi armario網眼圖樣設計束口後背包-四色-665861",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-08-05",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

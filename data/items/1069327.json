@@ -2,24 +2,24 @@
   "sku": "1069327",
   "history": [
     {
-      "date": "2026-09-30",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
+    },
+    {
+      "date": "2026-11-25",
+      "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1069327",
   "salepage_id": "12193935",
   "url": "https://www.dot-st.tw/SalePage/Index/12193935",
   "title": "Heather修身顯瘦微喇叭西裝長褲-二色-1069327",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12193935/0/639311256275930000?v=1",
-  "current_price": 1290,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12193935/0/639312020351930000?v=1",
+  "current_price": 990,
   "original_price": 2290,
-  "min_price": 1290,
+  "min_price": 990,
   "max_price": 2290,
   "listed_date": "2026-09-30",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

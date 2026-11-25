@@ -2,16 +2,11 @@
   "sku": "670090",
   "history": [
     {
-      "date": "2026-07-23",
-      "price": 1090
-    },
-    {
       "date": "2026-11-24",
       "price": 763
     }
   ],
   "listed_date": "2026-07-23",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=670090",
   "salepage_id": "11985513",
   "url": "https://www.dot-st.tw/SalePage/Index/11985513",
   "title": "studio CLIP【ぽっこしPOKKOSHI聯名】衛生紙套-一款-670090",
@@ -21,5 +16,6 @@
   "min_price": 763,
   "max_price": 1090,
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

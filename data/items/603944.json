@@ -2,15 +2,10 @@
   "sku": "603944",
   "history": [
     {
-      "date": "2025-11-21",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=603944",
   "salepage_id": "11340414",
   "url": "https://www.dot-st.tw/SalePage/Index/11340414",
   "title": "LEPSIM毛絨V領針織開襟衫外套-四色-603944",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2025-11-21",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

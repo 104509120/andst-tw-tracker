@@ -2,24 +2,20 @@
   "sku": "1078444",
   "history": [
     {
-      "date": "2026-10-07",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1078444",
   "salepage_id": "12220232",
   "url": "https://www.dot-st.tw/SalePage/Index/12220232",
   "title": "niko and女層次感荷葉邊華夫格針織長袖上衣-二色-1078444",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12220232/0/639310431941030000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12220232/0/639312242829830000?v=1",
   "current_price": 1490,
   "original_price": 1990,
   "min_price": 1490,
   "max_price": 1990,
   "listed_date": "2026-10-07",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "989350",
   "history": [
     {
-      "date": "2024-12-02",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=989350",
   "salepage_id": "10356626",
   "url": "https://www.dot-st.tw/SalePage/Index/10356626",
   "title": "LAKOLE不鏽鋼多功能廚房刀具(16.5cm)-一色-989350",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2024-12-02",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

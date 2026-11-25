@@ -2,15 +2,10 @@
   "sku": "576137",
   "history": [
     {
-      "date": "2025-10-17",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=576137",
   "salepage_id": "11234434",
   "url": "https://www.dot-st.tw/SalePage/Index/11234434",
   "title": "LAKOLE香氛石擴香器FLOWER ISLAND款《FLOWER系列》-一色-576137",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2025-10-17",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

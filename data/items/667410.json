@@ -2,15 +2,10 @@
   "sku": "667410",
   "history": [
     {
-      "date": "2026-10-19",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=667410",
   "salepage_id": "12247807",
   "url": "https://www.dot-st.tw/SalePage/Index/12247807",
   "title": "niko and【網路限定55價】女格紋不對稱拼接長裙(長版/短版)-四色-667410",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-10-19",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "592242",
   "history": [
     {
-      "date": "2025-11-26",
-      "price": 550
-    },
-    {
       "date": "2026-11-24",
       "price": 385
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=592242",
   "salepage_id": "11352379",
   "url": "https://www.dot-st.tw/SalePage/Index/11352379",
   "title": "repipi armario字母LOGO可愛毛絨吊飾-三色-592242",
@@ -21,5 +16,6 @@
   "max_price": 550,
   "listed_date": "2025-11-26",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

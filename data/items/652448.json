@@ -2,15 +2,10 @@
   "sku": "652448",
   "history": [
     {
-      "date": "2026-02-25",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 916
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=652448",
   "salepage_id": "11573770",
   "url": "https://www.dot-st.tw/SalePage/Index/11573770",
   "title": "LEPSIM彈性光澤緞面細肩帶洋裝-二色-652448",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-02-25",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

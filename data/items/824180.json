@@ -2,15 +2,10 @@
   "sku": "824180",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=824180",
   "salepage_id": "12270186",
   "url": "https://www.dot-st.tw/SalePage/Index/12270186",
   "title": "LOWRYS FARM女異材質荷葉襬針織上衣罩衫-三色-824180",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

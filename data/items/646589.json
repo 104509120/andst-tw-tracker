@@ -2,15 +2,10 @@
   "sku": "646589",
   "history": [
     {
-      "date": "2026-04-09",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 596
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=646589",
   "salepage_id": "11694990",
   "url": "https://www.dot-st.tw/SalePage/Index/11694990",
   "title": "LAKOLE男輕盈滑順素色圖案襯衫上衣-五色-646589",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-04-09",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1067343",
   "history": [
     {
-      "date": "2026-09-30",
-      "price": 4290
-    },
-    {
       "date": "2026-11-24",
       "price": 4055
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1067343",
   "salepage_id": "12190524",
   "url": "https://www.dot-st.tw/SalePage/Index/12190524",
   "title": "PAGEBOY【網路限定55價】附腰帶丹寧連身裙-二色-1067343",
@@ -21,5 +16,6 @@
   "max_price": 4290,
   "listed_date": "2026-09-30",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "1069248",
   "history": [
     {
-      "date": "2026-09-30",
-      "price": 3690
-    },
-    {
       "date": "2026-11-24",
       "price": 2755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1069248",
   "salepage_id": "12190526",
   "url": "https://www.dot-st.tw/SalePage/Index/12190526",
   "title": "PAGEBOY【網路限定55價】【品牌好友｜曾敬驊 江齊著用款】男女PBLIM系列附腰帶燈芯絨直筒褲-二色-1069248",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12190526/0/639307656402870000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12190526/0/639312242815030000?v=1",
   "current_price": 2755,
   "original_price": 3690,
   "min_price": 2755,
   "max_price": 3690,
   "listed_date": "2026-09-30",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

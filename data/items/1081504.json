@@ -2,15 +2,10 @@
   "sku": "1081504",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1081504",
   "salepage_id": "12273210",
   "url": "https://www.dot-st.tw/SalePage/Index/12273210",
   "title": "Heather愛心珍珠水鑽髮夾二件組-二色-1081504",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

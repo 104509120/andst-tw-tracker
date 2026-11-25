@@ -2,15 +2,10 @@
   "sku": "1088941",
   "history": [
     {
-      "date": "2026-11-05",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1088941",
   "salepage_id": "12285075",
   "url": "https://www.dot-st.tw/SalePage/Index/12285075",
   "title": "GLOBAL WORK女撞色LOGO大學T恤長袖上衣-四色-1088941",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-11-05",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

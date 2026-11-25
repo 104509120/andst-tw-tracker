@@ -2,15 +2,10 @@
   "sku": "1055074",
   "history": [
     {
-      "date": "2026-08-21",
-      "price": 4590
-    },
-    {
       "date": "2026-11-24",
       "price": 3855
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1055074",
   "salepage_id": "12079787",
   "url": "https://www.dot-st.tw/SalePage/Index/12079787",
   "title": "HARE【網路限定55價】男【晴祭GOSHOW&#215;HARE【網路限定55價】】水墨暈染設計側邊編織襯衫上衣-二色-1055074",
@@ -21,5 +16,6 @@
   "max_price": 4590,
   "listed_date": "2026-08-21",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "643633",
   "history": [
     {
-      "date": "2026-04-24",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 645
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=643633",
   "salepage_id": "11737980",
   "url": "https://www.dot-st.tw/SalePage/Index/11737980",
   "title": "niko and女經典花紋零錢包吊飾肩背手提包-五色-643633",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-04-24",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

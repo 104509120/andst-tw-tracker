@@ -2,15 +2,10 @@
   "sku": "634846",
   "history": [
     {
-      "date": "2026-08-28",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=634846",
   "salepage_id": "12111409",
   "url": "https://www.dot-st.tw/SalePage/Index/12111409",
   "title": "LAKOLE環保圓形花盆托盤S-三色-634846",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2026-08-28",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

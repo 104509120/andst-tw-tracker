@@ -2,15 +2,10 @@
   "sku": "1023536",
   "history": [
     {
-      "date": "2026-08-13",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 855
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1023536",
   "salepage_id": "12066140",
   "url": "https://www.dot-st.tw/SalePage/Index/12066140",
   "title": "LEPSIM【網路限定55價】可調式細肩帶百搭吊帶長褲-三色-1023536",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2026-08-13",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

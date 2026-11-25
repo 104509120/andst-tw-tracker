@@ -2,15 +2,10 @@
   "sku": "1051142",
   "history": [
     {
-      "date": "2026-08-26",
-      "price": 2190
-    },
-    {
       "date": "2026-11-24",
       "price": 1755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1051142",
   "salepage_id": "12101530",
   "url": "https://www.dot-st.tw/SalePage/Index/12101530",
   "title": "HARE【網路限定55價】女袖部薄紗拼接絲絨鏤空長袖上衣-二色-1051142",
@@ -21,5 +16,6 @@
   "max_price": 2190,
   "listed_date": "2026-08-26",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

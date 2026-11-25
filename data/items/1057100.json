@@ -2,15 +2,10 @@
   "sku": "1057100",
   "history": [
     {
-      "date": "2026-09-11",
-      "price": 5290
-    },
-    {
       "date": "2026-11-24",
       "price": 4155
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1057100",
   "salepage_id": "12149410",
   "url": "https://www.dot-st.tw/SalePage/Index/12149410",
   "title": "HARE【網路限定55價】女模糊花朵圖樣多層次傘狀長裙-二色-1057100",
@@ -21,5 +16,6 @@
   "max_price": 5290,
   "listed_date": "2026-09-11",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

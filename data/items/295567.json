@@ -2,15 +2,10 @@
   "sku": "295567",
   "history": [
     {
-      "date": "2022-07-22",
-      "price": 430
-    },
-    {
       "date": "2026-11-24",
       "price": 430
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=295567",
   "salepage_id": "7977881",
   "url": "https://www.dot-st.tw/SalePage/Index/7977881",
   "title": "niko and品牌LOGO刺繡多功能收納筆袋-二色-295567",
@@ -21,5 +16,6 @@
   "max_price": 430,
   "listed_date": "2022-07-22",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "1096098",
   "history": [
     {
-      "date": "2026-11-11",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1096098",
   "salepage_id": "12300276",
   "url": "https://www.dot-st.tw/SalePage/Index/12300276",
   "title": "Heather【網路限定55價】花朵紗網氣球下襬拼接羅紋針織上衣-三色-1096098",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12300276/0/639311159292100000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12300276/0/639312003087770000?v=1",
   "current_price": 1655,
   "original_price": 2290,
   "min_price": 1655,
   "max_price": 2290,
   "listed_date": "2026-11-11",
   "updated_at": "2026-11-25",
-  "brand": "Heather"
+  "brand": "Heather",
+  "first_seen": "2026-11-24"
 }

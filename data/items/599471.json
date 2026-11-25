@@ -2,15 +2,10 @@
   "sku": "599471",
   "history": [
     {
-      "date": "2025-12-01",
-      "price": 660
-    },
-    {
       "date": "2026-11-24",
       "price": 660
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=599471",
   "salepage_id": "11364516",
   "url": "https://www.dot-st.tw/SalePage/Index/11364516",
   "title": "niko and品牌LOGO密碼鎖行李束帶-二色-599471",
@@ -21,5 +16,6 @@
   "max_price": 660,
   "listed_date": "2025-12-01",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

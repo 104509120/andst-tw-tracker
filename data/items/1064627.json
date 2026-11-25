@@ -2,24 +2,20 @@
   "sku": "1064627",
   "history": [
     {
-      "date": "2026-11-11",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1064627",
   "salepage_id": "12300093",
   "url": "https://www.dot-st.tw/SalePage/Index/12300093",
   "title": "LAKOLE【網路限定55價】男不規則散落英文針織上衣-三色-1064627",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12300093/0/639307650302070000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12300093/0/639312134927230000?v=1",
   "current_price": 955,
   "original_price": 1690,
   "min_price": 955,
   "max_price": 1690,
   "listed_date": "2026-11-11",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

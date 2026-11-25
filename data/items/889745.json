@@ -2,15 +2,10 @@
   "sku": "889745",
   "history": [
     {
-      "date": "2026-10-15",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=889745",
   "salepage_id": "12240630",
   "url": "https://www.dot-st.tw/SalePage/Index/12240630",
   "title": "LEPSIM【網路限定55價】【滿足感針織系列】可機洗不易起毛球大V領2WAY針織長袖上衣-四色-889745",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-10-15",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "1017620",
   "history": [
     {
-      "date": "2026-07-16",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1017620",
   "salepage_id": "11979102",
   "url": "https://www.dot-st.tw/SalePage/Index/11979102",
   "title": "JEANASIS【網路限定55價】接觸涼感印花寬版鬆緊長褲-六色-1017620",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11979102/0/639307647537770000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11979102/0/639312242734300000?v=1",
   "current_price": 955,
   "original_price": 2690,
   "min_price": 955,
   "max_price": 2690,
   "listed_date": "2026-07-16",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

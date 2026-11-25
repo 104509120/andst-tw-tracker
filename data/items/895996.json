@@ -2,15 +2,10 @@
   "sku": "895996",
   "history": [
     {
-      "date": "2026-08-28",
-      "price": 510
-    },
-    {
       "date": "2026-11-24",
       "price": 510
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=895996",
   "salepage_id": "12112728",
   "url": "https://www.dot-st.tw/SalePage/Index/12112728",
   "title": "niko and七彩雷射透明iPhone16手機殼-二色-895996",
@@ -21,5 +16,6 @@
   "max_price": 510,
   "listed_date": "2026-08-28",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

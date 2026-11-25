@@ -2,24 +2,20 @@
   "sku": "664901",
   "history": [
     {
-      "date": "2026-04-09",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=664901",
   "salepage_id": "11694371",
   "url": "https://www.dot-st.tw/SalePage/Index/11694371",
   "title": "repipi armario【網路限定55價】流蘇丹寧內裡涼感材質百褶短裙(不含襪套)-四色-664901",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11694371/0/639310387278630000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11694371/0/639312242685200000?v=1",
   "current_price": 555,
   "original_price": 1890,
   "min_price": 555,
   "max_price": 1890,
   "listed_date": "2026-04-09",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

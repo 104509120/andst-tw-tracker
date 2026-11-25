@@ -2,15 +2,10 @@
   "sku": "1080859",
   "history": [
     {
-      "date": "2026-11-12",
-      "price": 4590
-    },
-    {
       "date": "2026-11-24",
       "price": 4590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1080859",
   "salepage_id": "12299941",
   "url": "https://www.dot-st.tw/SalePage/Index/12299941",
   "title": "HARE女雙層腰頭植絨丹寧寬褲-三色-1080859",
@@ -21,5 +16,6 @@
   "max_price": 4590,
   "listed_date": "2026-11-12",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

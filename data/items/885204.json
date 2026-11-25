@@ -2,15 +2,10 @@
   "sku": "885204",
   "history": [
     {
-      "date": "2026-08-14",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=885204",
   "salepage_id": "12067616",
   "url": "https://www.dot-st.tw/SalePage/Index/12067616",
   "title": "LAKOLE水果造型字母吊飾零錢包-三色-885204",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-08-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

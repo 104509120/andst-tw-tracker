@@ -2,24 +2,20 @@
   "sku": "1068000",
   "history": [
     {
-      "date": "2026-09-18",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1068000",
   "salepage_id": "12166514",
   "url": "https://www.dot-st.tw/SalePage/Index/12166514",
   "title": "LAKOLE【網路限定55價】【品牌好友｜曾敬驊 江齊著用款】男素色格紋不易皺西裝長褲-四色-1068000",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12166514/0/639310374469170000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12166514/0/639312242799600000?v=1",
   "current_price": 755,
   "original_price": 1690,
   "min_price": 755,
   "max_price": 1690,
   "listed_date": "2026-09-18",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

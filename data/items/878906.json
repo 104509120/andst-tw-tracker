@@ -2,15 +2,10 @@
   "sku": "878906",
   "history": [
     {
-      "date": "2026-07-22",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 1455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=878906",
   "salepage_id": "11996499",
   "url": "https://www.dot-st.tw/SalePage/Index/11996499",
   "title": "LEPSIM【網路限定55價】【長度可選系列】舒適寬版鬆緊牛仔丹寧褲-三色-878906",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-07-22",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

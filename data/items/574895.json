@@ -2,15 +2,10 @@
   "sku": "574895",
   "history": [
     {
-      "date": "2025-08-06",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 1890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=574895",
   "salepage_id": "11005814",
   "url": "https://www.dot-st.tw/SalePage/Index/11005814",
   "title": "LEPSIM微光澤翻蓋造型肩背斜背包-五色-574895",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2025-08-06",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

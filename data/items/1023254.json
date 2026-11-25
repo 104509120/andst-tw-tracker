@@ -2,15 +2,10 @@
   "sku": "1023254",
   "history": [
     {
-      "date": "2026-07-27",
-      "price": 4290
-    },
-    {
       "date": "2026-11-24",
       "price": 4290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1023254",
   "salepage_id": "12002945",
   "url": "https://www.dot-st.tw/SalePage/Index/12002945",
   "title": "HARE男【EVA新世紀福音戰士⚫HARE聯名系列】背部人物圖樣方框襯衫上衣-三色-1023254",
@@ -21,5 +16,6 @@
   "max_price": 4290,
   "listed_date": "2026-07-27",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

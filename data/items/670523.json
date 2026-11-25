@@ -2,15 +2,10 @@
   "sku": "670523",
   "history": [
     {
-      "date": "2026-05-07",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=670523",
   "salepage_id": "11773940",
   "url": "https://www.dot-st.tw/SalePage/Index/11773940",
   "title": "RAGEBLUE女質感2WAY雙面兩用貝蕾帽-二色-670523",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-05-07",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

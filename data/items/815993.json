@@ -2,24 +2,20 @@
   "sku": "815993",
   "history": [
     {
-      "date": "2026-06-23",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 596
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=815993",
   "salepage_id": "11916235",
   "url": "https://www.dot-st.tw/SalePage/Index/11916235",
   "title": "LEPSIM打褶荷葉下擺設計T恤上衣-三色-815993",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11916235/0/639294828149300000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11916235/0/639312124721300000?v=1",
   "current_price": 596,
   "original_price": 1490,
   "min_price": 596,
   "max_price": 1490,
   "listed_date": "2026-06-23",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

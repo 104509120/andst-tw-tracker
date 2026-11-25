@@ -2,15 +2,10 @@
   "sku": "136365",
   "history": [
     {
-      "date": "2024-10-22",
-      "price": 250
-    },
-    {
       "date": "2026-11-24",
       "price": 250
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=136365",
   "salepage_id": "10246175",
   "url": "https://www.dot-st.tw/SalePage/Index/10246175",
   "title": "niko and原創BILLY熊伸縮捲尺鑰匙圈-五色-136365",
@@ -21,5 +16,6 @@
   "max_price": 250,
   "listed_date": "2024-10-22",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "602156",
   "history": [
     {
-      "date": "2026-04-09",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=602156",
   "salepage_id": "11694270",
   "url": "https://www.dot-st.tw/SalePage/Index/11694270",
   "title": "niko and男Hanes品牌舒適短袖T恤上衣二入組-組合-602156",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-04-09",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "907442",
   "history": [
     {
-      "date": "2023-09-19",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 1955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=907442",
   "salepage_id": "11791580",
   "url": "https://www.dot-st.tw/SalePage/Index/11791580",
   "title": "Heather【網路限定55價】百搭皮革綁帶中長靴-一款-907442",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11791580/0/639307647289230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11791580/0/639312242430070000?v=1",
   "current_price": 1955,
   "original_price": 2990,
   "min_price": 1955,
   "max_price": 2990,
   "listed_date": "2023-09-19",
   "updated_at": "2026-11-25",
-  "brand": "Heather"
+  "brand": "Heather",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "666421",
   "history": [
     {
-      "date": "2026-04-23",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=666421",
   "salepage_id": "11731377",
   "url": "https://www.dot-st.tw/SalePage/Index/11731377",
   "title": "Heather高腰修身雙層荷葉下襬短裙-二色-666421",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2026-04-23",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

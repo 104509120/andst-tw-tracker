@@ -2,15 +2,10 @@
   "sku": "239817",
   "history": [
     {
-      "date": "2021-08-27",
-      "price": 240
-    },
-    {
       "date": "2026-11-24",
       "price": 240
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=239817",
   "salepage_id": "7254860",
   "url": "https://www.dot-st.tw/SalePage/Index/7254860",
   "title": "niko and品牌FLAVOUR室內香氛消臭噴霧-四款-239817",
@@ -21,5 +16,6 @@
   "max_price": 240,
   "listed_date": "2021-08-27",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "903854",
   "history": [
     {
-      "date": "2023-09-01",
-      "price": 90
-    },
-    {
       "date": "2026-11-24",
       "price": 90
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=903854",
   "salepage_id": "9145134",
   "url": "https://www.dot-st.tw/SalePage/Index/9145134",
   "title": "studio CLIP素色天然木筷-三色-903854",
@@ -21,5 +16,6 @@
   "max_price": 90,
   "listed_date": "2023-09-01",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "1054553",
   "history": [
     {
-      "date": "2026-09-09",
-      "price": 4990
-    },
-    {
       "date": "2026-11-24",
       "price": 2755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1054553",
   "salepage_id": "12145364",
   "url": "https://www.dot-st.tw/SalePage/Index/12145364",
   "title": "RAGEBLUE【網路限定55價】【品牌好友｜曾敬驊 江齊著用款】男皮革立領雙頭拉鍊短版飛行外套-一色-1054553",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12145364/0/639310372969700000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12145364/0/639312242782500000?v=1",
   "current_price": 2755,
   "original_price": 4990,
   "min_price": 2755,
   "max_price": 4990,
   "listed_date": "2026-09-09",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

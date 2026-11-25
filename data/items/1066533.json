@@ -2,15 +2,10 @@
   "sku": "1066533",
   "history": [
     {
-      "date": "2026-09-16",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1066533",
   "salepage_id": "12161460",
   "url": "https://www.dot-st.tw/SalePage/Index/12161460",
   "title": "GLOBAL WORK男LOGO刺繡斜紋布棒球帽-二色-1066533",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-09-16",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

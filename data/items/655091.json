@@ -2,15 +2,10 @@
   "sku": "655091",
   "history": [
     {
-      "date": "2026-03-13",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=655091",
   "salepage_id": "11611491",
   "url": "https://www.dot-st.tw/SalePage/Index/11611491",
   "title": "niko and【Netflix影集我的咖啡男友2】造型陶瓷杯250ml-一色-655091",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-03-13",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "588197",
   "history": [
     {
-      "date": "2026-03-06",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=588197",
   "salepage_id": "11592117",
   "url": "https://www.dot-st.tw/SalePage/Index/11592117",
   "title": "LAKOLE童針織連指手套《KIDS系列》-四色-588197",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-03-06",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

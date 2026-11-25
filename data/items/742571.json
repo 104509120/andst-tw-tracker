@@ -2,15 +2,10 @@
   "sku": "742571",
   "history": [
     {
-      "date": "2026-06-04",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 596
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=742571",
   "salepage_id": "11861771",
   "url": "https://www.dot-st.tw/SalePage/Index/11861771",
   "title": "LEPSIM寬鬆版型後背抽皺長版上衣-四色-742571",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-06-04",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

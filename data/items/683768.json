@@ -2,15 +2,10 @@
   "sku": "683768",
   "history": [
     {
-      "date": "2026-04-16",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=683768",
   "salepage_id": "11712373",
   "url": "https://www.dot-st.tw/SalePage/Index/11712373",
   "title": "JEANASIS透紗層次亨利領兩件式上衣-四色-683768",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-04-16",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

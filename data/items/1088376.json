@@ -2,15 +2,10 @@
   "sku": "1088376",
   "history": [
     {
-      "date": "2026-11-12",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 3990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1088376",
   "salepage_id": "12299910",
   "url": "https://www.dot-st.tw/SalePage/Index/12299910",
   "title": "HARE男光澤感絲絨寬版長褲-二色-1088376",
@@ -21,5 +16,6 @@
   "max_price": 3990,
   "listed_date": "2026-11-12",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

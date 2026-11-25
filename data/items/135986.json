@@ -2,15 +2,10 @@
   "sku": "135986",
   "history": [
     {
-      "date": "2023-01-06",
-      "price": 2090
-    },
-    {
       "date": "2026-11-24",
       "price": 2090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=135986",
   "salepage_id": "8586386",
   "url": "https://www.dot-st.tw/SalePage/Index/8586386",
   "title": "studio CLIP廚房碗盤餐具瀝水置物架-二色-135986",
@@ -21,5 +16,6 @@
   "max_price": 2090,
   "listed_date": "2023-01-06",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

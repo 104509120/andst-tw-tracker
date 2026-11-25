@@ -2,24 +2,24 @@
   "sku": "911740",
   "history": [
     {
-      "date": "2026-07-16",
-      "price": 3490
-    },
-    {
       "date": "2026-11-24",
       "price": 2443
+    },
+    {
+      "date": "2026-11-25",
+      "price": 1745
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=911740",
   "salepage_id": "11979101",
   "url": "https://www.dot-st.tw/SalePage/Index/11979101",
   "title": "JEANASIS金屬扣方跟厚底穆勒鞋-二色-911740",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11979101/0/639289512633800000?v=1",
-  "current_price": 2443,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11979101/0/639312241708130000?v=1",
+  "current_price": 1745,
   "original_price": 3490,
-  "min_price": 2443,
+  "min_price": 1745,
   "max_price": 3490,
   "listed_date": "2026-07-16",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

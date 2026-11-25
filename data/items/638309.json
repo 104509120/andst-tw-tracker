@@ -2,24 +2,20 @@
   "sku": "638309",
   "history": [
     {
-      "date": "2026-01-29",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1393
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=638309",
   "salepage_id": "11526065",
   "url": "https://www.dot-st.tw/SalePage/Index/11526065",
   "title": "niko and女經典跳色罩衫針織長袖上衣-三色-638309",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11526065/0/639306068158470000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11526065/0/639312242634300000?v=1",
   "current_price": 1393,
   "original_price": 1990,
   "min_price": 1393,
   "max_price": 1990,
   "listed_date": "2026-01-29",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

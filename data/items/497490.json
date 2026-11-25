@@ -2,15 +2,10 @@
   "sku": "497490",
   "history": [
     {
-      "date": "2025-09-11",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=497490",
   "salepage_id": "11098723",
   "url": "https://www.dot-st.tw/SalePage/Index/11098723",
   "title": "LEPSIM【網路限定55價】【滿足感針織系列】可機洗不易起毛球異材質拼接長袖針織上衣-八色-497490",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2025-09-11",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

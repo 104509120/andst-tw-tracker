@@ -2,15 +2,10 @@
   "sku": "679670",
   "history": [
     {
-      "date": "2026-09-03",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=679670",
   "salepage_id": "12127840",
   "url": "https://www.dot-st.tw/SalePage/Index/12127840",
   "title": "studio CLIP格紋牙刷收納包-二色-679670",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-09-03",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

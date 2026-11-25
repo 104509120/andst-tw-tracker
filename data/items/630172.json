@@ -2,15 +2,10 @@
   "sku": "630172",
   "history": [
     {
-      "date": "2026-02-10",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 796
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=630172",
   "salepage_id": "11555874",
   "url": "https://www.dot-st.tw/SalePage/Index/11555874",
   "title": "LEPSIM打褶抓皺蓬鬆傘狀長裙-二色-630172",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-02-10",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "638517",
   "history": [
     {
-      "date": "2026-06-23",
-      "price": 1090
-    },
-    {
       "date": "2026-11-24",
       "price": 1090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=638517",
   "salepage_id": "11919570",
   "url": "https://www.dot-st.tw/SalePage/Index/11919570",
   "title": "studio CLIP簡約棉麻綁帶圍裙-二色-638517",
@@ -21,5 +16,6 @@
   "max_price": 1090,
   "listed_date": "2026-06-23",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

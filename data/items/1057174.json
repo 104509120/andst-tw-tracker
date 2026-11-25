@@ -2,24 +2,20 @@
   "sku": "1057174",
   "history": [
     {
-      "date": "2026-09-23",
-      "price": 4290
-    },
-    {
       "date": "2026-11-24",
       "price": 2155
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1057174",
   "salepage_id": "12179129",
   "url": "https://www.dot-st.tw/SalePage/Index/12179129",
   "title": "HARE【網路限定55價】男和風花紋圖樣緹花針織開襟外套-二色-1057174",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12179129/0/639307801151530000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12179129/0/639312044445170000?v=1",
   "current_price": 2155,
   "original_price": 4290,
   "min_price": 2155,
   "max_price": 4290,
   "listed_date": "2026-09-23",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

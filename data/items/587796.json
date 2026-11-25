@@ -2,15 +2,10 @@
   "sku": "587796",
   "history": [
     {
-      "date": "2025-11-25",
-      "price": 660
-    },
-    {
       "date": "2026-11-24",
       "price": 660
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=587796",
   "salepage_id": "11349983",
   "url": "https://www.dot-st.tw/SalePage/Index/11349983",
   "title": "niko and【Bubbling BUBBLE】沐浴系列雙色浴巾-二色-587796",
@@ -21,5 +16,6 @@
   "max_price": 660,
   "listed_date": "2025-11-25",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

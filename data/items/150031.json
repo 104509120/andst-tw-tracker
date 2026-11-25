@@ -2,15 +2,10 @@
   "sku": "150031",
   "history": [
     {
-      "date": "2025-08-28",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=150031",
   "salepage_id": "11064995",
   "url": "https://www.dot-st.tw/SalePage/Index/11064995",
   "title": "studio CLIP簡約竹製捲筒衛生紙架《HOUSEHOLD GOODS》-一色-150031",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2025-08-28",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

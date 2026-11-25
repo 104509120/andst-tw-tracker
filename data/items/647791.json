@@ -2,15 +2,10 @@
   "sku": "647791",
   "history": [
     {
-      "date": "2026-04-24",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647791",
   "salepage_id": "11737991",
   "url": "https://www.dot-st.tw/SalePage/Index/11737991",
   "title": "niko and女彈性舒適附罩杯細肩背心上衣-四色-647791",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-04-24",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

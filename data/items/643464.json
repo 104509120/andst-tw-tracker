@@ -2,15 +2,10 @@
   "sku": "643464",
   "history": [
     {
-      "date": "2026-03-27",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 711
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=643464",
   "salepage_id": "11663283",
   "url": "https://www.dot-st.tw/SalePage/Index/11663283",
   "title": "niko and男品牌NMR系列耳機包零錢包-二色-643464",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-03-27",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

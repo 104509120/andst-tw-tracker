@@ -2,15 +2,10 @@
   "sku": "880060",
   "history": [
     {
-      "date": "2026-08-26",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=880060",
   "salepage_id": "12103592",
   "url": "https://www.dot-st.tw/SalePage/Index/12103592",
   "title": "repipi armario【網路限定55價】網眼透膚雙拉鍊短版連帽外套-三色-880060",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2026-08-26",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

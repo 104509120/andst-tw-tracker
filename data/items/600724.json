@@ -2,15 +2,10 @@
   "sku": "600724",
   "history": [
     {
-      "date": "2025-10-17",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 1196
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=600724",
   "salepage_id": "11235401",
   "url": "https://www.dot-st.tw/SalePage/Index/11235401",
   "title": "JEANASIS修身前車褶繭形長褲寬褲-四色-600724",
@@ -21,5 +16,6 @@
   "max_price": 2990,
   "listed_date": "2025-10-17",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

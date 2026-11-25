@@ -2,15 +2,10 @@
   "sku": "647554",
   "history": [
     {
-      "date": "2026-03-25",
-      "price": 450
-    },
-    {
       "date": "2026-11-24",
       "price": 225
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647554",
   "salepage_id": "11654208",
   "url": "https://www.dot-st.tw/SalePage/Index/11654208",
   "title": "repipi armario可愛圖案印花創意吊飾-二色-647554",
@@ -21,5 +16,6 @@
   "max_price": 450,
   "listed_date": "2026-03-25",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

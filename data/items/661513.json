@@ -2,15 +2,10 @@
   "sku": "661513",
   "history": [
     {
-      "date": "2026-05-14",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 756
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=661513",
   "salepage_id": "11795379",
   "url": "https://www.dot-st.tw/SalePage/Index/11795379",
   "title": "LEPSIM打褶蝴蝶結A字輪廓背心-二色-661513",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2026-05-14",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "494082",
   "history": [
     {
-      "date": "2025-07-24",
-      "price": 1010
-    },
-    {
       "date": "2026-11-24",
       "price": 1010
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=494082",
   "salepage_id": "10974679",
   "url": "https://www.dot-st.tw/SalePage/Index/10974679",
   "title": "niko and品牌OLD SMITH多功能收納袋平板電腦包11吋-二色-494082",
@@ -21,5 +16,6 @@
   "max_price": 1010,
   "listed_date": "2025-07-24",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

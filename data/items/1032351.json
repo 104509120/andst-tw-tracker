@@ -2,24 +2,20 @@
   "sku": "1032351",
   "history": [
     {
-      "date": "2026-07-16",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 855
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1032351",
   "salepage_id": "11980806",
   "url": "https://www.dot-st.tw/SalePage/Index/11980806",
   "title": "RAGEBLUE【網路限定55價】男透膚幾何鏤空五分袖襯衫上衣-三色-1032351",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11980806/0/639310372927630000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11980806/0/639312242734300000?v=1",
   "current_price": 855,
   "original_price": 2490,
   "min_price": 855,
   "max_price": 2490,
   "listed_date": "2026-07-16",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

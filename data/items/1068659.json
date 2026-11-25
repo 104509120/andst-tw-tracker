@@ -2,24 +2,24 @@
   "sku": "1068659",
   "history": [
     {
-      "date": "2026-10-21",
+      "date": "2026-11-24",
       "price": 1890
     },
     {
-      "date": "2026-11-24",
-      "price": 1890
+      "date": "2026-11-25",
+      "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1068659",
   "salepage_id": "12256169",
   "url": "https://www.dot-st.tw/SalePage/Index/12256169",
   "title": "LEPSIM媽媽系列腰部鬆緊絨布直筒長褲-三色-1068659",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12256169/0/639293177167470000?v=1",
-  "current_price": 1890,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12256169/0/639312139649270000?v=1",
+  "current_price": 1290,
   "original_price": 1890,
-  "min_price": 1890,
+  "min_price": 1290,
   "max_price": 1890,
   "listed_date": "2026-10-21",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

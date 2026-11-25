@@ -2,15 +2,10 @@
   "sku": "587752",
   "history": [
     {
-      "date": "2026-02-13",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=587752",
   "salepage_id": "11566670",
   "url": "https://www.dot-st.tw/SalePage/Index/11566670",
   "title": "LAKOLE女圖案肩帶可拆皮革肩背包-五色-587752",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-02-13",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

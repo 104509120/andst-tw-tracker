@@ -2,15 +2,10 @@
   "sku": "1050663",
   "history": [
     {
-      "date": "2026-08-12",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 2490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1050663",
   "salepage_id": "12060538",
   "url": "https://www.dot-st.tw/SalePage/Index/12060538",
   "title": "repipi armario復古寬鬆拼接弧線2WAY牛仔丹寧長褲-四色-1050663",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-08-12",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

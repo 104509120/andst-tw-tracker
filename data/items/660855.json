@@ -2,15 +2,10 @@
   "sku": "660855",
   "history": [
     {
-      "date": "2026-09-18",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=660855",
   "salepage_id": "12166441",
   "url": "https://www.dot-st.tw/SalePage/Index/12166441",
   "title": "LAKOLE霧面皮革居家室內拖鞋L-二色-660855",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-09-18",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

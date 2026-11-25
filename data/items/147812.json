@@ -2,15 +2,10 @@
   "sku": "147812",
   "history": [
     {
-      "date": "2025-08-28",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 553
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=147812",
   "salepage_id": "11064994",
   "url": "https://www.dot-st.tw/SalePage/Index/11064994",
   "title": "studio CLIP搪瓷附蓋長方收納盒(0.5L)-一色-147812",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2025-08-28",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

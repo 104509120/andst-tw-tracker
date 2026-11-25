@@ -2,24 +2,20 @@
   "sku": "893633",
   "history": [
     {
-      "date": "2026-10-22",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=893633",
   "salepage_id": "12256570",
   "url": "https://www.dot-st.tw/SalePage/Index/12256570",
   "title": "LAKOLE【網路限定55價】女可愛配色蓬鬆柔軟開襟罩衫外套-四色-893633",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12256570/0/639307650297500000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12256570/0/639312242845100000?v=1",
   "current_price": 955,
   "original_price": 1690,
   "min_price": 955,
   "max_price": 1690,
   "listed_date": "2026-10-22",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

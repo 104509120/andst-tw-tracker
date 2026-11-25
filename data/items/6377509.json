@@ -2,15 +2,10 @@
   "sku": "6377509",
   "history": [
     {
-      "date": "2026-10-06",
-      "price": 4180
-    },
-    {
       "date": "2026-11-24",
       "price": 2926
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=6377509",
   "salepage_id": "12222249",
   "url": "https://www.dot-st.tw/SalePage/Index/12222249",
   "title": "◎index女OPAQUE.CLIP藝術印花傘襬長裙-二色-63775097 NT$2,926",
@@ -21,5 +16,6 @@
   "max_price": 4180,
   "listed_date": "2026-10-06",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

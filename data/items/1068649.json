@@ -2,15 +2,10 @@
   "sku": "1068649",
   "history": [
     {
-      "date": "2026-09-29",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1068649",
   "salepage_id": "12188772",
   "url": "https://www.dot-st.tw/SalePage/Index/12188772",
   "title": "LEPSIM下擺異材質長袖內搭上衣-三色-1068649",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-09-29",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

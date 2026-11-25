@@ -2,15 +2,10 @@
   "sku": "576584",
   "history": [
     {
-      "date": "2025-08-28",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=576584",
   "salepage_id": "11058174",
   "url": "https://www.dot-st.tw/SalePage/Index/11058174",
   "title": "Me%【蠟筆小新聯名】角色造型手機支架-五色-576584",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2025-08-28",
   "updated_at": "2026-11-25",
-  "brand": "Me%"
+  "brand": "Me%",
+  "first_seen": "2026-11-24"
 }

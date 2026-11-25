@@ -2,15 +2,10 @@
   "sku": "105914",
   "history": [
     {
-      "date": "2025-03-07",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=105914",
   "salepage_id": "10572413",
   "url": "https://www.dot-st.tw/SalePage/Index/10572413",
   "title": "niko and女品牌LOGO零錢包二折短夾-三色-105914",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2025-03-07",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

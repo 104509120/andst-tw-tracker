@@ -2,15 +2,10 @@
   "sku": "601219",
   "history": [
     {
-      "date": "2026-03-21",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 507
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=601219",
   "salepage_id": "11643584",
   "url": "https://www.dot-st.tw/SalePage/Index/11643584",
   "title": "niko and女柔軟舒適前襟細褶寬褲長褲-四色-601219",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-03-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

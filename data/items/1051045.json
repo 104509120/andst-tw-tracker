@@ -2,24 +2,20 @@
   "sku": "1051045",
   "history": [
     {
-      "date": "2026-11-05",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1051045",
   "salepage_id": "12287603",
   "url": "https://www.dot-st.tw/SalePage/Index/12287603",
   "title": "LOWRYS FARM女柔軟親膚格紋流蘇長披肩圍巾-三色-1051045",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12287603/0/639310491661800000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12287603/0/639312229919430000?v=1",
   "current_price": 1290,
   "original_price": 1290,
   "min_price": 1290,
   "max_price": 1290,
   "listed_date": "2026-11-05",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

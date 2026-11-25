@@ -2,24 +2,20 @@
   "sku": "637359",
   "history": [
     {
-      "date": "2026-07-09",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=637359",
   "salepage_id": "11964741",
   "url": "https://www.dot-st.tw/SalePage/Index/11964741",
   "title": "GLOBAL WORK【網路限定55價】女GOOD DENIM系列休閒牛仔丹寧短褲-四色-637359",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11964741/0/639311144880230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11964741/0/639312242615400000?v=1",
   "current_price": 555,
   "original_price": 1490,
   "min_price": 555,
   "max_price": 1490,
   "listed_date": "2026-07-09",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

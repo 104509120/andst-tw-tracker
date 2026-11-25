@@ -2,24 +2,20 @@
   "sku": "639509",
   "history": [
     {
-      "date": "2026-02-10",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=639509",
   "salepage_id": "11555490",
   "url": "https://www.dot-st.tw/SalePage/Index/11555490",
   "title": "LEPSIM【網路限定55價】假兩件拼色羅紋下擺抽繩長袖T恤上衣-五色-639509",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11555490/0/639311251440200000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11555490/0/639312242634300000?v=1",
   "current_price": 955,
   "original_price": 1890,
   "min_price": 955,
   "max_price": 1890,
   "listed_date": "2026-02-10",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

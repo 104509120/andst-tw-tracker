@@ -2,15 +2,10 @@
   "sku": "1070366",
   "history": [
     {
-      "date": "2026-11-06",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 855
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1070366",
   "salepage_id": "12289975",
   "url": "https://www.dot-st.tw/SalePage/Index/12289975",
   "title": "LAKOLE【網路限定55價】男柔軟輕盈悠閒燈芯絨襯衫上衣-四色-1070366",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-11-06",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

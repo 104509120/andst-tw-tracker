@@ -2,24 +2,20 @@
   "sku": "138307",
   "history": [
     {
-      "date": "2025-08-27",
-      "price": 3290
-    },
-    {
       "date": "2026-11-24",
       "price": 3290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=138307",
   "salepage_id": "11061383",
   "url": "https://www.dot-st.tw/SalePage/Index/11061383",
   "title": "Heather方頭粗跟彈力長靴-一色-138307",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11061383/0/639289503177870000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11061383/0/639312242498670000?v=1",
   "current_price": 3290,
   "original_price": 3290,
   "min_price": 3290,
   "max_price": 3290,
   "listed_date": "2025-08-27",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

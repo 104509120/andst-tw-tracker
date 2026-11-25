@@ -2,15 +2,10 @@
   "sku": "668663",
   "history": [
     {
-      "date": "2026-04-28",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 495
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=668663",
   "salepage_id": "11746271",
   "url": "https://www.dot-st.tw/SalePage/Index/11746271",
   "title": "PAGEBOY機能吸水速乾防汗漬ZIMILESS英文刺繡羅紋背心上衣-三色-668663",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-04-28",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

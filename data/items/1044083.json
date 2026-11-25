@@ -2,15 +2,10 @@
   "sku": "1044083",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1044083",
   "salepage_id": "12270187",
   "url": "https://www.dot-st.tw/SalePage/Index/12270187",
   "title": "LOWRYS FARM【品牌好友｜曾敬驊 江齊著用款】女雙拉鍊短版連帽上衣外套-三色-1044083",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "661655",
   "history": [
     {
-      "date": "2026-04-08",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 916
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=661655",
   "salepage_id": "11691077",
   "url": "https://www.dot-st.tw/SalePage/Index/11691077",
   "title": "LEPSIM甜美風格蕾絲蛋糕層次裙-二色-661655",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-04-08",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

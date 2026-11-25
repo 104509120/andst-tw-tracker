@@ -2,15 +2,10 @@
   "sku": "855246",
   "history": [
     {
-      "date": "2026-10-15",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=855246",
   "salepage_id": "12237804",
   "url": "https://www.dot-st.tw/SalePage/Index/12237804",
   "title": "LAKOLE【網路限定55價】女開襟雪尼爾針織背心上衣-三色-855246",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-10-15",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "232487",
   "history": [
     {
-      "date": "2025-02-26",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=232487",
   "salepage_id": "10546834",
   "url": "https://www.dot-st.tw/SalePage/Index/10546834",
   "title": "LAKOLE日本製美濃燒拉斯特幾何花紋碗(S)-一色-232487",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2025-02-26",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

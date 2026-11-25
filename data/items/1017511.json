@@ -2,15 +2,10 @@
   "sku": "1017511",
   "history": [
     {
-      "date": "2026-07-08",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 996
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1017511",
   "salepage_id": "11960269",
   "url": "https://www.dot-st.tw/SalePage/Index/11960269",
   "title": "LEPSIM側蕾絲線條微喇叭長褲-二色-1017511",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-07-08",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

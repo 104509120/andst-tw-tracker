@@ -2,15 +2,10 @@
   "sku": "1044663",
   "history": [
     {
-      "date": "2026-11-04",
-      "price": 310
-    },
-    {
       "date": "2026-11-24",
       "price": 310
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1044663",
   "salepage_id": "12282331",
   "url": "https://www.dot-st.tw/SalePage/Index/12282331",
   "title": "niko and聖誕裝飾Xmas聖誕帽LED吊飾擺飾-四色-1044663",
@@ -21,5 +16,6 @@
   "max_price": 310,
   "listed_date": "2026-11-04",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

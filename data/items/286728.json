@@ -2,15 +2,10 @@
   "sku": "286728",
   "history": [
     {
-      "date": "2025-07-15",
-      "price": 3690
-    },
-    {
       "date": "2026-11-24",
       "price": 3690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=286728",
   "salepage_id": "10954664",
   "url": "https://www.dot-st.tw/SalePage/Index/10954664",
   "title": "niko and女INDIA IS BEAUTIFUL系列透膚柔軟網紗短袖襯衫-二色-286728",
@@ -21,5 +16,6 @@
   "max_price": 3690,
   "listed_date": "2025-07-15",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1070857",
   "history": [
     {
-      "date": "2026-10-07",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 2490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1070857",
   "salepage_id": "12221311",
   "url": "https://www.dot-st.tw/SalePage/Index/12221311",
   "title": "LOWRYS FARM女蕾絲滾邊細肩絲絨迷你洋裝-二色-1070857",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-10-07",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

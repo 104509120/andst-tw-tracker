@@ -2,15 +2,10 @@
   "sku": "668733",
   "history": [
     {
-      "date": "2026-07-14",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 711
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=668733",
   "salepage_id": "11974129",
   "url": "https://www.dot-st.tw/SalePage/Index/11974129",
   "title": "niko and原創系列CITY CREEK復古汽車靠墊抱枕-二色-668733",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-07-14",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

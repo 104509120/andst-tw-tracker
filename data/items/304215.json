@@ -2,15 +2,10 @@
   "sku": "304215",
   "history": [
     {
-      "date": "2025-05-06",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 445
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=304215",
   "salepage_id": "10736785",
   "url": "https://www.dot-st.tw/SalePage/Index/10736785",
   "title": "niko and【LOONEY TUNES】樂一通聯名衛生紙套-二色-304215",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2025-05-06",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

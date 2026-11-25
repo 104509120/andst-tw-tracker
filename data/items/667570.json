@@ -2,24 +2,20 @@
   "sku": "667570",
   "history": [
     {
-      "date": "2026-06-03",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 995
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=667570",
   "salepage_id": "11860249",
   "url": "https://www.dot-st.tw/SalePage/Index/11860249",
   "title": "GLOBAL WORK男舒適緩震束帶運動涼鞋-二色-667570",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11860249/0/639299286277230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11860249/0/639312242534600000?v=1",
   "current_price": 995,
   "original_price": 1990,
   "min_price": 995,
   "max_price": 1990,
   "listed_date": "2026-06-03",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

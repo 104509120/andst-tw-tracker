@@ -2,15 +2,10 @@
   "sku": "641489",
   "history": [
     {
-      "date": "2026-03-13",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=641489",
   "salepage_id": "11614190",
   "url": "https://www.dot-st.tw/SalePage/Index/11614190",
   "title": "niko and女迷彩花紋線條腰帶-五色-641489",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-03-13",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

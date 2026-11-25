@@ -2,15 +2,10 @@
   "sku": "637991",
   "history": [
     {
-      "date": "2026-04-09",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=637991",
   "salepage_id": "11694359",
   "url": "https://www.dot-st.tw/SalePage/Index/11694359",
   "title": "LAKOLE男多功能收納斜背尼龍腰包-二色-637991",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-04-09",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

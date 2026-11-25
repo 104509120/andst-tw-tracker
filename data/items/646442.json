@@ -2,15 +2,10 @@
   "sku": "646442",
   "history": [
     {
-      "date": "2026-03-23",
-      "price": 3290
-    },
-    {
       "date": "2026-11-24",
       "price": 2303
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=646442",
   "salepage_id": "11996733",
   "url": "https://www.dot-st.tw/SalePage/Index/11996733",
   "title": "JEANASIS復古縫線波士頓包-六色-646442",
@@ -21,5 +16,6 @@
   "max_price": 3290,
   "listed_date": "2026-03-23",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

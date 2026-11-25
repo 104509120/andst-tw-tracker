@@ -2,15 +2,10 @@
   "sku": "492890",
   "history": [
     {
-      "date": "2025-11-14",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=492890",
   "salepage_id": "11322590",
   "url": "https://www.dot-st.tw/SalePage/Index/11322590",
   "title": "niko and女簡約球鏈腳鍊二入組-四款-492890",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2025-11-14",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

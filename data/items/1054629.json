@@ -2,15 +2,10 @@
   "sku": "1054629",
   "history": [
     {
-      "date": "2026-09-22",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1145
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1054629",
   "salepage_id": "12177394",
   "url": "https://www.dot-st.tw/SalePage/Index/12177394",
   "title": "PAGEBOY襯衫拼接針織假兩件開襟外套-二色-1054629",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-09-22",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1055252",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 1355
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1055252",
   "salepage_id": "12274080",
   "url": "https://www.dot-st.tw/SalePage/Index/12274080",
   "title": "LAKOLE【網路限定55價】男蓬鬆撞色人造毛連帽外套-三色-1055252",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

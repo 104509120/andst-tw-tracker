@@ -2,15 +2,10 @@
   "sku": "667752",
   "history": [
     {
-      "date": "2026-05-08",
-      "price": 4790
-    },
-    {
       "date": "2026-11-24",
       "price": 2855
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=667752",
   "salepage_id": "11777721",
   "url": "https://www.dot-st.tw/SalePage/Index/11777721",
   "title": "HARE【網路限定55價】男蕾絲緞面下襬鬆緊休閒外套-四色-667752",
@@ -21,5 +16,6 @@
   "max_price": 4790,
   "listed_date": "2026-05-08",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

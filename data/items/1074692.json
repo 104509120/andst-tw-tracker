@@ -2,15 +2,10 @@
   "sku": "1074692",
   "history": [
     {
-      "date": "2026-10-16",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1074692",
   "salepage_id": "12244392",
   "url": "https://www.dot-st.tw/SalePage/Index/12244392",
   "title": "niko and女【tiy nie yee】毛毛愛心隨身鏡吊飾-三色-1074692",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-10-16",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

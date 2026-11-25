@@ -2,15 +2,10 @@
   "sku": "867006",
   "history": [
     {
-      "date": "2026-06-24",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=867006",
   "salepage_id": "11922855",
   "url": "https://www.dot-st.tw/SalePage/Index/11922855",
   "title": "RAGEBLUE【網路限定55價】男個性立體縫線設計T恤上衣-三色-867006",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-06-24",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "961556",
   "history": [
     {
-      "date": "2024-11-29",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=961556",
   "salepage_id": "10352030",
   "url": "https://www.dot-st.tw/SalePage/Index/10352030",
   "title": "LAKOLE【新色到】男簡約百搭防水防汗細項鍊-五色-961556",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2024-11-29",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

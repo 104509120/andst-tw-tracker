@@ -2,15 +2,10 @@
   "sku": "324686",
   "history": [
     {
-      "date": "2025-07-02",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=324686",
   "salepage_id": "10921713",
   "url": "https://www.dot-st.tw/SalePage/Index/10921713",
   "title": "niko and男NEW ERA品牌美國職棒大聯盟刺繡棒球帽-四色-324686",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2025-07-02",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

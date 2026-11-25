@@ -2,24 +2,20 @@
   "sku": "1068100",
   "history": [
     {
-      "date": "2026-10-06",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1068100",
   "salepage_id": "12215948",
   "url": "https://www.dot-st.tw/SalePage/Index/12215948",
   "title": "GLOBAL WORK【網路限定55價】女貓咪刺繡麻花針織長袖上衣-五色-1068100",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12215948/0/639311145162030000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12215948/0/639312242622900000?v=1",
   "current_price": 655,
   "original_price": 1290,
   "min_price": 655,
   "max_price": 1290,
   "listed_date": "2026-10-06",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

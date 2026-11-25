@@ -2,15 +2,10 @@
   "sku": "823999",
   "history": [
     {
-      "date": "2026-10-22",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=823999",
   "salepage_id": "12256569",
   "url": "https://www.dot-st.tw/SalePage/Index/12256569",
   "title": "LAKOLE女圈圈紗格紋圍巾-六色-823999",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-10-22",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

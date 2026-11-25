@@ -2,15 +2,10 @@
   "sku": "1000063",
   "history": [
     {
-      "date": "2026-11-04",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1000063",
   "salepage_id": "12280660",
   "url": "https://www.dot-st.tw/SalePage/Index/12280660",
   "title": "studio CLIP閃粉聖誕樹頂星《CHRISTMAS 2026》-一色-1000063",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-11-04",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

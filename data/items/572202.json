@@ -2,15 +2,10 @@
   "sku": "572202",
   "history": [
     {
-      "date": "2025-11-18",
-      "price": 2090
-    },
-    {
       "date": "2026-11-24",
       "price": 836
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=572202",
   "salepage_id": "11328282",
   "url": "https://www.dot-st.tw/SalePage/Index/11328282",
   "title": "studio CLIP柔軟燈芯絨直筒寬長褲-四色-572202",
@@ -21,5 +16,6 @@
   "max_price": 2090,
   "listed_date": "2025-11-18",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

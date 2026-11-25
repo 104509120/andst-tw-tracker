@@ -2,15 +2,10 @@
   "sku": "696305",
   "history": [
     {
-      "date": "2026-05-19",
-      "price": 1190
-    },
-    {
       "date": "2026-11-24",
       "price": 476
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=696305",
   "salepage_id": "11808234",
   "url": "https://www.dot-st.tw/SalePage/Index/11808234",
   "title": "repipi armario附罩杯加工感AcidWash羅紋背心-三色-696305",
@@ -21,5 +16,6 @@
   "max_price": 1190,
   "listed_date": "2026-05-19",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

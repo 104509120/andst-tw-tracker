@@ -2,15 +2,10 @@
   "sku": "323162",
   "history": [
     {
-      "date": "2025-11-07",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=323162",
   "salepage_id": "11301799",
   "url": "https://www.dot-st.tw/SalePage/Index/11301799",
   "title": "LAKOLE【新色到】滑蓋式杯口不鏽鋼保冷保溫杯550ml-九色-323162",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2025-11-07",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1080931",
   "history": [
     {
-      "date": "2026-11-12",
-      "price": 7690
-    },
-    {
       "date": "2026-11-24",
       "price": 7690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1080931",
   "salepage_id": "12299902",
   "url": "https://www.dot-st.tw/SalePage/Index/12299902",
   "title": "HARE男緹花雙層拼接層次西裝外套-二色-1080931",
@@ -21,5 +16,6 @@
   "max_price": 7690,
   "listed_date": "2026-11-12",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

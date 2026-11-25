@@ -2,15 +2,10 @@
   "sku": "679986",
   "history": [
     {
-      "date": "2026-05-19",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=679986",
   "salepage_id": "11810944",
   "url": "https://www.dot-st.tw/SalePage/Index/11810944",
   "title": "Heather浪漫荷葉2WAY肩帶層次長洋裝-五色-679986",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2026-05-19",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "138540",
   "history": [
     {
-      "date": "2025-02-26",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 95
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=138540",
   "salepage_id": "10546687",
   "url": "https://www.dot-st.tw/SalePage/Index/10546687",
   "title": "LAKOLE日本製美濃燒霧面雲型醬料碟-二色-138540",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2025-02-26",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

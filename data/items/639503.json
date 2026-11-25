@@ -2,15 +2,10 @@
   "sku": "639503",
   "history": [
     {
-      "date": "2026-03-18",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 996
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=639503",
   "salepage_id": "11626493",
   "url": "https://www.dot-st.tw/SalePage/Index/11626493",
   "title": "LEPSIM透氣網眼連帽長袖上衣-三色-639503",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-03-18",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

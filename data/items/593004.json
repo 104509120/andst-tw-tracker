@@ -2,15 +2,10 @@
   "sku": "593004",
   "history": [
     {
-      "date": "2026-02-03",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=593004",
   "salepage_id": "11536675",
   "url": "https://www.dot-st.tw/SalePage/Index/11536675",
   "title": "studio CLIP日本製美濃燒流星點狀杯(270ML)-二色-593004",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2026-02-03",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "581945",
   "history": [
     {
-      "date": "2026-01-05",
-      "price": 380
-    },
-    {
       "date": "2026-11-24",
       "price": 380
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=581945",
   "salepage_id": "11451583",
   "url": "https://www.dot-st.tw/SalePage/Index/11451583",
   "title": "niko and日本p+g design do-mo達摩不倒翁矽膠零錢包-二色-581945",
@@ -21,5 +16,6 @@
   "max_price": 380,
   "listed_date": "2026-01-05",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

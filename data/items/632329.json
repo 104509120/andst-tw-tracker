@@ -2,24 +2,20 @@
   "sku": "632329",
   "history": [
     {
-      "date": "2026-03-12",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=632329",
   "salepage_id": "11610429",
   "url": "https://www.dot-st.tw/SalePage/Index/11610429",
   "title": "GLOBAL WORK【網路限定55價】男CLEAN MODE系列寬版錐形丹寧長褲-二色-632329",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11610429/0/639307656304830000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11610429/0/639312242598530000?v=1",
   "current_price": 755,
   "original_price": 1990,
   "min_price": 755,
   "max_price": 1990,
   "listed_date": "2026-03-12",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

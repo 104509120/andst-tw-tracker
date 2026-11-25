@@ -2,15 +2,10 @@
   "sku": "7690408",
   "history": [
     {
-      "date": "2026-11-10",
-      "price": 2280
-    },
-    {
       "date": "2026-11-24",
       "price": 2280
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=7690408",
   "salepage_id": "12294911",
   "url": "https://www.dot-st.tw/SalePage/Index/12294911",
   "title": "◎index女grove菱格紋2WAY托特包-二色-76904080 NT$2,280",
@@ -21,5 +16,6 @@
   "max_price": 2280,
   "listed_date": "2026-11-10",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

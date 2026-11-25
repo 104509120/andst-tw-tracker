@@ -2,24 +2,20 @@
   "sku": "1063354",
   "history": [
     {
-      "date": "2026-10-02",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1063354",
   "salepage_id": "12208171",
   "url": "https://www.dot-st.tw/SalePage/Index/12208171",
   "title": "LOWRYS FARM【網路限定55價】童腰部抓皺荷葉襬長袖襯衫-三色-1063354",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12208171/0/639310491614070000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12208171/0/639312241444030000?v=1",
   "current_price": 455,
   "original_price": 1290,
   "min_price": 455,
   "max_price": 1290,
   "listed_date": "2026-10-02",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

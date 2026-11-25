@@ -2,15 +2,10 @@
   "sku": "289907",
   "history": [
     {
-      "date": "2025-09-05",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=289907",
   "salepage_id": "11084616",
   "url": "https://www.dot-st.tw/SalePage/Index/11084616",
   "title": "LAKOLE木紋多功能數位時鐘-二色-289907",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2025-09-05",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

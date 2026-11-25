@@ -2,15 +2,10 @@
   "sku": "632332",
   "history": [
     {
-      "date": "2026-03-25",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 145
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=632332",
   "salepage_id": "11655406",
   "url": "https://www.dot-st.tw/SalePage/Index/11655406",
   "title": "niko and【FLAVORS聯名】別針徽章-三款-632332",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-03-25",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

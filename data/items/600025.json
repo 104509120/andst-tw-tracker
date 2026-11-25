@@ -2,24 +2,24 @@
   "sku": "600025",
   "history": [
     {
-      "date": "2025-09-24",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 990
+    },
+    {
+      "date": "2026-11-25",
+      "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=600025",
   "salepage_id": "11142836",
   "url": "https://www.dot-st.tw/SalePage/Index/11142836",
   "title": "JEANASIS舒適細肩帶背心(附罩杯)-五色-600025",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11142836/0/639307793942000000?v=1",
-  "current_price": 990,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11142836/0/639312242617500000?v=1",
+  "current_price": 790,
   "original_price": 1290,
-  "min_price": 990,
+  "min_price": 790,
   "max_price": 1290,
   "listed_date": "2025-09-24",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

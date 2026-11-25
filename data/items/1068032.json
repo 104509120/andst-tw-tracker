@@ -2,15 +2,10 @@
   "sku": "1068032",
   "history": [
     {
-      "date": "2026-10-05",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1068032",
   "salepage_id": "12209730",
   "url": "https://www.dot-st.tw/SalePage/Index/12209730",
   "title": "niko and男復古2WAY雙面兩穿休閒長袖上衣-三色-1068032",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-10-05",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

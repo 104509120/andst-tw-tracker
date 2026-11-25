@@ -2,15 +2,10 @@
   "sku": "1052540",
   "history": [
     {
-      "date": "2026-10-06",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1603
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1052540",
   "salepage_id": "12216483",
   "url": "https://www.dot-st.tw/SalePage/Index/12216483",
   "title": "studio CLIP牛仔V領寬鬆襯衫上衣-二色-1052540",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-10-06",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

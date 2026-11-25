@@ -2,15 +2,10 @@
   "sku": "622866",
   "history": [
     {
-      "date": "2026-02-13",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=622866",
   "salepage_id": "11566692",
   "url": "https://www.dot-st.tw/SalePage/Index/11566692",
   "title": "LAKOLE女滿滿珍珠水鑽可調夾式耳環-二色-622866",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-02-13",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

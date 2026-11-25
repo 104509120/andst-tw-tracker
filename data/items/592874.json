@@ -2,15 +2,10 @@
   "sku": "592874",
   "history": [
     {
-      "date": "2025-11-25",
-      "price": 470
-    },
-    {
       "date": "2026-11-24",
       "price": 470
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=592874",
   "salepage_id": "11349989",
   "url": "https://www.dot-st.tw/SalePage/Index/11349989",
   "title": "niko and【Bubbling BUBBLE】沐浴系列垃圾桶-一色-592874",
@@ -21,5 +16,6 @@
   "max_price": 470,
   "listed_date": "2025-11-25",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

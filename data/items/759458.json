@@ -2,24 +2,20 @@
   "sku": "759458",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=759458",
   "salepage_id": "12266515",
   "url": "https://www.dot-st.tw/SalePage/Index/12266515",
   "title": "GLOBAL WORK女Melty柔滑高領坑條針織長袖上衣-五色-759458",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12266515/0/639288003394730000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12266515/0/639312025965900000?v=1",
   "current_price": 1490,
   "original_price": 1490,
   "min_price": 1490,
   "max_price": 1490,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "631254",
   "history": [
     {
-      "date": "2026-03-26",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 676
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=631254",
   "salepage_id": "11661347",
   "url": "https://www.dot-st.tw/SalePage/Index/11661347",
   "title": "LAKOLE女緞面拼接波士頓包-二色-631254",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-03-26",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

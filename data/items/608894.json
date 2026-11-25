@@ -2,15 +2,10 @@
   "sku": "608894",
   "history": [
     {
-      "date": "2026-04-01",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1374
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=608894",
   "salepage_id": "11676419",
   "url": "https://www.dot-st.tw/SalePage/Index/11676419",
   "title": "niko and女【MODE NORM CORE】休閒七分袖西裝外套-三色-608894",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-04-01",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

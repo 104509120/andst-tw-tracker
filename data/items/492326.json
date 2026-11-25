@@ -2,15 +2,10 @@
   "sku": "492326",
   "history": [
     {
-      "date": "2026-04-15",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=492326",
   "salepage_id": "11708071",
   "url": "https://www.dot-st.tw/SalePage/Index/11708071",
   "title": "LAKOLE新瀉產不鏽鋼霧面湯匙-一色-492326",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-04-15",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

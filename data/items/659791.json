@@ -2,15 +2,10 @@
   "sku": "659791",
   "history": [
     {
-      "date": "2026-06-10",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=659791",
   "salepage_id": "11879214",
   "url": "https://www.dot-st.tw/SalePage/Index/11879214",
   "title": "niko and男Russell Athletic品牌短袖T恤上衣-三色-659791",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-06-10",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

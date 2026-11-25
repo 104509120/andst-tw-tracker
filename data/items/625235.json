@@ -2,15 +2,10 @@
   "sku": "625235",
   "history": [
     {
-      "date": "2025-12-17",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1145
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=625235",
   "salepage_id": "11411568",
   "url": "https://www.dot-st.tw/SalePage/Index/11411568",
   "title": "niko and男刺繡藝術照片長袖T恤上衣-三色-625235",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2025-12-17",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

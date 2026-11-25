@@ -2,15 +2,10 @@
   "sku": "636523",
   "history": [
     {
-      "date": "2026-03-26",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 276
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=636523",
   "salepage_id": "11629573",
   "url": "https://www.dot-st.tw/SalePage/Index/11629573",
   "title": "studio CLIP造型卡片夾裝飾【Pantovisco波羅奇狗聯名】-一色-636523",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-03-26",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

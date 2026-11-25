@@ -2,15 +2,10 @@
   "sku": "797240",
   "history": [
     {
-      "date": "2026-09-22",
-      "price": 2090
-    },
-    {
       "date": "2026-11-24",
       "price": 2090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=797240",
   "salepage_id": "12176173",
   "url": "https://www.dot-st.tw/SalePage/Index/12176173",
   "title": "studio CLIP中長版百褶格紋裙-二色-797240",
@@ -21,5 +16,6 @@
   "max_price": 2090,
   "listed_date": "2026-09-22",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "612467",
   "history": [
     {
-      "date": "2025-12-10",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 345
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=612467",
   "salepage_id": "11392401",
   "url": "https://www.dot-st.tw/SalePage/Index/11392401",
   "title": "LEPSIM抽繩隨身袋造型項鍊-二色-612467",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2025-12-10",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

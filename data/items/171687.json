@@ -2,15 +2,10 @@
   "sku": "171687",
   "history": [
     {
-      "date": "2023-03-24",
-      "price": 3290
-    },
-    {
       "date": "2026-11-24",
       "price": 3290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=171687",
   "salepage_id": "8743527",
   "url": "https://www.dot-st.tw/SalePage/Index/8743527",
   "title": "studio CLIP自然木紋折疊梯(承重100KG)《輕傢俱》-一色-171687",
@@ -21,5 +16,6 @@
   "max_price": 3290,
   "listed_date": "2023-03-24",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

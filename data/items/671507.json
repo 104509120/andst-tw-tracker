@@ -2,15 +2,10 @@
   "sku": "671507",
   "history": [
     {
-      "date": "2026-05-06",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 676
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=671507",
   "salepage_id": "11772378",
   "url": "https://www.dot-st.tw/SalePage/Index/11772378",
   "title": "LAKOLE女涼感針織抽繩傘擺長裙-三色-671507",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-05-06",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

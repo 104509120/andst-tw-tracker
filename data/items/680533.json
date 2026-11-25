@@ -2,15 +2,10 @@
   "sku": "680533",
   "history": [
     {
-      "date": "2026-05-27",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 1955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=680533",
   "salepage_id": "11833672",
   "url": "https://www.dot-st.tw/SalePage/Index/11833672",
   "title": "PAGEBOY【網路限定55價】高腰側邊釦環設計牛仔丹寧寬版長褲-二色-680533",
@@ -21,5 +16,6 @@
   "max_price": 3990,
   "listed_date": "2026-05-27",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1056552",
   "history": [
     {
-      "date": "2026-09-04",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1056552",
   "salepage_id": "12131034",
   "url": "https://www.dot-st.tw/SalePage/Index/12131034",
   "title": "PAGEBOY前抽繩鏤空針織長袖設計上衣-二色-1056552",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-09-04",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

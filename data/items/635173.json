@@ -2,15 +2,10 @@
   "sku": "635173",
   "history": [
     {
-      "date": "2026-02-25",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 1495
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=635173",
   "salepage_id": "11575730",
   "url": "https://www.dot-st.tw/SalePage/Index/11575730",
   "title": "GLOBAL WORK男【UNIVERSAL OVERALL系列】輕便畫家褲長褲-二色-635173",
@@ -21,5 +16,6 @@
   "max_price": 2990,
   "listed_date": "2026-02-25",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

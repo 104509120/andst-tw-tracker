@@ -2,15 +2,10 @@
   "sku": "1044037",
   "history": [
     {
-      "date": "2026-09-21",
-      "price": 1590
-    },
-    {
       "date": "2026-11-24",
       "price": 1590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1044037",
   "salepage_id": "12172328",
   "url": "https://www.dot-st.tw/SalePage/Index/12172328",
   "title": "niko and戶外旅行摺疊收納行李袋54L-二色-1044037",
@@ -21,5 +16,6 @@
   "max_price": 1590,
   "listed_date": "2026-09-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

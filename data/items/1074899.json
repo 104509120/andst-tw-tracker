@@ -2,15 +2,10 @@
   "sku": "1074899",
   "history": [
     {
-      "date": "2026-10-16",
-      "price": 400
-    },
-    {
       "date": "2026-11-24",
       "price": 400
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1074899",
   "salepage_id": "12241634",
   "url": "https://www.dot-st.tw/SalePage/Index/12241634",
   "title": "repipi armario絲絨愛心波點大腸圈-三色-1074899",
@@ -21,5 +16,6 @@
   "max_price": 400,
   "listed_date": "2026-10-16",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

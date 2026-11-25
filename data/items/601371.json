@@ -2,15 +2,10 @@
   "sku": "601371",
   "history": [
     {
-      "date": "2025-10-14",
-      "price": 1190
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=601371",
   "salepage_id": "11220879",
   "url": "https://www.dot-st.tw/SalePage/Index/11220879",
   "title": "repipi armario圖印內刷毛寬鬆運動T恤上衣-六色-601371",
@@ -21,5 +16,6 @@
   "max_price": 1190,
   "listed_date": "2025-10-14",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

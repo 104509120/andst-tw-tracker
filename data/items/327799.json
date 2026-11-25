@@ -2,15 +2,10 @@
   "sku": "327799",
   "history": [
     {
-      "date": "2025-04-18",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=327799",
   "salepage_id": "10688948",
   "url": "https://www.dot-st.tw/SalePage/Index/10688948",
   "title": "LAKOLE【官網獨售】女柔美網紗吊帶可拆直筒長褲-三色-327799",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2025-04-18",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "599192",
   "history": [
     {
-      "date": "2026-05-07",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=599192",
   "salepage_id": "11776040",
   "url": "https://www.dot-st.tw/SalePage/Index/11776040",
   "title": "LAKOLE可拆卸式隔板工具收納盒M(2.5L)-一色-599192",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-05-07",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

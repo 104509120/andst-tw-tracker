@@ -2,24 +2,20 @@
   "sku": "641313",
   "history": [
     {
-      "date": "2026-02-12",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 355
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=641313",
   "salepage_id": "11561961",
   "url": "https://www.dot-st.tw/SalePage/Index/11561961",
   "title": "GLOBAL WORK【網路限定55價】童輕柔荷葉邊領襯衫上衣(130cm-160cm)-二色-641313",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11561961/0/639307656304830000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11561961/0/639312242598530000?v=1",
   "current_price": 355,
   "original_price": 790,
   "min_price": 355,
   "max_price": 790,
   "listed_date": "2026-02-12",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

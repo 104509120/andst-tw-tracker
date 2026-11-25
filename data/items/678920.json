@@ -2,12 +2,11 @@
   "sku": "678920",
   "history": [
     {
-      "date": "2026-07-07",
+      "date": "2026-11-25",
       "price": 390
     }
   ],
   "listed_date": "2026-07-07",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=678920",
   "salepage_id": "11959215",
   "url": "https://www.dot-st.tw/SalePage/Index/11959215",
   "title": "niko and女串珠花朵手環-三色-678920",
@@ -17,5 +16,6 @@
   "min_price": 390,
   "max_price": 390,
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-25"
 }

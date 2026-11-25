@@ -2,15 +2,10 @@
   "sku": "607608",
   "history": [
     {
-      "date": "2026-04-09",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=607608",
   "salepage_id": "11694339",
   "url": "https://www.dot-st.tw/SalePage/Index/11694339",
   "title": "LAKOLE附膠條防潮藥盒S-一色-607608",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2026-04-09",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

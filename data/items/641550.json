@@ -2,24 +2,20 @@
   "sku": "641550",
   "history": [
     {
-      "date": "2026-02-28",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 1245
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=641550",
   "salepage_id": "11580978",
   "url": "https://www.dot-st.tw/SalePage/Index/11580978",
   "title": "niko and男ANDSEWN系列復古工裝風長袖襯衫上衣-二色-641550",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11580978/0/639300744064400000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11580978/0/639312242652100000?v=1",
   "current_price": 1245,
   "original_price": 2490,
   "min_price": 1245,
   "max_price": 2490,
   "listed_date": "2026-02-28",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

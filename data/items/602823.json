@@ -2,15 +2,10 @@
   "sku": "602823",
   "history": [
     {
-      "date": "2026-01-22",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=602823",
   "salepage_id": "11466112",
   "url": "https://www.dot-st.tw/SalePage/Index/11466112",
   "title": "LOWRYS FARM【三麗鷗聯名】草莓新聞束口收納包-五色-602823",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-01-22",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

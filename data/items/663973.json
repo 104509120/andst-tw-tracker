@@ -2,15 +2,10 @@
   "sku": "663973",
   "history": [
     {
-      "date": "2026-03-26",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=663973",
   "salepage_id": "11661469",
   "url": "https://www.dot-st.tw/SalePage/Index/11661469",
   "title": "RAGEBLUE【網路限定55價】女輕透鏤空針織花卉圖案上衣-三色-663973",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-03-26",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

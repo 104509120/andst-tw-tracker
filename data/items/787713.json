@@ -2,24 +2,20 @@
   "sku": "787713",
   "history": [
     {
-      "date": "2026-10-15",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=787713",
   "salepage_id": "12237790",
   "url": "https://www.dot-st.tw/SalePage/Index/12237790",
   "title": "LAKOLE【網路限定55價】女溫柔絲絨雪尼爾針織上衣-四色-787713",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12237790/0/639307650302070000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12237790/0/639312242588170000?v=1",
   "current_price": 955,
   "original_price": 1490,
   "min_price": 955,
   "max_price": 1490,
   "listed_date": "2026-10-15",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

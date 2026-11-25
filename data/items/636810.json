@@ -2,24 +2,20 @@
   "sku": "636810",
   "history": [
     {
-      "date": "2026-06-03",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 645
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=636810",
   "salepage_id": "11860244",
   "url": "https://www.dot-st.tw/SalePage/Index/11860244",
   "title": "GLOBAL WORK女透氣羅紋針織背心-三色-636810",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11860244/0/639299286277230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11860244/0/639312242534600000?v=1",
   "current_price": 645,
   "original_price": 1290,
   "min_price": 645,
   "max_price": 1290,
   "listed_date": "2026-06-03",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

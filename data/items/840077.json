@@ -2,24 +2,20 @@
   "sku": "840077",
   "history": [
     {
-      "date": "2026-08-19",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=840077",
   "salepage_id": "12078439",
   "url": "https://www.dot-st.tw/SalePage/Index/12078439",
   "title": "LEPSIM條紋下擺抽繩七分袖上衣-三色-840077",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12078439/0/639295672408070000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12078439/0/639312242570770000?v=1",
   "current_price": 790,
   "original_price": 1490,
   "min_price": 790,
   "max_price": 1490,
   "listed_date": "2026-08-19",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

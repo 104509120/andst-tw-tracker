@@ -2,24 +2,20 @@
   "sku": "1056886",
   "history": [
     {
-      "date": "2026-10-01",
-      "price": 3490
-    },
-    {
       "date": "2026-11-24",
       "price": 2490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1056886",
   "salepage_id": "12197483",
   "url": "https://www.dot-st.tw/SalePage/Index/12197483",
   "title": "LEPSIM麂皮率性休閒插肩剪裁下擺抽繩外套-三色-1056886",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12197483/0/639300744105800000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12197483/0/639312242815030000?v=1",
   "current_price": 2490,
   "original_price": 3490,
   "min_price": 2490,
   "max_price": 3490,
   "listed_date": "2026-10-01",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "668112",
   "history": [
     {
-      "date": "2026-07-21",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 474
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=668112",
   "salepage_id": "11987095",
   "url": "https://www.dot-st.tw/SalePage/Index/11987095",
   "title": "LAKOLE女涼感可收納防曬連帽外套-二色-668112",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-07-21",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

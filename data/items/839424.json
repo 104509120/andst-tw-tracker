@@ -2,15 +2,10 @@
   "sku": "839424",
   "history": [
     {
-      "date": "2026-10-01",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=839424",
   "salepage_id": "12197480",
   "url": "https://www.dot-st.tw/SalePage/Index/12197480",
   "title": "LEPSIM雲朵柔軟感天鵝絨下擺抽繩開襟罩衫上衣-三色-839424",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2026-10-01",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

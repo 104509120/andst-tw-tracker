@@ -2,15 +2,10 @@
   "sku": "864778",
   "history": [
     {
-      "date": "2026-07-01",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 495
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=864778",
   "salepage_id": "11940856",
   "url": "https://www.dot-st.tw/SalePage/Index/11940856",
   "title": "niko and女華夫格織紋法式碎花外搭背心上衣-二色-864778",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-07-01",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "911356",
   "history": [
     {
-      "date": "2026-11-13",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 2990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=911356",
   "salepage_id": "12306108",
   "url": "https://www.dot-st.tw/SalePage/Index/12306108",
   "title": "niko and女WARM BOA防寒保暖毛絨拼接夾克外套-四色-911356",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12306108/0/639310432009370000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12306108/0/639312160920200000?v=1",
   "current_price": 2990,
   "original_price": 2990,
   "min_price": 2990,
   "max_price": 2990,
   "listed_date": "2026-11-13",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

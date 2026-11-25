@@ -2,24 +2,20 @@
   "sku": "668386",
   "history": [
     {
-      "date": "2026-04-22",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 516
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=668386",
   "salepage_id": "11730531",
   "url": "https://www.dot-st.tw/SalePage/Index/11730531",
   "title": "repipi armario層次疊穿綁帶露肩T恤上衣-三色-668386",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11730531/0/639292284362670000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11730531/0/639312242515630000?v=1",
   "current_price": 516,
   "original_price": 1290,
   "min_price": 516,
   "max_price": 1290,
   "listed_date": "2026-04-22",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

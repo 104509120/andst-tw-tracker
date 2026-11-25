@@ -2,15 +2,10 @@
   "sku": "496234",
   "history": [
     {
-      "date": "2026-01-16",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 145
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=496234",
   "salepage_id": "11484062",
   "url": "https://www.dot-st.tw/SalePage/Index/11484062",
   "title": "LAKOLE女雙圈造型髮插髮夾-三色-496234",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-01-16",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

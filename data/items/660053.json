@@ -2,15 +2,10 @@
   "sku": "660053",
   "history": [
     {
-      "date": "2026-05-01",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 995
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=660053",
   "salepage_id": "11756443",
   "url": "https://www.dot-st.tw/SalePage/Index/11756443",
   "title": "niko and女可愛貓咪圖樣短袖襯衫-二色-660053",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-05-01",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

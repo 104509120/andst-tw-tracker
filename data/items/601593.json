@@ -2,15 +2,10 @@
   "sku": "601593",
   "history": [
     {
-      "date": "2025-12-17",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 273
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=601593",
   "salepage_id": "11411607",
   "url": "https://www.dot-st.tw/SalePage/Index/11411607",
   "title": "LAKOLE壓克力立牌式桌曆(不限年份)-二色-601593",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2025-12-17",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

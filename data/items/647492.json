@@ -2,15 +2,10 @@
   "sku": "647492",
   "history": [
     {
-      "date": "2026-03-18",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 756
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647492",
   "salepage_id": "11626511",
   "url": "https://www.dot-st.tw/SalePage/Index/11626511",
   "title": "LEPSIM紗線透膚羅紋開襟衫上衣-三色-647492",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2026-03-18",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

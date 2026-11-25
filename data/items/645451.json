@@ -2,15 +2,10 @@
   "sku": "645451",
   "history": [
     {
-      "date": "2026-02-06",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=645451",
   "salepage_id": "11548647",
   "url": "https://www.dot-st.tw/SalePage/Index/11548647",
   "title": "repipi armario童學院風字母休閒長袖上衣-六色-645451",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-02-06",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

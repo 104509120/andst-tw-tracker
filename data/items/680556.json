@@ -2,15 +2,10 @@
   "sku": "680556",
   "history": [
     {
-      "date": "2026-05-14",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 507
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=680556",
   "salepage_id": "11794887",
   "url": "https://www.dot-st.tw/SalePage/Index/11794887",
   "title": "PAGEBOY縫線剪裁下襬不規則網紗羅紋上衣-二色-680556",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-05-14",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

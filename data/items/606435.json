@@ -2,15 +2,10 @@
   "sku": "606435",
   "history": [
     {
-      "date": "2025-11-06",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=606435",
   "salepage_id": "12130489",
   "url": "https://www.dot-st.tw/SalePage/Index/12130489",
   "title": "LOWRYS FARM女輕薄親膚長袖上衣-六色-606435",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2025-11-06",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

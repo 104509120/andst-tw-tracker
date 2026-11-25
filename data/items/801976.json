@@ -2,15 +2,10 @@
   "sku": "801976",
   "history": [
     {
-      "date": "2026-09-18",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=801976",
   "salepage_id": "12166492",
   "url": "https://www.dot-st.tw/SalePage/Index/12166492",
   "title": "LAKOLE【品牌好友｜曾敬驊 江齊著用款】女時髦運動鞋底彈性襪靴-二色-801976",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-09-18",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

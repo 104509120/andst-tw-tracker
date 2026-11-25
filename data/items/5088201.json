@@ -2,15 +2,10 @@
   "sku": "5088201",
   "history": [
     {
-      "date": "2026-11-17",
-      "price": 3200
-    },
-    {
       "date": "2026-11-24",
       "price": 1920
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=5088201",
   "salepage_id": "12325525",
   "url": "https://www.dot-st.tw/SalePage/Index/12325525",
   "title": "◎index女Couture Brooch前皺摺後綁帶喇叭袖雪紡上衣-三色-50882017 NT$1,920",
@@ -21,5 +16,6 @@
   "max_price": 3200,
   "listed_date": "2026-11-17",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

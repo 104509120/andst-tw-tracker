@@ -2,24 +2,20 @@
   "sku": "192211",
   "history": [
     {
-      "date": "2023-05-11",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 995
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=192211",
   "salepage_id": "8850810",
   "url": "https://www.dot-st.tw/SalePage/Index/8850810",
   "title": "HARE男日本製金屬鎖鍊感短項鍊-一色-192211",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/8850810/0/639300744123400000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/8850810/0/639312242845100000?v=1",
   "current_price": 995,
   "original_price": 1990,
   "min_price": 995,
   "max_price": 1990,
   "listed_date": "2023-05-11",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

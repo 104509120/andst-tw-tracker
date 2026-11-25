@@ -2,15 +2,10 @@
   "sku": "865829",
   "history": [
     {
-      "date": "2026-06-10",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1345
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=865829",
   "salepage_id": "11883123",
   "url": "https://www.dot-st.tw/SalePage/Index/11883123",
   "title": "niko and女透膚蕾絲花紋荷葉邊長裙-二色-865829",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2026-06-10",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "611400",
   "history": [
     {
-      "date": "2026-01-30",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 145
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=611400",
   "salepage_id": "11526107",
   "url": "https://www.dot-st.tw/SalePage/Index/11526107",
   "title": "LAKOLE金銀箔華麗透明筷架-二色-611400",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-01-30",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

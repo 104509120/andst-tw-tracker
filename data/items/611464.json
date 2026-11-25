@@ -2,24 +2,20 @@
   "sku": "611464",
   "history": [
     {
-      "date": "2025-11-26",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 3990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=611464",
   "salepage_id": "12125005",
   "url": "https://www.dot-st.tw/SalePage/Index/12125005",
   "title": "Heather蓬鬆毛絨大口袋中長版休閒外套-三色-611464",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12125005/0/639307776713100000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12125005/0/639312003026970000?v=1",
   "current_price": 3990,
   "original_price": 3990,
   "min_price": 3990,
   "max_price": 3990,
   "listed_date": "2025-11-26",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

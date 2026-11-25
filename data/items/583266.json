@@ -2,15 +2,10 @@
   "sku": "583266",
   "history": [
     {
-      "date": "2026-03-19",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=583266",
   "salepage_id": "11634461",
   "url": "https://www.dot-st.tw/SalePage/Index/11634461",
   "title": "LAKOLE愛心小包多功能手機背帶(附夾片)-二色-583266",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2026-03-19",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1057760",
   "history": [
     {
-      "date": "2026-11-03",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1255
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1057760",
   "salepage_id": "12278193",
   "url": "https://www.dot-st.tw/SalePage/Index/12278193",
   "title": "studio CLIP【網路限定55價】復古後蝴蝶結蕾絲馬甲背心上衣-二色-1057760",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-11-03",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

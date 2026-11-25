@@ -2,24 +2,20 @@
   "sku": "1079329",
   "history": [
     {
-      "date": "2026-11-03",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1079329",
   "salepage_id": "12278201",
   "url": "https://www.dot-st.tw/SalePage/Index/12278201",
   "title": "studio CLIP古典格紋馬尾圈-三色-1079329",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12278201/0/639301758410200000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12278201/0/639312048452030000?v=1",
   "current_price": 290,
   "original_price": 290,
   "min_price": 290,
   "max_price": 290,
   "listed_date": "2026-11-03",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

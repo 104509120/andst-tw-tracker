@@ -2,24 +2,20 @@
   "sku": "1050009",
   "history": [
     {
-      "date": "2026-09-17",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1255
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1050009",
   "salepage_id": "12165723",
   "url": "https://www.dot-st.tw/SalePage/Index/12165723",
   "title": "niko and【網路限定55價】女2WAY前後兩穿荷葉邊長袖上衣-二色-1050009",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12165723/0/639310431921800000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12165723/0/639312242799600000?v=1",
   "current_price": 1255,
   "original_price": 2290,
   "min_price": 1255,
   "max_price": 2290,
   "listed_date": "2026-09-17",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

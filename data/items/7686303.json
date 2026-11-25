@@ -2,15 +2,10 @@
   "sku": "7686303",
   "history": [
     {
-      "date": "2026-09-07",
-      "price": 3180
-    },
-    {
       "date": "2026-11-24",
       "price": 2226
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=7686303",
   "salepage_id": "12130853",
   "url": "https://www.dot-st.tw/SalePage/Index/12130853",
   "title": "◎index女grove抽繩彈性美腿喇叭褲-一色-76863035 NT$2,226",
@@ -21,5 +16,6 @@
   "max_price": 3180,
   "listed_date": "2026-09-07",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

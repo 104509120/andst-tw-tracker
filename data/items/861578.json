@@ -2,15 +2,10 @@
   "sku": "861578",
   "history": [
     {
-      "date": "2026-07-29",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 597
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=861578",
   "salepage_id": "12027571",
   "url": "https://www.dot-st.tw/SalePage/Index/12027571",
   "title": "niko and女柔軟透膚荷葉邊短袖上衣-三色-861578",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-07-29",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

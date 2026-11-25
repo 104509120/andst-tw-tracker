@@ -2,24 +2,20 @@
   "sku": "812593",
   "history": [
     {
-      "date": "2026-11-11",
-      "price": 4490
-    },
-    {
       "date": "2026-11-24",
       "price": 4490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=812593",
   "salepage_id": "12301576",
   "url": "https://www.dot-st.tw/SalePage/Index/12301576",
   "title": "LOWRYS FARM【LFM(U)】男女UNISEX系列經典翻領立領兩穿大衣-四色-812593",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12301576/0/639305115588330000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12301576/0/639312229949600000?v=1",
   "current_price": 4490,
   "original_price": 4490,
   "min_price": 4490,
   "max_price": 4490,
   "listed_date": "2026-11-11",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

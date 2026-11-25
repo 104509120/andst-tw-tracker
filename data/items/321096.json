@@ -2,15 +2,10 @@
   "sku": "321096",
   "history": [
     {
-      "date": "2025-08-05",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=321096",
   "salepage_id": "11004524",
   "url": "https://www.dot-st.tw/SalePage/Index/11004524",
   "title": "GLOBAL WORK女不鏽鋼雙層長項鍊-三色-321096",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2025-08-05",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

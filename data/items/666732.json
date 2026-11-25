@@ -2,15 +2,10 @@
   "sku": "666732",
   "history": [
     {
-      "date": "2026-07-07",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1393
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=666732",
   "salepage_id": "11959231",
   "url": "https://www.dot-st.tw/SalePage/Index/11959231",
   "title": "niko and男車縫設計腰部綁繩舒適寬褲長褲-四色-666732",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-07-07",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

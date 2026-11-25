@@ -2,15 +2,10 @@
   "sku": "576036",
   "history": [
     {
-      "date": "2025-11-20",
-      "price": 5690
-    },
-    {
       "date": "2026-11-24",
       "price": 5121
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=576036",
   "salepage_id": "11336732",
   "url": "https://www.dot-st.tw/SalePage/Index/11336732",
   "title": "niko and女INDIA IS BEAUTIFUL系列2WAY雙面兩穿圖紋夾克外套-一色-576036",
@@ -21,5 +16,6 @@
   "max_price": 5690,
   "listed_date": "2025-11-20",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

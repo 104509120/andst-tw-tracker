@@ -2,24 +2,20 @@
   "sku": "666199",
   "history": [
     {
-      "date": "2026-04-30",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=666199",
   "salepage_id": "11755472",
   "url": "https://www.dot-st.tw/SalePage/Index/11755472",
   "title": "JEANASIS【網路限定55價】多口袋尼龍3WAY日常托特包-四色-666199",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11755472/0/639307647537770000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11755472/0/639312242701200000?v=1",
   "current_price": 955,
   "original_price": 2490,
   "min_price": 955,
   "max_price": 2490,
   "listed_date": "2026-04-30",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

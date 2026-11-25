@@ -2,15 +2,10 @@
   "sku": "492749",
   "history": [
     {
-      "date": "2025-11-06",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=492749",
   "salepage_id": "11296728",
   "url": "https://www.dot-st.tw/SalePage/Index/11296728",
   "title": "niko and女鉚釘編織繩吊飾鑰匙圈-三色-492749",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2025-11-06",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

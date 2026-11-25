@@ -2,15 +2,10 @@
   "sku": "596143",
   "history": [
     {
-      "date": "2025-12-18",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1345
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=596143",
   "salepage_id": "11415605",
   "url": "https://www.dot-st.tw/SalePage/Index/11415605",
   "title": "niko and男立體線條針織罩衫長袖上衣-四色-596143",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2025-12-18",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

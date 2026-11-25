@@ -2,15 +2,10 @@
   "sku": "7681338",
   "history": [
     {
-      "date": "2026-09-07",
-      "price": 1880
-    },
-    {
       "date": "2026-11-24",
       "price": 1316
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=7681338",
   "salepage_id": "12131278",
   "url": "https://www.dot-st.tw/SalePage/Index/12131278",
   "title": "◎index女grove打摺澎澎短袖上衣-四色-76813388 NT$1,316",
@@ -21,5 +16,6 @@
   "max_price": 1880,
   "listed_date": "2026-09-07",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1044448",
   "history": [
     {
-      "date": "2026-10-16",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 2255
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1044448",
   "salepage_id": "12244253",
   "url": "https://www.dot-st.tw/SalePage/Index/12244253",
   "title": "PAGEBOY【網路限定55價】豹紋斜肩毛絨針織長袖短版上衣-二色-1044448",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-10-16",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

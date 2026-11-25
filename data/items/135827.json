@@ -2,15 +2,10 @@
   "sku": "135827",
   "history": [
     {
-      "date": "2025-12-24",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 273
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=135827",
   "salepage_id": "11430147",
   "url": "https://www.dot-st.tw/SalePage/Index/11430147",
   "title": "studio CLIP造型鐵條卡片展示架擺飾-三色-135827",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2025-12-24",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

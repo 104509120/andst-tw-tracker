@@ -2,15 +2,10 @@
   "sku": "494703",
   "history": [
     {
-      "date": "2025-11-27",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1393
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=494703",
   "salepage_id": "11356155",
   "url": "https://www.dot-st.tw/SalePage/Index/11356155",
   "title": "niko and女燈芯絨彈性修身迷你短裙-二色-494703",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2025-11-27",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

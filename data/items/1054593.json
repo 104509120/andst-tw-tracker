@@ -2,15 +2,10 @@
   "sku": "1054593",
   "history": [
     {
-      "date": "2026-09-10",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1054593",
   "salepage_id": "12144560",
   "url": "https://www.dot-st.tw/SalePage/Index/12144560",
   "title": "LEPSIM絲絨羅紋圍巾領六分袖上衣-三色-1054593",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2026-09-10",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

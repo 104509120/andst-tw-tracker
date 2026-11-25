@@ -2,15 +2,10 @@
   "sku": "669528",
   "history": [
     {
-      "date": "2026-06-08",
-      "price": 470
-    },
-    {
       "date": "2026-11-24",
       "price": 470
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=669528",
   "salepage_id": "11870996",
   "url": "https://www.dot-st.tw/SalePage/Index/11870996",
   "title": "niko and設計師品牌Fishs Eddy變形蟲方巾手帕-二色-669528",
@@ -21,5 +16,6 @@
   "max_price": 470,
   "listed_date": "2026-06-08",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

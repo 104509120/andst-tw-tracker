@@ -2,24 +2,20 @@
   "sku": "639434",
   "history": [
     {
-      "date": "2026-03-18",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 796
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=639434",
   "salepage_id": "11626492",
   "url": "https://www.dot-st.tw/SalePage/Index/11626492",
   "title": "LEPSIM羅紋彈力布綁帶開襟外套-三色-639434",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11626492/0/639292287587970000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11626492/0/639312124700930000?v=1",
   "current_price": 796,
   "original_price": 1990,
   "min_price": 796,
   "max_price": 1990,
   "listed_date": "2026-03-18",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

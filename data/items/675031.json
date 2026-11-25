@@ -2,15 +2,10 @@
   "sku": "675031",
   "history": [
     {
-      "date": "2026-05-14",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 316
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=675031",
   "salepage_id": "11794095",
   "url": "https://www.dot-st.tw/SalePage/Index/11794095",
   "title": "LEPSIM童暈染設計短袖T恤上衣-二色-675031",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-05-14",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

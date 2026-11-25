@@ -2,15 +2,10 @@
   "sku": "667167",
   "history": [
     {
-      "date": "2026-05-26",
-      "price": 2090
-    },
-    {
       "date": "2026-11-24",
       "price": 836
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=667167",
   "salepage_id": "11828624",
   "url": "https://www.dot-st.tw/SalePage/Index/11828624",
   "title": "studio CLIP微透感2WAY綁帶蝙蝠袖襯衫-四色-667167",
@@ -21,5 +16,6 @@
   "max_price": 2090,
   "listed_date": "2026-05-26",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

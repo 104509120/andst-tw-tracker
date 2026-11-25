@@ -2,24 +2,20 @@
   "sku": "1054528",
   "history": [
     {
-      "date": "2026-09-09",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1054528",
   "salepage_id": "12142600",
   "url": "https://www.dot-st.tw/SalePage/Index/12142600",
   "title": "GLOBAL WORK【網路限定55價】女素色T恤與鏤空針織長袖上衣二件組-五色-1054528",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12142600/0/639310365717970000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12142600/0/639312242782500000?v=1",
   "current_price": 755,
   "original_price": 1490,
   "min_price": 755,
   "max_price": 1490,
   "listed_date": "2026-09-09",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

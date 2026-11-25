@@ -2,15 +2,10 @@
   "sku": "886010",
   "history": [
     {
-      "date": "2022-03-18",
-      "price": 700
-    },
-    {
       "date": "2026-11-24",
       "price": 700
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=886010",
   "salepage_id": "7665376",
   "url": "https://www.dot-st.tw/SalePage/Index/7665376",
   "title": "niko and可愛動物造型直立支架雨傘直傘-四款-886010",
@@ -21,5 +16,6 @@
   "max_price": 700,
   "listed_date": "2022-03-18",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

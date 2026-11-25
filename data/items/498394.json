@@ -2,15 +2,10 @@
   "sku": "498394",
   "history": [
     {
-      "date": "2025-08-14",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1393
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=498394",
   "salepage_id": "11027857",
   "url": "https://www.dot-st.tw/SalePage/Index/11027857",
   "title": "GLOBAL WORK女GOOD DENIM系列仿舊腰鬆緊丹寧長褲-五色-498394",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2025-08-14",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

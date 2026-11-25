@@ -2,24 +2,20 @@
   "sku": "601343",
   "history": [
     {
-      "date": "2026-01-29",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=601343",
   "salepage_id": "11523136",
   "url": "https://www.dot-st.tw/SalePage/Index/11523136",
   "title": "GLOBAL WORK【網路限定55價】男【品牌好友｜曾敬驊 江齊著用款】舒適彈性腰鬆緊寬版長褲-四色-601343",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11523136/0/639310365136370000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11523136/0/639312242634300000?v=1",
   "current_price": 755,
   "original_price": 1490,
   "min_price": 755,
   "max_price": 1490,
   "listed_date": "2026-01-29",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

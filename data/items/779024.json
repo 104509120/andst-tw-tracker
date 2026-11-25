@@ -2,24 +2,24 @@
   "sku": "779024",
   "history": [
     {
-      "date": "2026-07-02",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1603
+    },
+    {
+      "date": "2026-11-25",
+      "price": 1145
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=779024",
   "salepage_id": "11947620",
   "url": "https://www.dot-st.tw/SalePage/Index/11947620",
   "title": "JEANASIS復古鉚釘迷你斜背包-三色-779024",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11947620/0/639307793898770000?v=1",
-  "current_price": 1603,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11947620/0/639312241681770000?v=1",
+  "current_price": 1145,
   "original_price": 2290,
-  "min_price": 1603,
+  "min_price": 1145,
   "max_price": 2290,
   "listed_date": "2026-07-02",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

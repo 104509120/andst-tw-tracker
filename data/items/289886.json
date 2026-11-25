@@ -2,15 +2,10 @@
   "sku": "289886",
   "history": [
     {
-      "date": "2025-09-05",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=289886",
   "salepage_id": "11084613",
   "url": "https://www.dot-st.tw/SalePage/Index/11084613",
   "title": "LAKOLE金邊玻璃盤-一色-289886",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2025-09-05",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "6371517",
   "history": [
     {
-      "date": "2026-10-06",
-      "price": 2880
-    },
-    {
       "date": "2026-11-24",
       "price": 1728
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=6371517",
   "salepage_id": "12222258",
   "url": "https://www.dot-st.tw/SalePage/Index/12222258",
   "title": "◎index女OPAQUE.CLIP花朵鏤空針織七分袖上衣-三色-63715176 NT$1,728",
@@ -21,5 +16,6 @@
   "max_price": 2880,
   "listed_date": "2026-10-06",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

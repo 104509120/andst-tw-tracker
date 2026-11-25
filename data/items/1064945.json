@@ -2,24 +2,20 @@
   "sku": "1064945",
   "history": [
     {
-      "date": "2026-10-15",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1064945",
   "salepage_id": "12237948",
   "url": "https://www.dot-st.tw/SalePage/Index/12237948",
   "title": "LOWRYS FARM女荷葉大翻領POLO針織上衣-四色-1064945",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12237948/0/639299179883530000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12237948/0/639312229688530000?v=1",
   "current_price": 1990,
   "original_price": 1990,
   "min_price": 1990,
   "max_price": 1990,
   "listed_date": "2026-10-15",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

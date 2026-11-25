@@ -2,24 +2,24 @@
   "sku": "1064725",
   "history": [
     {
-      "date": "2026-08-25",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
+    },
+    {
+      "date": "2026-11-25",
+      "price": 855
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1064725",
   "salepage_id": "12100547",
   "url": "https://www.dot-st.tw/SalePage/Index/12100547",
-  "title": "LOWRYS FARM女抓皺金屬飾釦樂福鞋-二色-1064725",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12100547/0/639306074787830000?v=1",
-  "current_price": 1690,
+  "title": "LOWRYS FARM【網路限定55價】女抓皺金屬飾釦樂福鞋-二色-1064725",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12100547/0/639312242912770000?v=1",
+  "current_price": 855,
   "original_price": 2490,
-  "min_price": 1690,
+  "min_price": 855,
   "max_price": 2490,
   "listed_date": "2026-08-25",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

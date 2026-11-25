@@ -2,15 +2,10 @@
   "sku": "137530",
   "history": [
     {
-      "date": "2024-12-24",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=137530",
   "salepage_id": "10415946",
   "url": "https://www.dot-st.tw/SalePage/Index/10415946",
   "title": "niko and女【tiy nie yee】絎縫肩背手提電腦包13吋-二色-137530",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2024-12-24",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

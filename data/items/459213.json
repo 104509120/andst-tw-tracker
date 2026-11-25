@@ -2,15 +2,10 @@
   "sku": "459213",
   "history": [
     {
-      "date": "2025-06-26",
-      "price": 300
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=459213",
   "salepage_id": "10905353",
   "url": "https://www.dot-st.tw/SalePage/Index/10905353",
   "title": "niko and女【tiy nie yee】小巧隨身梳子吊飾鑰匙圈-三色-459213",
@@ -21,5 +16,6 @@
   "max_price": 300,
   "listed_date": "2025-06-26",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "120041",
   "history": [
     {
-      "date": "2024-08-16",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 413
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=120041",
   "salepage_id": "10078751",
   "url": "https://www.dot-st.tw/SalePage/Index/10078751",
   "title": "studio CLIP籐編花朵器皿墊-二色-120041",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2024-08-16",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

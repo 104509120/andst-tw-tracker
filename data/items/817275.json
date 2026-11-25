@@ -2,15 +2,10 @@
   "sku": "817275",
   "history": [
     {
-      "date": "2026-09-02",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 903
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=817275",
   "salepage_id": "12124529",
   "url": "https://www.dot-st.tw/SalePage/Index/12124529",
   "title": "GLOBAL WORK女美人系後鬆緊直筒西裝長褲-四色-817275",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-09-02",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "622873",
   "history": [
     {
-      "date": "2026-07-30",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=622873",
   "salepage_id": "12030038",
   "url": "https://www.dot-st.tw/SalePage/Index/12030038",
   "title": "LAKOLE女金屬圓珠珍珠耳針式耳環-二色-622873",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-07-30",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

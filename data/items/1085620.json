@@ -2,24 +2,24 @@
   "sku": "1085620",
   "history": [
     {
-      "date": "2026-09-24",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 990
+    },
+    {
+      "date": "2026-11-25",
+      "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1085620",
   "salepage_id": "12185013",
   "url": "https://www.dot-st.tw/SalePage/Index/12185013",
   "title": "JEANASIS棉質細羅紋短版長袖上衣-三色-1085620",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12185013/0/639307793454130000?v=1",
-  "current_price": 990,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12185013/0/639312240809030000?v=1",
+  "current_price": 790,
   "original_price": 1490,
-  "min_price": 990,
+  "min_price": 790,
   "max_price": 1490,
   "listed_date": "2026-09-24",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

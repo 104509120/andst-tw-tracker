@@ -2,24 +2,20 @@
   "sku": "286178",
   "history": [
     {
-      "date": "2025-02-13",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=286178",
   "salepage_id": "10518963",
   "url": "https://www.dot-st.tw/SalePage/Index/10518963",
   "title": "GLOBAL WORK【網路限定55價】童EASY CARE側蝴蝶結裝飾後鬆緊寬鬆長褲-二色-286178",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/10518963/0/639307656261900000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/10518963/0/639312242617500000?v=1",
   "current_price": 555,
   "original_price": 1690,
   "min_price": 555,
   "max_price": 1690,
   "listed_date": "2025-02-13",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

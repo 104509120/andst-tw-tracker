@@ -2,15 +2,10 @@
   "sku": "1042448",
   "history": [
     {
-      "date": "2026-07-07",
-      "price": 2790
-    },
-    {
       "date": "2026-11-24",
       "price": 1990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1042448",
   "salepage_id": "11957033",
   "url": "https://www.dot-st.tw/SalePage/Index/11957033",
   "title": "HARE男【ICY FEEL接觸涼感】松木圖樣POLO休閒短袖上衣-二色-1042448",
@@ -21,5 +16,6 @@
   "max_price": 2790,
   "listed_date": "2026-07-07",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

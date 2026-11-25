@@ -2,15 +2,10 @@
   "sku": "813786",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 3490
-    },
-    {
       "date": "2026-11-24",
       "price": 2355
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=813786",
   "salepage_id": "12274070",
   "url": "https://www.dot-st.tw/SalePage/Index/12274070",
   "title": "LAKOLE【網路限定55價】男美式海軍G-1皮革飛行夾克外套-二色-813786",
@@ -21,5 +16,6 @@
   "max_price": 3490,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

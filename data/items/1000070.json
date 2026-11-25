@@ -2,15 +2,10 @@
   "sku": "1000070",
   "history": [
     {
-      "date": "2026-11-06",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1000070",
   "salepage_id": "12288557",
   "url": "https://www.dot-st.tw/SalePage/Index/12288557",
   "title": "studio CLIP爬樹聖誕老人樹《CHRISTMAS 2026》-一色-1000070",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-11-06",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

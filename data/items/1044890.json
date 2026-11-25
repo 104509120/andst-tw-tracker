@@ -2,15 +2,10 @@
   "sku": "1044890",
   "history": [
     {
-      "date": "2026-07-14",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1044890",
   "salepage_id": "11974172",
   "url": "https://www.dot-st.tw/SalePage/Index/11974172",
   "title": "Heather棉質層次荷葉束口肩背托特包-二色-1044890",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-07-14",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

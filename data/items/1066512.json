@@ -2,24 +2,24 @@
   "sku": "1066512",
   "history": [
     {
-      "date": "2026-09-24",
+      "date": "2026-11-24",
       "price": 2990
     },
     {
-      "date": "2026-11-24",
-      "price": 2990
+      "date": "2026-11-25",
+      "price": 2093
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1066512",
   "salepage_id": "12185005",
   "url": "https://www.dot-st.tw/SalePage/Index/12185005",
   "title": "JEANASIS2WAY可調扣帶粗跟穆勒鞋-二色-1066512",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12185005/0/639299179629770000?v=1",
-  "current_price": 2990,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12185005/0/639312240574770000?v=1",
+  "current_price": 2093,
   "original_price": 2990,
-  "min_price": 2990,
+  "min_price": 2093,
   "max_price": 2990,
   "listed_date": "2026-09-24",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

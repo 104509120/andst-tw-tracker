@@ -2,15 +2,10 @@
   "sku": "690639",
   "history": [
     {
-      "date": "2026-06-26",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1592
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=690639",
   "salepage_id": "11931641",
   "url": "https://www.dot-st.tw/SalePage/Index/11931641",
   "title": "niko and男縫線設計短袖襯衫上衣-四色-690639",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-06-26",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

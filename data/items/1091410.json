@@ -1,11 +1,6 @@
 {
   "sku": "1091410",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1091410",
   "history": [
-    {
-      "date": "2026-11-18",
-      "price": 490
-    },
     {
       "date": "2026-11-24",
       "price": 490
@@ -14,12 +9,13 @@
   "salepage_id": "12318499",
   "url": "https://www.dot-st.tw/SalePage/Index/12318499",
   "title": "LOWRYS FARM女氣質小珍珠點綴造型髮夾-二色-1091410",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12318499/0/639306193429770000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12318499/0/639312229965500000?v=1",
   "current_price": 490,
   "original_price": 490,
   "min_price": 490,
   "max_price": 490,
   "listed_date": "2026-11-18",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

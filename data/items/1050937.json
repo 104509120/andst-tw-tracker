@@ -2,15 +2,10 @@
   "sku": "1050937",
   "history": [
     {
-      "date": "2026-10-06",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1050937",
   "salepage_id": "12215956",
   "url": "https://www.dot-st.tw/SalePage/Index/12215956",
   "title": "GLOBAL WORK女層次感三連珠項鍊-三色-1050937",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2026-10-06",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

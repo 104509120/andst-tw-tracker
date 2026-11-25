@@ -2,24 +2,20 @@
   "sku": "661226",
   "history": [
     {
-      "date": "2026-05-27",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1145
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=661226",
   "salepage_id": "11833205",
   "url": "https://www.dot-st.tw/SalePage/Index/11833205",
   "title": "GLOBAL WORK女清爽飄逸層次感長版短袖上衣-三色-661226",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11833205/0/639299286277230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11833205/0/639312242534600000?v=1",
   "current_price": 1145,
   "original_price": 2290,
   "min_price": 1145,
   "max_price": 2290,
   "listed_date": "2026-05-27",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1049317",
   "history": [
     {
-      "date": "2026-09-02",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1049317",
   "salepage_id": "12124954",
   "url": "https://www.dot-st.tw/SalePage/Index/12124954",
   "title": "LEPSIM【網路限定55價】童休閒寬版刷破直筒牛仔丹寧褲-三色-1049317",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-09-02",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

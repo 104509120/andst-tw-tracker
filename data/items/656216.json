@@ -2,15 +2,10 @@
   "sku": "656216",
   "history": [
     {
-      "date": "2026-03-26",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 1197
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=656216",
   "salepage_id": "11660792",
   "url": "https://www.dot-st.tw/SalePage/Index/11660792",
   "title": "PAGEBOY男女PBLIM系列側邊線條褲管抽繩休閒長褲-二色-656216",
@@ -21,5 +16,6 @@
   "max_price": 3990,
   "listed_date": "2026-03-26",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

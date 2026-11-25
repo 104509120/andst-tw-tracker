@@ -2,15 +2,10 @@
   "sku": "668393",
   "history": [
     {
-      "date": "2026-05-06",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 596
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=668393",
   "salepage_id": "11772894",
   "url": "https://www.dot-st.tw/SalePage/Index/11772894",
   "title": "repipi armario雙向拉鍊短版半袖連帽上衣-四色 -668393",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-05-06",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

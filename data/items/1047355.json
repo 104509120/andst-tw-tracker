@@ -2,15 +2,10 @@
   "sku": "1047355",
   "history": [
     {
-      "date": "2026-10-08",
-      "price": 2920
-    },
-    {
       "date": "2026-11-24",
       "price": 2920
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1047355",
   "salepage_id": "12223248",
   "url": "https://www.dot-st.tw/SalePage/Index/12223248",
   "title": "niko and復古色彩線條設計地墊腳踏墊-二色-1047355",
@@ -21,5 +16,6 @@
   "max_price": 2920,
   "listed_date": "2026-10-08",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

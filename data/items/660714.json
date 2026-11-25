@@ -2,15 +2,10 @@
   "sku": "660714",
   "history": [
     {
-      "date": "2026-07-21",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=660714",
   "salepage_id": "11989893",
   "url": "https://www.dot-st.tw/SalePage/Index/11989893",
   "title": "LAKOLE女不鏽鋼喜平鍊手鍊-二色-660714",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-07-21",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

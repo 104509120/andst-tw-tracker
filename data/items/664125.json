@@ -2,15 +2,10 @@
   "sku": "664125",
   "history": [
     {
-      "date": "2026-08-28",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=664125",
   "salepage_id": "12111442",
   "url": "https://www.dot-st.tw/SalePage/Index/12111442",
   "title": "LAKOLE女8字形玻璃造型戒指-二色-664125",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-08-28",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

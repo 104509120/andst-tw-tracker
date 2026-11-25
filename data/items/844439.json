@@ -2,15 +2,10 @@
   "sku": "844439",
   "history": [
     {
-      "date": "2026-07-08",
-      "price": 3110
-    },
-    {
       "date": "2026-11-24",
       "price": 3110
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=844439",
   "salepage_id": "11962076",
   "url": "https://www.dot-st.tw/SalePage/Index/11962076",
   "title": "niko and室內裝飾天然木抽屜展示架-一色-844439",
@@ -21,5 +16,6 @@
   "max_price": 3110,
   "listed_date": "2026-07-08",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

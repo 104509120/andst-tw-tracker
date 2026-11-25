@@ -2,15 +2,10 @@
   "sku": "668412",
   "history": [
     {
-      "date": "2026-05-06",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 916
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=668412",
   "salepage_id": "11772900",
   "url": "https://www.dot-st.tw/SalePage/Index/11772900",
   "title": "repipi armario胸前交叉荷葉邊2WAY短袖上衣-二色-668412",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-05-06",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

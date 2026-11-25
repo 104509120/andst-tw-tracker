@@ -2,15 +2,10 @@
   "sku": "667147",
   "history": [
     {
-      "date": "2026-07-07",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 792
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=667147",
   "salepage_id": "11959226",
   "url": "https://www.dot-st.tw/SalePage/Index/11959226",
   "title": "niko and男品牌NMR系列吸水速乾透氣背心上衣-二色-667147",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-07-07",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

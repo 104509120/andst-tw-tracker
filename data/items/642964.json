@@ -2,15 +2,10 @@
   "sku": "642964",
   "history": [
     {
-      "date": "2026-08-04",
-      "price": 1090
-    },
-    {
       "date": "2026-11-24",
       "price": 1090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=642964",
   "salepage_id": "12036991",
   "url": "https://www.dot-st.tw/SalePage/Index/12036991",
   "title": "studio CLIP透明網眼收納包組-三色-642964",
@@ -21,5 +16,6 @@
   "max_price": 1090,
   "listed_date": "2026-08-04",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

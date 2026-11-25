@@ -2,15 +2,10 @@
   "sku": "647944",
   "history": [
     {
-      "date": "2026-07-14",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 3591
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647944",
   "salepage_id": "11974118",
   "url": "https://www.dot-st.tw/SalePage/Index/11974118",
   "title": "niko and原創系列CITY CREEK摺疊收納露營推車-一色-647944",
@@ -21,5 +16,6 @@
   "max_price": 3990,
   "listed_date": "2026-07-14",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "911192",
   "history": [
     {
-      "date": "2026-06-04",
-      "price": 850
-    },
-    {
       "date": "2026-11-24",
       "price": 850
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=911192",
   "salepage_id": "11864338",
   "url": "https://www.dot-st.tw/SalePage/Index/11864338",
   "title": "niko and韓國Collins品牌鐵盒線香70支(蘋果派對)-一色-911192",
@@ -21,5 +16,6 @@
   "max_price": 850,
   "listed_date": "2026-06-04",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

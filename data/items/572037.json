@@ -2,24 +2,20 @@
   "sku": "572037",
   "history": [
     {
-      "date": "2025-09-09",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=572037",
   "salepage_id": "11090802",
   "url": "https://www.dot-st.tw/SalePage/Index/11090802",
   "title": "GLOBAL WORK【網路限定55價】男URBAN彈性都會風西裝外套-三色-572037",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11090802/0/639307656261900000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11090802/0/639312242598530000?v=1",
   "current_price": 955,
   "original_price": 2990,
   "min_price": 955,
   "max_price": 2990,
   "listed_date": "2025-09-09",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

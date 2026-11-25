@@ -2,15 +2,10 @@
   "sku": "664851",
   "history": [
     {
-      "date": "2026-04-08",
-      "price": 5490
-    },
-    {
       "date": "2026-11-24",
       "price": 2655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=664851",
   "salepage_id": "11690301",
   "url": "https://www.dot-st.tw/SalePage/Index/11690301",
   "title": "HARE【網路限定55價】男雕花鏤空蕾絲西裝外套-三色-664851",
@@ -21,5 +16,6 @@
   "max_price": 5490,
   "listed_date": "2026-04-08",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

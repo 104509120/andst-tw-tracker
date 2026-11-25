@@ -2,15 +2,10 @@
   "sku": "639048",
   "history": [
     {
-      "date": "2026-03-18",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 276
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=639048",
   "salepage_id": "11630713",
   "url": "https://www.dot-st.tw/SalePage/Index/11630713",
   "title": "repipi armario童蝴蝶結字母圖印T恤上衣-六色-639048",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-03-18",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "592525",
   "history": [
     {
-      "date": "2026-01-20",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=592525",
   "salepage_id": "11497118",
   "url": "https://www.dot-st.tw/SalePage/Index/11497118",
   "title": "studio CLIP日本製可愛便當盒造型橡皮擦組-二色-592525",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-01-20",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

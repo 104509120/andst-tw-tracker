@@ -2,15 +2,10 @@
   "sku": "588598",
   "history": [
     {
-      "date": "2026-03-06",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 203
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=588598",
   "salepage_id": "11597409",
   "url": "https://www.dot-st.tw/SalePage/Index/11597409",
   "title": "LAKOLE世界名作迷你手提收納桶-四色-588598",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-03-06",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

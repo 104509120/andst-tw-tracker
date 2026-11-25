@@ -2,15 +2,10 @@
   "sku": "645818",
   "history": [
     {
-      "date": "2026-04-01",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1749
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=645818",
   "salepage_id": "11674936",
   "url": "https://www.dot-st.tw/SalePage/Index/11674936",
   "title": "niko and男JEANS丹寧牛仔漸層色舒適畫家褲長褲-五色-645818",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2026-04-01",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

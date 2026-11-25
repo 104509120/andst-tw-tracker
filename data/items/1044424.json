@@ -2,16 +2,11 @@
   "sku": "1044424",
   "history": [
     {
-      "date": "2026-08-04",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 596
     }
   ],
   "listed_date": "2026-08-04",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1044424",
   "salepage_id": "12040087",
   "url": "https://www.dot-st.tw/SalePage/Index/12040087",
   "title": "studio CLIP網紗疊穿法式袖上衣-三色-1044424",
@@ -21,5 +16,6 @@
   "min_price": 596,
   "max_price": 1490,
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

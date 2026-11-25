@@ -2,24 +2,24 @@
   "sku": "1092778",
   "history": [
     {
-      "date": "2026-10-15",
+      "date": "2026-11-24",
       "price": 1490
     },
     {
-      "date": "2026-11-24",
-      "price": 1490
+      "date": "2026-11-25",
+      "price": 1190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1092778",
   "salepage_id": "12241391",
   "url": "https://www.dot-st.tw/SalePage/Index/12241391",
   "title": "JEANASIS圓弧下襬華夫格長袖上衣-三色-1092778",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12241391/0/639306075099230000?v=1",
-  "current_price": 1490,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12241391/0/639312240648200000?v=1",
+  "current_price": 1190,
   "original_price": 1490,
-  "min_price": 1490,
+  "min_price": 1190,
   "max_price": 1490,
   "listed_date": "2026-10-15",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

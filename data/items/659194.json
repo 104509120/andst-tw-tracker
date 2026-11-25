@@ -2,24 +2,20 @@
   "sku": "659194",
   "history": [
     {
-      "date": "2026-04-15",
-      "price": 3090
-    },
-    {
       "date": "2026-11-24",
       "price": 1545
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=659194",
   "salepage_id": "11711154",
   "url": "https://www.dot-st.tw/SalePage/Index/11711154",
   "title": "HARE女皮革口袋下襬縮口短版襯衫上衣-二色-659194",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11711154/0/639300744123400000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11711154/0/639312242685200000?v=1",
   "current_price": 1545,
   "original_price": 3090,
   "min_price": 1545,
   "max_price": 3090,
   "listed_date": "2026-04-15",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

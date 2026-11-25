@@ -2,15 +2,10 @@
   "sku": "655219",
   "history": [
     {
-      "date": "2026-03-21",
-      "price": 1050
-    },
-    {
       "date": "2026-11-24",
       "price": 1050
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=655219",
   "salepage_id": "11643602",
   "url": "https://www.dot-st.tw/SalePage/Index/11643602",
   "title": "niko and設計師品牌Fishs Eddy保溫保冷袋手提袋-一色-655219",
@@ -21,5 +16,6 @@
   "max_price": 1050,
   "listed_date": "2026-03-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

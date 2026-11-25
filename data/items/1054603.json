@@ -2,15 +2,10 @@
   "sku": "1054603",
   "history": [
     {
-      "date": "2026-09-22",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 1955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1054603",
   "salepage_id": "12177392",
   "url": "https://www.dot-st.tw/SalePage/Index/12177392",
   "title": "PAGEBOY【網路限定55價】接觸涼感雙打褶寬版後鬆緊西裝長褲-四色-1054603",
@@ -21,5 +16,6 @@
   "max_price": 2990,
   "listed_date": "2026-09-22",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "656733",
   "history": [
     {
-      "date": "2026-03-23",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=656733",
   "salepage_id": "11646970",
   "url": "https://www.dot-st.tw/SalePage/Index/11646970",
   "title": "JEANASIS拼接不對稱蕾絲細肩帶背心-二色-656733",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-03-23",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

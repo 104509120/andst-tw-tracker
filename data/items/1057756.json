@@ -2,15 +2,10 @@
   "sku": "1057756",
   "history": [
     {
-      "date": "2026-10-08",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1057756",
   "salepage_id": "12223315",
   "url": "https://www.dot-st.tw/SalePage/Index/12223315",
   "title": "studio CLIP【官網/統一時代限定】微荷葉邊V領開襟外套《natural by clip》-三色-1057756",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-10-08",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

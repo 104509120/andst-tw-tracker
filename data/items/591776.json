@@ -2,15 +2,10 @@
   "sku": "591776",
   "history": [
     {
-      "date": "2025-11-12",
-      "price": 4590
-    },
-    {
       "date": "2026-11-24",
       "price": 4590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=591776",
   "salepage_id": "11193541",
   "url": "https://www.dot-st.tw/SalePage/Index/11193541",
   "title": "HARE男厚底設計休閒鞋-一色-591776",
@@ -21,5 +16,6 @@
   "max_price": 4590,
   "listed_date": "2025-11-12",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

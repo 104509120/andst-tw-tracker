@@ -2,15 +2,10 @@
   "sku": "234944",
   "history": [
     {
-      "date": "2025-04-18",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=234944",
   "salepage_id": "10688932",
   "url": "https://www.dot-st.tw/SalePage/Index/10688932",
   "title": "LAKOLE皮革握把編織收納籃L-二色-234944",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2025-04-18",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

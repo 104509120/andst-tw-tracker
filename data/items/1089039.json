@@ -2,15 +2,10 @@
   "sku": "1089039",
   "history": [
     {
-      "date": "2026-10-06",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1089039",
   "salepage_id": "12215952",
   "url": "https://www.dot-st.tw/SalePage/Index/12215952",
   "title": "GLOBAL WORK女動物刺繡燈芯絨棒球帽-四色-1089039",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2026-10-06",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

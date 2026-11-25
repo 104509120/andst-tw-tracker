@@ -2,15 +2,10 @@
   "sku": "657336",
   "history": [
     {
-      "date": "2026-03-23",
-      "price": 3490
-    },
-    {
       "date": "2026-11-24",
       "price": 1890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=657336",
   "salepage_id": "11646972",
   "url": "https://www.dot-st.tw/SalePage/Index/11646972",
   "title": "JEANASIS軍風打褶寬版錐形長褲-五色-657336",
@@ -21,5 +16,6 @@
   "max_price": 3490,
   "listed_date": "2026-03-23",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

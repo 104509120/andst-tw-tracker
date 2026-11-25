@@ -2,24 +2,20 @@
   "sku": "1080263",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 3690
-    },
-    {
       "date": "2026-11-24",
       "price": 2490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1080263",
   "salepage_id": "12272879",
   "url": "https://www.dot-st.tw/SalePage/Index/12272879",
   "title": "RAGEBLUE女收腰打褶西裝外套-二色-1080263",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12272879/0/639305321747400000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12272879/0/639312242845100000?v=1",
   "current_price": 2490,
   "original_price": 3690,
   "min_price": 2490,
   "max_price": 3690,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

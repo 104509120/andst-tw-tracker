@@ -2,15 +2,10 @@
   "sku": "647239",
   "history": [
     {
-      "date": "2026-04-16",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 745
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647239",
   "salepage_id": "11710870",
   "url": "https://www.dot-st.tw/SalePage/Index/11710870",
   "title": "niko and男清涼柔軟混亞麻五分袖襯上衣-四色-647239",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-04-16",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

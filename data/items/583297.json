@@ -2,15 +2,10 @@
   "sku": "583297",
   "history": [
     {
-      "date": "2025-11-27",
-      "price": 1190
-    },
-    {
       "date": "2026-11-24",
       "price": 755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=583297",
   "salepage_id": "11357210",
   "url": "https://www.dot-st.tw/SalePage/Index/11357210",
   "title": "repipi armario【網路限定55價】童附有D型環百褶剪裁短裙-六色-583297",
@@ -21,5 +16,6 @@
   "max_price": 1190,
   "listed_date": "2025-11-27",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

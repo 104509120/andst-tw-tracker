@@ -2,24 +2,20 @@
   "sku": "1075422",
   "history": [
     {
-      "date": "2026-10-08",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1075422",
   "salepage_id": "12223397",
   "url": "https://www.dot-st.tw/SalePage/Index/12223397",
   "title": "LAKOLE【網路限定55價】【品牌好友｜曾敬驊 江齊著用款】女甜美造型下襬設計上衣-四色-1075422",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12223397/0/639307650297500000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12223397/0/639312242829830000?v=1",
   "current_price": 655,
   "original_price": 990,
   "min_price": 655,
   "max_price": 990,
   "listed_date": "2026-10-08",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "911506",
   "history": [
     {
-      "date": "2026-10-08",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 2490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=911506",
   "salepage_id": "12196398",
   "url": "https://www.dot-st.tw/SalePage/Index/12196398",
   "title": "repipi armario柔軟前口袋鉚釘寬鬆連帽外套-三色-911506",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-10-08",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

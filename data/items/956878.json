@@ -2,15 +2,10 @@
   "sku": "956878",
   "history": [
     {
-      "date": "2021-08-06",
-      "price": 300
-    },
-    {
       "date": "2026-11-24",
       "price": 300
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=956878",
   "salepage_id": "7204625",
   "url": "https://www.dot-st.tw/SalePage/Index/7204625",
   "title": "niko and品牌FLAVOUR室內香精香氛蠟燭-四款-956878",
@@ -21,5 +16,6 @@
   "max_price": 300,
   "listed_date": "2021-08-06",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

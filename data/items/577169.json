@@ -2,15 +2,10 @@
   "sku": "577169",
   "history": [
     {
-      "date": "2025-09-23",
-      "price": 620
-    },
-    {
       "date": "2026-11-24",
       "price": 620
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=577169",
   "salepage_id": "11138877",
   "url": "https://www.dot-st.tw/SalePage/Index/11138877",
   "title": "niko and設計師品牌Fishs Eddy條紋毛巾-二色-577169",
@@ -21,5 +16,6 @@
   "max_price": 620,
   "listed_date": "2025-09-23",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "217510",
   "history": [
     {
-      "date": "2021-08-19",
-      "price": 470
-    },
-    {
       "date": "2026-11-24",
       "price": 470
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=217510",
   "salepage_id": "7232687",
   "url": "https://www.dot-st.tw/SalePage/Index/7232687",
   "title": "niko and品牌ADERIA昭和懷舊風糖果罐360ml-五色-217510",
@@ -21,5 +16,6 @@
   "max_price": 470,
   "listed_date": "2021-08-19",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

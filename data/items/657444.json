@@ -2,15 +2,10 @@
   "sku": "657444",
   "history": [
     {
-      "date": "2026-07-21",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=657444",
   "salepage_id": "11987093",
   "url": "https://www.dot-st.tw/SalePage/Index/11987093",
   "title": "LAKOLE半圓形瑜珈按摩伸展棒-一色-657444",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-07-21",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

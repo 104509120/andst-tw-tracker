@@ -2,15 +2,10 @@
   "sku": "797335",
   "history": [
     {
-      "date": "2026-09-29",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=797335",
   "salepage_id": "12188118",
   "url": "https://www.dot-st.tw/SalePage/Index/12188118",
   "title": "GLOBAL WORK【網路限定55價】女柔軟羊毛天絲高領長袖上衣-五色-797335",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-09-29",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "571090",
   "history": [
     {
-      "date": "2025-06-13",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 916
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=571090",
   "salepage_id": "10838267",
   "url": "https://www.dot-st.tw/SalePage/Index/10838267",
   "title": "repipi armario字母抽繩上衣與休閒短褲二件組-三色-571090",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2025-06-13",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

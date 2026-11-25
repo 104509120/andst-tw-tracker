@@ -2,15 +2,10 @@
   "sku": "634541",
   "history": [
     {
-      "date": "2026-04-16",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 645
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=634541",
   "salepage_id": "11712975",
   "url": "https://www.dot-st.tw/SalePage/Index/11712975",
   "title": "GLOBAL WORK童條紋T恤短袖上衣與細肩帶薄紗背心二件組(100cm-160cm)-三色-634541",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-04-16",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

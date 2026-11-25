@@ -2,24 +2,20 @@
   "sku": "1051026",
   "history": [
     {
-      "date": "2026-09-02",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1051026",
   "salepage_id": "12124960",
   "url": "https://www.dot-st.tw/SalePage/Index/12124960",
   "title": "LEPSIM荷葉邊設計長版西裝背心-三色-1051026",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12124960/0/639300744105800000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12124960/0/639312242765570000?v=1",
   "current_price": 1290,
   "original_price": 2490,
   "min_price": 1290,
   "max_price": 2490,
   "listed_date": "2026-09-02",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

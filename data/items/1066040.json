@@ -2,24 +2,24 @@
   "sku": "1066040",
   "history": [
     {
-      "date": "2026-10-28",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1590
+    },
+    {
+      "date": "2026-11-25",
+      "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1066040",
   "salepage_id": "12265452",
   "url": "https://www.dot-st.tw/SalePage/Index/12265452",
   "title": "LEPSIM媽媽系列格紋開襟領蓬袖長版上衣-二色-1066040",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12265452/0/639300744105800000?v=1",
-  "current_price": 1590,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12265452/0/639312139614000000?v=1",
+  "current_price": 1290,
   "original_price": 2290,
-  "min_price": 1590,
+  "min_price": 1290,
   "max_price": 2290,
   "listed_date": "2026-10-28",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

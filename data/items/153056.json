@@ -2,15 +2,10 @@
   "sku": "153056",
   "history": [
     {
-      "date": "2024-12-24",
-      "price": 300
-    },
-    {
       "date": "2026-11-24",
       "price": 200
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=153056",
   "salepage_id": "10415940",
   "url": "https://www.dot-st.tw/SalePage/Index/10415940",
   "title": "niko and女【tiy nie yee】可愛造型鑰匙圈-二款-153056",
@@ -21,5 +16,6 @@
   "max_price": 300,
   "listed_date": "2024-12-24",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

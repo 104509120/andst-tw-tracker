@@ -2,15 +2,10 @@
   "sku": "685006",
   "history": [
     {
-      "date": "2026-06-04",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=685006",
   "salepage_id": "11861514",
   "url": "https://www.dot-st.tw/SalePage/Index/11861514",
   "title": "LOWRYS FARM女優雅層次珍珠長項鍊-二色-685006",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2026-06-04",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

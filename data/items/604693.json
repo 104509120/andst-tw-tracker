@@ -2,15 +2,10 @@
   "sku": "604693",
   "history": [
     {
-      "date": "2026-11-06",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 3990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=604693",
   "salepage_id": "12290580",
   "url": "https://www.dot-st.tw/SalePage/Index/12290580",
   "title": "Heather混色蓬鬆毛絨金釦短版外套-四色-604693",
@@ -21,5 +16,6 @@
   "max_price": 3990,
   "listed_date": "2026-11-06",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

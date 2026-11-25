@@ -2,15 +2,10 @@
   "sku": "896131",
   "history": [
     {
-      "date": "2026-06-04",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 676
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=896131",
   "salepage_id": "11861906",
   "url": "https://www.dot-st.tw/SalePage/Index/11861906",
   "title": "repipi armario運動球衣風數字印花洋裝-三色-896131",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-06-04",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

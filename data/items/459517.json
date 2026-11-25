@@ -2,15 +2,10 @@
   "sku": "459517",
   "history": [
     {
-      "date": "2025-10-01",
-      "price": 340
-    },
-    {
       "date": "2026-11-24",
       "price": 340
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=459517",
   "salepage_id": "11193356",
   "url": "https://www.dot-st.tw/SalePage/Index/11193356",
   "title": "niko and女可愛心形環扣耳針式耳環-二色-459517",
@@ -21,5 +16,6 @@
   "max_price": 340,
   "listed_date": "2025-10-01",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

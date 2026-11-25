@@ -2,12 +2,11 @@
   "sku": "282748",
   "history": [
     {
-      "date": "2025-02-14",
+      "date": "2026-11-25",
       "price": 2490
     }
   ],
   "listed_date": "2025-02-14",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=282748",
   "salepage_id": "10524909",
   "url": "https://www.dot-st.tw/SalePage/Index/10524909",
   "title": "niko and女可愛織紋澎澎袖寬鬆長袖上衣-三色-282748",
@@ -17,5 +16,6 @@
   "min_price": 2490,
   "max_price": 2490,
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-25"
 }

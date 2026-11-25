@@ -2,24 +2,20 @@
   "sku": "660178",
   "history": [
     {
-      "date": "2026-03-26",
-      "price": 3490
-    },
-    {
       "date": "2026-11-24",
       "price": 2190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=660178",
   "salepage_id": "11660797",
   "url": "https://www.dot-st.tw/SalePage/Index/11660797",
   "title": "PAGEBOY男女PBLIM系列直紋寬版七分西裝短褲-二色-660178",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11660797/0/639304225597530000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11660797/0/639312242668930000?v=1",
   "current_price": 2190,
   "original_price": 3490,
   "min_price": 2190,
   "max_price": 3490,
   "listed_date": "2026-03-26",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

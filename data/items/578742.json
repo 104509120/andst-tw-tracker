@@ -2,15 +2,10 @@
   "sku": "578742",
   "history": [
     {
-      "date": "2025-02-06",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 553
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=578742",
   "salepage_id": "11546448",
   "url": "https://www.dot-st.tw/SalePage/Index/11546448",
   "title": "studio CLIP字母刺繡絨布收納包-三色-578742",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2025-02-06",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

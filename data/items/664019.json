@@ -2,15 +2,10 @@
   "sku": "664019",
   "history": [
     {
-      "date": "2026-04-29",
-      "price": 5290
-    },
-    {
       "date": "2026-11-24",
       "price": 3690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=664019",
   "salepage_id": "11748886",
   "url": "https://www.dot-st.tw/SalePage/Index/11748886",
   "title": "HARE女緹花金屬鈎釦短袖襯衫長版洋裝-五色-664019",
@@ -21,5 +16,6 @@
   "max_price": 5290,
   "listed_date": "2026-04-29",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

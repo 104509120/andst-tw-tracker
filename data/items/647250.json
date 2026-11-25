@@ -2,15 +2,10 @@
   "sku": "647250",
   "history": [
     {
-      "date": "2026-07-17",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647250",
   "salepage_id": "11912570",
   "url": "https://www.dot-st.tw/SalePage/Index/11912570",
   "title": "LOWRYS FARM【三麗鷗聯名】網眼隨身收納小包-六色-647250",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2026-07-17",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "184484",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=184484",
   "salepage_id": "12273650",
   "url": "https://www.dot-st.tw/SalePage/Index/12273650",
   "title": "LAKOLE圓筒造型澆水壺1000ml-一色-184484",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

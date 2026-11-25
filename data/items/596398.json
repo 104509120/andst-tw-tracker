@@ -2,15 +2,10 @@
   "sku": "596398",
   "history": [
     {
-      "date": "2025-10-30",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=596398",
   "salepage_id": "11268674",
   "url": "https://www.dot-st.tw/SalePage/Index/11268674",
   "title": "LEPSIM流蘇破壞感設計針織長版上衣-三色-596398",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2025-10-30",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

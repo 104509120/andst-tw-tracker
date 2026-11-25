@@ -2,15 +2,10 @@
   "sku": "637539",
   "history": [
     {
-      "date": "2025-12-12",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=637539",
   "salepage_id": "11401715",
   "url": "https://www.dot-st.tw/SalePage/Index/11401715",
   "title": "JEANASIS柔滑亨利領長袖上衣-三色-637539",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2025-12-12",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

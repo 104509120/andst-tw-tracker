@@ -2,24 +2,20 @@
   "sku": "1084754",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 2490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1084754",
   "salepage_id": "12272458",
   "url": "https://www.dot-st.tw/SalePage/Index/12272458",
   "title": "GLOBAL WORK女GOOD牛仔丹寧刺繡繭型長褲-二色-1084754",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12272458/0/639307727227900000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12272458/0/639312026101170000?v=1",
   "current_price": 2490,
   "original_price": 2490,
   "min_price": 2490,
   "max_price": 2490,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "574364",
   "history": [
     {
-      "date": "2026-01-23",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=574364",
   "salepage_id": "11508064",
   "url": "https://www.dot-st.tw/SalePage/Index/11508064",
   "title": "LAKOLE可吊式超細纖維吸水速乾擦手巾-三色-574364",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-01-23",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "593014",
   "history": [
     {
-      "date": "2025-12-05",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=593014",
   "salepage_id": "11379569",
   "url": "https://www.dot-st.tw/SalePage/Index/11379569",
   "title": "studio CLIP日本製圓圓花卉杯墊-三色-593014",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2025-12-05",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

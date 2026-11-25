@@ -2,15 +2,10 @@
   "sku": "1057778",
   "history": [
     {
-      "date": "2026-10-06",
-      "price": 3690
-    },
-    {
       "date": "2026-11-24",
       "price": 1755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1057778",
   "salepage_id": "12216485",
   "url": "https://www.dot-st.tw/SalePage/Index/12216485",
   "title": "studio CLIP【網路限定55價】翻領中長款大衣外套-二色-1057778",
@@ -21,5 +16,6 @@
   "max_price": 3690,
   "listed_date": "2026-10-06",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

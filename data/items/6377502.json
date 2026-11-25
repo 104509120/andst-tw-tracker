@@ -2,15 +2,10 @@
   "sku": "6377502",
   "history": [
     {
-      "date": "2026-09-07",
-      "price": 2880
-    },
-    {
       "date": "2026-11-24",
       "price": 1728
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=6377502",
   "salepage_id": "12102532",
   "url": "https://www.dot-st.tw/SalePage/Index/12102532",
   "title": "◎index女OPAQUE.CLIP後開衩簡約窄裙-兩色-63775023 NT$1,728",
@@ -21,5 +16,6 @@
   "max_price": 2880,
   "listed_date": "2026-09-07",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

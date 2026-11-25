@@ -2,15 +2,10 @@
   "sku": "639034",
   "history": [
     {
-      "date": "2026-03-18",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 756
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=639034",
   "salepage_id": "11630709",
   "url": "https://www.dot-st.tw/SalePage/Index/11630709",
   "title": "repipi armario甜美偶像風百褶短裙-三色-639034",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2026-03-18",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

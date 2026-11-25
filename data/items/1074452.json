@@ -2,15 +2,10 @@
   "sku": "1074452",
   "history": [
     {
-      "date": "2026-11-05",
-      "price": 5490
-    },
-    {
       "date": "2026-11-24",
       "price": 5055
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1074452",
   "salepage_id": "12284123",
   "url": "https://www.dot-st.tw/SalePage/Index/12284123",
   "title": "PAGEBOY【網路限定55價】羊羔毛翻領騎士夾克外套-二色-1074452",
@@ -21,5 +16,6 @@
   "max_price": 5490,
   "listed_date": "2026-11-05",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

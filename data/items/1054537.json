@@ -2,15 +2,10 @@
   "sku": "1054537",
   "history": [
     {
-      "date": "2026-08-05",
-      "price": 1190
-    },
-    {
       "date": "2026-11-24",
       "price": 833
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1054537",
   "salepage_id": "12041325",
   "url": "https://www.dot-st.tw/SalePage/Index/12041325",
   "title": "repipi armario皮革愛心造型釘釦腰鍊-一色-1054537",
@@ -21,5 +16,6 @@
   "max_price": 1190,
   "listed_date": "2026-08-05",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

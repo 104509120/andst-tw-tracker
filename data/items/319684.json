@@ -2,15 +2,10 @@
   "sku": "319684",
   "history": [
     {
-      "date": "2025-04-10",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 200
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=319684",
   "salepage_id": "10666516",
   "url": "https://www.dot-st.tw/SalePage/Index/10666516",
   "title": "niko and女【tiy nie yee】透明壓克力字母吊飾鑰匙圈(不含愛心片墜飾)-五款-319684",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2025-04-10",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

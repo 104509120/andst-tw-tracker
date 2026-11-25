@@ -2,15 +2,10 @@
   "sku": "1067998",
   "history": [
     {
-      "date": "2026-11-11",
-      "price": 3690
-    },
-    {
       "date": "2026-11-24",
       "price": 2355
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1067998",
   "salepage_id": "12300096",
   "url": "https://www.dot-st.tw/SalePage/Index/12300096",
   "title": "LAKOLE【網路限定55價】男蓬鬆份量感燈芯絨夾克外套-四色-1067998",
@@ -21,5 +16,6 @@
   "max_price": 3690,
   "listed_date": "2026-11-11",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

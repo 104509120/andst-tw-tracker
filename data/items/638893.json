@@ -2,15 +2,10 @@
   "sku": "638893",
   "history": [
     {
-      "date": "2026-02-12",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=638893",
   "salepage_id": "11562829",
   "url": "https://www.dot-st.tw/SalePage/Index/11562829",
   "title": "LEPSIM媽媽系列丹寧拉鍊長版上衣-二色-638893",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-02-12",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

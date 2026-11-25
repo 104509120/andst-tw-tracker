@@ -2,24 +2,20 @@
   "sku": "1091192",
   "history": [
     {
-      "date": "2026-11-05",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1091192",
   "salepage_id": "12284488",
   "url": "https://www.dot-st.tw/SalePage/Index/12284488",
   "title": "studio CLIP針織露指袖套-四色-1091192",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12284488/0/639306080614900000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12284488/0/639312048458770000?v=1",
   "current_price": 790,
   "original_price": 790,
   "min_price": 790,
   "max_price": 790,
   "listed_date": "2026-11-05",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

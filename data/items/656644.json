@@ -2,15 +2,10 @@
   "sku": "656644",
   "history": [
     {
-      "date": "2026-03-26",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 996
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=656644",
   "salepage_id": "11658403",
   "url": "https://www.dot-st.tw/SalePage/Index/11658403",
   "title": "LEPSIM長版襯裙拼接蕾絲長褲-二色-656644",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-03-26",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

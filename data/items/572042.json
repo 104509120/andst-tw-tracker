@@ -2,15 +2,10 @@
   "sku": "572042",
   "history": [
     {
-      "date": "2025-09-05",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1832
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=572042",
   "salepage_id": "11083459",
   "url": "https://www.dot-st.tw/SalePage/Index/11083459",
   "title": "niko and男復古漸層刷色天竺棉五分袖T恤上衣-四色-572042",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2025-09-05",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

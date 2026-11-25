@@ -2,15 +2,10 @@
   "sku": "321022",
   "history": [
     {
-      "date": "2025-05-02",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=321022",
   "salepage_id": "10727212",
   "url": "https://www.dot-st.tw/SalePage/Index/10727212",
   "title": "niko and女【tiy nie yee】簡約可愛墜飾彈片髮夾三入組-二色-321022",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2025-05-02",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

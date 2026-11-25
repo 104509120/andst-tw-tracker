@@ -2,15 +2,10 @@
   "sku": "1050591",
   "history": [
     {
-      "date": "2026-09-11",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1050591",
   "salepage_id": "12151249",
   "url": "https://www.dot-st.tw/SalePage/Index/12151249",
   "title": "LAKOLE女多口袋2WAY抽繩束口包-三色-1050591",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-09-11",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

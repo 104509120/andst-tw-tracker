@@ -2,15 +2,10 @@
   "sku": "1050580",
   "history": [
     {
-      "date": "2026-09-18",
-      "price": 6190
-    },
-    {
       "date": "2026-11-24",
       "price": 3655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1050580",
   "salepage_id": "12169921",
   "url": "https://www.dot-st.tw/SalePage/Index/12169921",
   "title": "HARE【網路限定55價】男光澤感霧光塗層寬版直筒丹寧褲-二色-1050580",
@@ -21,5 +16,6 @@
   "max_price": 6190,
   "listed_date": "2026-09-18",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

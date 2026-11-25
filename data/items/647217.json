@@ -2,15 +2,10 @@
   "sku": "647217",
   "history": [
     {
-      "date": "2026-04-29",
-      "price": 3090
-    },
-    {
       "date": "2026-11-24",
       "price": 1590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647217",
   "salepage_id": "11748868",
   "url": "https://www.dot-st.tw/SalePage/Index/11748868",
   "title": "HARE女【ICY FEEL接觸涼感】金屬鉤釦短版襯衫上衣-四色-647217",
@@ -21,5 +16,6 @@
   "max_price": 3090,
   "listed_date": "2026-04-29",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

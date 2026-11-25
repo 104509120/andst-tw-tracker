@@ -2,15 +2,10 @@
   "sku": "681288",
   "history": [
     {
-      "date": "2026-09-02",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=681288",
   "salepage_id": "12123795",
   "url": "https://www.dot-st.tw/SalePage/Index/12123795",
   "title": "studio CLIP南洋風貝殼藤編花卉杯墊-三色-681288",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-09-02",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

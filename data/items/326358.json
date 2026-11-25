@@ -2,15 +2,10 @@
   "sku": "326358",
   "history": [
     {
-      "date": "2025-06-19",
-      "price": 300
-    },
-    {
       "date": "2026-11-24",
       "price": 300
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=326358",
   "salepage_id": "10865500",
   "url": "https://www.dot-st.tw/SalePage/Index/10865500",
   "title": "niko and女品牌LOGO懷舊胸針徽章三入組B-二色-326358",
@@ -21,5 +16,6 @@
   "max_price": 300,
   "listed_date": "2025-06-19",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

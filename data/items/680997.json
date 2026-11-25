@@ -2,24 +2,20 @@
   "sku": "680997",
   "history": [
     {
-      "date": "2026-09-10",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=680997",
   "salepage_id": "12146565",
   "url": "https://www.dot-st.tw/SalePage/Index/12146565",
   "title": "GLOBAL WORK【網路限定55價】女蓬鬆毛絨背心-二色-680997",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12146565/0/639311145060270000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12146565/0/639312242615400000?v=1",
   "current_price": 955,
   "original_price": 1990,
   "min_price": 955,
   "max_price": 1990,
   "listed_date": "2026-09-10",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

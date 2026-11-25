@@ -2,15 +2,10 @@
   "sku": "1054550",
   "history": [
     {
-      "date": "2026-07-29",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 916
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1054550",
   "salepage_id": "12025413",
   "url": "https://www.dot-st.tw/SalePage/Index/12025413",
   "title": "LEPSIM異材質拼接腰線抓皺長洋裝-二色-1054550",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-07-29",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

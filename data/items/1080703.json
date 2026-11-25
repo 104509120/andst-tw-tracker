@@ -2,15 +2,10 @@
   "sku": "1080703",
   "history": [
     {
-      "date": "2026-11-12",
-      "price": 1090
-    },
-    {
       "date": "2026-11-24",
       "price": 1090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1080703",
   "salepage_id": "12302610",
   "url": "https://www.dot-st.tw/SalePage/Index/12302610",
   "title": "studio CLIP不鏽鋼水瓶瀝乾架【daily CLIP】-一色-1080703",
@@ -21,5 +16,6 @@
   "max_price": 1090,
   "listed_date": "2026-11-12",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

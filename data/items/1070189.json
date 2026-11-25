@@ -2,15 +2,10 @@
   "sku": "1070189",
   "history": [
     {
-      "date": "2026-10-21",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1070189",
   "salepage_id": "12256182",
   "url": "https://www.dot-st.tw/SalePage/Index/12256182",
   "title": "LEPSIM釦環皮帶2WAY附萬用小包二件組-二色-1070189",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2026-10-21",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

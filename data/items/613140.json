@@ -2,24 +2,20 @@
   "sku": "613140",
   "history": [
     {
-      "date": "2026-01-14",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1145
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=613140",
   "salepage_id": "11467898",
   "url": "https://www.dot-st.tw/SalePage/Index/11467898",
   "title": "niko and男女【POPEYE】大力水手聯名復古卡通印花長袖T恤上衣-四色-613140",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11467898/0/639310431438970000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11467898/0/639312242617500000?v=1",
   "current_price": 1145,
   "original_price": 2290,
   "min_price": 1145,
   "max_price": 2290,
   "listed_date": "2026-01-14",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

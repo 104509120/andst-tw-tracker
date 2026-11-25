@@ -2,15 +2,10 @@
   "sku": "897646",
   "history": [
     {
-      "date": "2021-01-07",
-      "price": 580
-    },
-    {
       "date": "2026-11-24",
       "price": 580
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=897646",
   "salepage_id": "6782944",
   "url": "https://www.dot-st.tw/SalePage/Index/6782944",
   "title": "niko and品牌OLD SMITH摺疊收納束口袋手提購物包-三色-897646",
@@ -21,5 +16,6 @@
   "max_price": 580,
   "listed_date": "2021-01-07",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

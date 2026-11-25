@@ -2,24 +2,20 @@
   "sku": "824120",
   "history": [
     {
-      "date": "2026-10-14",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1155
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=824120",
   "salepage_id": "12235604",
   "url": "https://www.dot-st.tw/SalePage/Index/12235604",
   "title": "GLOBAL WORK【網路限定55價】男女休閒混色紗長袖襯衫上衣-二色-824120",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12235604/0/639307656318800000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12235604/0/639312242622900000?v=1",
   "current_price": 1155,
   "original_price": 2290,
   "min_price": 1155,
   "max_price": 2290,
   "listed_date": "2026-10-14",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

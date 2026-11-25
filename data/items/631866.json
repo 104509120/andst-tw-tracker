@@ -2,15 +2,10 @@
   "sku": "631866",
   "history": [
     {
-      "date": "2025-12-24",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 916
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=631866",
   "salepage_id": "11432375",
   "url": "https://www.dot-st.tw/SalePage/Index/11432375",
   "title": "repipi armario童貓耳毛絨連帽外套-三色-631866",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2025-12-24",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "670489",
   "history": [
     {
-      "date": "2026-05-06",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 356
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=670489",
   "salepage_id": "11769556",
   "url": "https://www.dot-st.tw/SalePage/Index/11769556",
   "title": "LEPSIM童滿版圖案印花打褶短褲-三色-670489",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2026-05-06",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

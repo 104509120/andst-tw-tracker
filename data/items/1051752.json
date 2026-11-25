@@ -2,15 +2,10 @@
   "sku": "1051752",
   "history": [
     {
-      "date": "2026-09-23",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1051752",
   "salepage_id": "12179383",
   "url": "https://www.dot-st.tw/SalePage/Index/12179383",
   "title": "GLOBAL WORK童Melty圖案圓領針織外套(100cm-120cm)-三色-1051752",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-09-23",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

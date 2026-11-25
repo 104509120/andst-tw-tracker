@@ -2,24 +2,20 @@
   "sku": "1056122",
   "history": [
     {
-      "date": "2026-09-09",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 1355
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1056122",
   "salepage_id": "12145372",
   "url": "https://www.dot-st.tw/SalePage/Index/12145372",
   "title": "RAGEBLUE【網路限定55價】男日常3D立體剪裁牛仔丹寧長褲-二色-1056122",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12145372/0/639307647605630000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12145372/0/639312242782500000?v=1",
   "current_price": 1355,
   "original_price": 2990,
   "min_price": 1355,
   "max_price": 2990,
   "listed_date": "2026-09-09",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

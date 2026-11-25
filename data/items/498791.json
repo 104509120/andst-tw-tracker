@@ -2,15 +2,10 @@
   "sku": "498791",
   "history": [
     {
-      "date": "2025-06-19",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 756
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=498791",
   "salepage_id": "10861366",
   "url": "https://www.dot-st.tw/SalePage/Index/10861366",
   "title": "repipi armario【girly line系列】蝴蝶結一字領上衣-三色-498791",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2025-06-19",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

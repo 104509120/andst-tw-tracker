@@ -2,15 +2,10 @@
   "sku": "667220",
   "history": [
     {
-      "date": "2026-07-07",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1592
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=667220",
   "salepage_id": "11959227",
   "url": "https://www.dot-st.tw/SalePage/Index/11959227",
   "title": "niko and男品牌NMR系列防潑水褲管束繩腰帶長褲-二色-667220",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-07-07",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

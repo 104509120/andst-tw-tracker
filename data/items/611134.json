@@ -2,15 +2,10 @@
   "sku": "611134",
   "history": [
     {
-      "date": "2025-12-05",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=611134",
   "salepage_id": "11380418",
   "url": "https://www.dot-st.tw/SalePage/Index/11380418",
   "title": "LEPSIM凹凸感鏤空花紋短版針織上衣-三色-611134",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2025-12-05",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

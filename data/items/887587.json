@@ -2,15 +2,10 @@
   "sku": "887587",
   "history": [
     {
-      "date": "2026-06-16",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 516
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=887587",
   "salepage_id": "11897475",
   "url": "https://www.dot-st.tw/SalePage/Index/11897475",
   "title": "repipi armario童多款印花綁帶運動棉短褲-三色-887587",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-06-16",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

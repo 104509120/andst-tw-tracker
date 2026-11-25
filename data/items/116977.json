@@ -2,15 +2,10 @@
   "sku": "116977",
   "history": [
     {
-      "date": "2024-04-25",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=116977",
   "salepage_id": "9736770",
   "url": "https://www.dot-st.tw/SalePage/Index/9736770",
   "title": "HARE男女品牌LOGO刺繡素色水洗仿舊感短袖T恤上衣-六色-116977",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2024-04-25",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

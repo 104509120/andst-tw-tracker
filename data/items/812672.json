@@ -2,15 +2,10 @@
   "sku": "812672",
   "history": [
     {
-      "date": "2026-07-08",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 345
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=812672",
   "salepage_id": "11960165",
   "url": "https://www.dot-st.tw/SalePage/Index/11960165",
   "title": "GLOBAL WORK童荷葉袖拼接下襬背心(100cm-160cm)-四色-812672",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-07-08",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,24 @@
   "sku": "661549",
   "history": [
     {
-      "date": "2026-08-21",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
+    },
+    {
+      "date": "2026-11-25",
+      "price": 916
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=661549",
   "salepage_id": "12091291",
   "url": "https://www.dot-st.tw/SalePage/Index/12091291",
   "title": "JEANASIS【PERSON’S聯名】星星印花插肩袖長袖T恤-三色-661549",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12091291/0/639307793188600000?v=1",
-  "current_price": 1290,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12091291/0/639312242749830000?v=1",
+  "current_price": 916,
   "original_price": 2290,
-  "min_price": 1290,
+  "min_price": 916,
   "max_price": 2290,
   "listed_date": "2026-08-21",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

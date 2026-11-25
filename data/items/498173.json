@@ -2,15 +2,10 @@
   "sku": "498173",
   "history": [
     {
-      "date": "2025-10-15",
-      "price": 2890
-    },
-    {
       "date": "2026-11-24",
       "price": 1156
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=498173",
   "salepage_id": "11225467",
   "url": "https://www.dot-st.tw/SalePage/Index/11225467",
   "title": "repipi armario【girly line系列】水手領毛絨牛角釦外套-二色-498173",
@@ -21,5 +16,6 @@
   "max_price": 2890,
   "listed_date": "2025-10-15",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

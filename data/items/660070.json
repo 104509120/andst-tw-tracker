@@ -2,24 +2,24 @@
   "sku": "660070",
   "history": [
     {
-      "date": "2026-04-16",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 903
+    },
+    {
+      "date": "2026-11-25",
+      "price": 645
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=660070",
   "salepage_id": "11712364",
   "url": "https://www.dot-st.tw/SalePage/Index/11712364",
   "title": "JEANASIS金屬感十字層次雙鍊項鍊-三色-660070",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11712364/0/639307952560830000?v=1",
-  "current_price": 903,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11712364/0/639312241701130000?v=1",
+  "current_price": 645,
   "original_price": 1290,
-  "min_price": 903,
+  "min_price": 645,
   "max_price": 1290,
   "listed_date": "2026-04-16",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

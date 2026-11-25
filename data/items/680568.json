@@ -2,15 +2,10 @@
   "sku": "680568",
   "history": [
     {
-      "date": "2026-06-02",
-      "price": 2190
-    },
-    {
       "date": "2026-11-24",
       "price": 657
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=680568",
   "salepage_id": "11853072",
   "url": "https://www.dot-st.tw/SalePage/Index/11853072",
   "title": "PAGEBOY鏤空蕾絲開襟襯衫上衣-四色-680568",
@@ -21,5 +16,6 @@
   "max_price": 2190,
   "listed_date": "2026-06-02",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

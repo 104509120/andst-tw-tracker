@@ -2,15 +2,10 @@
   "sku": "849660",
   "history": [
     {
-      "date": "2022-10-17",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=849660",
   "salepage_id": "8184075",
   "url": "https://www.dot-st.tw/SalePage/Index/8184075",
   "title": "niko and小巧可愛迷你玻璃花瓶擺飾-一色-849660",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2022-10-17",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

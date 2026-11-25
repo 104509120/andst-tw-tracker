@@ -2,15 +2,10 @@
   "sku": "647347",
   "history": [
     {
-      "date": "2026-04-23",
-      "price": 580
-    },
-    {
       "date": "2026-11-24",
       "price": 580
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647347",
   "salepage_id": "11727049",
   "url": "https://www.dot-st.tw/SalePage/Index/11727049",
   "title": "niko and【湯姆貓與傑利鼠聯名】iPhone16插卡手機殼-一色-647347",
@@ -21,5 +16,6 @@
   "max_price": 580,
   "listed_date": "2026-04-23",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

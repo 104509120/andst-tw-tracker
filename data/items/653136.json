@@ -2,15 +2,10 @@
   "sku": "653136",
   "history": [
     {
-      "date": "2026-03-23",
-      "price": 1390
-    },
-    {
       "date": "2026-11-24",
       "price": 1390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=653136",
   "salepage_id": "11649004",
   "url": "https://www.dot-st.tw/SalePage/Index/11649004",
   "title": "HARE男日本製花朵造型金屬耳針式耳環-一色-653136",
@@ -21,5 +16,6 @@
   "max_price": 1390,
   "listed_date": "2026-03-23",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

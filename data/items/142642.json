@@ -2,24 +2,20 @@
   "sku": "142642",
   "history": [
     {
-      "date": "2024-08-14",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1145
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=142642",
   "salepage_id": "10070395",
   "url": "https://www.dot-st.tw/SalePage/Index/10070395",
   "title": "GLOBAL WORK男輕量抗菌防臭休閒德訓鞋-二色-142642",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/10070395/0/639299286204070000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/10070395/0/639312242479130000?v=1",
   "current_price": 1145,
   "original_price": 2290,
   "min_price": 1145,
   "max_price": 2290,
   "listed_date": "2024-08-14",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

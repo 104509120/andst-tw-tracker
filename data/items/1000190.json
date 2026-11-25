@@ -2,15 +2,10 @@
   "sku": "1000190",
   "history": [
     {
-      "date": "2026-08-26",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 2490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1000190",
   "salepage_id": "12101527",
   "url": "https://www.dot-st.tw/SalePage/Index/12101527",
   "title": "HARE女連帽蕾絲拼接傘擺長袖上衣-三色-1000190",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-08-26",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

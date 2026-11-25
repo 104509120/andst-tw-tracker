@@ -2,15 +2,10 @@
   "sku": "639506",
   "history": [
     {
-      "date": "2026-03-18",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 796
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=639506",
   "salepage_id": "11626494",
   "url": "https://www.dot-st.tw/SalePage/Index/11626494",
   "title": "LEPSIM亨利領皺褶2WAY前後兩穿長袖上衣-三色-639506",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-03-18",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

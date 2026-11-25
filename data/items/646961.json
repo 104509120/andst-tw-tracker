@@ -2,24 +2,20 @@
   "sku": "646961",
   "history": [
     {
-      "date": "2026-03-03",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=646961",
   "salepage_id": "11588535",
   "url": "https://www.dot-st.tw/SalePage/Index/11588535",
   "title": "repipi armario【網路限定55價】交叉荷葉邊2WAY長袖襯衫-三色-646961",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11588535/0/639307656406530000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11588535/0/639312242497970000?v=1",
   "current_price": 555,
   "original_price": 2290,
   "min_price": 555,
   "max_price": 2290,
   "listed_date": "2026-03-03",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

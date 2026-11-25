@@ -2,15 +2,10 @@
   "sku": "499153",
   "history": [
     {
-      "date": "2025-12-11",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=499153",
   "salepage_id": "11397943",
   "url": "https://www.dot-st.tw/SalePage/Index/11397943",
   "title": "repipi armario童背面可愛圖印針織上衣-二色-499153",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2025-12-11",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

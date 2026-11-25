@@ -2,15 +2,10 @@
   "sku": "669927",
   "history": [
     {
-      "date": "2026-04-21",
-      "price": 3690
-    },
-    {
       "date": "2026-11-24",
       "price": 1107
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=669927",
   "salepage_id": "11726306",
   "url": "https://www.dot-st.tw/SalePage/Index/11726306",
   "title": "PAGEBOY男女PBLIM系列側邊口袋寬版休閒工作長褲-三色-669927",
@@ -21,5 +16,6 @@
   "max_price": 3690,
   "listed_date": "2026-04-21",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

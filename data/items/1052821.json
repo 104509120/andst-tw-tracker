@@ -2,15 +2,10 @@
   "sku": "1052821",
   "history": [
     {
-      "date": "2026-11-02",
-      "price": 5590
-    },
-    {
       "date": "2026-11-24",
       "price": 5590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1052821",
   "salepage_id": "12275913",
   "url": "https://www.dot-st.tw/SalePage/Index/12275913",
   "title": "HARE男皮革拉鍊設計厚底紳士皮鞋-一色-1052821",
@@ -21,5 +16,6 @@
   "max_price": 5590,
   "listed_date": "2026-11-02",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

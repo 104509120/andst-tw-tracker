@@ -2,15 +2,10 @@
   "sku": "661660",
   "history": [
     {
-      "date": "2026-04-15",
-      "price": 5290
-    },
-    {
       "date": "2026-11-24",
       "price": 2690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=661660",
   "salepage_id": "11711160",
   "url": "https://www.dot-st.tw/SalePage/Index/11711160",
   "title": "HARE女漸層透膚印花排釦西裝外套-二色-661660",
@@ -21,5 +16,6 @@
   "max_price": 5290,
   "listed_date": "2026-04-15",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1049174",
   "history": [
     {
-      "date": "2026-08-26",
-      "price": 3090
-    },
-    {
       "date": "2026-11-24",
       "price": 3090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1049174",
   "salepage_id": "12101528",
   "url": "https://www.dot-st.tw/SalePage/Index/12101528",
   "title": "HARE男附金屬釦環皮革片裙-一色-1049174",
@@ -21,5 +16,6 @@
   "max_price": 3090,
   "listed_date": "2026-08-26",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

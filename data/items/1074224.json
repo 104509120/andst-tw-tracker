@@ -2,15 +2,10 @@
   "sku": "1074224",
   "history": [
     {
-      "date": "2026-09-08",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 2990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1074224",
   "salepage_id": "12141529",
   "url": "https://www.dot-st.tw/SalePage/Index/12141529",
   "title": "Heather層次荷葉蝴蝶結中長版風衣外套-二色-1074224",
@@ -21,5 +16,6 @@
   "max_price": 2990,
   "listed_date": "2026-09-08",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

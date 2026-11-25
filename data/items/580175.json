@@ -2,15 +2,10 @@
   "sku": "580175",
   "history": [
     {
-      "date": "2025-08-25",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1055
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=580175",
   "salepage_id": "11053052",
   "url": "https://www.dot-st.tw/SalePage/Index/11053052",
   "title": "JEANASIS【網路限定55價】羅紋針織開衩喇叭長褲-三色-580175",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2025-08-25",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

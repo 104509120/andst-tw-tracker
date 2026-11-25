@@ -2,15 +2,10 @@
   "sku": "1047364",
   "history": [
     {
-      "date": "2026-11-04",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1047364",
   "salepage_id": "12280671",
   "url": "https://www.dot-st.tw/SalePage/Index/12280671",
   "title": "studio CLIP串珠星星樹頂裝飾《CHRISTMAS 2026》-一色-1047364",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-11-04",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

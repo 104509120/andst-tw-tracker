@@ -2,24 +2,20 @@
   "sku": "876735",
   "history": [
     {
-      "date": "2026-08-19",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=876735",
   "salepage_id": "12083336",
   "url": "https://www.dot-st.tw/SalePage/Index/12083336",
   "title": "GLOBAL WORK童可愛動物造型後背包-四色-876735",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12083336/0/639299908758630000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12083336/0/639312025509470000?v=1",
   "current_price": 990,
   "original_price": 990,
   "min_price": 990,
   "max_price": 990,
   "listed_date": "2026-08-19",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

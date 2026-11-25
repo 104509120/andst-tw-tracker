@@ -2,15 +2,10 @@
   "sku": "577943",
   "history": [
     {
-      "date": "2025-09-03",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 267
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=577943",
   "salepage_id": "11076075",
   "url": "https://www.dot-st.tw/SalePage/Index/11076075",
   "title": "LAKOLE男日常遮陽帽-三色-577943",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2025-09-03",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

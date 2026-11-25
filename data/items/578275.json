@@ -2,15 +2,10 @@
   "sku": "578275",
   "history": [
     {
-      "date": "2026-04-03",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=578275",
   "salepage_id": "11681363",
   "url": "https://www.dot-st.tw/SalePage/Index/11681363",
   "title": "LAKOLE真空雙層構造不鏽鋼隨行杯400ml-三色-578275",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-04-03",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

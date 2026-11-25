@@ -2,15 +2,10 @@
   "sku": "656350",
   "history": [
     {
-      "date": "2026-04-09",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=656350",
   "salepage_id": "11694772",
   "url": "https://www.dot-st.tw/SalePage/Index/11694772",
   "title": "LOWRYS FARM女不規則大顆串珠項鍊-二色-656350",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-04-09",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

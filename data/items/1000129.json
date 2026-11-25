@@ -2,24 +2,20 @@
   "sku": "1000129",
   "history": [
     {
-      "date": "2026-11-10",
-      "price": 5090
-    },
-    {
       "date": "2026-11-24",
       "price": 5090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1000129",
   "salepage_id": "12251771",
   "url": "https://www.dot-st.tw/SalePage/Index/12251771",
   "title": "BARNYARDSTORM腰部鬆緊燈芯絨羅紋寬版長褲-二色-1000129",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12251771/0/639295606592630000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12251771/0/639311985467330000?v=1",
   "current_price": 5090,
   "original_price": 5090,
   "min_price": 5090,
   "max_price": 5090,
   "listed_date": "2026-11-10",
   "updated_at": "2026-11-25",
-  "brand": "BARNYARDSTORM"
+  "brand": "BARNYARDSTORM",
+  "first_seen": "2026-11-24"
 }

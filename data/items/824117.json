@@ -2,24 +2,20 @@
   "sku": "824117",
   "history": [
     {
-      "date": "2026-11-10",
-      "price": 4790
-    },
-    {
       "date": "2026-11-24",
       "price": 4790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=824117",
   "salepage_id": "12251807",
   "url": "https://www.dot-st.tw/SalePage/Index/12251807",
   "title": "BARNYARDSTORM側邊條紋設計針織直筒長褲-二色-824117",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12251807/0/639295606685600000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12251807/0/639311980052800000?v=1",
   "current_price": 4790,
   "original_price": 4790,
   "min_price": 4790,
   "max_price": 4790,
   "listed_date": "2026-11-10",
   "updated_at": "2026-11-25",
-  "brand": "BARNYARDSTORM"
+  "brand": "BARNYARDSTORM",
+  "first_seen": "2026-11-24"
 }

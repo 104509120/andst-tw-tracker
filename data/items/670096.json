@@ -2,15 +2,10 @@
   "sku": "670096",
   "history": [
     {
-      "date": "2026-05-13",
-      "price": 5490
-    },
-    {
       "date": "2026-11-24",
       "price": 2655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=670096",
   "salepage_id": "11793454",
   "url": "https://www.dot-st.tw/SalePage/Index/11793454",
   "title": "HARE【網路限定55價】男腰部拼色雙層設計長褲-三色-670096",
@@ -21,5 +16,6 @@
   "max_price": 5490,
   "listed_date": "2026-05-13",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "140271",
   "history": [
     {
-      "date": "2025-04-01",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 483
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=140271",
   "salepage_id": "10644028",
   "url": "https://www.dot-st.tw/SalePage/Index/10644028",
   "title": "studio CLIP精緻三角玻璃乾燥花瓶【daily CLIP】-一色-140271",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2025-04-01",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

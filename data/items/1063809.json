@@ -2,24 +2,24 @@
   "sku": "1063809",
   "history": [
     {
-      "date": "2026-08-28",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
+    },
+    {
+      "date": "2026-11-25",
+      "price": 1076
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1063809",
   "salepage_id": "12113767",
   "url": "https://www.dot-st.tw/SalePage/Index/12113767",
   "title": "JEANASIS透膚絲絨蕾絲拼接細肩帶上衣-三色-1063809",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12113767/0/639300744427330000?v=1",
-  "current_price": 1290,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12113767/0/639312242765570000?v=1",
+  "current_price": 1076,
   "original_price": 2690,
-  "min_price": 1290,
+  "min_price": 1076,
   "max_price": 2690,
   "listed_date": "2026-08-28",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

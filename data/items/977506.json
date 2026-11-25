@@ -2,15 +2,10 @@
   "sku": "977506",
   "history": [
     {
-      "date": "2024-02-06",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 553
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=977506",
   "salepage_id": "9542522",
   "url": "https://www.dot-st.tw/SalePage/Index/9542522",
   "title": "studio CLIP日本製信樂燒手工製茶碗-二色-977506",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2024-02-06",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

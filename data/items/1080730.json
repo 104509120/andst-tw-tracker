@@ -2,15 +2,10 @@
   "sku": "1080730",
   "history": [
     {
-      "date": "2026-10-16",
-      "price": 2190
-    },
-    {
       "date": "2026-11-24",
       "price": 1955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1080730",
   "salepage_id": "12244261",
   "url": "https://www.dot-st.tw/SalePage/Index/12244261",
   "title": "PAGEBOY【網路限定55價】大V領雪尼爾柔軟光澤感針織長袖上衣-三色-1080730",
@@ -21,5 +16,6 @@
   "max_price": 2190,
   "listed_date": "2026-10-16",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "664010",
   "history": [
     {
-      "date": "2026-05-08",
-      "price": 2790
-    },
-    {
       "date": "2026-11-24",
       "price": 1390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=664010",
   "salepage_id": "11777714",
   "url": "https://www.dot-st.tw/SalePage/Index/11777714",
   "title": "HARE女蕾絲鏤空雕花扭結釦開襟短版外套-三色-664010",
@@ -21,5 +16,6 @@
   "max_price": 2790,
   "listed_date": "2026-05-08",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

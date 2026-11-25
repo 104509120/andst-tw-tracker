@@ -2,15 +2,10 @@
   "sku": "1052004",
   "history": [
     {
-      "date": "2026-10-07",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1052004",
   "salepage_id": "12220177",
   "url": "https://www.dot-st.tw/SalePage/Index/12220177",
   "title": "niko and男簡約休閒針織帽-六色-1052004",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-10-07",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

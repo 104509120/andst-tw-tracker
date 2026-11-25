@@ -2,15 +2,10 @@
   "sku": "318907",
   "history": [
     {
-      "date": "2025-04-09",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=318907",
   "salepage_id": "10665238",
   "url": "https://www.dot-st.tw/SalePage/Index/10665238",
   "title": "niko and男品牌NMR系列機能防臭中筒襪-八色-318907",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2025-04-09",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

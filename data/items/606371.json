@@ -2,15 +2,10 @@
   "sku": "606371",
   "history": [
     {
-      "date": "2025-11-21",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=606371",
   "salepage_id": "11326342",
   "url": "https://www.dot-st.tw/SalePage/Index/11326342",
   "title": "niko and【EVANGELION30週年】新世紀福音戰士聯名壓克力立牌擺飾-十款-606371",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2025-11-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

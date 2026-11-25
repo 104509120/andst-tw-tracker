@@ -2,15 +2,10 @@
   "sku": "647219",
   "history": [
     {
-      "date": "2026-04-29",
-      "price": 4590
-    },
-    {
       "date": "2026-11-24",
       "price": 2255
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647219",
   "salepage_id": "11748870",
   "url": "https://www.dot-st.tw/SalePage/Index/11748870",
   "title": "HARE【網路限定55價】女【ICY FEEL接觸涼感】細肩帶口袋蕾絲透膚洋裝-四色-647219",
@@ -21,5 +16,6 @@
   "max_price": 4590,
   "listed_date": "2026-04-29",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

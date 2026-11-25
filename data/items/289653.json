@@ -2,24 +2,20 @@
   "sku": "289653",
   "history": [
     {
-      "date": "2025-02-07",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=289653",
   "salepage_id": "10499599",
   "url": "https://www.dot-st.tw/SalePage/Index/10499599",
   "title": "LAKOLE【官網獨售】【新色到】女微透膚精緻紗質T恤上衣-十二色-289653",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/10499599/0/639304428748430000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/10499599/0/639312242617500000?v=1",
   "current_price": 790,
   "original_price": 790,
   "min_price": 790,
   "max_price": 790,
   "listed_date": "2025-02-07",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

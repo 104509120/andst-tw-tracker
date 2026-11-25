@@ -2,15 +2,10 @@
   "sku": "234885",
   "history": [
     {
-      "date": "2025-06-06",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1393
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=234885",
   "salepage_id": "10817363",
   "url": "https://www.dot-st.tw/SalePage/Index/10817363",
   "title": "niko and女格紋混亞麻七分袖襯衫-四色-234885",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2025-06-06",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

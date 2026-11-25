@@ -2,15 +2,10 @@
   "sku": "768413",
   "history": [
     {
-      "date": "2022-12-23",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=768413",
   "salepage_id": "8559231",
   "url": "https://www.dot-st.tw/SalePage/Index/8559231",
   "title": "studio CLIP質感天然木碗-一色-768413",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2022-12-23",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

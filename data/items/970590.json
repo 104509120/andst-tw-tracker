@@ -2,15 +2,10 @@
   "sku": "970590",
   "history": [
     {
-      "date": "2024-12-02",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 203
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=970590",
   "salepage_id": "10356607",
   "url": "https://www.dot-st.tw/SalePage/Index/10356607",
   "title": "LAKOLE日本製美濃燒浮雕碟-三色-970590",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2024-12-02",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

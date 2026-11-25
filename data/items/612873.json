@@ -2,24 +2,20 @@
   "sku": "612873",
   "history": [
     {
-      "date": "2025-12-10",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=612873",
   "salepage_id": "11393490",
   "url": "https://www.dot-st.tw/SalePage/Index/11393490",
   "title": "GLOBAL WORK【網路限定55價】女荷葉邊下擺裙造型長袖上衣-四色-612873",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11393490/0/639310365124330000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11393490/0/639312242598530000?v=1",
   "current_price": 455,
   "original_price": 1290,
   "min_price": 455,
   "max_price": 1290,
   "listed_date": "2025-12-10",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

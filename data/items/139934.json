@@ -2,15 +2,10 @@
   "sku": "139934",
   "history": [
     {
-      "date": "2024-10-14",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 95
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=139934",
   "salepage_id": "10187243",
   "url": "https://www.dot-st.tw/SalePage/Index/10187243",
   "title": "LAKOLE世界名作系列系列藝術相框-四色-139934",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2024-10-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

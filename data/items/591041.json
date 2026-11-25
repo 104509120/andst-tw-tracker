@@ -2,15 +2,10 @@
   "sku": "591041",
   "history": [
     {
-      "date": "2025-10-31",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=591041",
   "salepage_id": "11263196",
   "url": "https://www.dot-st.tw/SalePage/Index/11263196",
   "title": "repipi armario童素色網眼上衣與內搭背心二件組-三色-591041",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2025-10-31",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

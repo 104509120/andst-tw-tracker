@@ -2,15 +2,10 @@
   "sku": "1083225",
   "history": [
     {
-      "date": "2026-11-02",
-      "price": 2790
-    },
-    {
       "date": "2026-11-24",
       "price": 2790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1083225",
   "salepage_id": "12275915",
   "url": "https://www.dot-st.tw/SalePage/Index/12275915",
   "title": "HARE男花朵圖樣長袖休閒T恤上衣-三色-1083225",
@@ -21,5 +16,6 @@
   "max_price": 2790,
   "listed_date": "2026-11-02",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

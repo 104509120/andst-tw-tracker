@@ -2,15 +2,10 @@
   "sku": "606347",
   "history": [
     {
-      "date": "2026-04-02",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 745
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=606347",
   "salepage_id": "11679999",
   "url": "https://www.dot-st.tw/SalePage/Index/11679999",
   "title": "LAKOLE女皮帶造型二摺皮革短夾-三色-606347",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-04-02",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

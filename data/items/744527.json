@@ -2,15 +2,10 @@
   "sku": "744527",
   "history": [
     {
-      "date": "2026-05-28",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 756
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=744527",
   "salepage_id": "11842493",
   "url": "https://www.dot-st.tw/SalePage/Index/11842493",
   "title": "repipi armario蕾絲字母V領運動迷你洋裝-二色-744527",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2026-05-28",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "150033",
   "history": [
     {
-      "date": "2024-12-31",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=150033",
   "salepage_id": "10428040",
   "url": "https://www.dot-st.tw/SalePage/Index/10428040",
   "title": "studio CLIP設計感曲木收納盒《HOUSEHOLD GOODS》-一色-150033",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2024-12-31",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

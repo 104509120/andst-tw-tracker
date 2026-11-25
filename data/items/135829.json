@@ -2,15 +2,10 @@
   "sku": "135829",
   "history": [
     {
-      "date": "2024-12-27",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=135829",
   "salepage_id": "10422532",
   "url": "https://www.dot-st.tw/SalePage/Index/10422532",
   "title": "studio CLIP工業風附手把鐵網球型收納盒S-一色-135829",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2024-12-27",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

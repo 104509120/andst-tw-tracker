@@ -2,24 +2,20 @@
   "sku": "969408",
   "history": [
     {
-      "date": "2024-10-14",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 195
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=969408",
   "salepage_id": "10169300",
   "url": "https://www.dot-st.tw/SalePage/Index/10169300",
   "title": "LAKOLE柔軟毛絨防滑椅墊-四色-969408",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/10169300/0/639292253075670000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/10169300/0/639312134387270000?v=1",
   "current_price": 195,
   "original_price": 390,
   "min_price": 195,
   "max_price": 390,
   "listed_date": "2024-10-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

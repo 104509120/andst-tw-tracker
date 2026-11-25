@@ -2,24 +2,20 @@
   "sku": "813185",
   "history": [
     {
-      "date": "2026-06-11",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 516
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=813185",
   "salepage_id": "11887627",
   "url": "https://www.dot-st.tw/SalePage/Index/11887627",
   "title": "LEPSIM童蓬鬆V領抓皺感襯衫上衣-二色-813185",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11887627/0/639292286275400000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11887627/0/639312242534600000?v=1",
   "current_price": 516,
   "original_price": 1290,
   "min_price": 516,
   "max_price": 1290,
   "listed_date": "2026-06-11",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

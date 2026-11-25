@@ -2,24 +2,20 @@
   "sku": "681049",
   "history": [
     {
-      "date": "2026-05-19",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 745
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=681049",
   "salepage_id": "11807885",
   "url": "https://www.dot-st.tw/SalePage/Index/11807885",
   "title": "GLOBAL WORK女麻花排釦針織短袖上衣-五色-681049",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11807885/0/639299286277230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11807885/0/639312242534600000?v=1",
   "current_price": 745,
   "original_price": 1490,
   "min_price": 745,
   "max_price": 1490,
   "listed_date": "2026-05-19",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

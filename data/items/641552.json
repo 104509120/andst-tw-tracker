@@ -2,15 +2,10 @@
   "sku": "641552",
   "history": [
     {
-      "date": "2026-04-16",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=641552",
   "salepage_id": "11706794",
   "url": "https://www.dot-st.tw/SalePage/Index/11706794",
   "title": "LOWRYS FARM【三麗鷗聯名】HELLO KITTY串珠臉型吊飾鑰匙圈-四色-641552",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-04-16",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "674429",
   "history": [
     {
-      "date": "2026-09-03",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=674429",
   "salepage_id": "12127838",
   "url": "https://www.dot-st.tw/SalePage/Index/12127838",
   "title": "studio CLIP透明格紋收納包L-三色-674429",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-09-03",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

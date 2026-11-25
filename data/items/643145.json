@@ -2,15 +2,10 @@
   "sku": "643145",
   "history": [
     {
-      "date": "2026-04-02",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 255
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=643145",
   "salepage_id": "11680057",
   "url": "https://www.dot-st.tw/SalePage/Index/11680057",
   "title": "LAKOLE【網路限定55價】男涼感口袋空氣T恤上衣-四色-643145",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2026-04-02",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

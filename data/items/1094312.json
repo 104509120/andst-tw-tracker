@@ -1,11 +1,6 @@
 {
   "sku": "1094312",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1094312",
   "history": [
-    {
-      "date": "2026-11-20",
-      "price": 3490
-    },
     {
       "date": "2026-11-24",
       "price": 3490
@@ -14,12 +9,13 @@
   "salepage_id": "12321989",
   "url": "https://www.dot-st.tw/SalePage/Index/12321989",
   "title": "LOWRYS FARM女綁帶針織上衣與荷葉邊細肩帶洋裝二件組-三色-1094312",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12321989/0/639306982504000000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12321989/0/639312229974200000?v=1",
   "current_price": 3490,
   "original_price": 3490,
   "min_price": 3490,
   "max_price": 3490,
   "listed_date": "2026-11-20",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1096521",
   "history": [
     {
-      "date": "2026-10-28",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1096521",
   "salepage_id": "12265453",
   "url": "https://www.dot-st.tw/SalePage/Index/12265453",
   "title": "LEPSIM立體蕾絲拼接刷毛中長版上衣三色-1096521",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-10-28",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

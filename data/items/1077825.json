@@ -2,15 +2,10 @@
   "sku": "1077825",
   "history": [
     {
-      "date": "2026-10-15",
-      "price": 1790
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1077825",
   "salepage_id": "12241495",
   "url": "https://www.dot-st.tw/SalePage/Index/12241495",
   "title": "Heather【網路限定55價】蕾絲滾邊蝴蝶結合身長袖上衣-三色-1077825",
@@ -21,5 +16,6 @@
   "max_price": 1790,
   "listed_date": "2026-10-15",
   "updated_at": "2026-11-25",
-  "brand": "Heather"
+  "brand": "Heather",
+  "first_seen": "2026-11-24"
 }

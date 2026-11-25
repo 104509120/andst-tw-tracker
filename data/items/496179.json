@@ -2,15 +2,10 @@
   "sku": "496179",
   "history": [
     {
-      "date": "2025-11-04",
-      "price": 300
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=496179",
   "salepage_id": "11285396",
   "url": "https://www.dot-st.tw/SalePage/Index/11285396",
   "title": "niko and女【tiy nie yee】透明袋熊熊鑰匙圈吊飾-二色-496179",
@@ -21,5 +16,6 @@
   "max_price": 300,
   "listed_date": "2025-11-04",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

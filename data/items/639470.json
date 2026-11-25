@@ -2,15 +2,10 @@
   "sku": "639470",
   "history": [
     {
-      "date": "2026-01-28",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=639470",
   "salepage_id": "11521703",
   "url": "https://www.dot-st.tw/SalePage/Index/11521703",
   "title": "LEPSIM雙色長版針織開襟衫外套-四色-639470",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-01-28",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

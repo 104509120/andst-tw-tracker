@@ -2,15 +2,10 @@
   "sku": "947150",
   "history": [
     {
-      "date": "2023-11-15",
-      "price": 470
-    },
-    {
       "date": "2026-11-24",
       "price": 329
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=947150",
   "salepage_id": "9339246",
   "url": "https://www.dot-st.tw/SalePage/Index/9339246",
   "title": "niko and設計師品牌Fishs Eddy布魯克林糖罐260ml-一款-947150",
@@ -21,5 +16,6 @@
   "max_price": 470,
   "listed_date": "2023-11-15",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

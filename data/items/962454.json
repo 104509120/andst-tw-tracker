@@ -2,15 +2,10 @@
   "sku": "962454",
   "history": [
     {
-      "date": "2023-09-18",
-      "price": 1050
-    },
-    {
       "date": "2026-11-24",
       "price": 1050
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=962454",
   "salepage_id": "9181475",
   "url": "https://www.dot-st.tw/SalePage/Index/9181475",
   "title": "niko and原創系列CITY CREEK手提式不鏽鋼保溫瓶750ml-三色-962454",
@@ -21,5 +16,6 @@
   "max_price": 1050,
   "listed_date": "2023-09-18",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

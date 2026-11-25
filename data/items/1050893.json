@@ -2,15 +2,10 @@
   "sku": "1050893",
   "history": [
     {
-      "date": "2026-08-19",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 796
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1050893",
   "salepage_id": "12078465",
   "url": "https://www.dot-st.tw/SalePage/Index/12078465",
   "title": "LEPSIM透膚格紋腰部抽繩拉鍊背心上衣-二色-1050893",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-08-19",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

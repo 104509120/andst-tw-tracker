@@ -2,15 +2,10 @@
   "sku": "327106",
   "history": [
     {
-      "date": "2025-06-04",
-      "price": 860
-    },
-    {
       "date": "2026-11-24",
       "price": 860
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=327106",
   "salepage_id": "10809947",
   "url": "https://www.dot-st.tw/SalePage/Index/10809947",
   "title": "niko and原創系列LAUNDROMAT&amp;TUB起泡分裝瓶360ml-一色-327106",
@@ -21,5 +16,6 @@
   "max_price": 860,
   "listed_date": "2025-06-04",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

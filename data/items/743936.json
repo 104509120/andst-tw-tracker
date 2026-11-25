@@ -2,15 +2,10 @@
   "sku": "743936",
   "history": [
     {
-      "date": "2022-03-18",
-      "price": 970
-    },
-    {
       "date": "2026-11-24",
       "price": 970
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=743936",
   "salepage_id": "7665373",
   "url": "https://www.dot-st.tw/SalePage/Index/7665373",
   "title": "niko and簡約雙色層次感雨傘直傘-三色-743936",
@@ -21,5 +16,6 @@
   "max_price": 970,
   "listed_date": "2022-03-18",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

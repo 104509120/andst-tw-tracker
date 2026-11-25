@@ -2,24 +2,20 @@
   "sku": "116986",
   "history": [
     {
-      "date": "2024-07-05",
-      "price": 1050
-    },
-    {
       "date": "2026-11-24",
       "price": 1050
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=116986",
   "salepage_id": "9922726",
   "url": "https://www.dot-st.tw/SalePage/Index/9922726",
   "title": "niko and仿真動物立體造型存錢筒擺飾-三款-116986",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/9922726/0/639311266010170000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/9922726/0/639312160931300000?v=1",
   "current_price": 1050,
   "original_price": 1050,
   "min_price": 1050,
   "max_price": 1050,
   "listed_date": "2024-07-05",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

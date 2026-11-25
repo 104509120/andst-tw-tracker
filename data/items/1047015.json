@@ -2,24 +2,24 @@
   "sku": "1047015",
   "history": [
     {
-      "date": "2026-09-17",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1890
+    },
+    {
+      "date": "2026-11-25",
+      "price": 1590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1047015",
   "salepage_id": "12165863",
   "url": "https://www.dot-st.tw/SalePage/Index/12165863",
   "title": "LEPSIM荷葉花邊層次蛋糕長裙-二色-1047015",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12165863/0/639307790323170000?v=1",
-  "current_price": 1890,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12165863/0/639312139745930000?v=1",
+  "current_price": 1590,
   "original_price": 2690,
-  "min_price": 1890,
+  "min_price": 1590,
   "max_price": 2690,
   "listed_date": "2026-09-17",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

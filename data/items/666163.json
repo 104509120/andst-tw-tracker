@@ -2,15 +2,10 @@
   "sku": "666163",
   "history": [
     {
-      "date": "2026-10-02",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=666163",
   "salepage_id": "12193947",
   "url": "https://www.dot-st.tw/SalePage/Index/12193947",
   "title": "LOWRYS FARM【HELLO KITTY聯名】點點絨毛玩偶鑰匙圈吊飾-十二色-666163",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-10-02",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

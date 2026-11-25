@@ -2,24 +2,20 @@
   "sku": "1063402",
   "history": [
     {
-      "date": "2026-10-08",
-      "price": 5290
-    },
-    {
       "date": "2026-11-24",
       "price": 2955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1063402",
   "salepage_id": "12221923",
   "url": "https://www.dot-st.tw/SalePage/Index/12221923",
   "title": "RAGEBLUE【網路限定55價】男雙色拼接雙頭拉鍊金屬釦牛仔丹寧外套-二色-1063402",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12221923/0/639307647605630000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12221923/0/639312242829830000?v=1",
   "current_price": 2955,
   "original_price": 5290,
   "min_price": 2955,
   "max_price": 5290,
   "listed_date": "2026-10-08",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

@@ -1,11 +1,6 @@
 {
   "sku": "1090211",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1090211",
   "history": [
-    {
-      "date": "2026-11-18",
-      "price": 1690
-    },
     {
       "date": "2026-11-24",
       "price": 1690
@@ -14,12 +9,13 @@
   "salepage_id": "12316169",
   "url": "https://www.dot-st.tw/SalePage/Index/12316169",
   "title": "studio CLIP小毛圈蝙蝠袖長版上衣-三色-1090211",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12316169/0/639306091482570000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12316169/0/639312048649900000?v=1",
   "current_price": 1690,
   "original_price": 1690,
   "min_price": 1690,
   "max_price": 1690,
   "listed_date": "2026-11-18",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

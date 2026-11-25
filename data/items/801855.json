@@ -2,15 +2,10 @@
   "sku": "801855",
   "history": [
     {
-      "date": "2026-09-02",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=801855",
   "salepage_id": "12124906",
   "url": "https://www.dot-st.tw/SalePage/Index/12124906",
   "title": "LAKOLE女經典優雅瑪莉珍皮底鞋-二色-801855",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-09-02",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,24 @@
   "sku": "657420",
   "history": [
     {
-      "date": "2026-03-31",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 413
+    },
+    {
+      "date": "2026-11-25",
+      "price": 295
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=657420",
   "salepage_id": "11672433",
   "url": "https://www.dot-st.tw/SalePage/Index/11672433",
   "title": "GLOBAL WORK女串珠小迷包吊飾-三色-657420",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11672433/0/639300744105700000?v=1",
-  "current_price": 413,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11672433/0/639312261244900000?v=1",
+  "current_price": 295,
   "original_price": 590,
-  "min_price": 413,
+  "min_price": 295,
   "max_price": 590,
   "listed_date": "2026-03-31",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "657111",
   "history": [
     {
-      "date": "2026-09-18",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=657111",
   "salepage_id": "12166437",
   "url": "https://www.dot-st.tw/SalePage/Index/12166437",
   "title": "LAKOLE單柄瓦斯爐用迷你平底鍋14CM-一色-657111",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-09-18",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

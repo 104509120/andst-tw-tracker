@@ -2,15 +2,10 @@
   "sku": "828737",
   "history": [
     {
-      "date": "2026-09-02",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=828737",
   "salepage_id": "12124938",
   "url": "https://www.dot-st.tw/SalePage/Index/12124938",
   "title": "LEPSIM媽媽系列彈性羅紋喇叭褲-二色-828737",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-09-02",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

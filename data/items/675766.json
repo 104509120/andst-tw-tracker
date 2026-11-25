@@ -2,15 +2,10 @@
   "sku": "675766",
   "history": [
     {
-      "date": "2026-07-08",
-      "price": 510
-    },
-    {
       "date": "2026-11-24",
       "price": 510
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=675766",
   "salepage_id": "11962082",
   "url": "https://www.dot-st.tw/SalePage/Index/11962082",
   "title": "niko and品牌LOGO摺疊收納肩背手提包-四色-675766",
@@ -21,5 +16,6 @@
   "max_price": 510,
   "listed_date": "2026-07-08",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

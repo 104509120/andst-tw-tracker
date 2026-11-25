@@ -2,15 +2,10 @@
   "sku": "1052477",
   "history": [
     {
-      "date": "2026-09-10",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1052477",
   "salepage_id": "12146907",
   "url": "https://www.dot-st.tw/SalePage/Index/12146907",
   "title": "studio CLIP金屬敲打紋圓牌項鍊-二色-1052477",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-09-10",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "1077818",
   "history": [
     {
-      "date": "2026-10-15",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1077818",
   "salepage_id": "12241494",
   "url": "https://www.dot-st.tw/SalePage/Index/12241494",
   "title": "Heather荷葉下襬寶石針織短版上衣-三色-1077818",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12241494/0/639307774783700000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12241494/0/639312242829830000?v=1",
   "current_price": 1290,
   "original_price": 2290,
   "min_price": 1290,
   "max_price": 2290,
   "listed_date": "2026-10-15",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

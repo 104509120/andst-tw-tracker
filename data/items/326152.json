@@ -2,15 +2,10 @@
   "sku": "326152",
   "history": [
     {
-      "date": "2025-03-11",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 516
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=326152",
   "salepage_id": "11647163",
   "url": "https://www.dot-st.tw/SalePage/Index/11647163",
   "title": "JEANASIS舒適百搭附罩杯背心上衣(長度可選)-五色-326152",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2025-03-11",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

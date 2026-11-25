@@ -2,24 +2,20 @@
   "sku": "635367",
   "history": [
     {
-      "date": "2026-02-25",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 745
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=635367",
   "salepage_id": "11575733",
   "url": "https://www.dot-st.tw/SalePage/Index/11575733",
   "title": "GLOBAL WORK童【UNIVERSAL OVERALL系列】休閒工裝短褲-二色-635367",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11575733/0/639299286276230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11575733/0/639312242497970000?v=1",
   "current_price": 745,
   "original_price": 1490,
   "min_price": 745,
   "max_price": 1490,
   "listed_date": "2026-02-25",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

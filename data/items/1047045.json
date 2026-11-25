@@ -2,15 +2,10 @@
   "sku": "1047045",
   "history": [
     {
-      "date": "2026-11-06",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1047045",
   "salepage_id": "12288569",
   "url": "https://www.dot-st.tw/SalePage/Index/12288569",
   "title": "studio CLIP玻璃聖誕造型裝飾籤《CHRISTMAS 2026》-四色-1047045",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2026-11-06",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

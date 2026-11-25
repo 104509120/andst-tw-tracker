@@ -2,15 +2,10 @@
   "sku": "1055803",
   "history": [
     {
-      "date": "2026-09-09",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 1155
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1055803",
   "salepage_id": "12145366",
   "url": "https://www.dot-st.tw/SalePage/Index/12145366",
   "title": "RAGEBLUE【網路限定55價】女波浪毛料針織POLO短版長袖上衣-二色-1055803",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-09-09",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

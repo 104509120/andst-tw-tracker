@@ -2,24 +2,20 @@
   "sku": "1051172",
   "history": [
     {
-      "date": "2026-07-28",
-      "price": 2190
-    },
-    {
       "date": "2026-11-24",
       "price": 1095
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1051172",
   "salepage_id": "12020130",
   "url": "https://www.dot-st.tw/SalePage/Index/12020130",
   "title": "PAGEBOY男女PBLIM系列接觸涼感條紋寬版休閒上衣-三色-1051172",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12020130/0/639300744068930000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12020130/0/639312242734300000?v=1",
   "current_price": 1095,
   "original_price": 2190,
   "min_price": 1095,
   "max_price": 2190,
   "listed_date": "2026-07-28",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

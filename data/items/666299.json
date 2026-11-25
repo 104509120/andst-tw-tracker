@@ -2,15 +2,10 @@
   "sku": "666299",
   "history": [
     {
-      "date": "2026-05-06",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 396
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=666299",
   "salepage_id": "11769553",
   "url": "https://www.dot-st.tw/SalePage/Index/11769553",
   "title": "LEPSIM童合身剪裁流蘇丹寧短褲-三色-666299",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-05-06",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

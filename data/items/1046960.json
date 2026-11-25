@@ -2,15 +2,10 @@
   "sku": "1046960",
   "history": [
     {
-      "date": "2026-09-24",
-      "price": 1090
-    },
-    {
       "date": "2026-11-24",
       "price": 1090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1046960",
   "salepage_id": "12171535",
   "url": "https://www.dot-st.tw/SalePage/Index/12171535",
   "title": "studio CLIP【魔法小天使クリィミーマミ聯名】PVC透明斜背包小托特包-一色-1046960",
@@ -21,5 +16,6 @@
   "max_price": 1090,
   "listed_date": "2026-09-24",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

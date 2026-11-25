@@ -2,15 +2,10 @@
   "sku": "318832",
   "history": [
     {
-      "date": "2025-05-21",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=318832",
   "salepage_id": "10775815",
   "url": "https://www.dot-st.tw/SalePage/Index/10775815",
   "title": "niko and男品牌NMR系列網格手提托特包-二色-318832",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2025-05-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "116875",
   "history": [
     {
-      "date": "2024-07-05",
-      "price": 700
-    },
-    {
       "date": "2026-11-24",
       "price": 700
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=116875",
   "salepage_id": "9922725",
   "url": "https://www.dot-st.tw/SalePage/Index/9922725",
   "title": "niko and不規則編織手提收納籃L-一色-116875",
@@ -21,5 +16,6 @@
   "max_price": 700,
   "listed_date": "2024-07-05",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

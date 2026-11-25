@@ -2,24 +2,20 @@
   "sku": "1057029",
   "history": [
     {
-      "date": "2026-09-10",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1057029",
   "salepage_id": "12144567",
   "url": "https://www.dot-st.tw/SalePage/Index/12144567",
   "title": "LEPSIM【網路限定55價】童印花蕾絲拼接假兩件層次感上衣-四色-1057029",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12144567/0/639310366368600000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12144567/0/639312242782500000?v=1",
   "current_price": 555,
   "original_price": 990,
   "min_price": 555,
   "max_price": 990,
   "listed_date": "2026-09-10",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

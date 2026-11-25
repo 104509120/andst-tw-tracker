@@ -2,15 +2,10 @@
   "sku": "1080717",
   "history": [
     {
-      "date": "2026-10-02",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1080717",
   "salepage_id": "12208197",
   "url": "https://www.dot-st.tw/SalePage/Index/12208197",
   "title": "LOWRYS FARM女多彩串珠頸鍊與簡約鍊條二件組-二色-1080717",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2026-10-02",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

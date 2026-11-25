@@ -2,15 +2,10 @@
   "sku": "602455",
   "history": [
     {
-      "date": "2025-11-11",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 903
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=602455",
   "salepage_id": "11311056",
   "url": "https://www.dot-st.tw/SalePage/Index/11311056",
   "title": "niko and男Honda聯名賽車運動刺繡棒球帽-四色-602455",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2025-11-11",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

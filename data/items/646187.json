@@ -2,15 +2,10 @@
   "sku": "646187",
   "history": [
     {
-      "date": "2026-07-14",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 2490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=646187",
   "salepage_id": "11974109",
   "url": "https://www.dot-st.tw/SalePage/Index/11974109",
   "title": "niko and原創系列CITY CREEK品牌KIU聯名斗篷雨衣-二色-646187",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-07-14",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

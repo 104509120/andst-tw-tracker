@@ -2,15 +2,10 @@
   "sku": "645208",
   "history": [
     {
-      "date": "2026-03-30",
-      "price": 3690
-    },
-    {
       "date": "2026-11-24",
       "price": 1755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=645208",
   "salepage_id": "11667348",
   "url": "https://www.dot-st.tw/SalePage/Index/11667348",
   "title": "HARE【網路限定55價】女《定番設計TOROMI系列》【ICY FEEL接觸涼感】高級光澤感側邊雙口袋長褲-五色-645208",
@@ -21,5 +16,6 @@
   "max_price": 3690,
   "listed_date": "2026-03-30",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

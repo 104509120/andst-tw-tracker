@@ -2,15 +2,10 @@
   "sku": "650225",
   "history": [
     {
-      "date": "2026-10-15",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 855
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=650225",
   "salepage_id": "12237786",
   "url": "https://www.dot-st.tw/SalePage/Index/12237786",
   "title": "LAKOLE【網路限定55價】男女可愛布標寬鬆針織上衣-三色-650225",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2026-10-15",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

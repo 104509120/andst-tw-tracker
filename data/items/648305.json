@@ -2,15 +2,10 @@
   "sku": "648305",
   "history": [
     {
-      "date": "2026-06-05",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 596
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=648305",
   "salepage_id": "11860194",
   "url": "https://www.dot-st.tw/SalePage/Index/11860194",
   "title": "LAKOLE男時髦楊柳短褲(另有上衣賣場)-四色-648305",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-06-05",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

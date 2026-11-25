@@ -2,15 +2,10 @@
   "sku": "826073",
   "history": [
     {
-      "date": "2026-06-30",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 796
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=826073",
   "salepage_id": "11937564",
   "url": "https://www.dot-st.tw/SalePage/Index/11937564",
   "title": "LEPSIM微透膚光澤感2WAY前後兩穿垂墜飄逸荷葉邊上衣-三色-826073",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-06-30",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

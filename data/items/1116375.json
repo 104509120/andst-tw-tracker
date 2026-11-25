@@ -1,11 +1,6 @@
 {
   "sku": "1116375",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1116375",
   "history": [
-    {
-      "date": "2026-11-20",
-      "price": 2690
-    },
     {
       "date": "2026-11-24",
       "price": 2690
@@ -14,12 +9,13 @@
   "salepage_id": "12325701",
   "url": "https://www.dot-st.tw/SalePage/Index/12325701",
   "title": "JEANASIS復古絲絨感抽象圖紋窄版長裙-一色-1116375",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12325701/0/639307894695530000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12325701/0/639312229989000000?v=1",
   "current_price": 2690,
   "original_price": 2690,
   "min_price": 2690,
   "max_price": 2690,
   "listed_date": "2026-11-20",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

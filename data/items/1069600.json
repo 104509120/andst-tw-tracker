@@ -2,15 +2,10 @@
   "sku": "1069600",
   "history": [
     {
-      "date": "2026-11-05",
-      "price": 4490
-    },
-    {
       "date": "2026-11-24",
       "price": 4490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1069600",
   "salepage_id": "12287609",
   "url": "https://www.dot-st.tw/SalePage/Index/12287609",
   "title": "LOWRYS FARM【品牌好友｜曾敬驊 江齊著用款】【LFM(U)】男女UNISEX系列高領蓬鬆袖短版MA-1飛行外套-二色-1069600",
@@ -21,5 +16,6 @@
   "max_price": 4490,
   "listed_date": "2026-11-05",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

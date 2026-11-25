@@ -2,24 +2,24 @@
   "sku": "1074413",
   "history": [
     {
-      "date": "2026-10-30",
+      "date": "2026-11-24",
       "price": 2490
     },
     {
-      "date": "2026-11-24",
-      "price": 2490
+      "date": "2026-11-25",
+      "price": 1494
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1074413",
   "salepage_id": "12272457",
   "url": "https://www.dot-st.tw/SalePage/Index/12272457",
   "title": "GLOBAL WORK男牛仔丹寧俐落喇叭長褲-二色-1074413",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12272457/0/639289632878900000?v=1",
-  "current_price": 2490,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12272457/0/639312261245370000?v=1",
+  "current_price": 1494,
   "original_price": 2490,
-  "min_price": 2490,
+  "min_price": 1494,
   "max_price": 2490,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

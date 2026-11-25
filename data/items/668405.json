@@ -2,15 +2,10 @@
   "sku": "668405",
   "history": [
     {
-      "date": "2026-05-06",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 756
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=668405",
   "salepage_id": "11772896",
   "url": "https://www.dot-st.tw/SalePage/Index/11772896",
   "title": "repipi armario鉚釘裝飾露肩迷你連身裙-三色-668405",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2026-05-06",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

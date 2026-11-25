@@ -2,15 +2,10 @@
   "sku": "137234",
   "history": [
     {
-      "date": "2025-02-26",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 133
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=137234",
   "salepage_id": "10546681",
   "url": "https://www.dot-st.tw/SalePage/Index/10546681",
   "title": "LAKOLE世界名作系列筷子湯匙環保餐具組-一色-137234",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2025-02-26",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

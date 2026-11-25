@@ -2,15 +2,10 @@
   "sku": "898398",
   "history": [
     {
-      "date": "2026-09-24",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=898398",
   "salepage_id": "12181266",
   "url": "https://www.dot-st.tw/SalePage/Index/12181266",
   "title": "LAKOLE女三花朵相連水鑽項鍊-二色-898398",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-09-24",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

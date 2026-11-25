@@ -2,15 +2,10 @@
   "sku": "762329",
   "history": [
     {
-      "date": "2026-09-03",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=762329",
   "salepage_id": "12127852",
   "url": "https://www.dot-st.tw/SalePage/Index/12127852",
   "title": "studio CLIP貼紙組合《插畫家KOTETSU文具系列》-二色-762329",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2026-09-03",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

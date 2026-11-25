@@ -2,24 +2,20 @@
   "sku": "136007",
   "history": [
     {
-      "date": "2024-08-14",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=136007",
   "salepage_id": "10070393",
   "url": "https://www.dot-st.tw/SalePage/Index/10070393",
   "title": "GLOBAL WORK【網路限定55價】女抗菌防臭舒適休閒平底鞋-五色-136007",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/10070393/0/639307656261900000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/10070393/0/639312242617500000?v=1",
   "current_price": 955,
   "original_price": 1690,
   "min_price": 955,
   "max_price": 1690,
   "listed_date": "2024-08-14",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

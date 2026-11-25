@@ -2,15 +2,10 @@
   "sku": "990275",
   "history": [
     {
-      "date": "2024-01-16",
-      "price": 6990
-    },
-    {
       "date": "2026-11-24",
       "price": 4690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=990275",
   "salepage_id": "9491483",
   "url": "https://www.dot-st.tw/SalePage/Index/9491483",
   "title": "niko and男女品牌NMR系列VBFC俱樂部夾克外套-二色-990275",
@@ -21,5 +16,6 @@
   "max_price": 6990,
   "listed_date": "2024-01-16",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

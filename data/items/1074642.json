@@ -2,24 +2,20 @@
   "sku": "1074642",
   "history": [
     {
-      "date": "2026-10-27",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 3755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1074642",
   "salepage_id": "12262281",
   "url": "https://www.dot-st.tw/SalePage/Index/12262281",
   "title": "RAGEBLUE【網路限定55價】【品牌好友｜曾敬驊 江齊著用款】女簡約斜紋立領氣球外套-二色-1074642",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12262281/0/639310437083430000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12262281/0/639312242845100000?v=1",
   "current_price": 3755,
   "original_price": 3990,
   "min_price": 3755,
   "max_price": 3990,
   "listed_date": "2026-10-27",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

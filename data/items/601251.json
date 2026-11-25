@@ -2,15 +2,10 @@
   "sku": "601251",
   "history": [
     {
-      "date": "2025-10-07",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=601251",
   "salepage_id": "11203116",
   "url": "https://www.dot-st.tw/SalePage/Index/11203116",
   "title": "repipi armario【girly line系列】高腰荷葉邊短褲-三色-601251",
@@ -21,5 +16,6 @@
   "max_price": 1890,
   "listed_date": "2025-10-07",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

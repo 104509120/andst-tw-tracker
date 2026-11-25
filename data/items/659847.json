@@ -2,15 +2,10 @@
   "sku": "659847",
   "history": [
     {
-      "date": "2026-06-04",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=659847",
   "salepage_id": "11861642",
   "url": "https://www.dot-st.tw/SalePage/Index/11861642",
   "title": "niko and女可愛流行編織耳針式耳環-四色-659847",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-06-04",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

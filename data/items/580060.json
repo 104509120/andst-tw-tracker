@@ -2,15 +2,10 @@
   "sku": "580060",
   "history": [
     {
-      "date": "2025-09-11",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 2490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=580060",
   "salepage_id": "11098808",
   "url": "https://www.dot-st.tw/SalePage/Index/11098808",
   "title": "niko and女機能防臭皮革厚底樂福鞋-三色-580060",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2025-09-11",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

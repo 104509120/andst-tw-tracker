@@ -2,15 +2,10 @@
   "sku": "1054802",
   "history": [
     {
-      "date": "2026-08-26",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1155
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1054802",
   "salepage_id": "12103518",
   "url": "https://www.dot-st.tw/SalePage/Index/12103518",
   "title": "GLOBAL WORK【網路限定55價】童閃亮薄紗長袖洋裝(100cm-160cm)-五色-1054802",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-08-26",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "636861",
   "history": [
     {
-      "date": "2026-01-14",
-      "price": 4290
-    },
-    {
       "date": "2026-11-24",
       "price": 2145
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=636861",
   "salepage_id": "11481035",
   "url": "https://www.dot-st.tw/SalePage/Index/11481035",
   "title": "HARE男松柏壓紋圖樣休閒上衣-二色-636861",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11481035/0/639300744123400000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11481035/0/639312242634300000?v=1",
   "current_price": 2145,
   "original_price": 4290,
   "min_price": 2145,
   "max_price": 4290,
   "listed_date": "2026-01-14",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

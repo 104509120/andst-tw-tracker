@@ -2,15 +2,10 @@
   "sku": "659841",
   "history": [
     {
-      "date": "2026-04-08",
-      "price": 2090
-    },
-    {
       "date": "2026-11-24",
       "price": 836
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=659841",
   "salepage_id": "11686954",
   "url": "https://www.dot-st.tw/SalePage/Index/11686954",
   "title": "studio CLIP混紡斜紋工裝寬長褲-三色-659841",
@@ -21,5 +16,6 @@
   "max_price": 2090,
   "listed_date": "2026-04-08",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

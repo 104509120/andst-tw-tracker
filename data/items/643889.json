@@ -2,24 +2,20 @@
   "sku": "643889",
   "history": [
     {
-      "date": "2026-03-03",
-      "price": 2090
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=643889",
   "salepage_id": "11587709",
   "url": "https://www.dot-st.tw/SalePage/Index/11587709",
   "title": "studio CLIP【網路限定55價】蕾絲2WAY綁帶無領長袖襯衫上衣-三色-643889",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11587709/0/639310380362330000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11587709/0/639312242652100000?v=1",
   "current_price": 955,
   "original_price": 2090,
   "min_price": 955,
   "max_price": 2090,
   "listed_date": "2026-03-03",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

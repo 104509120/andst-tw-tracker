@@ -2,24 +2,20 @@
   "sku": "636461",
   "history": [
     {
-      "date": "2026-04-22",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 745
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=636461",
   "salepage_id": "11729450",
   "url": "https://www.dot-st.tw/SalePage/Index/11729450",
   "title": "GLOBAL WORK男免燙亞麻感透氣襯衫-六色-636461",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11729450/0/639310365230570000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11729450/0/639312242685200000?v=1",
   "current_price": 745,
   "original_price": 1490,
   "min_price": 745,
   "max_price": 1490,
   "listed_date": "2026-04-22",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

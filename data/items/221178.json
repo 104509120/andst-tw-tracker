@@ -2,15 +2,10 @@
   "sku": "221178",
   "history": [
     {
-      "date": "2024-11-27",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=221178",
   "salepage_id": "10341716",
   "url": "https://www.dot-st.tw/SalePage/Index/10341716",
   "title": "niko and女可愛圓珠心型鑰匙圈吊飾-二色-221178",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2024-11-27",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

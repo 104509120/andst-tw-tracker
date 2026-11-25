@@ -2,15 +2,10 @@
   "sku": "1068247",
   "history": [
     {
-      "date": "2026-10-22",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 855
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1068247",
   "salepage_id": "12256590",
   "url": "https://www.dot-st.tw/SalePage/Index/12256590",
   "title": "LAKOLE【網路限定55價】男背寫真花印圖太空棉連帽T恤上衣-三色-1068247",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-10-22",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

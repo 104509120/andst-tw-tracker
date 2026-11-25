@@ -2,15 +2,10 @@
   "sku": "592326",
   "history": [
     {
-      "date": "2025-10-30",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=592326",
   "salepage_id": "11262444",
   "url": "https://www.dot-st.tw/SalePage/Index/11262444",
   "title": "LOWRYS FARM女【官網獨售_日本人氣店員企劃】附收納袋緞髮夾-三色-592326",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2025-10-30",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

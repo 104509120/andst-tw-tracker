@@ -2,15 +2,10 @@
   "sku": "298701",
   "history": [
     {
-      "date": "2022-09-28",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=298701",
   "salepage_id": "8146878",
   "url": "https://www.dot-st.tw/SalePage/Index/8146878",
   "title": "studio CLIP可掛式工業風木質迷你畚箕-二色-298701",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2022-09-28",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

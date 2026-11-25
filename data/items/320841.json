@@ -2,15 +2,10 @@
   "sku": "320841",
   "history": [
     {
-      "date": "2025-05-21",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 343
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=320841",
   "salepage_id": "10775733",
   "url": "https://www.dot-st.tw/SalePage/Index/10775733",
   "title": "niko and女懷舊時尚彈簧髮夾-三色-320841",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2025-05-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

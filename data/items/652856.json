@@ -2,15 +2,10 @@
   "sku": "652856",
   "history": [
     {
-      "date": "2026-03-26",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 516
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=652856",
   "salepage_id": "11661710",
   "url": "https://www.dot-st.tw/SalePage/Index/11661710",
   "title": "JEANASIS鏤空鉤織針織綁帶腰帶-二色-652856",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-03-26",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

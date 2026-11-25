@@ -2,15 +2,10 @@
   "sku": "652969",
   "history": [
     {
-      "date": "2026-03-24",
-      "price": 2990
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=652969",
   "salepage_id": "11654142",
   "url": "https://www.dot-st.tw/SalePage/Index/11654142",
   "title": "Heather【品牌好友｜曾敬驊 江齊著用款】可拆蕾絲袖2WAY雙排釦中長版外套-四色-652969",
@@ -21,5 +16,6 @@
   "max_price": 2990,
   "listed_date": "2026-03-24",
   "updated_at": "2026-11-25",
-  "brand": "Heather"
+  "brand": "Heather",
+  "first_seen": "2026-11-24"
 }

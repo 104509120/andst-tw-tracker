@@ -2,15 +2,10 @@
   "sku": "459891",
   "history": [
     {
-      "date": "2026-10-30",
-      "price": 270
-    },
-    {
       "date": "2026-11-24",
       "price": 270
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=459891",
   "salepage_id": "12272744",
   "url": "https://www.dot-st.tw/SalePage/Index/12272744",
   "title": "niko and設計師品牌Fishs Eddyg鑰匙圈吊飾-一款-459891",
@@ -21,5 +16,6 @@
   "max_price": 270,
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

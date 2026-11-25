@@ -2,15 +2,10 @@
   "sku": "1074629",
   "history": [
     {
-      "date": "2026-10-22",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1055
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1074629",
   "salepage_id": "12259530",
   "url": "https://www.dot-st.tw/SalePage/Index/12259530",
   "title": "PAGEBOY【網路限定55價】疊搭愛心球珠項鍊二件組-一色-1074629",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-10-22",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

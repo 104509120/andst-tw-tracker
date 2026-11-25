@@ -2,24 +2,20 @@
   "sku": "668115",
   "history": [
     {
-      "date": "2026-05-21",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 1155
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=668115",
   "salepage_id": "11814440",
   "url": "https://www.dot-st.tw/SalePage/Index/11814440",
   "title": "HARE【網路限定55價】女附緞面束口袋編織感鏤空肩背針織包-一色-668115",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11814440/0/639307653236200000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11814440/0/639312242701200000?v=1",
   "current_price": 1155,
   "original_price": 2490,
   "min_price": 1155,
   "max_price": 2490,
   "listed_date": "2026-05-21",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

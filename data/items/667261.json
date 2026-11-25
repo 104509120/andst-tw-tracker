@@ -2,15 +2,10 @@
   "sku": "667261",
   "history": [
     {
-      "date": "2026-07-17",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 355
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=667261",
   "salepage_id": "11985362",
   "url": "https://www.dot-st.tw/SalePage/Index/11985362",
   "title": "LAKOLE【網路限定55價】男涼感寬版鬆緊五分短褲-四色-667261",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2026-07-17",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

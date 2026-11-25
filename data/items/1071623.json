@@ -2,16 +2,11 @@
   "sku": "1071623",
   "history": [
     {
-      "date": "2026-10-06",
-      "price": 2190
-    },
-    {
       "date": "2026-11-24",
       "price": 1533
     }
   ],
   "listed_date": "2026-10-06",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1071623",
   "salepage_id": "12216487",
   "url": "https://www.dot-st.tw/SalePage/Index/12216487",
   "title": "studio CLIP【官網/統一時代限定】條紋荷葉邊燈籠棉麻長褲《natural by clip》-二色-1071623",
@@ -21,5 +16,6 @@
   "min_price": 1533,
   "max_price": 2190,
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

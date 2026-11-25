@@ -2,15 +2,10 @@
   "sku": "627264",
   "history": [
     {
-      "date": "2026-05-28",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=627264",
   "salepage_id": "11840893",
   "url": "https://www.dot-st.tw/SalePage/Index/11840893",
   "title": "LAKOLE日本製美濃燒法式小烤盅碗130ml-四色-627264",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2026-05-28",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

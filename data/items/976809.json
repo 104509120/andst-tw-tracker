@@ -2,15 +2,10 @@
   "sku": "976809",
   "history": [
     {
-      "date": "2024-10-14",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 133
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=976809",
   "salepage_id": "10169325",
   "url": "https://www.dot-st.tw/SalePage/Index/10169325",
   "title": "LAKOLE雙層網布圓柱形洗衣網-二色-976809",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2024-10-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

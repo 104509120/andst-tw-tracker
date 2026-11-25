@@ -2,15 +2,10 @@
   "sku": "663318",
   "history": [
     {
-      "date": "2026-05-07",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=663318",
   "salepage_id": "11773934",
   "url": "https://www.dot-st.tw/SalePage/Index/11773934",
   "title": "RAGEBLUE【網路限定55價】男百搭不易皺寬版西裝長褲-四色-663318",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-05-07",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "635820",
   "history": [
     {
-      "date": "2026-01-20",
-      "price": 4590
-    },
-    {
       "date": "2026-11-24",
       "price": 2755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=635820",
   "salepage_id": "11495751",
   "url": "https://www.dot-st.tw/SalePage/Index/11495751",
   "title": "HARE【網路限定55價】女多WAY側邊口袋皺褶褲管可拆縮口長褲-三色-635820",
@@ -21,5 +16,6 @@
   "max_price": 4590,
   "listed_date": "2026-01-20",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

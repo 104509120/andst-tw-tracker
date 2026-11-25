@@ -2,15 +2,10 @@
   "sku": "637955",
   "history": [
     {
-      "date": "2026-04-23",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 597
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=637955",
   "salepage_id": "11733159",
   "url": "https://www.dot-st.tw/SalePage/Index/11733159",
   "title": "LAKOLE女織帶設計運動涼鞋-二色-637955",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-04-23",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

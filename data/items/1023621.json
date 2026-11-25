@@ -2,15 +2,10 @@
   "sku": "1023621",
   "history": [
     {
-      "date": "2026-11-06",
-      "price": 350
-    },
-    {
       "date": "2026-11-24",
       "price": 350
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1023621",
   "salepage_id": "12287562",
   "url": "https://www.dot-st.tw/SalePage/Index/12287562",
   "title": "niko and聖誕裝飾Xmas閃閃美式餐點玻璃吊飾-三色-1023621",
@@ -21,5 +16,6 @@
   "max_price": 350,
   "listed_date": "2026-11-06",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

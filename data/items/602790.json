@@ -2,15 +2,10 @@
   "sku": "602790",
   "history": [
     {
-      "date": "2026-10-08",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1355
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=602790",
   "salepage_id": "12222693",
   "url": "https://www.dot-st.tw/SalePage/Index/12222693",
   "title": "PAGEBOY【網路限定55價】大人感親膚毛絨V領針織長袖上衣-五色-602790",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-10-08",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

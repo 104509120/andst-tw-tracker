@@ -1,11 +1,6 @@
 {
   "sku": "1086588",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1086588",
   "history": [
-    {
-      "date": "2026-11-18",
-      "price": 1590
-    },
     {
       "date": "2026-11-24",
       "price": 1590
@@ -14,12 +9,13 @@
   "salepage_id": "12316162",
   "url": "https://www.dot-st.tw/SalePage/Index/12316162",
   "title": "studio CLIP【官網/統一時代限定】純棉條紋寬鬆套頭上衣《natural by clip》-二色-1086588",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12316162/0/639306087518830000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12316162/0/639312048644600000?v=1",
   "current_price": 1590,
   "original_price": 1590,
   "min_price": 1590,
   "max_price": 1590,
   "listed_date": "2026-11-18",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

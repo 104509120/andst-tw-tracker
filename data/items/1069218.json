@@ -2,24 +2,24 @@
   "sku": "1069218",
   "history": [
     {
-      "date": "2026-10-01",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1390
+    },
+    {
+      "date": "2026-11-25",
+      "price": 1090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1069218",
   "salepage_id": "12197501",
   "url": "https://www.dot-st.tw/SalePage/Index/12197501",
   "title": "LEPSIM媽媽系列腰部抽繩傘狀拼接長袖上衣-三色-1069218",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12197501/0/639299994490370000?v=1",
-  "current_price": 1390,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12197501/0/639312139630470000?v=1",
+  "current_price": 1090,
   "original_price": 1990,
-  "min_price": 1390,
+  "min_price": 1090,
   "max_price": 1990,
   "listed_date": "2026-10-01",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

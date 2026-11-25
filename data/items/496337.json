@@ -2,15 +2,10 @@
   "sku": "496337",
   "history": [
     {
-      "date": "2025-07-02",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1352
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=496337",
   "salepage_id": "10922140",
   "url": "https://www.dot-st.tw/SalePage/Index/10922140",
   "title": "niko and女【FIZZ&amp;RICH PARLOR】冰淇淋店主題印花短袖T恤上衣-三色-496337",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2025-07-02",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

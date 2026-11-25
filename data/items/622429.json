@@ -2,15 +2,10 @@
   "sku": "622429",
   "history": [
     {
-      "date": "2026-07-15",
-      "price": 190
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=622429",
   "salepage_id": "11977676",
   "url": "https://www.dot-st.tw/SalePage/Index/11977676",
   "title": "LAKOLE日本製福井縣小濱市條紋若狹塗木筷-二色-622429",
@@ -21,5 +16,6 @@
   "max_price": 190,
   "listed_date": "2026-07-15",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

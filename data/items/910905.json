@@ -2,24 +2,20 @@
   "sku": "910905",
   "history": [
     {
-      "date": "2026-08-12",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 645
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=910905",
   "salepage_id": "12062234",
   "url": "https://www.dot-st.tw/SalePage/Index/12062234",
   "title": "GLOBAL WORK女透膚光澤絲絨POLO衫短袖上衣-三色-910905",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12062234/0/639310365475130000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12062234/0/639312242570770000?v=1",
   "current_price": 645,
   "original_price": 1290,
   "min_price": 645,
   "max_price": 1290,
   "listed_date": "2026-08-12",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

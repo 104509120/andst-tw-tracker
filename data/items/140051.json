@@ -2,15 +2,10 @@
   "sku": "140051",
   "history": [
     {
-      "date": "2026-10-08",
-      "price": 4390
-    },
-    {
       "date": "2026-11-24",
       "price": 2990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=140051",
   "salepage_id": "10149292",
   "url": "https://www.dot-st.tw/SalePage/Index/10149292",
   "title": "PAGEBOY【品牌好友｜曾敬驊 江齊著用款】針織鬆緊綁帶厚底低筒靴-四色-140051",
@@ -21,5 +16,6 @@
   "max_price": 4390,
   "listed_date": "2026-10-08",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

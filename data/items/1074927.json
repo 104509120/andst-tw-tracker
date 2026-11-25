@@ -2,15 +2,10 @@
   "sku": "1074927",
   "history": [
     {
-      "date": "2026-10-01",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1074927",
   "salepage_id": "12197504",
   "url": "https://www.dot-st.tw/SalePage/Index/12197504",
   "title": "LEPSIM媽媽系列2WAY前後兩穿蕾絲拼接側開衩長袖T恤上衣-二色-1074927",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-10-01",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

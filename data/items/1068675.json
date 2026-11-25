@@ -2,15 +2,10 @@
   "sku": "1068675",
   "history": [
     {
-      "date": "2026-10-08",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1068675",
   "salepage_id": "12198717",
   "url": "https://www.dot-st.tw/SalePage/Index/12198717",
   "title": "LEPSIM【網路限定55價】【Puff Air系列】大人氣輕盈蓬鬆翻領雙頭拉鍊上衣-三色-1068675",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2026-10-08",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

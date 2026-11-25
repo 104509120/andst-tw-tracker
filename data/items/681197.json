@@ -2,24 +2,20 @@
   "sku": "681197",
   "history": [
     {
-      "date": "2026-09-23",
-      "price": 4690
-    },
-    {
       "date": "2026-11-24",
       "price": 4690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=681197",
   "salepage_id": "12179370",
   "url": "https://www.dot-st.tw/SalePage/Index/12179370",
   "title": "GLOBAL WORK男輕暖機能立領外套-三色-681197",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12179370/0/639257670496730000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12179370/0/639312025734730000?v=1",
   "current_price": 4690,
   "original_price": 4690,
   "min_price": 4690,
   "max_price": 4690,
   "listed_date": "2026-09-23",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "119489",
   "history": [
     {
-      "date": "2024-08-16",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 413
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=119489",
   "salepage_id": "10078749",
   "url": "https://www.dot-st.tw/SalePage/Index/10078749",
   "title": "studio CLIP格紋摩砂面材質直傘-三色-119489",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2024-08-16",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

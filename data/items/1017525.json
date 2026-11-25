@@ -2,24 +2,20 @@
   "sku": "1017525",
   "history": [
     {
-      "date": "2026-06-30",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1155
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1017525",
   "salepage_id": "11937916",
   "url": "https://www.dot-st.tw/SalePage/Index/11937916",
   "title": "PAGEBOY【網路限定55價】男女PBLIM系列連帽鏤空網狀拉鍊罩衫上衣-三色-1017525",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11937916/0/639307656406230000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11937916/0/639312242718330000?v=1",
   "current_price": 1155,
   "original_price": 2690,
   "min_price": 1155,
   "max_price": 2690,
   "listed_date": "2026-06-30",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

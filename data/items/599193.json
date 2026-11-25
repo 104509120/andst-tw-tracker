@@ -2,15 +2,10 @@
   "sku": "599193",
   "history": [
     {
-      "date": "2026-05-07",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=599193",
   "salepage_id": "11776041",
   "url": "https://www.dot-st.tw/SalePage/Index/11776041",
   "title": "LAKOLE可拆卸式隔板工具收納盒S(1.7L)-一色-599193",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-05-07",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "6374401",
   "history": [
     {
-      "date": "2026-10-06",
-      "price": 4380
-    },
-    {
       "date": "2026-11-24",
       "price": 2955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=6374401",
   "salepage_id": "12229494",
   "url": "https://www.dot-st.tw/SalePage/Index/12229494",
   "title": "◎index女OPAQUE.CLIP兩件式背心＋羅紋針織上衣-一色-63744019 NT$2,955",
@@ -21,5 +16,6 @@
   "max_price": 4380,
   "listed_date": "2026-10-06",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

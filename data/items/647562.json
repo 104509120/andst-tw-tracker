@@ -2,15 +2,10 @@
   "sku": "647562",
   "history": [
     {
-      "date": "2026-10-15",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647562",
   "salepage_id": "12240623",
   "url": "https://www.dot-st.tw/SalePage/Index/12240623",
   "title": "LEPSIM【MOUL系列】雪尼爾柔軟光澤感大寬領丹寧寬袖短版上衣-二色-647562",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-10-15",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

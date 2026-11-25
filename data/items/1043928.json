@@ -2,15 +2,10 @@
   "sku": "1043928",
   "history": [
     {
-      "date": "2026-11-06",
-      "price": 5500
-    },
-    {
       "date": "2026-11-24",
       "price": 5500
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1043928",
   "salepage_id": "12287581",
   "url": "https://www.dot-st.tw/SalePage/Index/12287581",
   "title": "niko and聖誕裝飾Xmas聖誕樹150cm-一色-1043928",
@@ -21,5 +16,6 @@
   "max_price": 5500,
   "listed_date": "2026-11-06",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

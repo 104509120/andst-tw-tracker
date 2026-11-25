@@ -2,15 +2,10 @@
   "sku": "647520",
   "history": [
     {
-      "date": "2026-04-01",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 552
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647520",
   "salepage_id": "11667104",
   "url": "https://www.dot-st.tw/SalePage/Index/11667104",
   "title": "repipi armario包包腰帶鏈條小吊飾-四色-647520",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-04-01",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

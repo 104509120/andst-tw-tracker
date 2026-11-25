@@ -2,15 +2,10 @@
   "sku": "1055907",
   "history": [
     {
-      "date": "2026-09-03",
-      "price": 3790
-    },
-    {
       "date": "2026-11-24",
       "price": 2255
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1055907",
   "salepage_id": "12127712",
   "url": "https://www.dot-st.tw/SalePage/Index/12127712",
   "title": "HARE【網路限定55價】女下襬不規則袖部蕾絲設計長袖襯衫上衣-二色-1055907",
@@ -21,5 +16,6 @@
   "max_price": 3790,
   "listed_date": "2026-09-03",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

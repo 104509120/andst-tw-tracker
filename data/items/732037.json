@@ -2,15 +2,10 @@
   "sku": "732037",
   "history": [
     {
-      "date": "2026-05-27",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 597
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=732037",
   "salepage_id": "11833676",
   "url": "https://www.dot-st.tw/SalePage/Index/11833676",
   "title": "PAGEBOY鏤空針織微透膚綁帶蓬袖開襟上衣-三色-732037",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-05-27",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

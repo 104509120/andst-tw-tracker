@@ -2,15 +2,10 @@
   "sku": "589933",
   "history": [
     {
-      "date": "2025-08-25",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 996
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=589933",
   "salepage_id": "11053058",
   "url": "https://www.dot-st.tw/SalePage/Index/11053058",
   "title": "JEANASIS不收邊船領針織上衣-三色-589933",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2025-08-25",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1049600",
   "history": [
     {
-      "date": "2026-09-03",
-      "price": 4090
-    },
-    {
       "date": "2026-11-24",
       "price": 1955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1049600",
   "salepage_id": "12127705",
   "url": "https://www.dot-st.tw/SalePage/Index/12127705",
   "title": "HARE【網路限定55價】女絨毛短版上衣與鏤空蕾絲微高領長袖上衣二件組-二色-1049600",
@@ -21,5 +16,6 @@
   "max_price": 4090,
   "listed_date": "2026-09-03",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

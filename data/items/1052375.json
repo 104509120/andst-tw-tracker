@@ -2,24 +2,20 @@
   "sku": "1052375",
   "history": [
     {
-      "date": "2026-10-15",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1052375",
   "salepage_id": "12237823",
   "url": "https://www.dot-st.tw/SalePage/Index/12237823",
   "title": "LAKOLE【網路限定55價】【品牌好友｜曾敬驊 江齊著用款】女麂皮羅馬布貝克長裙(正常M/加長L可選)-四色-1052375",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12237823/0/639307650297500000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12237823/0/639312242588170000?v=1",
   "current_price": 955,
   "original_price": 1490,
   "min_price": 955,
   "max_price": 1490,
   "listed_date": "2026-10-15",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

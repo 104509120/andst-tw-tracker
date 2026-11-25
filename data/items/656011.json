@@ -2,24 +2,20 @@
   "sku": "656011",
   "history": [
     {
-      "date": "2026-04-28",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 645
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=656011",
   "salepage_id": "11744664",
   "url": "https://www.dot-st.tw/SalePage/Index/11744664",
   "title": "GLOBAL WORK女高山直子聯名EiiS系列修身短袖襯衫-三色-656011",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11744664/0/639299908734630000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11744664/0/639312242515630000?v=1",
   "current_price": 645,
   "original_price": 1290,
   "min_price": 645,
   "max_price": 1290,
   "listed_date": "2026-04-28",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

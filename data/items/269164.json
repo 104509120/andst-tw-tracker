@@ -2,15 +2,10 @@
   "sku": "269164",
   "history": [
     {
-      "date": "2024-09-26",
-      "price": 700
-    },
-    {
       "date": "2026-11-24",
       "price": 700
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=269164",
   "salepage_id": "10185339",
   "url": "https://www.dot-st.tw/SalePage/Index/10185339",
   "title": "niko and設計師品牌Fishs Eddy狗狗摺疊收納購物袋-一色-269164",
@@ -21,5 +16,6 @@
   "max_price": 700,
   "listed_date": "2024-09-26",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

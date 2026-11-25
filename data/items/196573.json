@@ -2,15 +2,10 @@
   "sku": "196573",
   "history": [
     {
-      "date": "2023-09-01",
-      "price": 90
-    },
-    {
       "date": "2026-11-24",
       "price": 90
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=196573",
   "salepage_id": "9145109",
   "url": "https://www.dot-st.tw/SalePage/Index/9145109",
   "title": "studio CLIP天然木甜點叉【daily CLIP】-二色-196573",
@@ -21,5 +16,6 @@
   "max_price": 90,
   "listed_date": "2023-09-01",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

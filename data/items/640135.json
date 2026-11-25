@@ -2,15 +2,10 @@
   "sku": "640135",
   "history": [
     {
-      "date": "2026-05-06",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 273
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=640135",
   "salepage_id": "11772355",
   "url": "https://www.dot-st.tw/SalePage/Index/11772355",
   "title": "LAKOLE女扭結設計造型耳骨夾-二色-640135",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-05-06",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

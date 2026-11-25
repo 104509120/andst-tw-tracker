@@ -2,15 +2,10 @@
   "sku": "576574",
   "history": [
     {
-      "date": "2025-08-28",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 190
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=576574",
   "salepage_id": "11058171",
   "url": "https://www.dot-st.tw/SalePage/Index/11058171",
   "title": "Me%【蠟筆小新聯名】貼紙造型吊飾-五色-576574",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2025-08-28",
   "updated_at": "2026-11-25",
-  "brand": "Me%"
+  "brand": "Me%",
+  "first_seen": "2026-11-24"
 }

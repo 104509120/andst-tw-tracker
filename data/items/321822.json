@@ -2,15 +2,10 @@
   "sku": "321822",
   "history": [
     {
-      "date": "2025-03-18",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=321822",
   "salepage_id": "10604544",
   "url": "https://www.dot-st.tw/SalePage/Index/10604544",
   "title": "PAGEBOY【網路限定55價】不規則金屬方頭皮帶-七色-321822",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2025-03-18",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

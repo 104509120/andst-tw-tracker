@@ -2,15 +2,10 @@
   "sku": "670455",
   "history": [
     {
-      "date": "2026-04-01",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=670455",
   "salepage_id": "11676701",
   "url": "https://www.dot-st.tw/SalePage/Index/11676701",
   "title": "Heather蕾絲下襬緞面光澤內搭安全褲-一色-670455",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-04-01",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

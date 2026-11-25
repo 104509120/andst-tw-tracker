@@ -2,15 +2,10 @@
   "sku": "283565",
   "history": [
     {
-      "date": "2025-08-07",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=283565",
   "salepage_id": "11009957",
   "url": "https://www.dot-st.tw/SalePage/Index/11009957",
   "title": "studio CLIP日本製檜木精油除臭擴香瓶(150ML)《HOUSEHOLD GOODS》-三色-283565",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2025-08-07",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

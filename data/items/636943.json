@@ -2,15 +2,10 @@
   "sku": "636943",
   "history": [
     {
-      "date": "2026-03-16",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=636943",
   "salepage_id": "11618884",
   "url": "https://www.dot-st.tw/SalePage/Index/11618884",
   "title": "niko and女機能防臭緩震休閒運動鞋便鞋-三色-636943",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-03-16",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

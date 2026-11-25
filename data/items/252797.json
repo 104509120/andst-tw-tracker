@@ -2,15 +2,10 @@
   "sku": "252797",
   "history": [
     {
-      "date": "2025-08-06",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=252797",
   "salepage_id": "11009188",
   "url": "https://www.dot-st.tw/SalePage/Index/11009188",
   "title": "LAKOLE美容用USB連接美髮造型平板夾-一色-252797",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2025-08-06",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

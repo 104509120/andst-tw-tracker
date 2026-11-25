@@ -2,24 +2,20 @@
   "sku": "866979",
   "history": [
     {
-      "date": "2026-06-24",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=866979",
   "salepage_id": "11922854",
   "url": "https://www.dot-st.tw/SalePage/Index/11922854",
   "title": "RAGEBLUE【網路限定55價】男接觸涼感吸水速乾抗UV立體英文T恤上衣-三色-866979",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11922854/0/639307647605630000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11922854/0/639312242552370000?v=1",
   "current_price": 555,
   "original_price": 1690,
   "min_price": 555,
   "max_price": 1690,
   "listed_date": "2026-06-24",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

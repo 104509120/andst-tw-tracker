@@ -2,15 +2,10 @@
   "sku": "849662",
   "history": [
     {
-      "date": "2023-07-07",
-      "price": 740
-    },
-    {
       "date": "2026-11-24",
       "price": 740
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=849662",
   "salepage_id": "9004030",
   "url": "https://www.dot-st.tw/SalePage/Index/9004030",
   "title": "niko and錐形紋路室內裝飾玻璃花瓶-一色-849662",
@@ -21,5 +16,6 @@
   "max_price": 740,
   "listed_date": "2023-07-07",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

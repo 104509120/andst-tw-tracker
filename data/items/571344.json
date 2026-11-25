@@ -2,15 +2,10 @@
   "sku": "571344",
   "history": [
     {
-      "date": "2025-10-31",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=571344",
   "salepage_id": "11263194",
   "url": "https://www.dot-st.tw/SalePage/Index/11263194",
   "title": "repipi armario童金屬logo針織雙頭拉鍊外套-二色-571344",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2025-10-31",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

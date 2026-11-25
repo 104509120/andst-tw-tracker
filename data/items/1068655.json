@@ -2,24 +2,24 @@
   "sku": "1068655",
   "history": [
     {
-      "date": "2026-10-08",
+      "date": "2026-11-24",
       "price": 1490
     },
     {
-      "date": "2026-11-24",
-      "price": 1490
+      "date": "2026-11-25",
+      "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1068655",
   "salepage_id": "12198713",
   "url": "https://www.dot-st.tw/SalePage/Index/12198713",
   "title": "LEPSIM【長度可選系列】素面線條設計長袖上衣-四色-1068655",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12198713/0/639300744105800000?v=1",
-  "current_price": 1490,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12198713/0/639312242815030000?v=1",
+  "current_price": 990,
   "original_price": 1490,
-  "min_price": 1490,
+  "min_price": 990,
   "max_price": 1490,
   "listed_date": "2026-10-08",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

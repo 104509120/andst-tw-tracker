@@ -2,15 +2,10 @@
   "sku": "655798",
   "history": [
     {
-      "date": "2026-08-28",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=655798",
   "salepage_id": "12111414",
   "url": "https://www.dot-st.tw/SalePage/Index/12111414",
   "title": "LAKOLE木製字母LOGO立架二件組M(耐重1kg)-一色-655798",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-08-28",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

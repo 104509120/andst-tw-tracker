@@ -2,15 +2,10 @@
   "sku": "604145",
   "history": [
     {
-      "date": "2025-11-18",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 796
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=604145",
   "salepage_id": "11328303",
   "url": "https://www.dot-st.tw/SalePage/Index/11328303",
   "title": "studio CLIP時髦長絨毛V領背心-三色-604145",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2025-11-18",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

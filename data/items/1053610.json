@@ -2,15 +2,10 @@
   "sku": "1053610",
   "history": [
     {
-      "date": "2026-09-10",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1053610",
   "salepage_id": "12144539",
   "url": "https://www.dot-st.tw/SalePage/Index/12144539",
   "title": "LEPSIM柔軟寬鬆針織毛帽-四色-1053610",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-09-10",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

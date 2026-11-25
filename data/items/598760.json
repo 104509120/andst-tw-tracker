@@ -2,15 +2,10 @@
   "sku": "598760",
   "history": [
     {
-      "date": "2026-01-21",
-      "price": 350
-    },
-    {
       "date": "2026-11-24",
       "price": 350
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=598760",
   "salepage_id": "11500661",
   "url": "https://www.dot-st.tw/SalePage/Index/11500661",
   "title": "niko and招福2026年立體刺繡磁鐵-三色-598760",
@@ -21,5 +16,6 @@
   "max_price": 350,
   "listed_date": "2026-01-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

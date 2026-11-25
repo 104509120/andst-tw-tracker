@@ -2,15 +2,10 @@
   "sku": "601074",
   "history": [
     {
-      "date": "2026-03-09",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=601074",
   "salepage_id": "11602280",
   "url": "https://www.dot-st.tw/SalePage/Index/11602280",
   "title": "studio CLIP撞色抽繩防水可收納折疊傘套-四色-601074",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-03-09",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

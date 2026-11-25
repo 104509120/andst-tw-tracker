@@ -2,15 +2,10 @@
   "sku": "670125",
   "history": [
     {
-      "date": "2026-06-25",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 273
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=670125",
   "salepage_id": "11909829",
   "url": "https://www.dot-st.tw/SalePage/Index/11909829",
   "title": "studio CLIP日本製插畫筆記本B6【小貓丹丹聯名】-二色-670125",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-06-25",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

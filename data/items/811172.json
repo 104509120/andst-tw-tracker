@@ -2,15 +2,10 @@
   "sku": "811172",
   "history": [
     {
-      "date": "2026-09-02",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=811172",
   "salepage_id": "12124909",
   "url": "https://www.dot-st.tw/SalePage/Index/12124909",
   "title": "LAKOLE男質感光澤皮革口袋肩背包-二色-811172",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-09-02",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1079330",
   "history": [
     {
-      "date": "2026-11-03",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1079330",
   "salepage_id": "12278202",
   "url": "https://www.dot-st.tw/SalePage/Index/12278202",
   "title": "studio CLIP華麗蕾絲蓬鬆髮圈-一色-1079330",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-11-03",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

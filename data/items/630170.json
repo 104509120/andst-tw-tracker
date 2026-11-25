@@ -2,15 +2,10 @@
   "sku": "630170",
   "history": [
     {
-      "date": "2026-02-10",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 796
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=630170",
   "salepage_id": "11555478",
   "url": "https://www.dot-st.tw/SalePage/Index/11555478",
   "title": "LEPSIM下擺抽繩設計綁帶降落傘褲-三色-630170",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-02-10",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

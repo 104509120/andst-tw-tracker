@@ -2,15 +2,10 @@
   "sku": "662053",
   "history": [
     {
-      "date": "2026-07-01",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 995
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=662053",
   "salepage_id": "11940852",
   "url": "https://www.dot-st.tw/SalePage/Index/11940852",
   "title": "niko and女立體刺繡花紋短袖襯衫上衣-三色-662053",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-07-01",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

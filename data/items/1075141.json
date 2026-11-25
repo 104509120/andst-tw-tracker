@@ -2,15 +2,10 @@
   "sku": "1075141",
   "history": [
     {
-      "date": "2026-11-12",
-      "price": 5890
-    },
-    {
       "date": "2026-11-24",
       "price": 5890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1075141",
   "salepage_id": "12299886",
   "url": "https://www.dot-st.tw/SalePage/Index/12299886",
   "title": "HARE女露肩風衣式拼接網紗長版洋裝-二色-1075141",
@@ -21,5 +16,6 @@
   "max_price": 5890,
   "listed_date": "2026-11-12",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

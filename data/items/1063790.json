@@ -2,24 +2,24 @@
   "sku": "1063790",
   "history": [
     {
-      "date": "2026-10-15",
+      "date": "2026-11-24",
       "price": 4690
     },
     {
-      "date": "2026-11-24",
-      "price": 4690
+      "date": "2026-11-25",
+      "price": 3283
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1063790",
   "salepage_id": "12241384",
   "url": "https://www.dot-st.tw/SalePage/Index/12241384",
   "title": "JEANASIS尖頭復古刺繡西部中筒靴-二色-1063790",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12241384/0/639299179901470000?v=1",
-  "current_price": 4690,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12241384/0/639312240712400000?v=1",
+  "current_price": 3283,
   "original_price": 4690,
-  "min_price": 4690,
+  "min_price": 3283,
   "max_price": 4690,
   "listed_date": "2026-10-15",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

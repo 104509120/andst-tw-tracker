@@ -2,15 +2,10 @@
   "sku": "636424",
   "history": [
     {
-      "date": "2026-06-17",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=636424",
   "salepage_id": "11908307",
   "url": "https://www.dot-st.tw/SalePage/Index/11908307",
   "title": "studio CLIP日本製美濃燒輪花馬克杯(230ML)-二色-636424",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-06-17",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

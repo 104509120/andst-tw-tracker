@@ -2,15 +2,10 @@
   "sku": "646806",
   "history": [
     {
-      "date": "2026-03-21",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 1290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=646806",
   "salepage_id": "11643416",
   "url": "https://www.dot-st.tw/SalePage/Index/11643416",
   "title": "niko and女柔軟皮革L型零錢包短夾-三色-646806",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2026-03-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

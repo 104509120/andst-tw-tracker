@@ -2,15 +2,10 @@
   "sku": "646528",
   "history": [
     {
-      "date": "2026-04-15",
-      "price": 2790
-    },
-    {
       "date": "2026-11-24",
       "price": 1355
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=646528",
   "salepage_id": "11711149",
   "url": "https://www.dot-st.tw/SalePage/Index/11711149",
   "title": "HARE【網路限定55價】女微透膚飄逸感抓皺蓬袖襯衫上衣-六色-646528",
@@ -21,5 +16,6 @@
   "max_price": 2790,
   "listed_date": "2026-04-15",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

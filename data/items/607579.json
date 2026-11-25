@@ -2,15 +2,10 @@
   "sku": "607579",
   "history": [
     {
-      "date": "2026-01-30",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=607579",
   "salepage_id": "11526102",
   "url": "https://www.dot-st.tw/SalePage/Index/11526102",
   "title": "LAKOLE吉祥風藍染花朵盤-一色-607579",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2026-01-30",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1067660",
   "history": [
     {
-      "date": "2026-08-26",
-      "price": 880
-    },
-    {
       "date": "2026-11-24",
       "price": 880
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1067660",
   "salepage_id": "12101388",
   "url": "https://www.dot-st.tw/SalePage/Index/12101388",
   "title": "studio CLIP【November Treasure】織品香氛噴霧-三色-1067660",
@@ -21,5 +16,6 @@
   "max_price": 880,
   "listed_date": "2026-08-26",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

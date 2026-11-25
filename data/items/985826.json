@@ -2,15 +2,10 @@
   "sku": "985826",
   "history": [
     {
-      "date": "2024-10-14",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 495
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=985826",
   "salepage_id": "10157157",
   "url": "https://www.dot-st.tw/SalePage/Index/10157157",
   "title": "LAKOLE男雙色編織附墊片手機掛繩背帶(不限手機型號)-一色-985826",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2024-10-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

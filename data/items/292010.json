@@ -2,15 +2,10 @@
   "sku": "292010",
   "history": [
     {
-      "date": "2025-05-12",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 623
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=292010",
   "salepage_id": "10751097",
   "url": "https://www.dot-st.tw/SalePage/Index/10751097",
   "title": "studio CLIP佩斯利圖騰小收納包-二色-292010",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2025-05-12",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

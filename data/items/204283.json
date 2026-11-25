@@ -2,15 +2,10 @@
   "sku": "204283",
   "history": [
     {
-      "date": "2023-07-20",
-      "price": 510
-    },
-    {
       "date": "2026-11-24",
       "price": 510
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=204283",
   "salepage_id": "9037137",
   "url": "https://www.dot-st.tw/SalePage/Index/9037137",
   "title": "niko and復古風羽毛置物盤擺飾-一色-204283",
@@ -21,5 +16,6 @@
   "max_price": 510,
   "listed_date": "2023-07-20",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

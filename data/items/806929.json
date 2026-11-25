@@ -2,24 +2,20 @@
   "sku": "806929",
   "history": [
     {
-      "date": "2026-06-10",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1145
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=806929",
   "salepage_id": "11880384",
   "url": "https://www.dot-st.tw/SalePage/Index/11880384",
   "title": "GLOBAL WORK男素色英文T恤短袖上衣與針織短袖外套二件組-三色-806929",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11880384/0/639299286297830000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11880384/0/639312242534600000?v=1",
   "current_price": 1145,
   "original_price": 2290,
   "min_price": 1145,
   "max_price": 2290,
   "listed_date": "2026-06-10",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

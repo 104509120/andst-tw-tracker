@@ -2,15 +2,10 @@
   "sku": "654425",
   "history": [
     {
-      "date": "2026-07-14",
-      "price": 3290
-    },
-    {
       "date": "2026-11-24",
       "price": 2961
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=654425",
   "salepage_id": "11974120",
   "url": "https://www.dot-st.tw/SalePage/Index/11974120",
   "title": "niko and原創系列CITY CREEK摺疊收納雙人露營椅-一色-654425",
@@ -21,5 +16,6 @@
   "max_price": 3290,
   "listed_date": "2026-07-14",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "6373505",
   "history": [
     {
-      "date": "2026-09-07",
-      "price": 3180
-    },
-    {
       "date": "2026-11-24",
       "price": 1908
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=6373505",
   "salepage_id": "12102562",
   "url": "https://www.dot-st.tw/SalePage/Index/12102562",
   "title": "◎index女OPAQUE.CLIP荷葉下擺針織短袖開襟衫-兩色-63735056 NT$1,908",
@@ -21,5 +16,6 @@
   "max_price": 3180,
   "listed_date": "2026-09-07",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

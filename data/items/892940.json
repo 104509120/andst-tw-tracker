@@ -2,15 +2,10 @@
   "sku": "892940",
   "history": [
     {
-      "date": "2025-12-12",
-      "price": 780
-    },
-    {
       "date": "2026-11-24",
       "price": 780
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=892940",
   "salepage_id": "11401454",
   "url": "https://www.dot-st.tw/SalePage/Index/11401454",
   "title": "niko and品牌LOGO長條腳踏墊地墊-一色-892940",
@@ -21,5 +16,6 @@
   "max_price": 780,
   "listed_date": "2025-12-12",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

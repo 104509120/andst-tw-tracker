@@ -2,15 +2,10 @@
   "sku": "1049353",
   "history": [
     {
-      "date": "2026-11-05",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 3990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1049353",
   "salepage_id": "12285058",
   "url": "https://www.dot-st.tw/SalePage/Index/12285058",
   "title": "GLOBAL WORK女牛仔丹寧毛絨工裝外套-三色-1049353",
@@ -21,5 +16,6 @@
   "max_price": 3990,
   "listed_date": "2026-11-05",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

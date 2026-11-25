@@ -2,24 +2,24 @@
   "sku": "1070358",
   "history": [
     {
-      "date": "2026-10-15",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1890
+    },
+    {
+      "date": "2026-11-25",
+      "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1070358",
   "salepage_id": "12240662",
   "url": "https://www.dot-st.tw/SalePage/Index/12240662",
   "title": "LEPSIM亨利領針織上衣與針織短版背心二件組-三色-1070358",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12240662/0/639300744102330000?v=1",
-  "current_price": 1890,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12240662/0/639312139569630000?v=1",
+  "current_price": 1490,
   "original_price": 2690,
-  "min_price": 1890,
+  "min_price": 1490,
   "max_price": 2690,
   "listed_date": "2026-10-15",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

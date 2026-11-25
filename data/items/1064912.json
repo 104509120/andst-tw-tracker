@@ -2,24 +2,20 @@
   "sku": "1064912",
   "history": [
     {
-      "date": "2026-09-03",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 855
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1064912",
   "salepage_id": "12128442",
   "url": "https://www.dot-st.tw/SalePage/Index/12128442",
   "title": "repipi armario【網路限定55價】水洗感寬版休閒襯衫上衣-三色-1064912",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12128442/0/639311249143900000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12128442/0/639312242570770000?v=1",
   "current_price": 855,
   "original_price": 2290,
   "min_price": 855,
   "max_price": 2290,
   "listed_date": "2026-09-03",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

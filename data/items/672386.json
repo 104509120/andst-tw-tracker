@@ -2,24 +2,20 @@
   "sku": "672386",
   "history": [
     {
-      "date": "2026-05-27",
-      "price": 4790
-    },
-    {
       "date": "2026-11-24",
       "price": 4790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=672386",
   "salepage_id": "11836956",
   "url": "https://www.dot-st.tw/SalePage/Index/11836956",
   "title": "HARE男女YOSE系列高級感打褶寬版長褲-三色-672386",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11836956/0/639292241896170000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11836956/0/639312044429970000?v=1",
   "current_price": 4790,
   "original_price": 4790,
   "min_price": 4790,
   "max_price": 4790,
   "listed_date": "2026-05-27",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

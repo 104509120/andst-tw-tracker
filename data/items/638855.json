@@ -2,15 +2,10 @@
   "sku": "638855",
   "history": [
     {
-      "date": "2026-03-08",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 316
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=638855",
   "salepage_id": "11599045",
   "url": "https://www.dot-st.tw/SalePage/Index/11599045",
   "title": "JEANASIS鏡梳隨身組-二色-638855",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-03-08",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

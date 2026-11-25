@@ -2,15 +2,10 @@
   "sku": "641213",
   "history": [
     {
-      "date": "2026-01-15",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 916
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=641213",
   "salepage_id": "11484303",
   "url": "https://www.dot-st.tw/SalePage/Index/11484303",
   "title": "repipi armario褶皺設計鈕釦寬版丹寧長褲-七色-641213",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2026-01-15",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "622451",
   "history": [
     {
-      "date": "2026-01-13",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=622451",
   "salepage_id": "11477957",
   "url": "https://www.dot-st.tw/SalePage/Index/11477957",
   "title": "GLOBAL WORK【網路限定55價】男經典雙口袋丹寧外套-二色-622451",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11477957/0/639307656261900000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11477957/0/639312242598530000?v=1",
   "current_price": 955,
   "original_price": 2690,
   "min_price": 955,
   "max_price": 2690,
   "listed_date": "2026-01-13",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

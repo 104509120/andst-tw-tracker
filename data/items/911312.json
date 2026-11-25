@@ -2,15 +2,10 @@
   "sku": "911312",
   "history": [
     {
-      "date": "2026-06-04",
-      "price": 680
-    },
-    {
       "date": "2026-11-24",
       "price": 680
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=911312",
   "salepage_id": "11864347",
   "url": "https://www.dot-st.tw/SalePage/Index/11864347",
   "title": "niko and韓國Collins品牌心型鑰匙圈香盤-一色-911312",
@@ -21,5 +16,6 @@
   "max_price": 680,
   "listed_date": "2026-06-04",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "611887",
   "history": [
     {
-      "date": "2026-03-26",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 316
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=611887",
   "salepage_id": "11629541",
   "url": "https://www.dot-st.tw/SalePage/Index/11629541",
   "title": "studio CLIP蘋果滑蓋鏡吊飾鑰匙圈【Pantovisco波羅奇狗聯名】-一色-611887",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-03-26",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

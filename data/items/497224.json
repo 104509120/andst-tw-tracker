@@ -2,15 +2,10 @@
   "sku": "497224",
   "history": [
     {
-      "date": "2025-09-24",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=497224",
   "salepage_id": "11140696",
   "url": "https://www.dot-st.tw/SalePage/Index/11140696",
   "title": "studio CLIP木雕熊熊造型筷架裝飾-三色-497224",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2025-09-24",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

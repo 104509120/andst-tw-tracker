@@ -2,15 +2,10 @@
   "sku": "663440",
   "history": [
     {
-      "date": "2026-05-15",
-      "price": 160
-    },
-    {
       "date": "2026-11-24",
       "price": 160
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=663440",
   "salepage_id": "11800820",
   "url": "https://www.dot-st.tw/SalePage/Index/11800820",
   "title": "niko and趣味主題便條紙-四色-663440",
@@ -21,5 +16,6 @@
   "max_price": 160,
   "listed_date": "2026-05-15",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

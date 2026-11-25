@@ -2,15 +2,10 @@
   "sku": "136368",
   "history": [
     {
-      "date": "2025-07-23",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=136368",
   "salepage_id": "10974329",
   "url": "https://www.dot-st.tw/SalePage/Index/10974329",
   "title": "GLOBAL WORK女防潑水輕量多口袋休閒後背包-八色-136368",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2025-07-23",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

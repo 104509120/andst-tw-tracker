@@ -2,15 +2,10 @@
   "sku": "611788",
   "history": [
     {
-      "date": "2025-12-02",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1076
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=611788",
   "salepage_id": "11364644",
   "url": "https://www.dot-st.tw/SalePage/Index/11364644",
   "title": "studio CLIP粗花呢中線設計吊帶長洋裝-二色-611788",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2025-12-02",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1068042",
   "history": [
     {
-      "date": "2026-09-24",
-      "price": 2890
-    },
-    {
       "date": "2026-11-24",
       "price": 1655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1068042",
   "salepage_id": "12184263",
   "url": "https://www.dot-st.tw/SalePage/Index/12184263",
   "title": "studio CLIP【網路限定55價】純棉寬領抽繩罩衫上衣-三色-1068042",
@@ -21,5 +16,6 @@
   "max_price": 2890,
   "listed_date": "2026-09-24",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "644826",
   "history": [
     {
-      "date": "2026-04-24",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=644826",
   "salepage_id": "11737666",
   "url": "https://www.dot-st.tw/SalePage/Index/11737666",
   "title": "LAKOLE銀珠皮革多功能附墊片掛繩背帶-三色-644826",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-04-24",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

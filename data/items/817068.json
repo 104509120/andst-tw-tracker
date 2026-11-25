@@ -2,24 +2,20 @@
   "sku": "817068",
   "history": [
     {
-      "date": "2026-06-12",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 796
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=817068",
   "salepage_id": "11887447",
   "url": "https://www.dot-st.tw/SalePage/Index/11887447",
   "title": "LEPSIM兩穿式2WAY抓皺休閒氣球長褲-四色-817068",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11887447/0/639310366341770000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11887447/0/639312242534600000?v=1",
   "current_price": 796,
   "original_price": 1990,
   "min_price": 796,
   "max_price": 1990,
   "listed_date": "2026-06-12",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

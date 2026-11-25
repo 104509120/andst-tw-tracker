@@ -2,15 +2,10 @@
   "sku": "630166",
   "history": [
     {
-      "date": "2026-02-10",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 996
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=630166",
   "salepage_id": "11555873",
   "url": "https://www.dot-st.tw/SalePage/Index/11555873",
   "title": "LEPSIM柔軟卡其斜紋布料寬版長褲-三色-630166",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-02-10",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

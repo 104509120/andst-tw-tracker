@@ -2,15 +2,10 @@
   "sku": "1045739",
   "history": [
     {
-      "date": "2026-08-12",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 1352
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1045739",
   "salepage_id": "12061750",
   "url": "https://www.dot-st.tw/SalePage/Index/12061750",
   "title": "niko and男品牌NMR系列休閒印花短袖T恤上衣-三色-1045739",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2026-08-12",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

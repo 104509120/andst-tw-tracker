@@ -2,24 +2,20 @@
   "sku": "635789",
   "history": [
     {
-      "date": "2026-02-05",
-      "price": 6790
-    },
-    {
       "date": "2026-11-24",
       "price": 3395
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=635789",
   "salepage_id": "11543063",
   "url": "https://www.dot-st.tw/SalePage/Index/11543063",
   "title": "HARE男丹寧開釦口袋夾克外套-三色-635789",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11543063/0/639300744123400000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11543063/0/639312242634300000?v=1",
   "current_price": 3395,
   "original_price": 6790,
   "min_price": 3395,
   "max_price": 6790,
   "listed_date": "2026-02-05",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

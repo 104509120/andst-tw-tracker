@@ -2,15 +2,10 @@
   "sku": "672391",
   "history": [
     {
-      "date": "2026-05-06",
-      "price": 1190
-    },
-    {
       "date": "2026-11-24",
       "price": 476
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=672391",
   "salepage_id": "11772911",
   "url": "https://www.dot-st.tw/SalePage/Index/11772911",
   "title": "repipi armario童嘴唇圖案造型T恤上衣-三色-672391",
@@ -21,5 +16,6 @@
   "max_price": 1190,
   "listed_date": "2026-05-06",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

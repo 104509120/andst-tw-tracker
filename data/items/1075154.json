@@ -2,24 +2,20 @@
   "sku": "1075154",
   "history": [
     {
-      "date": "2026-10-23",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 1955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1075154",
   "salepage_id": "12260783",
   "url": "https://www.dot-st.tw/SalePage/Index/12260783",
   "title": "Heather【網路限定55價】蝴蝶結澎澎網紗蛋糕長裙-二色-1075154",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12260783/0/639310373000130000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12260783/0/639312242845100000?v=1",
   "current_price": 1955,
   "original_price": 2490,
   "min_price": 1955,
   "max_price": 2490,
   "listed_date": "2026-10-23",
   "updated_at": "2026-11-25",
-  "brand": "Heather"
+  "brand": "Heather",
+  "first_seen": "2026-11-24"
 }

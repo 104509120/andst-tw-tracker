@@ -2,15 +2,10 @@
   "sku": "1044325",
   "history": [
     {
-      "date": "2026-09-22",
-      "price": 2090
-    },
-    {
       "date": "2026-11-24",
       "price": 2090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1044325",
   "salepage_id": "12176179",
   "url": "https://www.dot-st.tw/SalePage/Index/12176179",
   "title": "studio CLIP質感絲絨瑪麗珍鞋-二色-1044325",
@@ -21,5 +16,6 @@
   "max_price": 2090,
   "listed_date": "2026-09-22",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

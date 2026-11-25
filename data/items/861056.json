@@ -2,24 +2,20 @@
   "sku": "861056",
   "history": [
     {
-      "date": "2026-11-06",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 1755
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=861056",
   "salepage_id": "12289969",
   "url": "https://www.dot-st.tw/SalePage/Index/12289969",
   "title": "LAKOLE【網路限定55價】女羽毛翻領拉鍊針織夾克外套-三色-861056",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12289969/0/639307650302070000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12289969/0/639312134904570000?v=1",
   "current_price": 1755,
   "original_price": 2490,
   "min_price": 1755,
   "max_price": 2490,
   "listed_date": "2026-11-06",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

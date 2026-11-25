@@ -2,15 +2,10 @@
   "sku": "613144",
   "history": [
     {
-      "date": "2026-02-26",
-      "price": 310
-    },
-    {
       "date": "2026-11-24",
       "price": 310
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=613144",
   "salepage_id": "11578991",
   "url": "https://www.dot-st.tw/SalePage/Index/11578991",
   "title": "niko and品牌LOGO標誌iPhone16 MagSafe手機殼-二色-613144",
@@ -21,5 +16,6 @@
   "max_price": 310,
   "listed_date": "2026-02-26",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

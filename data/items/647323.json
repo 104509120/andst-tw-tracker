@@ -2,15 +2,10 @@
   "sku": "647323",
   "history": [
     {
-      "date": "2026-03-11",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=647323",
   "salepage_id": "11609437",
   "url": "https://www.dot-st.tw/SalePage/Index/11609437",
   "title": "LOWRYS FARM女透氣輕盈歐根紗髮圈二入組-三色-647323",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-03-11",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

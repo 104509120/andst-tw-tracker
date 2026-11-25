@@ -2,15 +2,10 @@
   "sku": "1046443",
   "history": [
     {
-      "date": "2026-07-22",
-      "price": 2690
-    },
-    {
       "date": "2026-11-24",
       "price": 1155
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1046443",
   "salepage_id": "11996123",
   "url": "https://www.dot-st.tw/SalePage/Index/11996123",
   "title": "RAGEBLUE【網路限定55價】女寬鬆雙排釦五分袖西裝外套-二色-1046443",
@@ -21,5 +16,6 @@
   "max_price": 2690,
   "listed_date": "2026-07-22",
   "updated_at": "2026-11-25",
-  "brand": "RAGEBLUE"
+  "brand": "RAGEBLUE",
+  "first_seen": "2026-11-24"
 }

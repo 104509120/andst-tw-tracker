@@ -2,15 +2,10 @@
   "sku": "888156",
   "history": [
     {
-      "date": "2021-11-26",
-      "price": 550
-    },
-    {
       "date": "2026-11-24",
       "price": 550
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=888156",
   "salepage_id": "7462302",
   "url": "https://www.dot-st.tw/SalePage/Index/7462302",
   "title": "niko and品牌FLAVOUR香氛室內擴香精油70ml禮盒三入組-888156",
@@ -21,5 +16,6 @@
   "max_price": 550,
   "listed_date": "2021-11-26",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

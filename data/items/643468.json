@@ -2,15 +2,10 @@
   "sku": "643468",
   "history": [
     {
-      "date": "2026-03-27",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 472
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=643468",
   "salepage_id": "11663284",
   "url": "https://www.dot-st.tw/SalePage/Index/11663284",
   "title": "niko and男品牌NMR系列登山扣環鑰匙圈-四色-643468",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2026-03-27",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

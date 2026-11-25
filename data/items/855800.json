@@ -2,15 +2,10 @@
   "sku": "855800",
   "history": [
     {
-      "date": "2025-11-12",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=855800",
   "salepage_id": "7178325",
   "url": "https://www.dot-st.tw/SalePage/Index/7178325",
   "title": "HARE女素色皮革壓紋造型扣皮帶-二色-855800",
@@ -21,5 +16,6 @@
   "max_price": 990,
   "listed_date": "2025-11-12",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1045095",
   "history": [
     {
-      "date": "2026-10-21",
-      "price": 470
-    },
-    {
       "date": "2026-11-24",
       "price": 470
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1045095",
   "salepage_id": "12256424",
   "url": "https://www.dot-st.tw/SalePage/Index/12256424",
   "title": "niko and可愛滿版羊2027年月記事手帳-二色-1045095",
@@ -21,5 +16,6 @@
   "max_price": 470,
   "listed_date": "2026-10-21",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "782575",
   "history": [
     {
-      "date": "2026-11-04",
-      "price": 310
-    },
-    {
       "date": "2026-11-24",
       "price": 310
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=782575",
   "salepage_id": "12281422",
   "url": "https://www.dot-st.tw/SalePage/Index/12281422",
   "title": "niko and聖誕裝飾Xmas華麗寶石玻璃球吊飾7cm-四色-782575",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12281422/0/639311265729430000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12281422/0/639312160893730000?v=1",
   "current_price": 310,
   "original_price": 310,
   "min_price": 310,
   "max_price": 310,
   "listed_date": "2026-11-04",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

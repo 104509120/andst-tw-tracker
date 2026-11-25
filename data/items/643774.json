@@ -2,15 +2,10 @@
   "sku": "643774",
   "history": [
     {
-      "date": "2026-04-02",
-      "price": 310
-    },
-    {
       "date": "2026-11-24",
       "price": 310
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=643774",
   "salepage_id": "11679322",
   "url": "https://www.dot-st.tw/SalePage/Index/11679322",
   "title": "niko and原創BILLY熊風琴夾長型收納夾-一色-643774",
@@ -21,5 +16,6 @@
   "max_price": 310,
   "listed_date": "2026-04-02",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

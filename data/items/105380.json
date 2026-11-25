@@ -2,15 +2,10 @@
   "sku": "105380",
   "history": [
     {
-      "date": "2024-06-25",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 1690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=105380",
   "salepage_id": "9900979",
   "url": "https://www.dot-st.tw/SalePage/Index/9900979",
   "title": "niko and女半拉鍊胸前設計感五分袖上衣-三色-105380",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2024-06-25",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

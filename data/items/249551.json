@@ -2,15 +2,10 @@
   "sku": "249551",
   "history": [
     {
-      "date": "2025-02-14",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 245
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=249551",
   "salepage_id": "10513780",
   "url": "https://www.dot-st.tw/SalePage/Index/10513780",
   "title": "LAKOLE女珍珠金屬愛心手機掛鍊-二色-249551",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2025-02-14",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

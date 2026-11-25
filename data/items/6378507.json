@@ -2,15 +2,10 @@
   "sku": "6378507",
   "history": [
     {
-      "date": "2026-09-07",
-      "price": 3180
-    },
-    {
       "date": "2026-11-24",
       "price": 1908
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=6378507",
   "salepage_id": "12102518",
   "url": "https://www.dot-st.tw/SalePage/Index/12102518",
   "title": "◎index女OPAQUE.CLIP五分大寬鬆袖襯衫-三色-63785078 NT$1,908",
@@ -21,5 +16,6 @@
   "max_price": 3180,
   "listed_date": "2026-09-07",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

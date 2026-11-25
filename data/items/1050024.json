@@ -2,24 +2,20 @@
   "sku": "1050024",
   "history": [
     {
-      "date": "2026-09-10",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1050024",
   "salepage_id": "12145289",
   "url": "https://www.dot-st.tw/SalePage/Index/12145289",
   "title": "LEPSIM童牛仔丹寧寬版氣球長褲-二色-1050024",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12145289/0/639310366371430000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12145289/0/639312242570770000?v=1",
   "current_price": 690,
   "original_price": 1290,
   "min_price": 690,
   "max_price": 1290,
   "listed_date": "2026-09-10",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "265998",
   "history": [
     {
-      "date": "2022-07-08",
-      "price": 430
-    },
-    {
       "date": "2026-11-24",
       "price": 430
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=265998",
   "salepage_id": "7940185",
   "url": "https://www.dot-st.tw/SalePage/Index/7940185",
   "title": "niko and復古牛鈴室內裝飾-二色-265998",
@@ -21,5 +16,6 @@
   "max_price": 430,
   "listed_date": "2022-07-08",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

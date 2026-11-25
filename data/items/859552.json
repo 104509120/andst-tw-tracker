@@ -2,15 +2,10 @@
   "sku": "859552",
   "history": [
     {
-      "date": "2026-09-08",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=859552",
   "salepage_id": "12140037",
   "url": "https://www.dot-st.tw/SalePage/Index/12140037",
   "title": "studio CLIP日本製貓咪友善編織項圈《CAT BY CLIP》-三色-859552",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-09-08",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

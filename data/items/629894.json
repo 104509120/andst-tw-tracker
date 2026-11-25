@@ -2,24 +2,20 @@
   "sku": "629894",
   "history": [
     {
-      "date": "2026-01-29",
-      "price": 990
-    },
-    {
       "date": "2026-11-24",
       "price": 455
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=629894",
   "salepage_id": "11523152",
   "url": "https://www.dot-st.tw/SalePage/Index/11523152",
   "title": "GLOBAL WORK【網路限定55價】童丹寧刺繡寬版長褲(100cm-120cm)-六色-629894",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11523152/0/639311144844600000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11523152/0/639312242634300000?v=1",
   "current_price": 455,
   "original_price": 990,
   "min_price": 455,
   "max_price": 990,
   "listed_date": "2026-01-29",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

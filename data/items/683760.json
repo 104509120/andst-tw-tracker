@@ -2,24 +2,20 @@
   "sku": "683760",
   "history": [
     {
-      "date": "2026-05-21",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 916
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=683760",
   "salepage_id": "11816282",
   "url": "https://www.dot-st.tw/SalePage/Index/11816282",
   "title": "PAGEBOY蕾絲下襬拼接短版襯衫上衣-三色-683760",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11816282/0/639300744068930000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11816282/0/639312242701200000?v=1",
   "current_price": 916,
   "original_price": 2290,
   "min_price": 916,
   "max_price": 2290,
   "listed_date": "2026-05-21",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

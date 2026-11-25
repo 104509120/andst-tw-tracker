@@ -2,24 +2,20 @@
   "sku": "1064520",
   "history": [
     {
-      "date": "2026-10-12",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 894
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1064520",
   "salepage_id": "12227609",
   "url": "https://www.dot-st.tw/SalePage/Index/12227609",
   "title": "GLOBAL WORK男滾邊撞色圖案T恤短袖上衣-四色-1064520",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12227609/0/639305949342170000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12227609/0/639312242829830000?v=1",
   "current_price": 894,
   "original_price": 1490,
   "min_price": 894,
   "max_price": 1490,
   "listed_date": "2026-10-12",
   "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1069809",
   "history": [
     {
-      "date": "2026-10-28",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 2890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1069809",
   "salepage_id": "12264853",
   "url": "https://www.dot-st.tw/SalePage/Index/12264853",
   "title": "JEANASIS異材質大口袋寬版吊帶長褲-二色-1069809",
@@ -21,5 +16,6 @@
   "max_price": 3990,
   "listed_date": "2026-10-28",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

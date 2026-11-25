@@ -2,15 +2,10 @@
   "sku": "1044969",
   "history": [
     {
-      "date": "2026-10-15",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1044969",
   "salepage_id": "12237940",
   "url": "https://www.dot-st.tw/SalePage/Index/12237940",
   "title": "LOWRYS FARM女可調式手機掛繩與迷你收納包組合-三色-1044969",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2026-10-15",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

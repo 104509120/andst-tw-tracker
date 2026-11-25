@@ -2,15 +2,10 @@
   "sku": "630154",
   "history": [
     {
-      "date": "2026-01-22",
-      "price": 1990
-    },
-    {
       "date": "2026-11-24",
       "price": 796
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=630154",
   "salepage_id": "11505442",
   "url": "https://www.dot-st.tw/SalePage/Index/11505442",
   "title": "LEPSIM側邊線條設計感鬆緊長褲-四色-630154",
@@ -21,5 +16,6 @@
   "max_price": 1990,
   "listed_date": "2026-01-22",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

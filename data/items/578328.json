@@ -2,15 +2,10 @@
   "sku": "578328",
   "history": [
     {
-      "date": "2025-11-27",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1145
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=578328",
   "salepage_id": "11356162",
   "url": "https://www.dot-st.tw/SalePage/Index/11356162",
   "title": "niko and女【MODE NORM CORE】立體寬鬆針織長袖上衣-三色-578328",
@@ -21,5 +16,6 @@
   "max_price": 2290,
   "listed_date": "2025-11-27",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

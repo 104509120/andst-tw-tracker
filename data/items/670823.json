@@ -2,15 +2,10 @@
   "sku": "670823",
   "history": [
     {
-      "date": "2026-04-17",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 996
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=670823",
   "salepage_id": "11717659",
   "url": "https://www.dot-st.tw/SalePage/Index/11717659",
   "title": "JEANASIS網格透膚寬鬆POLO上衣-三色-670823",
@@ -21,5 +16,6 @@
   "max_price": 2490,
   "listed_date": "2026-04-17",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

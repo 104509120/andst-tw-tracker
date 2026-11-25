@@ -2,15 +2,10 @@
   "sku": "426661",
   "history": [
     {
-      "date": "2026-01-07",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=426661",
   "salepage_id": "11463149",
   "url": "https://www.dot-st.tw/SalePage/Index/11463149",
   "title": "LAKOLE男不鏽鋼吊墜項鍊-二款-426661",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-01-07",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

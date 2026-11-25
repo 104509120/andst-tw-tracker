@@ -2,15 +2,10 @@
   "sku": "578479",
   "history": [
     {
-      "date": "2025-10-23",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 590
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=578479",
   "salepage_id": "11222555",
   "url": "https://www.dot-st.tw/SalePage/Index/11222555",
   "title": "LOWRYS FARM【HELLO KITTY聯名】絎縫系列玩偶吊飾-十五色-578479",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2025-10-23",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "321253",
   "history": [
     {
-      "date": "2025-04-07",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=321253",
   "salepage_id": "10658120",
   "url": "https://www.dot-st.tw/SalePage/Index/10658120",
   "title": "niko and女【tiy nie yee】垂墜珍珠鏈條蝴蝶結耳針式耳環-二色-321253",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2025-04-07",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "881880",
   "history": [
     {
-      "date": "2026-06-25",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 596
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=881880",
   "salepage_id": "11928393",
   "url": "https://www.dot-st.tw/SalePage/Index/11928393",
   "title": "studio CLIP復古休閒字母短袖T恤-四色-881880",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-06-25",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

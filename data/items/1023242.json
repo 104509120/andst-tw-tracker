@@ -2,15 +2,10 @@
   "sku": "1023242",
   "history": [
     {
-      "date": "2026-08-14",
-      "price": 6090
-    },
-    {
       "date": "2026-11-24",
       "price": 6090
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1023242",
   "salepage_id": "12002954",
   "url": "https://www.dot-st.tw/SalePage/Index/12002954",
   "title": "HARE女【EVA新世紀福音戰士⚫HARE聯名系列】多層次網紗圖樣造型長裙-二色-1023242",
@@ -21,5 +16,6 @@
   "max_price": 6090,
   "listed_date": "2026-08-14",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

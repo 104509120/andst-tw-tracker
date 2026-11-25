@@ -2,15 +2,10 @@
   "sku": "1017533",
   "history": [
     {
-      "date": "2026-08-12",
-      "price": 3490
-    },
-    {
       "date": "2026-11-24",
       "price": 1955
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1017533",
   "salepage_id": "12063664",
   "url": "https://www.dot-st.tw/SalePage/Index/12063664",
   "title": "PAGEBOY【網路限定55價】男女PBLIM系列細格紋口袋寬版長褲-二色-1017533",
@@ -21,5 +16,6 @@
   "max_price": 3490,
   "listed_date": "2026-08-12",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

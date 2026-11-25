@@ -2,24 +2,24 @@
   "sku": "634616",
   "history": [
     {
-      "date": "2026-09-29",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 2290
+    },
+    {
+      "date": "2026-11-25",
+      "price": 1890
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=634616",
   "salepage_id": "12188703",
   "url": "https://www.dot-st.tw/SalePage/Index/12188703",
   "title": "JEANASIS【品牌好友｜曾敬驊 江齊著用款】垂墜感雙排釦西裝外套-四色-634616",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12188703/0/639310491670630000?v=1",
-  "current_price": 2290,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12188703/0/639312242815030000?v=1",
+  "current_price": 1890,
   "original_price": 3990,
-  "min_price": 2290,
+  "min_price": 1890,
   "max_price": 3990,
   "listed_date": "2026-09-29",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

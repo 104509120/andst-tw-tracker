@@ -2,15 +2,10 @@
   "sku": "326338",
   "history": [
     {
-      "date": "2025-03-18",
-      "price": 1690
-    },
-    {
       "date": "2026-11-24",
       "price": 676
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=326338",
   "salepage_id": "10603721",
   "url": "https://www.dot-st.tw/SalePage/Index/10603721",
   "title": "repipi armario滾邊防潑水休閒短褲-六色-326338",
@@ -21,5 +16,6 @@
   "max_price": 1690,
   "listed_date": "2025-03-18",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

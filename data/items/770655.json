@@ -2,24 +2,20 @@
   "sku": "770655",
   "history": [
     {
-      "date": "2026-05-27",
-      "price": 3690
-    },
-    {
       "date": "2026-11-24",
       "price": 1355
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=770655",
   "salepage_id": "11833679",
   "url": "https://www.dot-st.tw/SalePage/Index/11833679",
   "title": "PAGEBOY【網路限定55價】男女PBLIM系列寬版休閒五分袖西裝外套-三色-770655",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11833679/0/639310388570330000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/11833679/0/639312242701200000?v=1",
   "current_price": 1355,
   "original_price": 3690,
   "min_price": 1355,
   "max_price": 3690,
   "listed_date": "2026-05-27",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

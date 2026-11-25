@@ -2,15 +2,10 @@
   "sku": "910854",
   "history": [
     {
-      "date": "2026-08-05",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1192
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=910854",
   "salepage_id": "12041302",
   "url": "https://www.dot-st.tw/SalePage/Index/12041302",
   "title": "repipi armario皮革蝴蝶結設計造型肩背包-四色-910854",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2026-08-05",
   "updated_at": "2026-11-25",
-  "brand": "repipi armario"
+  "brand": "repipi armario",
+  "first_seen": "2026-11-24"
 }

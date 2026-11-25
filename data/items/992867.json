@@ -2,15 +2,10 @@
   "sku": "992867",
   "history": [
     {
-      "date": "2024-05-20",
-      "price": 300
-    },
-    {
       "date": "2026-11-24",
       "price": 210
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=992867",
   "salepage_id": "9796801",
   "url": "https://www.dot-st.tw/SalePage/Index/9796801",
   "title": "niko and設計師品牌Fishs Eddy愛麗絲插畫撲克牌醬料碟-一色-992867",
@@ -21,5 +16,6 @@
   "max_price": 300,
   "listed_date": "2024-05-20",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

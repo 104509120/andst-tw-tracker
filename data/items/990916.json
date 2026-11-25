@@ -2,15 +2,10 @@
   "sku": "990916",
   "history": [
     {
-      "date": "2024-01-24",
-      "price": 350
-    },
-    {
       "date": "2026-11-24",
       "price": 170
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=990916",
   "salepage_id": "9503030",
   "url": "https://www.dot-st.tw/SalePage/Index/9503030",
   "title": "niko and日本知名漫畫家望月壽城聯名天然木免洗筷子五入組-一款-990916",
@@ -21,5 +16,6 @@
   "max_price": 350,
   "listed_date": "2024-01-24",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

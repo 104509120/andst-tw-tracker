@@ -2,24 +2,20 @@
   "sku": "1079161",
   "history": [
     {
-      "date": "2026-10-21",
-      "price": 2490
-    },
-    {
       "date": "2026-11-24",
       "price": 1555
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1079161",
   "salepage_id": "12256533",
   "url": "https://www.dot-st.tw/SalePage/Index/12256533",
   "title": "LOWRYS FARM【網路限定55價】女【日本人氣店員企劃】拼接異材質雙頭拉鍊外套-二色-1079161",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12256533/0/639307647537770000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12256533/0/639312241134430000?v=1",
   "current_price": 1555,
   "original_price": 2490,
   "min_price": 1555,
   "max_price": 2490,
   "listed_date": "2026-10-21",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

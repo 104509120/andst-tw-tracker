@@ -2,15 +2,10 @@
   "sku": "590140",
   "history": [
     {
-      "date": "2025-11-18",
-      "price": 2090
-    },
-    {
       "date": "2026-11-24",
       "price": 836
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=590140",
   "salepage_id": "11328291",
   "url": "https://www.dot-st.tw/SalePage/Index/11328291",
   "title": "studio CLIP條紋混色V領針織長袖上衣-三色-590140",
@@ -21,5 +16,6 @@
   "max_price": 2090,
   "listed_date": "2025-11-18",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

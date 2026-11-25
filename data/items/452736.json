@@ -2,15 +2,10 @@
   "sku": "452736",
   "history": [
     {
-      "date": "2025-12-05",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 553
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=452736",
   "salepage_id": "11380460",
   "url": "https://www.dot-st.tw/SalePage/Index/11380460",
   "title": "studio CLIP日本製瀨戶燒紋理馬克杯(200ML)-二色-452736",
@@ -21,5 +16,6 @@
   "max_price": 790,
   "listed_date": "2025-12-05",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

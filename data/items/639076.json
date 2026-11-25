@@ -2,15 +2,10 @@
   "sku": "639076",
   "history": [
     {
-      "date": "2026-03-23",
-      "price": 1390
-    },
-    {
       "date": "2026-11-24",
       "price": 1155
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=639076",
   "salepage_id": "11648976",
   "url": "https://www.dot-st.tw/SalePage/Index/11648976",
   "title": "HARE【網路限定55價】男花朵刺繡圖樣口袋寬版T恤上衣-五色-639076",
@@ -21,5 +16,6 @@
   "max_price": 1390,
   "listed_date": "2026-03-23",
   "updated_at": "2026-11-25",
-  "brand": "HARE"
+  "brand": "HARE",
+  "first_seen": "2026-11-24"
 }

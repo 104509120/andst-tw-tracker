@@ -2,15 +2,10 @@
   "sku": "178260",
   "history": [
     {
-      "date": "2022-12-06",
-      "price": 510
-    },
-    {
       "date": "2026-11-24",
       "price": 510
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=178260",
   "salepage_id": "8514285",
   "url": "https://www.dot-st.tw/SalePage/Index/8514285",
   "title": "niko and品牌LOGO手機掛繩夾片組-七色-178260",
@@ -21,5 +16,6 @@
   "max_price": 510,
   "listed_date": "2022-12-06",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

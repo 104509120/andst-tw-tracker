@@ -2,16 +2,11 @@
   "sku": "592300",
   "history": [
     {
-      "date": "2025-12-05",
-      "price": 5790
-    },
-    {
       "date": "2026-11-24",
       "price": 2316
     }
   ],
   "listed_date": "2025-12-05",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=592300",
   "salepage_id": "11379585",
   "url": "https://www.dot-st.tw/SalePage/Index/11379585",
   "title": "studio CLIP【官網/統一時代限定】燈芯絨狩獵長版夾克外套《natural by clip》-三色-592300",
@@ -21,5 +16,6 @@
   "min_price": 2316,
   "max_price": 5790,
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

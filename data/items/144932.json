@@ -2,15 +2,10 @@
   "sku": "144932",
   "history": [
     {
-      "date": "2024-10-09",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=144932",
   "salepage_id": "10215300",
   "url": "https://www.dot-st.tw/SalePage/Index/10215300",
   "title": "niko and女【tiy nie yee】搖曳層次愛心耳針式耳環-二色-144932",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2024-10-09",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

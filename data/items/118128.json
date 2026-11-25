@@ -2,15 +2,10 @@
   "sku": "118128",
   "history": [
     {
-      "date": "2024-07-30",
-      "price": 3290
-    },
-    {
       "date": "2026-11-24",
       "price": 3290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=118128",
   "salepage_id": "10022159",
   "url": "https://www.dot-st.tw/SalePage/Index/10022159",
   "title": "niko and女INDIA IS BEAUTIFUL系列皺褶繫帶設計細肩背心-二色-118128",
@@ -21,5 +16,6 @@
   "max_price": 3290,
   "listed_date": "2024-07-30",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

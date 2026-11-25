@@ -2,24 +2,20 @@
   "sku": "1048913",
   "history": [
     {
-      "date": "2026-08-20",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 655
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1048913",
   "salepage_id": "12086233",
   "url": "https://www.dot-st.tw/SalePage/Index/12086233",
   "title": "LOWRYS FARM【網路限定55價】女絲絨雙肩帶附罩杯細肩帶上衣-三色-1048913",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12086233/0/639307647537770000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12086233/0/639312242430070000?v=1",
   "current_price": 655,
   "original_price": 1290,
   "min_price": 655,
   "max_price": 1290,
   "listed_date": "2026-08-20",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

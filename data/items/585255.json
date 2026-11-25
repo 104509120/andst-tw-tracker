@@ -2,15 +2,10 @@
   "sku": "585255",
   "history": [
     {
-      "date": "2026-03-06",
-      "price": 890
-    },
-    {
       "date": "2026-11-24",
       "price": 445
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=585255",
   "salepage_id": "11592108",
   "url": "https://www.dot-st.tw/SalePage/Index/11592108",
   "title": "LAKOLE童蘑菇造型小圓凳(耐重80KG)《KIDS系列》-二色-585255",
@@ -21,5 +16,6 @@
   "max_price": 890,
   "listed_date": "2026-03-06",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

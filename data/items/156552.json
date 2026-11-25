@@ -2,15 +2,10 @@
   "sku": "156552",
   "history": [
     {
-      "date": "2025-08-06",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=156552",
   "salepage_id": "11009173",
   "url": "https://www.dot-st.tw/SalePage/Index/11009173",
   "title": "LAKOLE簡約設計縫標11吋平板電腦包-二色-156552",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2025-08-06",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

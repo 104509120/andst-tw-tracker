@@ -2,15 +2,10 @@
   "sku": "987749",
   "history": [
     {
-      "date": "2024-01-11",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=987749",
   "salepage_id": "9480392",
   "url": "https://www.dot-st.tw/SalePage/Index/9480392",
   "title": "studio CLIP日本製插畫貼紙組-十六色-987749",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2024-01-11",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

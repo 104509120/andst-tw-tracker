@@ -2,15 +2,10 @@
   "sku": "1051171",
   "history": [
     {
-      "date": "2026-08-18",
-      "price": 3490
-    },
-    {
       "date": "2026-11-24",
       "price": 2490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1051171",
   "salepage_id": "12078272",
   "url": "https://www.dot-st.tw/SalePage/Index/12078272",
   "title": "PAGEBOY側邊蕾絲拼接垂墜感飄逸長裙-二色-1051171",
@@ -21,5 +16,6 @@
   "max_price": 3490,
   "listed_date": "2026-08-18",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

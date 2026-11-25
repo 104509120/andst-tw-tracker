@@ -2,15 +2,10 @@
   "sku": "232573",
   "history": [
     {
-      "date": "2025-08-15",
-      "price": 290
-    },
-    {
       "date": "2026-11-24",
       "price": 290
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=232573",
   "salepage_id": "11031984",
   "url": "https://www.dot-st.tw/SalePage/Index/11031984",
   "title": "LAKOLE氣泡感紋理玻璃壺-一色-232573",
@@ -21,5 +16,6 @@
   "max_price": 290,
   "listed_date": "2025-08-15",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

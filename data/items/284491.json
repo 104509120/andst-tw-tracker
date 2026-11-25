@@ -2,24 +2,20 @@
   "sku": "284491",
   "history": [
     {
-      "date": "2025-02-13",
-      "price": 2290
-    },
-    {
       "date": "2026-11-24",
       "price": 1155
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=284491",
   "salepage_id": "10521452",
   "url": "https://www.dot-st.tw/SalePage/Index/10521452",
   "title": "PAGEBOY【網路限定55價】男女PBLIM系列大容量復古皮革肩背手提波士頓包-七色-284491",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/10521452/0/639307656402870000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/10521452/0/639312014997230000?v=1",
   "current_price": 1155,
   "original_price": 2290,
   "min_price": 1155,
   "max_price": 2290,
   "listed_date": "2025-02-13",
   "updated_at": "2026-11-25",
-  "brand": "PAGEBOY"
+  "brand": "PAGEBOY",
+  "first_seen": "2026-11-24"
 }

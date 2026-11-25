@@ -2,15 +2,10 @@
   "sku": "678454",
   "history": [
     {
-      "date": "2026-08-07",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 343
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=678454",
   "salepage_id": "12047531",
   "url": "https://www.dot-st.tw/SalePage/Index/12047531",
   "title": "LAKOLE掛繩防水手機袋-一色-678454",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-08-07",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

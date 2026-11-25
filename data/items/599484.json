@@ -2,15 +2,10 @@
   "sku": "599484",
   "history": [
     {
-      "date": "2026-05-21",
-      "price": 690
-    },
-    {
       "date": "2026-11-24",
       "price": 690
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=599484",
   "salepage_id": "11817413",
   "url": "https://www.dot-st.tw/SalePage/Index/11817413",
   "title": "studio CLIP精緻刺繡串珠隨身鏡-二色-599484",
@@ -21,5 +16,6 @@
   "max_price": 690,
   "listed_date": "2026-05-21",
   "updated_at": "2026-11-25",
-  "brand": "studio CLIP"
+  "brand": "studio CLIP",
+  "first_seen": "2026-11-24"
 }

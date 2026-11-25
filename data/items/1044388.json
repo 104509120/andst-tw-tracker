@@ -2,24 +2,20 @@
   "sku": "1044388",
   "history": [
     {
-      "date": "2026-09-02",
-      "price": 3690
-    },
-    {
       "date": "2026-11-24",
       "price": 1855
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1044388",
   "salepage_id": "12125235",
   "url": "https://www.dot-st.tw/SalePage/Index/12125235",
   "title": "JEANASIS【網路限定55價】格紋丹寧直筒長褲-一色-1044388",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12125235/0/639307647537770000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12125235/0/639312242765570000?v=1",
   "current_price": 1855,
   "original_price": 3690,
   "min_price": 1855,
   "max_price": 3690,
   "listed_date": "2026-09-02",
   "updated_at": "2026-11-25",
-  "brand": "JEANASIS"
+  "brand": "JEANASIS",
+  "first_seen": "2026-11-24"
 }

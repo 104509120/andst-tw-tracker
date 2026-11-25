@@ -2,15 +2,10 @@
   "sku": "598139",
   "history": [
     {
-      "date": "2025-10-22",
-      "price": 1290
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=598139",
   "salepage_id": "11248264",
   "url": "https://www.dot-st.tw/SalePage/Index/11248264",
   "title": "LEPSIM童翻領英文印花運動長袖上衣-二色-598139",
@@ -21,5 +16,6 @@
   "max_price": 1290,
   "listed_date": "2025-10-22",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "608103",
   "history": [
     {
-      "date": "2026-01-22",
-      "price": 590
-    },
-    {
       "date": "2026-11-24",
       "price": 413
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=608103",
   "salepage_id": "11505439",
   "url": "https://www.dot-st.tw/SalePage/Index/11505439",
   "title": "LEPSIM童學校體育服收納袋-二色-608103",
@@ -21,5 +16,6 @@
   "max_price": 590,
   "listed_date": "2026-01-22",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

@@ -2,15 +2,10 @@
   "sku": "1050120",
   "history": [
     {
-      "date": "2026-10-05",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 3990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1050120",
   "salepage_id": "12209722",
   "url": "https://www.dot-st.tw/SalePage/Index/12209722",
   "title": "niko and男品牌NMR系列運動休閒外套-二色-1050120",
@@ -21,5 +16,6 @@
   "max_price": 3990,
   "listed_date": "2026-10-05",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

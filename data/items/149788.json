@@ -2,15 +2,10 @@
   "sku": "149788",
   "history": [
     {
-      "date": "2025-01-17",
-      "price": 1490
-    },
-    {
       "date": "2026-11-24",
       "price": 1490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=149788",
   "salepage_id": "10469627",
   "url": "https://www.dot-st.tw/SalePage/Index/10469627",
   "title": "niko and女【tiy nie yee】立體皺褶蝴蝶結肩背手提包-六色-149788",
@@ -21,5 +16,6 @@
   "max_price": 1490,
   "listed_date": "2025-01-17",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

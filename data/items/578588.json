@@ -2,15 +2,10 @@
   "sku": "578588",
   "history": [
     {
-      "date": "2025-12-01",
-      "price": 1360
-    },
-    {
       "date": "2026-11-24",
       "price": 1360
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=578588",
   "salepage_id": "11364481",
   "url": "https://www.dot-st.tw/SalePage/Index/11364481",
   "title": "niko and電影宇宙主題刺繡工作圍裙-二色-578588",
@@ -21,5 +16,6 @@
   "max_price": 1360,
   "listed_date": "2025-12-01",
   "updated_at": "2026-11-25",
-  "brand": "niko and ..."
+  "brand": "niko and ...",
+  "first_seen": "2026-11-24"
 }

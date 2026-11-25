@@ -2,15 +2,10 @@
   "sku": "586754",
   "history": [
     {
-      "date": "2026-06-10",
-      "price": 390
-    },
-    {
       "date": "2026-11-24",
       "price": 390
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=586754",
   "salepage_id": "11881209",
   "url": "https://www.dot-st.tw/SalePage/Index/11881209",
   "title": "LAKOLE輕巧紙編收納盒-二色-586754",
@@ -21,5 +16,6 @@
   "max_price": 390,
   "listed_date": "2026-06-10",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }

@@ -2,24 +2,20 @@
   "sku": "1054888",
   "history": [
     {
-      "date": "2026-10-15",
-      "price": 3990
-    },
-    {
       "date": "2026-11-24",
       "price": 3990
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1054888",
   "salepage_id": "12237944",
   "url": "https://www.dot-st.tw/SalePage/Index/12237944",
   "title": "LOWRYS FARM【品牌好友｜曾敬驊 江齊著用款】女彈性內增高合成皮長靴-二色-1054888",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12237944/0/639306910201070000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12237944/0/639312229683700000?v=1",
   "current_price": 3990,
   "original_price": 3990,
   "min_price": 3990,
   "max_price": 3990,
   "listed_date": "2026-10-15",
   "updated_at": "2026-11-25",
-  "brand": "LOWRYS FARM"
+  "brand": "LOWRYS FARM",
+  "first_seen": "2026-11-24"
 }

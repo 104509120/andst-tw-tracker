@@ -2,24 +2,20 @@
   "sku": "1046838",
   "history": [
     {
-      "date": "2026-08-04",
-      "price": 1890
-    },
-    {
       "date": "2026-11-24",
       "price": 790
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1046838",
   "salepage_id": "12040144",
   "url": "https://www.dot-st.tw/SalePage/Index/12040144",
   "title": "LEPSIM光澤感透膚荷葉下擺中長版背心上衣-二色-1046838",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12040144/0/639295672373770000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12040144/0/639312124732400000?v=1",
   "current_price": 790,
   "original_price": 1890,
   "min_price": 790,
   "max_price": 1890,
   "listed_date": "2026-08-04",
   "updated_at": "2026-11-25",
-  "brand": "LEPSIM"
+  "brand": "LEPSIM",
+  "first_seen": "2026-11-24"
 }

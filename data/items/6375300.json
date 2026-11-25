@@ -2,15 +2,10 @@
   "sku": "6375300",
   "history": [
     {
-      "date": "2026-09-07",
-      "price": 3980
-    },
-    {
       "date": "2026-11-24",
       "price": 2786
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=6375300",
   "salepage_id": "12130801",
   "url": "https://www.dot-st.tw/SalePage/Index/12130801",
   "title": "◎index女OPAQUE.CLIP撞色泡泡紗洋裝-三色-63753007 NT$2,786",
@@ -21,5 +16,6 @@
   "max_price": 3980,
   "listed_date": "2026-09-07",
   "updated_at": "2026-11-25",
-  "brand": "其他品牌"
+  "brand": "其他品牌",
+  "first_seen": "2026-11-24"
 }

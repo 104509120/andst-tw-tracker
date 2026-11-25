@@ -2,15 +2,10 @@
   "sku": "678476",
   "history": [
     {
-      "date": "2026-09-08",
-      "price": 490
-    },
-    {
       "date": "2026-11-24",
       "price": 490
     }
   ],
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=678476",
   "salepage_id": "12133452",
   "url": "https://www.dot-st.tw/SalePage/Index/12133452",
   "title": "LAKOLE舒適自在毛絨室內拖鞋-二色-678476",
@@ -21,5 +16,6 @@
   "max_price": 490,
   "listed_date": "2026-09-08",
   "updated_at": "2026-11-25",
-  "brand": "LAKOLE"
+  "brand": "LAKOLE",
+  "first_seen": "2026-11-24"
 }
