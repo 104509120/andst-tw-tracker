@@ -786,8 +786,10 @@
 
     function renderJpInfo(item) {
       const jp = item.jp || {};
-      const detail = jp.detail_zh || jp.detail_ja || '';
-      const review = jp.review_zh || jp.review_ja || '';
+      // 舊版解析器曾抓到頁面範本殘字（{{ }}）；遇到這種資料一律不顯示，等重新同步
+      const clean = (t) => (t && !/\{\{|\}\}|PAGE TOP/.test(t) ? t : '');
+      const detail = clean(jp.detail_zh) || clean(jp.detail_ja);
+      const review = clean(jp.review_zh) || clean(jp.review_ja);
       const detailBox = $('jpDetailBox');
       const reviewBox = $('jpReviewBox');
       const note = $('jpInfoNote');

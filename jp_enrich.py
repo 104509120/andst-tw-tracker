@@ -24,6 +24,7 @@ import os
 import random
 import re
 import sys
+import threading
 import time
 from datetime import datetime, timezone, timedelta
 
@@ -49,7 +50,7 @@ SECTION_REVIEW = "レビューの要約"
 
 # 出現這些獨立標題時，表示前一個區塊已經結束
 STOP_TITLES = [
-    "商品詳細", "レビューの要約", "レビュー", "お客様のレビュー", "カスタマーレビュー",
+    "商品詳細", "レビューの要約", "レビュー", "レビュー一覧", "お客様のレビュー", "カスタマーレビュー", "投稿されたレビュー",
     "サイズ", "サイズ表", "サイズについて", "サイズ・スペック", "コーディネート",
     "この商品を見た人は", "この商品を買った人は", "関連商品", "おすすめ商品", "おすすめ",
     "最近チェックした商品", "ランキング", "配送・返品について", "お届けについて", "返品・交換について",
@@ -59,6 +60,7 @@ STOP_TITLES = [
 NOISE_LINES = {"もっと見る", "閉じる", "続きを読む", "詳細を見る", "すべて見る", "▼", "▲", ">", "＞", "もっとみる"}
 
 # 狀態重試間隔（天）
+RENDER_ENABLED = True
 REFRESH_OK_DAYS = 30
 RETRY_NOT_FOUND_DAYS = 7
 RETRY_BLOCKED_DAYS = 1
@@ -130,6 +132,11 @@ def _collect_after(node, own_title: str) -> str:
             if n != own and n in _STOP_NORMS:
                 break
             parts.append(t)
+        elif getattr(el, "name", None) in ("h1", "h2", "h3", "h4", "h5", "h6"):
+            # 遇到下一個標題＝區塊結束（標題本身的文字節點已在上面處理，這裡只處理「新標題」）
+            if _norm(el.get_text()) != own and parts:
+                break
+            parts.append("\n")
         elif getattr(el, "name", None) in block_tags:
             parts.append("\n")
         if sum(len(p) for p in parts) > 6000:
@@ -153,39 +160,161 @@ def extract_section(soup, title: str) -> str:
     return best
 
 
+PARSER_VERSION = 2  # 解析邏輯版本；提高後，舊版解析出的資料會在下次排程自動重抓
+
+_JSONLD_TYPES = {"Product", "ProductGroup"}
+
+
 def jsonld_description(soup) -> str:
+    """日本官網在頁面底部以伺服器端輸出 JSON-LD（ProductGroup），其 description 即「商品詳細」的說明文"""
     for script in soup.find_all("script", type="application/ld+json"):
         try:
-            data = json.loads(script.string or "{}")
+            data = json.loads(script.string or script.get_text() or "{}")
         except Exception:
             continue
         items = data if isinstance(data, list) else [data]
         for d in items:
-            if isinstance(d, dict) and d.get("@type") == "Product" and d.get("description"):
-                return _clean_lines(str(d["description"]).replace("\\n", "\n"))
+            if isinstance(d, dict) and d.get("@type") in _JSONLD_TYPES and d.get("description"):
+                return format_description(str(d["description"]))
     return ""
 
 
-def parse_jp_page(html: str) -> dict:
-    """回傳 {"detail": str, "review": str}（找不到則為空字串）"""
+def format_description(text: str) -> str:
+    """JSON-LD 的說明文換行都被壓成空白，依日文語句與段落記號還原成易讀的分行"""
+    t = text.replace("\\n", "\n").replace("　", " ")
+    t = re.sub(r"[ \t]*[ー―─\-]{3,}[ \t]*", "\n\n", t)          # 「ーーー」分隔線 → 空行
+    t = re.sub(r"(?<=[。！？!?])[ \t]+", "\n", t)                 # 句末空白 → 換行
+    t = re.sub(r"[ \t]+(?=(?:【|〈|＜|※|・))", "\n", t)           # 段落／條列記號前換行
+    t = re.sub(r"(?<=】)[ \t]+", "\n", t)
+    t = re.sub(r"(?<=〉)[ \t]+", "\n", t)
+    lines = [re.sub(r"[ \t]+", " ", ln).strip() for ln in t.split("\n")]
+    out, blank = [], False
+    for ln in lines:
+        if not ln:
+            blank = bool(out)
+            continue
+        if blank:
+            out.append("")
+            blank = False
+        out.append(ln)
+    return "\n".join(out)[:4000].strip()
+
+
+def _looks_like_junk(text: str) -> bool:
+    """Vue 範本殘字（{{ }}）、頁尾導覽等代表抓錯區塊"""
+    return "{{" in text or "PAGE TOP" in text or "Copyright" in text
+
+
+def _text_of(node) -> str:
+    return _clean_lines(node.get_text("\n")) if node else ""
+
+
+def parse_jp_page(html: str, rendered: bool = False) -> dict:
+    """
+    回傳 {"detail": str, "review": str, "detail_source": str}（找不到則為空字串）
+
+    - 商品說明：優先取 JSON-LD（靜態 HTML 就有）；若是瀏覽器渲染後的頁面，另補上 #tab-info 內
+      的商品コメント與素材／洗濯表示。
+    - 使用心得摘要（レビューの要約）：由 Zeta Voice 以 JavaScript 載入，只有渲染後的頁面才有。
+    """
     from bs4 import BeautifulSoup
 
     soup = BeautifulSoup(html, "html.parser")
     ld_desc = jsonld_description(soup)  # 先取，因為下面會移除 script
-    for tag in soup(["script", "style", "noscript", "template"]):
-        tag.decompose()
 
-    detail = extract_section(soup, SECTION_DETAIL)
-    review = extract_section(soup, SECTION_REVIEW)
+    detail, source = ld_desc, "jsonld"
+    review = ""
 
-    detail_source = "page"
-    if len(detail) < 15 and len(ld_desc) >= 15:
-        detail, detail_source = ld_desc, "jsonld"
-    if len(detail) < 15:
+    if rendered:
+        # 商品コメント（basExp）：渲染後才有文字；與 JSON-LD 通常相同，取較完整者
+        comment = _text_of(soup.select_one("#tab-info .item-detail-comment"))
+        if comment and not _looks_like_junk(comment) and len(comment) > len(detail):
+            detail, source = comment, "rendered"
+
+        # 規格表：只挑對消費者有用的「素材」「洗濯表示」
+        specs = []
+        for tr in soup.select("#tab-info .item-detail-spectable tr"):
+            th = _text_of(tr.find("th"))
+            td = _text_of(tr.find("td"))
+            if th in ("素材", "洗濯表示") and td and not _looks_like_junk(td):
+                specs.append(f"{th}：{td.replace(chr(10), ' ')}")
+        if specs:
+            detail = (detail + "\n\n" if detail else "") + "\n".join(specs)
+
+        # 使用心得摘要：只在評論區塊內找標題，避免誤抓頁面其他地方
+        scope = soup.select_one("#zeta-voice-box") or soup.select_one("#tab-review")
+        if scope is not None:
+            for tag in scope(["script", "style", "noscript", "template"]):
+                tag.decompose()
+            cand = extract_section(scope, SECTION_REVIEW)
+            if cand and not _looks_like_junk(cand):
+                review = cand
+
+    if len(detail) < 15 or _looks_like_junk(detail):
         detail = ""
     if len(review) < 10:
         review = ""
-    return {"detail": detail, "review": review, "detail_source": detail_source}
+    return {"detail": detail, "review": review, "detail_source": source}
+
+
+# --------------------------------------------------------------------------- #
+# 瀏覽器渲染（取得 JavaScript 載入的素材與使用心得摘要）
+# --------------------------------------------------------------------------- #
+_tls = threading.local()
+
+
+def render_page(url: str, timeout_ms: int = 35000) -> str | None:
+    """用無頭瀏覽器載入頁面並等待評論區塊載入完成，回傳渲染後的 HTML；失敗回傳 None"""
+    try:
+        from playwright.sync_api import sync_playwright
+    except Exception:
+        return None
+    try:
+        if not hasattr(_tls, "browser"):
+            _tls.pw = sync_playwright().start()
+            _tls.browser = _tls.pw.chromium.launch(args=["--no-sandbox"])
+            _tls.ctx = _tls.browser.new_context(locale="ja-JP", user_agent=RENDER_UA)
+            # 圖片、字型、影片與追蹤碼不影響文字，擋掉以加快速度
+            _tls.ctx.route(
+                "**/*",
+                lambda r: r.abort()
+                if r.request.resource_type in ("image", "media", "font")
+                else r.continue_(),
+            )
+        page = _tls.ctx.new_page()
+        try:
+            page.goto(url, wait_until="domcontentloaded", timeout=timeout_ms)
+            # 商品コメント由 Vue 填入
+            try:
+                page.wait_for_function(
+                    "() => { const e = document.querySelector('#tab-info .item-detail-comment');"
+                    " return e && e.innerText.trim().length > 10; }",
+                    timeout=15000,
+                )
+            except Exception:
+                pass
+            # 評論區（Zeta Voice）載入
+            try:
+                page.wait_for_function(
+                    "() => { const e = document.querySelector('#ZVList');"
+                    " return e && e.innerText.trim().length > 20; }",
+                    timeout=15000,
+                )
+            except Exception:
+                pass
+            page.wait_for_timeout(800)
+            return page.content()
+        finally:
+            page.close()
+    except Exception as exc:
+        print(f"[render] {url} 失敗：{str(exc)[:120]}", flush=True)
+        return None
+
+
+RENDER_UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+)
 
 
 # --------------------------------------------------------------------------- #
@@ -367,6 +496,8 @@ def priority(rec: dict) -> int | None:
     age = days_since(jp.get("checked_at"))
     if not status:
         return 0
+    if status in ("ok", "no_sections") and jp.get("parser_version") != PARSER_VERSION:
+        return 0  # 舊版解析器的結果（可能是錯的），重新處理
     if status == "ok":
         needs_tr = (jp.get("detail_ja") and not jp.get("detail_zh")) or (
             jp.get("review_ja") and not jp.get("review_zh")
@@ -400,8 +531,26 @@ def process_item(rec: dict, debug: bool = False) -> dict:
             f.write(html)
 
     parsed = parse_jp_page(html)
+    if RENDER_ENABLED:
+        rendered = render_page(url)
+        if rendered:
+            if debug:
+                with open(f"debug/jp/{sku}.rendered.html", "w", encoding="utf-8") as f:
+                    f.write(rendered)
+            parsed_r = parse_jp_page(rendered, rendered=True)
+            # 渲染版較完整就採用；只有靜態版有說明時保留靜態版
+            if parsed_r["detail"] or not parsed["detail"]:
+                parsed["detail"], parsed["detail_source"] = parsed_r["detail"] or parsed["detail"], parsed_r["detail_source"]
+            parsed["review"] = parsed_r["review"]
+            jp["rendered"] = True
+        else:
+            jp["rendered"] = False
+
+    jp["parser_version"] = PARSER_VERSION
     if not parsed["detail"] and not parsed["review"]:
         jp["status"] = "no_sections"
+        for k in ("detail_ja", "detail_zh", "review_ja", "review_zh"):
+            jp.pop(k, None)
         return jp
 
     jp["status"] = "ok"
@@ -442,7 +591,10 @@ def main():
     ap.add_argument("--budget-min", type=int, default=120, help="超過此分鐘數就不再開始新的項目")
     ap.add_argument("--sku", help="只處理指定貨號（測試用）")
     ap.add_argument("--debug", action="store_true", help="儲存原始 HTML 並印出解析結果")
+    ap.add_argument("--no-render", action="store_true", help="不啟動瀏覽器渲染（只抓靜態商品說明，不含使用心得摘要）")
     args = ap.parse_args()
+    global RENDER_ENABLED
+    RENDER_ENABLED = not args.no_render
 
     if not os.path.exists("data/index.json"):
         print("找不到 data/index.json，請先執行 scraper.py", flush=True)
