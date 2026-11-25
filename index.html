@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>And st TW 搜尋｜商品歷史價格追蹤</title>
   <script src="https://cdn.tailwindcss.com"></script>
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
 </head>
 <body class="bg-white text-gray-800 min-h-screen">
   <!-- 頂部導覽列 -->
@@ -16,15 +16,17 @@
           <span class="w-7 h-7 rounded bg-red-600 text-white font-bold text-xs flex items-center justify-center">ST</span>
           <span class="text-base font-bold tracking-tight text-gray-900">And st 搜尋</span>
         </a>
-        <div class="relative flex-1 md:w-80">
+        <!-- 搜尋：輸入完成按 Enter 或點放大鏡才會送出，輸入過程不會即時篩選 -->
+        <form id="searchForm" class="relative flex-1 md:w-96" role="search" autocomplete="off">
           <input
             id="searchInput"
             type="text"
-            placeholder="輸入關鍵字、品牌或 6 碼貨號..."
-            class="w-full pl-3.5 pr-9 py-1.5 text-sm border border-gray-300 rounded focus:outline-none focus:border-gray-500"
+            enterkeyhint="search"
+            placeholder="輸入關鍵字、品牌或貨號，按 Enter 搜尋"
+            class="w-full pl-3.5 pr-10 py-1.5 text-sm border border-gray-300 rounded focus:outline-none focus:border-gray-500"
           />
-          <span class="absolute right-2.5 top-2 text-gray-400 text-xs">&#128269;</span>
-        </div>
+          <button type="submit" aria-label="搜尋" class="absolute right-1 top-1/2 -translate-y-1/2 w-8 h-7 text-gray-400 hover:text-gray-700 text-sm">&#128269;</button>
+        </form>
       </div>
 
       <div class="flex items-center justify-between md:justify-end gap-4 text-sm text-gray-600">
@@ -46,10 +48,10 @@
         <div class="flex items-center gap-6 text-sm whitespace-nowrap">
           <span class="py-3 font-bold text-gray-900 border-b-2 border-red-600">歷史價格</span>
           <a id="tabTwLink" href="#" target="_blank" rel="noopener" class="py-3 text-gray-600 hover:text-gray-900">台灣官網商品頁 &nearr;</a>
-          <a id="tabJpLink" href="#" target="_blank" rel="noopener" class="py-3 text-gray-600 hover:text-red-600 font-medium">日本版資訊 (and ST 同款) &nearr;</a>
+          <a id="tabJpLink" href="#" target="_blank" rel="noopener" class="py-3 text-gray-600 hover:text-red-600 font-medium">日本官網商品頁 &nearr;</a>
         </div>
         <button id="closeDetailBtn" class="text-xs text-gray-500 hover:text-gray-900 py-1.5 px-3 border border-gray-200 rounded shrink-0">
-          返回商品列表 &times;
+          返回 &times;
         </button>
       </div>
     </div>
@@ -64,6 +66,7 @@
             <div class="relative z-10">
               <div id="cardMaxPrice" class="text-4xl sm:text-5xl font-normal text-gray-600 tracking-tight">-</div>
               <div class="text-sm text-gray-600 mt-2">歷史高價</div>
+              <div class="text-[11px] text-gray-400 mt-0.5">含官方定價</div>
             </div>
             <svg class="w-28 h-28 text-gray-100 absolute -right-2 -bottom-3 pointer-events-none" viewBox="0 0 24 24" fill="currentColor">
               <path d="M12 3l8 8h-5v10H9V11H4l8-8z"/>
@@ -74,6 +77,7 @@
             <div class="relative z-10">
               <div id="cardMinPrice" class="text-4xl sm:text-5xl font-normal text-gray-600 tracking-tight">-</div>
               <div class="text-sm text-gray-600 mt-2">歷史低價</div>
+              <div class="text-[11px] text-gray-400 mt-0.5">本站追蹤期間</div>
             </div>
             <svg class="w-28 h-28 text-gray-100 absolute -right-2 -bottom-3 pointer-events-none" viewBox="0 0 24 24" fill="currentColor">
               <path d="M12 21l-8-8h5V3h6v10h5l-8 8z"/>
@@ -81,7 +85,7 @@
           </div>
         </div>
 
-        <!-- 右側：商品標題 + 階梯折線圖 + 價格變動歷程表 -->
+        <!-- 右側：商品標題 + 階梯折線圖 + 價格變動歷程表 + 商品說明 -->
         <div class="lg:col-span-8">
           <div class="flex flex-wrap items-center gap-3 mb-4">
             <img id="detailImg" src="" alt="" class="w-12 h-12 object-cover rounded border border-gray-200 bg-gray-50 shrink-0" />
@@ -100,7 +104,7 @@
           </div>
 
           <div class="border border-gray-200 rounded-lg p-4 bg-white">
-            <div id="chartHint" class="text-xs text-gray-500 mb-2"></div>
+            <div id="chartHint" class="text-xs text-gray-500 mb-2 leading-relaxed"></div>
             <div class="h-72 sm:h-80 w-full">
               <canvas id="priceChart"></canvas>
             </div>
@@ -114,55 +118,103 @@
             </div>
             <div id="historyTableWrap" class="divide-y divide-gray-100 text-xs sm:text-sm"></div>
           </div>
+
+          <!-- 商品說明與使用心得（取自日本官網，翻成繁體中文） -->
+          <div id="jpInfo" class="mt-4 space-y-4">
+            <section id="jpDetailBox" class="hidden border border-gray-200 rounded-lg bg-white">
+              <h4 class="px-4 py-2.5 bg-gray-50 border-b border-gray-200 text-xs font-semibold text-gray-700">商品說明</h4>
+              <div id="jpDetailText" class="px-4 py-3 text-sm leading-relaxed text-gray-700 whitespace-pre-line"></div>
+            </section>
+            <section id="jpReviewBox" class="hidden border border-gray-200 rounded-lg bg-white">
+              <h4 class="px-4 py-2.5 bg-gray-50 border-b border-gray-200 text-xs font-semibold text-gray-700">使用心得摘要</h4>
+              <div id="jpReviewText" class="px-4 py-3 text-sm leading-relaxed text-gray-700 whitespace-pre-line"></div>
+            </section>
+            <p id="jpInfoNote" class="text-[11px] text-gray-400 leading-relaxed"></p>
+          </div>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- 品牌篩選與排序控制列 -->
-  <section class="bg-gray-50 border-b border-gray-200">
-    <div class="max-w-6xl mx-auto px-4 py-3 space-y-3">
-      <!-- 品牌分類標籤列 -->
-      <div class="flex items-start gap-2">
-        <span class="text-xs font-semibold text-gray-500 shrink-0 pt-1.5">品牌篩選：</span>
-        <div id="brandFilterBar" class="flex flex-wrap gap-1.5 flex-1"></div>
-      </div>
-
-      <!-- 排序選單與筆數統計 -->
-      <div class="flex flex-wrap items-center justify-between gap-3 pt-2 border-t border-gray-200/80">
-        <div id="resultSummary" class="text-xs text-gray-500">載入商品中...</div>
-        <div class="flex items-center gap-2">
-          <label for="sortSelect" class="text-xs font-medium text-gray-600">排序方式：</label>
-          <select
-            id="sortSelect"
-            class="text-xs sm:text-sm bg-white border border-gray-300 rounded px-2.5 py-1.5 text-gray-700 focus:outline-none focus:border-gray-500"
-          >
-            <option value="listed_desc">上架順序：由新至舊</option>
-            <option value="listed_asc">上架順序：由舊至新</option>
-            <option value="price_asc">價格：由低至高</option>
-            <option value="price_desc">價格：由高至低</option>
-            <option value="discount_desc">折扣幅度：由多至少</option>
-          </select>
-        </div>
-      </div>
+  <!-- 首頁：只顯示近期搜尋過的商品 -->
+  <main id="homeSection" class="max-w-6xl mx-auto px-4 py-8">
+    <div id="recentQueriesWrap" class="hidden mb-6">
+      <div class="text-xs font-semibold text-gray-500 mb-2">近期關鍵字</div>
+      <div id="recentQueries" class="flex flex-wrap gap-1.5"></div>
     </div>
-  </section>
 
-  <!-- 商品網格列表 -->
-  <main class="max-w-6xl mx-auto px-4 py-6">
-    <div id="productGrid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4"></div>
-    <div id="emptyState" class="hidden text-center py-16 text-gray-400 text-sm">
-      找不到符合條件的商品，請嘗試調整品牌、排序或關鍵字。
+    <div id="recentProductsWrap" class="hidden">
+      <div class="flex items-center justify-between mb-3">
+        <h2 class="text-sm font-bold text-gray-800">近期搜尋過的商品</h2>
+        <button id="clearRecentBtn" type="button" class="text-xs text-gray-400 hover:text-gray-700">清除紀錄</button>
+      </div>
+      <div id="recentGrid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4"></div>
     </div>
-    <div class="mt-8 text-center">
-      <button id="loadMoreBtn" class="hidden px-6 py-2 text-sm bg-white border border-gray-300 rounded hover:bg-gray-50 text-gray-700">
-        載入更多商品
-      </button>
+
+    <div id="homeEmpty" class="hidden text-center py-20">
+      <div class="text-gray-500 text-sm">輸入關鍵字、品牌或貨號，按 Enter 開始搜尋</div>
+      <div class="text-gray-400 text-xs mt-1">看過的商品會保留在這裡，方便下次快速回來查看</div>
+    </div>
+
+    <div class="mt-10 text-center">
+      <button id="browseAllBtn" type="button" class="text-xs text-gray-500 hover:text-gray-900 underline underline-offset-2">瀏覽全部商品</button>
     </div>
   </main>
 
+  <!-- 搜尋結果：品牌篩選、排序與商品網格 -->
+  <div id="resultsSection" class="hidden">
+    <section class="bg-gray-50 border-b border-gray-200">
+      <div class="max-w-6xl mx-auto px-4 py-3 space-y-3">
+        <div class="flex items-start gap-2">
+          <span class="text-xs font-semibold text-gray-500 shrink-0 pt-1.5">品牌篩選：</span>
+          <div id="brandFilterBar" class="flex flex-wrap gap-1.5 flex-1"></div>
+        </div>
+
+        <div class="flex flex-wrap items-center justify-between gap-3 pt-2 border-t border-gray-200/80">
+          <div class="flex flex-wrap items-center gap-2 text-xs text-gray-500">
+            <span id="resultSummary">載入商品中...</span>
+            <button id="clearSearchBtn" type="button" class="hidden px-2 py-0.5 rounded-full border border-gray-300 bg-white text-gray-600 hover:border-gray-500">清除搜尋 &times;</button>
+          </div>
+          <div class="flex items-center gap-2">
+            <label for="sortSelect" class="text-xs font-medium text-gray-600">排序方式：</label>
+            <select
+              id="sortSelect"
+              class="text-xs sm:text-sm bg-white border border-gray-300 rounded px-2.5 py-1.5 text-gray-700 focus:outline-none focus:border-gray-500"
+            >
+              <option value="listed_desc">上架順序：由新至舊</option>
+              <option value="listed_asc">上架順序：由舊至新</option>
+              <option value="price_asc">價格：由低至高</option>
+              <option value="price_desc">價格：由高至低</option>
+              <option value="discount_desc">折扣幅度：由多至少</option>
+            </select>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="max-w-6xl mx-auto px-4 py-6">
+      <div id="productGrid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4"></div>
+      <div id="emptyState" class="hidden text-center py-16 text-gray-400 text-sm">
+        找不到符合條件的商品，請嘗試調整品牌、排序或關鍵字。
+      </div>
+      <div class="mt-8 text-center">
+        <button id="loadMoreBtn" class="hidden px-6 py-2 text-sm bg-white border border-gray-300 rounded hover:bg-gray-50 text-gray-700">
+          載入更多商品
+        </button>
+      </div>
+    </div>
+  </div>
+
   <script>
     const DAY_MS = 86400000;
+    // 本站開始逐日記錄價格的第一天；舊資料若沒有 first_seen，早於此日的紀錄視為舊版補的假資料
+    const TRACKING_START_FALLBACK = '2026-11-23';
+    const JP_BASE = 'https://www.dot-st.com';
+    const JP_SLUG_HINTS = { PAGEBOY: 'pageboy', LEPSIM: 'lepsim' }; // 已由官網網址確認的品牌代號
+    const STORE_PRODUCTS = 'andst_recent_products';
+    const STORE_QUERIES = 'andst_recent_queries';
+    const MAX_RECENT_PRODUCTS = 20;
+    const MAX_RECENT_QUERIES = 8;
 
     // 前端同步內建品牌辨識（舊版 JSON 也能立即使用品牌篩選）
     const BRAND_PATTERNS = [
@@ -195,19 +247,40 @@
     const NON_BRAND_KW = ['預購', '現貨', '特價', '限定', '任選', '免運', '滿額', '優惠', '新品', '熱銷', '推薦', '出清', '組合', '折', 'SALE', 'NEW', 'HOT'];
 
     let allItems = [];
+    let skuMap = new Map();
     let filteredItems = [];
     let visibleCount = 40;
     let currentMode = 'all';
     let currentBrand = 'ALL';
     let currentSort = 'listed_desc';
+    let currentQuery = '';      // 已送出的搜尋字串（輸入中的文字不會影響畫面）
+    let browseAll = false;      // 使用者按「瀏覽全部商品」
     let latestUpdateDate = '';
     let priceChart = null;
     let currentSku = '';
 
+    const $ = (id) => document.getElementById(id);
     const escapeHtml = (str) =>
-      String(str).replace(/[&<>"']/g, (m) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[m]));
+      String(str ?? '').replace(/[&<>"']/g, (m) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[m]));
+    const httpsUrl = (u) => String(u || '').replace(/^http:\/\//i, 'https://');
 
-    // 純 UTC 日期解析與格式化，徹底避免瀏覽器時區造成日期偏移 1 天
+    // ---------- 近期紀錄（localStorage，無法使用時自動忽略） ----------
+    function loadList(key) {
+      try {
+        const v = JSON.parse(localStorage.getItem(key) || '[]');
+        return Array.isArray(v) ? v : [];
+      } catch (e) { return []; }
+    }
+    function saveList(key, list) {
+      try { localStorage.setItem(key, JSON.stringify(list)); } catch (e) { /* ignore */ }
+    }
+    function pushRecent(key, value, max) {
+      const list = loadList(key).filter((v) => v !== value);
+      list.unshift(value);
+      saveList(key, list.slice(0, max));
+    }
+
+    // ---------- 日期工具：純 UTC 計算，避免時區造成日期偏移 ----------
     function parseYmdToUtcMs(ymd) {
       const parts = String(ymd || '').split('-').map(Number);
       if (parts.length !== 3 || parts.some(Number.isNaN)) return null;
@@ -242,40 +315,92 @@
       return '其他品牌';
     }
 
-    // 自訂 Chart.js 外掛：在價格轉折點上方直接標註變動後價格（自動避讓重疊）
+    // ---------- 官網連結 ----------
+    function twUrl(item) {
+      // 台灣官網商品頁：https://www.dot-st.tw/SalePage/Index/{SalePageId}
+      if (item.salepage_id) return `https://www.dot-st.tw/SalePage/Index/${encodeURIComponent(item.salepage_id)}`;
+      return item.url || 'https://www.dot-st.tw/';
+    }
+
+    function jpLink(item) {
+      // 日本官網商品頁：https://www.dot-st.com/{品牌代號}/disp/item/{貨號}/
+      const sku = encodeURIComponent(item.sku);
+      if (item.jp && item.jp.url) return { url: item.jp.url, exact: true };
+      const slug = JP_SLUG_HINTS[detectBrand(item)];
+      if (slug) return { url: `${JP_BASE}/${slug}/disp/item/${sku}/`, exact: true };
+      return { url: `${JP_BASE}/disp/itemlist/?q=${sku}`, exact: false };
+    }
+
+    // ---------- 圖表：價格轉折點標註 ----------
+    // 在每個「偵測到調價」的圓點旁標出「日期 + 變動後價格」（例：11/24 $1,047），
+    // 讓日期與價格在圖上直接對應；標籤會自動避讓，優先保留最新與最早的一筆
     const turningPointLabelPlugin = {
       id: 'turningPointLabelPlugin',
       afterDatasetsDraw(chart) {
         const meta = chart.getDatasetMeta(0);
         const dataset = chart.data.datasets[0];
-        if (!meta || !dataset || !dataset._turningIndices) return;
+        if (!meta || !dataset || !dataset._labels || !dataset._labels.length) return;
 
         const { ctx, chartArea } = chart;
+        const n = dataset._labels.length;
         ctx.save();
         ctx.font = 'bold 11px system-ui, -apple-system, sans-serif';
         ctx.textAlign = 'center';
         ctx.textBaseline = 'bottom';
 
-        let lastDrawnX = -Infinity;
-        dataset._turningIndices.forEach((idx, pos) => {
+        const order = [n - 1, 0];
+        for (let i = 1; i < n - 1; i++) order.push(i);
+        const seen = new Set();
+        const boxes = [];
+        const collides = (b) => boxes.some((o) => b.l < o.r && b.r > o.l && b.t < o.b && b.b > o.t);
+
+        order.forEach((idx) => {
+          if (idx < 0 || idx >= n || seen.has(idx)) return;
+          seen.add(idx);
           const el = meta.data[idx];
           if (!el) return;
-          const isLast = pos === dataset._turningIndices.length - 1;
-          if (!isLast && Math.abs(el.x - lastDrawnX) < 54) return;
+          const text = dataset._labels[idx];
+          const w = ctx.measureText(text).width + 8;
+          const h = 14;
+          const cx = Math.min(Math.max(el.x, chartArea.left + w / 2), chartArea.right - w / 2);
 
-          const val = dataset.data[idx];
-          const text = `$${Number(val).toLocaleString()}`;
-          const textX = Math.min(Math.max(el.x, chartArea.left + 26), chartArea.right - 26);
-          const textY = Math.max(el.y - 8, chartArea.top + 14);
-
-          ctx.fillStyle = 'rgba(255, 255, 255, 0.85)';
-          const w = ctx.measureText(text).width + 6;
-          ctx.fillRect(textX - w / 2, textY - 12, w, 13);
-
-          ctx.fillStyle = '#b91c1c';
-          ctx.fillText(text, textX, textY);
-          lastDrawnX = textX;
+          // 依序嘗試：點的上方 → 點的下方 → 更上方
+          for (const dy of [-8, 20, -26]) {
+            const bottom = el.y + dy;
+            const box = { l: cx - w / 2, r: cx + w / 2, t: bottom - h, b: bottom + 1 };
+            if (box.t < chartArea.top - 2 || box.b > chartArea.bottom + 2) continue;
+            if (collides(box)) continue;
+            boxes.push(box);
+            ctx.fillStyle = 'rgba(255, 255, 255, 0.88)';
+            ctx.fillRect(box.l, box.t, w, h);
+            ctx.fillStyle = '#b91c1c';
+            ctx.fillText(text, cx, bottom - 1);
+            break;
+          }
         });
+        ctx.restore();
+      }
+    };
+
+    // 「尚未追蹤」灰色底帶：上架日 ～ 本站開始記錄日，期間的調價日期無從得知
+    const untrackedBandPlugin = {
+      id: 'untrackedBand',
+      beforeDatasetsDraw(chart, args, opts) {
+        if (!opts || opts.from == null || opts.to == null) return;
+        const { ctx, chartArea, scales } = chart;
+        const x1 = scales.x.getPixelForValue(opts.from);
+        const x2 = scales.x.getPixelForValue(opts.to);
+        if (!(x2 > x1)) return;
+        ctx.save();
+        ctx.fillStyle = 'rgba(243, 244, 246, 0.9)';
+        ctx.fillRect(x1, chartArea.top, x2 - x1, chartArea.bottom - chartArea.top);
+        if (x2 - x1 > 120) {
+          ctx.fillStyle = '#9ca3af';
+          ctx.font = '11px system-ui, -apple-system, sans-serif';
+          ctx.textAlign = 'center';
+          ctx.textBaseline = 'top';
+          ctx.fillText('尚未追蹤・調價日期不明', (x1 + x2) / 2, chartArea.top + 6);
+        }
         ctx.restore();
       }
     };
@@ -292,26 +417,102 @@
           brand: detectBrand(item),
           salepage_num: Number(item.salepage_id) || 0,
         }));
+        skuMap = new Map(allItems.map((i) => [i.sku, i]));
 
-        document.getElementById('metaInfo').textContent = `更新：${latestUpdateDate}（${allItems.length} 件）`;
-        renderBrandFilter();
-        applyFilter();
+        $('metaInfo').textContent = `更新：${latestUpdateDate}（${allItems.length} 件）`;
 
-        const params = new URLSearchParams(window.location.search);
-        const querySku = params.get('q');
-        if (querySku) {
-          document.getElementById('searchInput').value = querySku;
-          applyFilter();
-          if (allItems.some((i) => i.sku === querySku.trim())) {
-            openDetail(querySku.trim());
-          }
+        const q = new URLSearchParams(window.location.search).get('q');
+        if (q && q.trim()) {
+          $('searchInput').value = q.trim();
+          submitSearch(q, { fromUrl: true });
+        } else {
+          refreshView();
         }
       } catch (err) {
-        document.getElementById('metaInfo').textContent = '請先執行 Actions 爬蟲建立資料';
-        document.getElementById('resultSummary').textContent = '尚未載入商品資料';
+        $('metaInfo').textContent = '請先執行 Actions 爬蟲建立資料';
+        $('homeEmpty').classList.remove('hidden');
       }
     }
 
+    // ---------- 檢視切換 ----------
+    function isHomeView() {
+      return !currentQuery && currentMode === 'all' && !browseAll;
+    }
+
+    function refreshView() {
+      const home = isHomeView();
+      $('homeSection').classList.toggle('hidden', !home);
+      $('resultsSection').classList.toggle('hidden', home);
+      if (home) {
+        renderHome();
+      } else {
+        renderBrandFilter();
+        applyFilter();
+      }
+    }
+
+    function syncTabs() {
+      document.querySelectorAll('.filter-tab').forEach((b) => {
+        const active = b.dataset.mode === currentMode;
+        b.classList.toggle('font-semibold', active);
+        b.classList.toggle('text-red-600', active);
+        b.classList.toggle('border-b-2', active);
+        b.classList.toggle('border-red-600', active);
+        b.classList.toggle('hover:text-gray-900', !active);
+      });
+    }
+
+    function updateUrl() {
+      try {
+        const url = currentQuery ? `?q=${encodeURIComponent(currentQuery)}` : window.location.pathname;
+        window.history.replaceState(null, '', url);
+      } catch (e) { /* ignore */ }
+    }
+
+    // ---------- 搜尋：只在送出時執行 ----------
+    function submitSearch(raw, opts = {}) {
+      const q = String(raw || '').normalize('NFKC').trim();
+      currentQuery = q;
+      currentBrand = 'ALL';
+      browseAll = false;
+      $('searchInput').value = q;
+      if (!opts.fromUrl) updateUrl();
+
+      if (q) {
+        pushRecent(STORE_QUERIES, q, MAX_RECENT_QUERIES);
+        const skuLike = q.replace(/\s+/g, '');
+        if (/^\d{6,8}$/.test(skuLike) && skuMap.has(skuLike)) {
+          openDetail(skuLike, { scroll: !opts.fromUrl });
+        }
+      }
+      refreshView();
+    }
+
+    function clearSearch() {
+      currentQuery = '';
+      currentBrand = 'ALL';
+      $('searchInput').value = '';
+      updateUrl();
+      refreshView();
+    }
+
+    // ---------- 首頁：近期搜尋 ----------
+    function renderHome() {
+      const queries = loadList(STORE_QUERIES);
+      const products = loadList(STORE_PRODUCTS).map((sku) => skuMap.get(sku)).filter(Boolean);
+
+      $('recentQueriesWrap').classList.toggle('hidden', queries.length === 0);
+      $('recentQueries').innerHTML = queries.map((q) => `
+        <button type="button" data-query="${escapeHtml(q)}" class="recent-query px-2.5 py-1 rounded-full text-xs border border-gray-300 bg-white text-gray-700 hover:border-gray-500">
+          ${escapeHtml(q)}
+        </button>`).join('');
+
+      $('recentProductsWrap').classList.toggle('hidden', products.length === 0);
+      $('recentGrid').innerHTML = products.map(cardHtml).join('');
+      $('homeEmpty').classList.toggle('hidden', products.length > 0 || queries.length > 0);
+    }
+
+    // ---------- 結果頁 ----------
     function renderBrandFilter() {
       const counts = new Map();
       allItems.forEach((item) => {
@@ -324,7 +525,7 @@
         return b[1] - a[1];
       });
 
-      const bar = document.getElementById('brandFilterBar');
+      const bar = $('brandFilterBar');
       const allActive = currentBrand === 'ALL';
       let html = `
         <button data-brand="ALL" class="brand-pill px-2.5 py-1 rounded-full text-xs border transition ${
@@ -346,13 +547,6 @@
       }).join('');
 
       bar.innerHTML = html;
-      bar.querySelectorAll('.brand-pill').forEach((btn) => {
-        btn.addEventListener('click', () => {
-          currentBrand = btn.dataset.brand;
-          renderBrandFilter();
-          applyFilter();
-        });
-      });
     }
 
     function sortItems(list) {
@@ -389,18 +583,17 @@
     }
 
     function applyFilter() {
-      const q = document.getElementById('searchInput').value.trim().toLowerCase();
+      // 多個關鍵字以空白分隔，需全部符合（貨號、商品名稱或品牌）
+      const tokens = currentQuery.toLowerCase().split(/\s+/).filter(Boolean);
       const baseMs = parseYmdToUtcMs(latestUpdateDate) || parseYmdToUtcMs(getTodayTaipeiYmd());
       const thirtyDaysAgo = formatUtcMsToYmd(baseMs - 30 * DAY_MS);
 
       const matched = allItems.filter((item) => {
         if (currentBrand !== 'ALL' && item.brand !== currentBrand) return false;
-        const matchQuery =
-          !q ||
-          item.sku.toLowerCase().includes(q) ||
-          item.title.toLowerCase().includes(q) ||
-          item.brand.toLowerCase().includes(q);
-        if (!matchQuery) return false;
+        if (tokens.length) {
+          const hay = `${item.sku} ${item.title} ${item.brand}`.toLowerCase();
+          if (!tokens.every((t) => hay.includes(t))) return false;
+        }
 
         if (currentMode === 'sale') return item.price < item.original_price;
         if (currentMode === 'lowest') return item.price <= item.min_price && item.price < item.original_price;
@@ -413,177 +606,147 @@
       renderGrid();
     }
 
+    function cardHtml(item) {
+      const isSale = item.price < item.original_price;
+      const isLowest = isSale && item.price <= item.min_price;
+      const discountPct = isSale && item.original_price > 0
+        ? Math.round((1 - item.price / item.original_price) * 100)
+        : 0;
+
+      return `
+        <div data-sku="${escapeHtml(item.sku)}" class="product-card bg-white rounded border border-gray-200 overflow-hidden hover:shadow-md transition cursor-pointer flex flex-col">
+          <div class="relative aspect-[3/4] bg-gray-50">
+            <img src="${escapeHtml(httpsUrl(item.image))}" alt="${escapeHtml(item.title)}" loading="lazy" class="w-full h-full object-cover" />
+            <span class="absolute top-2 left-2 px-1.5 py-0.5 text-[11px] font-mono bg-black/70 text-white rounded">${escapeHtml(item.sku)}</span>
+            ${isLowest ? '<span class="absolute top-2 right-2 px-1.5 py-0.5 text-[11px] font-medium bg-red-600 text-white rounded">歷史低價</span>' : ''}
+            ${!isLowest && discountPct >= 10 ? `<span class="absolute top-2 right-2 px-1.5 py-0.5 text-[11px] font-medium bg-amber-500 text-white rounded">-${discountPct}%</span>` : ''}
+          </div>
+          <div class="p-2.5 flex-1 flex flex-col justify-between">
+            <div>
+              <div class="flex items-center justify-between gap-1 mb-1">
+                <span class="text-[10px] px-1.5 py-0.5 bg-gray-100 text-gray-600 rounded truncate max-w-[60%]">${escapeHtml(item.brand)}</span>
+                <span class="text-[10px] text-gray-400 shrink-0">${escapeHtml(item.listed_date || '-')}</span>
+              </div>
+              <h3 class="text-xs sm:text-sm text-gray-800 line-clamp-2 leading-snug">${escapeHtml(item.title)}</h3>
+            </div>
+            <div class="mt-2 flex items-baseline gap-1.5">
+              <span class="text-sm sm:text-base font-bold ${isSale ? 'text-red-600' : 'text-gray-900'}">NT$${item.price.toLocaleString()}</span>
+              ${isSale ? `<span class="text-xs text-gray-400 line-through">NT$${item.original_price.toLocaleString()}</span>` : ''}
+            </div>
+          </div>
+        </div>
+      `;
+    }
+
     function renderGrid() {
-      const grid = document.getElementById('productGrid');
-      const empty = document.getElementById('emptyState');
-      const loadMoreBtn = document.getElementById('loadMoreBtn');
-      const summary = document.getElementById('resultSummary');
+      const grid = $('productGrid');
+      const empty = $('emptyState');
+      const loadMoreBtn = $('loadMoreBtn');
+      const summary = $('resultSummary');
+      $('clearSearchBtn').classList.toggle('hidden', !currentQuery);
 
       const brandLabel = currentBrand === 'ALL' ? '全部品牌' : currentBrand;
+      const queryLabel = currentQuery ? `「${currentQuery}」｜` : '';
       if (filteredItems.length === 0) {
         grid.innerHTML = '';
         empty.classList.remove('hidden');
         loadMoreBtn.classList.add('hidden');
-        summary.textContent = `${brandLabel}｜共 0 件符合條件`;
+        summary.textContent = `${queryLabel}${brandLabel}｜共 0 件符合條件`;
         return;
       }
 
       empty.classList.add('hidden');
       const slice = filteredItems.slice(0, visibleCount);
-      summary.textContent = `${brandLabel}｜顯示 1–${slice.length} 件，共 ${filteredItems.length.toLocaleString()} 件商品`;
-
-      grid.innerHTML = slice.map((item) => {
-        const isSale = item.price < item.original_price;
-        const isLowest = isSale && item.price <= item.min_price;
-        const discountPct = isSale && item.original_price > 0
-          ? Math.round((1 - item.price / item.original_price) * 100)
-          : 0;
-
-        return `
-          <div onclick="openDetail('${item.sku}')" class="bg-white rounded border border-gray-200 overflow-hidden hover:shadow-md transition cursor-pointer flex flex-col">
-            <div class="relative aspect-[3/4] bg-gray-50">
-              <img src="${escapeHtml(item.image)}" alt="${escapeHtml(item.title)}" loading="lazy" class="w-full h-full object-cover" />
-              <span class="absolute top-2 left-2 px-1.5 py-0.5 text-[11px] font-mono bg-black/70 text-white rounded">${item.sku}</span>
-              ${isLowest ? '<span class="absolute top-2 right-2 px-1.5 py-0.5 text-[11px] font-medium bg-red-600 text-white rounded">歷史低價</span>' : ''}
-              ${!isLowest && discountPct >= 10 ? `<span class="absolute top-2 right-2 px-1.5 py-0.5 text-[11px] font-medium bg-amber-500 text-white rounded">-${discountPct}%</span>` : ''}
-            </div>
-            <div class="p-2.5 flex-1 flex flex-col justify-between">
-              <div>
-                <div class="flex items-center justify-between gap-1 mb-1">
-                  <span class="text-[10px] px-1.5 py-0.5 bg-gray-100 text-gray-600 rounded truncate max-w-[60%]">${escapeHtml(item.brand)}</span>
-                  <span class="text-[10px] text-gray-400 shrink-0">${item.listed_date || '-'}</span>
-                </div>
-                <h3 class="text-xs sm:text-sm text-gray-800 line-clamp-2 leading-snug">${escapeHtml(item.title)}</h3>
-              </div>
-              <div class="mt-2 flex items-baseline gap-1.5">
-                <span class="text-sm sm:text-base font-bold ${isSale ? 'text-red-600' : 'text-gray-900'}">NT$${item.price.toLocaleString()}</span>
-                ${isSale ? `<span class="text-xs text-gray-400 line-through">NT$${item.original_price.toLocaleString()}</span>` : ''}
-              </div>
-            </div>
-          </div>
-        `;
-      }).join('');
-
+      summary.textContent = `${queryLabel}${brandLabel}｜顯示 1–${slice.length} 件，共 ${filteredItems.length.toLocaleString()} 件商品`;
+      grid.innerHTML = slice.map(cardHtml).join('');
       loadMoreBtn.classList.toggle('hidden', visibleCount >= filteredItems.length);
     }
 
     /**
-     * 使用純 UTC 日期將調價紀錄展開為每日連續時間軸，徹底修正跨時區錯位與漏畫最新價格問題
+     * 整理價格紀錄，只使用「真正逐日觀測到」的資料：
+     * - 圓點 = 本站偵測到價格變動的日期 + 變動後售價（日期與價格一一對應）
+     * - 上架日 ～ 開始追蹤日之間的調價日期無從得知，另以灰色虛線表示，不再假裝有調價
      */
-    function buildContinuousSeries(item, globalUpdateDate) {
-      // 1. 整理並排序歷史紀錄（同日以最新價格為準）
+    function buildSeries(item, globalUpdateDate) {
+      const legacy = !item.first_seen; // 尚未被新版爬蟲整理過的舊資料
       const dedup = new Map();
       (item.history || []).forEach((h) => {
-        if (h && h.date && h.price !== undefined && h.price !== null) {
-          dedup.set(String(h.date).slice(0, 10), Number(h.price));
-        }
+        if (!h || !h.date || h.price === undefined || h.price === null) return;
+        const d = String(h.date).slice(0, 10);
+        if (legacy && d < TRACKING_START_FALLBACK) return; // 舊版以上架日補的假資料
+        dedup.set(d, Number(h.price));
       });
 
-      const fallbackDate = item.updated_at || globalUpdateDate || getTodayTaipeiYmd();
-      if (dedup.size === 0) {
-        dedup.set(fallbackDate, Number(item.current_price));
-      }
+      const entries = [...dedup.entries()].sort((a, b) => a[0].localeCompare(b[0]));
+      const lastRecorded = entries.length ? entries[entries.length - 1][0] : '';
+      const endYmd =
+        [lastRecorded, item.updated_at || '', globalUpdateDate || ''].filter(Boolean).sort().pop() ||
+        getTodayTaipeiYmd();
+      if (!entries.length) entries.push([item.first_seen || endYmd, Number(item.current_price)]);
 
-      const sortedEntries = [...dedup.entries()].sort((a, b) => a[0].localeCompare(b[0]));
-
-      // 擷取實際有變動的節點（起點 + 每次價格變動點）
+      // 只保留價格真正改變的節點
       const changeLog = [];
-      sortedEntries.forEach(([date, price], i) => {
-        if (i === 0) {
-          changeLog.push({ date, price, diff: 0, prevPrice: null });
-        } else {
-          const prev = changeLog[changeLog.length - 1].price;
-          if (price !== prev) {
-            changeLog.push({ date, price, diff: price - prev, prevPrice: prev });
-          }
-        }
+      entries.forEach(([date, price]) => {
+        const prev = changeLog[changeLog.length - 1];
+        if (!prev) changeLog.push({ date, price, diff: 0, prevPrice: null, isStart: true });
+        else if (price !== prev.price) changeLog.push({ date, price, diff: price - prev.price, prevPrice: prev.price });
       });
 
-      // 若最新售價與最後一筆紀錄不同，確保補上最新一筆
-      const latestEndYmd = [
-        sortedEntries[sortedEntries.length - 1][0],
-        item.updated_at || '',
-        globalUpdateDate || '',
-      ].filter(Boolean).sort().pop();
-
-      if (Number(item.current_price) !== changeLog[changeLog.length - 1].price) {
-        const prev = changeLog[changeLog.length - 1].price;
+      // 最新售價與最後一筆不同時，補上最新一筆
+      const last = changeLog[changeLog.length - 1];
+      if (Number(item.current_price) !== last.price) {
         changeLog.push({
-          date: latestEndYmd,
+          date: endYmd,
           price: Number(item.current_price),
-          diff: Number(item.current_price) - prev,
-          prevPrice: prev,
+          diff: Number(item.current_price) - last.price,
+          prevPrice: last.price,
         });
       }
 
       const startYmd = changeLog[0].date;
-      const startMs = parseYmdToUtcMs(startYmd);
-      const endMs = parseYmdToUtcMs(latestEndYmd);
-      const spanMultiYear = startYmd.slice(0, 4) !== latestEndYmd.slice(0, 4);
-
-      const changeMap = new Map(changeLog.map((c) => [c.date, c]));
-      const fullDates = [];
-      const labels = [];
-      const prices = [];
-      const pointRadii = [];
-      const turningIndices = [];
-      const dailyEvents = [];
-
-      let activePrice = changeLog[0].price;
-      let idx = 0;
-
-      for (let ms = startMs; ms <= endMs; ms += DAY_MS) {
-        const ymd = formatUtcMsToYmd(ms);
-        const label = spanMultiYear ? ymd.slice(2).replace(/-/g, '/') : ymd.slice(5).replace('-', '/');
-        const evt = changeMap.get(ymd) || null;
-
-        if (evt) {
-          activePrice = evt.price;
-          turningIndices.push(idx);
-        }
-
-        fullDates.push(ymd);
-        labels.push(label);
-        prices.push(activePrice);
-        pointRadii.push(evt ? 4.5 : 0);
-        dailyEvents.push(evt);
-        idx++;
-      }
-
-      // 讓最後一天（最新同步日）保有端點圓點
-      if (pointRadii.length > 0 && pointRadii[pointRadii.length - 1] === 0) {
-        pointRadii[pointRadii.length - 1] = 3.5;
-      }
+      const lastChangeYmd = changeLog[changeLog.length - 1].date;
+      const pre =
+        item.listed_date && item.listed_date < startYmd && Number(item.original_price) > 0
+          ? { listed: item.listed_date, price: Number(item.original_price) }
+          : null;
 
       return {
-        fullDates,
-        labels,
-        prices,
-        pointRadii,
-        turningIndices,
-        dailyEvents,
         changeLog,
         startYmd,
-        endYmd: latestEndYmd,
+        endYmd: endYmd > lastChangeYmd ? endYmd : lastChangeYmd,
+        pre,
       };
     }
 
-    function renderHistoryTable(changeLog, endYmd) {
-      const wrap = document.getElementById('historyTableWrap');
-      const countBadge = document.getElementById('changeCountBadge');
-      const changeTimes = Math.max(0, changeLog.length - 1);
-      countBadge.textContent = `追蹤至 ${endYmd}・共 ${changeTimes} 次調價`;
+    // 挑選 X 軸刻度：優先落在「調價日」，避免刻度擠在一起
+    function pickTicks(keyMs, minMs, maxMs, chartWidth) {
+      const maxTicks = chartWidth < 480 ? 4 : 8;
+      const minGap = Math.max((maxMs - minMs) / maxTicks, DAY_MS);
+      const sorted = [...new Set(keyMs)].sort((a, b) => a - b);
+      const kept = [];
+      sorted.forEach((v) => {
+        if (!kept.length || v - kept[kept.length - 1] >= minGap) kept.push(v);
+        else if (v === sorted[sorted.length - 1]) kept[kept.length - 1] = v; // 保留最後一個日期
+      });
+      return kept;
+    }
 
-      const rows = [...changeLog].reverse().map((entry, revIdx) => {
-        const isFirstRecord = revIdx === changeLog.length - 1;
-        let tagHtml = '<span class="px-1.5 py-0.5 rounded bg-gray-100 text-gray-600 text-[11px]">起始紀錄</span>';
+    function renderHistoryTable(series) {
+      const { changeLog, endYmd, pre } = series;
+      const wrap = $('historyTableWrap');
+      const changeTimes = Math.max(0, changeLog.length - 1);
+      $('changeCountBadge').textContent =
+        changeTimes === 0 ? `追蹤至 ${endYmd}・追蹤期間尚無調價` : `追蹤至 ${endYmd}・共偵測到 ${changeTimes} 次調價`;
+
+      const rows = [...changeLog].reverse().map((entry) => {
+        let tagHtml = '<span class="px-1.5 py-0.5 rounded bg-gray-100 text-gray-600 text-[11px]">開始追蹤</span>';
         let diffHtml = '<span class="text-gray-400">—</span>';
 
-        if (!isFirstRecord && entry.diff < 0) {
+        if (!entry.isStart && entry.diff < 0) {
           const pct = entry.prevPrice ? Math.round((Math.abs(entry.diff) / entry.prevPrice) * 100) : 0;
           tagHtml = '<span class="px-1.5 py-0.5 rounded bg-red-50 text-red-600 font-medium text-[11px]">降價</span>';
           diffHtml = `<span class="text-red-600 font-medium">▼ -NT$${Math.abs(entry.diff).toLocaleString()} (-${pct}%)</span>`;
-        } else if (!isFirstRecord && entry.diff > 0) {
+        } else if (!entry.isStart && entry.diff > 0) {
           const pct = entry.prevPrice ? Math.round((entry.diff / entry.prevPrice) * 100) : 0;
           tagHtml = '<span class="px-1.5 py-0.5 rounded bg-amber-50 text-amber-700 font-medium text-[11px]">調漲</span>';
           diffHtml = `<span class="text-amber-700 font-medium">▲ +NT$${entry.diff.toLocaleString()} (+${pct}%)</span>`;
@@ -603,175 +766,320 @@
         `;
       });
 
+      if (pre) {
+        rows.push(`
+          <div class="px-4 py-2.5 flex items-center justify-between gap-3 bg-gray-50/60">
+            <div class="flex items-center gap-2.5">
+              <span class="font-mono text-gray-500">${pre.listed}</span>
+              <span class="px-1.5 py-0.5 rounded bg-gray-100 text-gray-500 text-[11px]">上架定價</span>
+            </div>
+            <div class="flex items-center gap-4">
+              <span class="font-bold text-gray-500">NT$${pre.price.toLocaleString()}</span>
+              <span class="w-32 text-right text-[11px] text-gray-400">此後調價日期不明</span>
+            </div>
+          </div>
+        `);
+      }
+
       wrap.innerHTML = rows.join('');
     }
 
-    async function openDetail(sku) {
+    function renderJpInfo(item) {
+      const jp = item.jp || {};
+      const detail = jp.detail_zh || jp.detail_ja || '';
+      const review = jp.review_zh || jp.review_ja || '';
+      const detailBox = $('jpDetailBox');
+      const reviewBox = $('jpReviewBox');
+      const note = $('jpInfoNote');
+
+      $('jpDetailText').textContent = detail;
+      $('jpReviewText').textContent = review;
+      detailBox.classList.toggle('hidden', !detail);
+      reviewBox.classList.toggle('hidden', !review);
+
+      if (!detail && !review) {
+        note.textContent =
+          jp.status === 'blocked'
+            ? '日本官網暫時無法讀取，稍後同步成功後會自動顯示商品說明與使用心得。'
+            : '尚未取得這件商品在日本官網的商品說明與使用心得，資料同步後會自動顯示。';
+        return;
+      }
+
+      const untranslated = (detail && !jp.detail_zh) || (review && !jp.review_zh);
+      note.textContent =
+        '內容取自日本 and ST 官網「商品詳細」與「レビューの要約」，已自動翻譯為繁體中文，僅供參考，請以官網為準。' +
+        (untranslated ? '（部分內容尚未翻譯，暫以日文原文顯示。）' : '');
+    }
+
+    async function openDetail(sku, opts = {}) {
       try {
-        const res = await fetch(`data/items/${sku}.json?t=` + Date.now());
+        const res = await fetch(`data/items/${encodeURIComponent(sku)}.json?t=` + Date.now());
+        if (!res.ok) throw new Error('not found');
         const item = await res.json();
         currentSku = item.sku;
         const brand = detectBrand(item);
 
-        document.getElementById('detailImg').src = item.image;
-        document.getElementById('detailBrandBadge').textContent = brand;
-        document.getElementById('detailTitle').textContent = item.title;
-        document.getElementById('detailMeta').textContent =
+        pushRecent(STORE_PRODUCTS, item.sku, MAX_RECENT_PRODUCTS);
+        if (isHomeView()) renderHome();
+
+        const series = buildSeries(item, latestUpdateDate);
+        const observedPrices = series.changeLog.map((c) => c.price);
+        const minPrice = Math.min(...observedPrices);
+        const maxPrice = Math.max(...observedPrices, Number(item.original_price) || 0);
+
+        $('detailImg').src = httpsUrl(item.image);
+        $('detailBrandBadge').textContent = brand;
+        $('detailTitle').textContent = item.title;
+        $('detailMeta').textContent =
           `貨號 ${item.sku} • 上架 ${item.listed_date || '-'} • 原價 NT$${(item.original_price || item.current_price).toLocaleString()} • 現價 NT$${item.current_price.toLocaleString()}`;
-        document.getElementById('cardMaxPrice').textContent = item.max_price.toLocaleString();
-        document.getElementById('cardMinPrice').textContent = item.min_price.toLocaleString();
+        $('cardMaxPrice').textContent = maxPrice.toLocaleString();
+        $('cardMinPrice').textContent = minPrice.toLocaleString();
 
-        document.getElementById('tabTwLink').href = item.url;
-        document.getElementById('tabJpLink').href =
-          `https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=${encodeURIComponent(item.sku)}`;
+        $('tabTwLink').href = twUrl(item);
+        const jp = jpLink(item);
+        $('tabJpLink').href = jp.url;
+        $('tabJpLink').innerHTML = jp.exact ? '日本官網商品頁 &nearr;' : '日本官網搜尋 &nearr;';
 
-        const detailSection = document.getElementById('detailSection');
+        const detailSection = $('detailSection');
         detailSection.classList.remove('hidden');
-        detailSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        if (opts.scroll !== false) detailSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
 
-        const series = buildContinuousSeries(item, latestUpdateDate);
-        renderHistoryTable(series.changeLog, series.endYmd);
-
-        const hintEl = document.getElementById('chartHint');
-        if (series.fullDates.length <= 1) {
-          hintEl.textContent = `追蹤區間：${series.startYmd}（剛開始收錄，後續每日同步有調價時將自動繪製階梯走勢）`;
-        } else {
-          hintEl.textContent = `追蹤區間：${series.startYmd} ～ ${series.endYmd}（共 ${series.fullDates.length} 天，橘點標記為起點與調價日）`;
-        }
-
-        const datasets = [{
-          label: '售價 (NT$)',
-          data: series.prices,
-          borderColor: '#d9534f',
-          borderWidth: 2.2,
-          stepped: true, // Chart.js step-before：維持舊價直到變動日當天垂直落差至新價
-          fill: false,
-          pointRadius: series.pointRadii,
-          pointHoverRadius: 6,
-          pointBackgroundColor: '#f59e0b',
-          pointBorderColor: '#d9534f',
-          pointBorderWidth: 1.5,
-          _turningIndices: series.turningIndices,
-        }];
-
-        // 若商品有原始定價且高於目前最低價，疊加原價參考虛線
-        if (item.original_price && item.original_price > Math.min(...series.prices)) {
-          datasets.push({
-            label: `原價參考 (NT$${item.original_price.toLocaleString()})`,
-            data: series.prices.map(() => item.original_price),
-            borderColor: '#9ca3af',
-            borderWidth: 1,
-            borderDash: [5, 5],
-            pointRadius: 0,
-            pointHoverRadius: 0,
-            fill: false,
-          });
-        }
-
-        const maxVal = Math.max(...series.prices, item.max_price, item.original_price || 0);
-        const suggestedMax = Math.ceil((maxVal * 1.12) / 100) * 100;
-
-        const ctx = document.getElementById('priceChart').getContext('2d');
-        if (priceChart) priceChart.destroy();
-        priceChart = new Chart(ctx, {
-          type: 'line',
-          data: {
-            labels: series.labels,
-            datasets,
-          },
-          plugins: [turningPointLabelPlugin],
-          options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            interaction: { mode: 'index', intersect: false },
-            plugins: {
-              legend: {
-                display: datasets.length > 1,
-                position: 'top',
-                align: 'end',
-                labels: { boxWidth: 14, font: { size: 11 }, color: '#6b7280' },
-              },
-              tooltip: {
-                filter: (tooltipItem) => tooltipItem.datasetIndex === 0,
-                callbacks: {
-                  title: (items) => `日期：${series.fullDates[items[0].dataIndex]}`,
-                  label: (ctx) => {
-                    const i = ctx.dataIndex;
-                    const evt = series.dailyEvents[i];
-                    let text = `售價：NT$ ${ctx.parsed.y.toLocaleString()}`;
-                    if (evt && evt.diff < 0) {
-                      text += `（▼ 降價 NT$${Math.abs(evt.diff).toLocaleString()}）`;
-                    } else if (evt && evt.diff > 0) {
-                      text += `（▲ 調漲 NT$${evt.diff.toLocaleString()}）`;
-                    } else if (evt && i === 0) {
-                      text += '（起始紀錄）';
-                    }
-                    return text;
-                  },
-                },
-              },
-            },
-            scales: {
-              x: {
-                grid: { display: false },
-                ticks: {
-                  maxRotation: 45,
-                  minRotation: 45,
-                  autoSkip: true,
-                  maxTicksLimit: 20,
-                  font: { size: 11 },
-                  color: '#6b7280',
-                },
-              },
-              y: {
-                beginAtZero: true,
-                suggestedMax,
-                grid: { color: '#f3f4f6' },
-                ticks: {
-                  font: { size: 11 },
-                  color: '#6b7280',
-                  callback: (v) => `NT$${Number(v).toLocaleString()}`,
-                },
-              },
-            },
-          },
-        });
+        renderHistoryTable(series);
+        renderJpInfo(item);
+        drawChart(item, series);
       } catch (e) {
         alert('無法讀取該商品的歷史紀錄');
       }
     }
 
+    function drawChart(item, series) {
+      const { changeLog, startYmd, endYmd, pre } = series;
+      const multiYear = (pre ? pre.listed : startYmd).slice(0, 4) !== endYmd.slice(0, 4);
+      const fmtTick = (ms) => {
+        const y = formatUtcMsToYmd(ms);
+        return multiYear ? y.slice(2).replace(/-/g, '/') : y.slice(5).replace('-', '/');
+      };
+      const fmtLabelDate = fmtTick;
+
+      // 實線：本站實際觀測的價格（階梯式：維持舊價，直到偵測到調價當天才垂直變動）
+      const changePts = changeLog.map((c) => ({ x: parseYmdToUtcMs(c.date), y: c.price }));
+      const endMs = parseYmdToUtcMs(endYmd);
+      const pts = [...changePts];
+      if (endMs > changePts[changePts.length - 1].x) pts.push({ x: endMs, y: changePts[changePts.length - 1].y });
+
+      const datasets = [{
+        label: '售價 (NT$)',
+        data: pts,
+        borderColor: '#d9534f',
+        borderWidth: 2.2,
+        stepped: 'before',
+        fill: false,
+        pointRadius: pts.map((_, i) => (i < changePts.length ? 5 : 3.5)),
+        pointHoverRadius: 7,
+        pointBackgroundColor: pts.map((_, i) => (i < changePts.length ? '#f59e0b' : '#ffffff')),
+        pointBorderColor: '#d9534f',
+        pointBorderWidth: 1.5,
+        // 每個調價點旁的標籤：日期 + 變動後售價
+        _labels: changePts.map((p) => `${fmtLabelDate(p.x)} $${p.y.toLocaleString()}`),
+      }];
+
+      // 虛線：上架日 ～ 開始追蹤日，只知道兩端價格，不知道中間何時調價
+      let preDatasetIndex = -1;
+      if (pre) {
+        preDatasetIndex = datasets.length;
+        datasets.push({
+          label: '上架至開始追蹤（調價日期不明）',
+          data: [
+            { x: parseYmdToUtcMs(pre.listed), y: pre.price },
+            { x: changePts[0].x, y: changePts[0].y },
+          ],
+          borderColor: '#9ca3af',
+          borderWidth: 1.6,
+          borderDash: [6, 5],
+          fill: false,
+          pointRadius: [4, 0],
+          pointHoverRadius: [6, 0],
+          pointBackgroundColor: '#ffffff',
+          pointBorderColor: '#9ca3af',
+          pointBorderWidth: 1.5,
+        });
+      } else if (Number(item.original_price) > Math.min(...changeLog.map((c) => c.price))) {
+        datasets.push({
+          label: `原價參考 (NT$${Number(item.original_price).toLocaleString()})`,
+          data: [
+            { x: changePts[0].x, y: Number(item.original_price) },
+            { x: pts[pts.length - 1].x, y: Number(item.original_price) },
+          ],
+          borderColor: '#9ca3af',
+          borderWidth: 1,
+          borderDash: [5, 5],
+          pointRadius: 0,
+          pointHoverRadius: 0,
+          fill: false,
+        });
+      }
+
+      // X 軸範圍（單一天資料時前後各留 3 天）
+      let minX = pre ? parseYmdToUtcMs(pre.listed) : changePts[0].x;
+      let maxX = pts[pts.length - 1].x;
+      if (maxX - minX < DAY_MS) { minX -= 3 * DAY_MS; maxX += 3 * DAY_MS; }
+      const pad = Math.max((maxX - minX) * 0.04, DAY_MS);
+      minX -= pad; maxX += pad;
+
+      const keyTicks = [...changePts.map((p) => p.x), pts[pts.length - 1].x];
+      if (pre) keyTicks.unshift(parseYmdToUtcMs(pre.listed));
+
+      const allPrices = datasets.flatMap((d) => d.data.map((p) => p.y));
+      const suggestedMax = Math.ceil((Math.max(...allPrices, Number(item.original_price) || 0) * 1.12) / 100) * 100;
+
+      // 提示文字
+      const hintEl = $('chartHint');
+      let hint = `本站自 ${startYmd} 起每日同步一次價格；圖上每個圓點＝偵測到價格變動的日期與變動後售價（調價日以首次偵測日為準）。`;
+      if (pre) hint += ` 上架日 ${pre.listed} 至 ${startYmd} 之間的調價日期無法取得，以灰色虛線表示。`;
+      hintEl.textContent = hint;
+
+      const ctx = $('priceChart').getContext('2d');
+      if (priceChart) priceChart.destroy();
+      priceChart = new Chart(ctx, {
+        type: 'line',
+        data: { datasets },
+        plugins: [turningPointLabelPlugin, untrackedBandPlugin],
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          interaction: { mode: 'nearest', axis: 'x', intersect: false },
+          plugins: {
+            untrackedBand: pre ? { from: parseYmdToUtcMs(pre.listed), to: changePts[0].x } : {},
+            legend: {
+              display: datasets.length > 1,
+              position: 'top',
+              align: 'end',
+              labels: { boxWidth: 14, font: { size: 11 }, color: '#6b7280' },
+            },
+            tooltip: {
+              filter: (t) => !(t.datasetIndex === preDatasetIndex && t.dataIndex === 1) && (t.datasetIndex === 0 || t.datasetIndex === preDatasetIndex),
+              callbacks: {
+                title: (items) => `日期：${formatUtcMsToYmd(items[0].parsed.x)}`,
+                label: (c) => {
+                  if (c.datasetIndex === preDatasetIndex) {
+                    return `上架定價：NT$ ${c.parsed.y.toLocaleString()}（此後調價日期不明）`;
+                  }
+                  const ymd = formatUtcMsToYmd(c.parsed.x);
+                  const evt = changeLog.find((e) => e.date === ymd);
+                  let text = `售價：NT$ ${c.parsed.y.toLocaleString()}`;
+                  if (evt && evt.isStart) text += '（開始追蹤）';
+                  else if (evt && evt.diff < 0) text += `（▼ 降價 NT$${Math.abs(evt.diff).toLocaleString()}）`;
+                  else if (evt && evt.diff > 0) text += `（▲ 調漲 NT$${evt.diff.toLocaleString()}）`;
+                  else text += '（最新同步日，價格未變）';
+                  return text;
+                },
+              },
+            },
+          },
+          scales: {
+            x: {
+              type: 'linear',
+              min: minX,
+              max: maxX,
+              grid: { color: '#f3f4f6' },
+              afterBuildTicks(scale) {
+                scale.ticks = pickTicks(keyTicks, minX, maxX, scale.chart.width).map((v) => ({ value: v }));
+              },
+              ticks: {
+                autoSkip: false,
+                maxRotation: 0,
+                font: { size: 11 },
+                color: '#6b7280',
+                callback: (v) => fmtTick(v),
+              },
+            },
+            y: {
+              beginAtZero: true,
+              suggestedMax,
+              grid: { color: '#f3f4f6' },
+              ticks: {
+                font: { size: 11 },
+                color: '#6b7280',
+                callback: (v) => `NT$${Number(v).toLocaleString()}`,
+              },
+            },
+          },
+        },
+      });
+    }
+
+    // ---------- 事件 ----------
+    $('searchForm').addEventListener('submit', (e) => {
+      e.preventDefault();
+      submitSearch($('searchInput').value);
+      $('searchInput').blur();
+    });
+
     document.querySelectorAll('.filter-tab').forEach((btn) => {
       btn.addEventListener('click', () => {
-        document.querySelectorAll('.filter-tab').forEach((b) => {
-          b.classList.remove('font-semibold', 'text-red-600', 'border-b-2', 'border-red-600');
-          b.classList.add('hover:text-gray-900');
-        });
-        btn.classList.add('font-semibold', 'text-red-600', 'border-b-2', 'border-red-600');
         currentMode = btn.dataset.mode;
-        applyFilter();
+        browseAll = false;
+        syncTabs();
+        refreshView();
       });
     });
 
-    document.getElementById('sortSelect').addEventListener('change', (e) => {
+    $('browseAllBtn').addEventListener('click', () => {
+      browseAll = true;
+      currentMode = 'all';
+      syncTabs();
+      refreshView();
+    });
+
+    $('clearSearchBtn').addEventListener('click', () => {
+      browseAll = false;
+      clearSearch();
+    });
+
+    $('sortSelect').addEventListener('change', (e) => {
       currentSort = e.target.value;
       applyFilter();
     });
 
-    document.getElementById('copySkuBtn').addEventListener('click', async () => {
+    $('brandFilterBar').addEventListener('click', (e) => {
+      const btn = e.target.closest('.brand-pill');
+      if (!btn) return;
+      currentBrand = btn.dataset.brand;
+      renderBrandFilter();
+      applyFilter();
+    });
+
+    ['productGrid', 'recentGrid'].forEach((id) => {
+      $(id).addEventListener('click', (e) => {
+        const card = e.target.closest('.product-card');
+        if (card) openDetail(card.dataset.sku);
+      });
+    });
+
+    $('recentQueries').addEventListener('click', (e) => {
+      const btn = e.target.closest('.recent-query');
+      if (btn) submitSearch(btn.dataset.query);
+    });
+
+    $('clearRecentBtn').addEventListener('click', () => {
+      saveList(STORE_PRODUCTS, []);
+      saveList(STORE_QUERIES, []);
+      renderHome();
+    });
+
+    $('copySkuBtn').addEventListener('click', async () => {
       if (!currentSku) return;
-      await navigator.clipboard.writeText(currentSku);
-      const btn = document.getElementById('copySkuBtn');
+      try { await navigator.clipboard.writeText(currentSku); } catch (e) { /* ignore */ }
+      const btn = $('copySkuBtn');
       btn.textContent = '已複製！';
       setTimeout(() => { btn.textContent = '複製貨號'; }, 1500);
     });
 
-    document.getElementById('closeDetailBtn').addEventListener('click', () => {
-      document.getElementById('detailSection').classList.add('hidden');
+    $('closeDetailBtn').addEventListener('click', () => {
+      $('detailSection').classList.add('hidden');
     });
 
-    document.getElementById('searchInput').addEventListener('input', applyFilter);
-    document.getElementById('loadMoreBtn').addEventListener('click', () => {
+    $('loadMoreBtn').addEventListener('click', () => {
       visibleCount += 40;
       renderGrid();
     });
