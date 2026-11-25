@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
+        with:
+          ref: main # 排隊等待後仍取得最新版，而不是觸發當下的舊版
 
       - name: Set up Python
         uses: actions/setup-python@v6
@@ -37,6 +39,14 @@ jobs:
           git add data/
           if ! git diff --quiet || ! git diff --staged --quiet; then
             git commit -m "Update prices $(date +'%Y-%m-%d')"
-            git pull --rebase
-            git push
+            # data/ 是程式整份重新產生的資料；與別的執行同時更新時以本次結果為準，失敗則重試
+            for i in 1 2 3 4 5; do
+              if git pull --rebase -X theirs origin main && git push origin HEAD:main; then
+                exit 0
+              fi
+              git rebase --abort 2>/dev/null || true
+              sleep $((i * 5))
+            done
+            echo "推送失敗" >&2
+            exit 1
           fi
