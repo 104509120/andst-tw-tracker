@@ -1,0 +1,75 @@
+name: Enrich JP product info
+
+# 與價格爬蟲共用同一個 concurrency 群組：兩者會排隊依序執行，不會同時改寫 data/
+concurrency:
+  group: update-prices-data
+  cancel-in-progress: false
+
+on:
+  schedule:
+    - cron: '0 20 * * *' # UTC 20:00 = 台灣時間隔日 04:00（避開中午的價格爬蟲）
+  workflow_dispatch:
+    inputs:
+      sku:
+        description: '只測試單一貨號（例：635139；留空代表依優先順序批次處理）'
+        required: false
+        default: ''
+      limit:
+        description: '批次處理件數上限'
+        required: false
+        default: '1500'
+      debug:
+        description: '儲存原始 HTML 供除錯（會附加為 Artifacts）'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install curl_cffi beautifulsoup4
+
+      - name: Run JP enrich
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          INPUT_SKU: ${{ inputs.sku }}
+          INPUT_LIMIT: ${{ inputs.limit }}
+          INPUT_DEBUG: ${{ inputs.debug }}
+        run: |
+          ARGS=""
+          if [ -n "$INPUT_SKU" ]; then ARGS="$ARGS --sku $INPUT_SKU"; fi
+          if [ -n "$INPUT_LIMIT" ]; then ARGS="$ARGS --limit $INPUT_LIMIT"; fi
+          if [ "$INPUT_DEBUG" = "true" ]; then ARGS="$ARGS --debug"; fi
+          python jp_enrich.py $ARGS
+
+      - name: Upload debug HTML
+        if: ${{ inputs.debug }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: jp-debug
+          path: debug/jp/
+          if-no-files-found: ignore
+
+      - name: Commit and push enriched data
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/
+          if ! git diff --quiet || ! git diff --staged --quiet; then
+            git commit -m "Enrich JP info $(date +'%Y-%m-%d')"
+            git pull --rebase
+            git push
+          fi
