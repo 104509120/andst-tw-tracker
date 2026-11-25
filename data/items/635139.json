@@ -17,5 +17,14 @@
   "listed_date": "2026-04-21",
   "updated_at": "2026-11-25",
   "brand": "PAGEBOY",
-  "first_seen": "2026-11-24"
+  "first_seen": "2026-11-24",
+  "jp": {
+    "checked_at": "2026-11-26",
+    "url": "https://www.dot-st.com/pageboy/disp/item/635139/",
+    "status": "ok",
+    "detail_ja": "関連タグ\n#{{ tag.tagName }}\n#{{ tag.tagName }}\nこのアイテムを使ったスタイリング\nスタイル\nあなたの身長に合わせる\nレビュー動画\n最近チェックしたアイテム\nPAGE TOP\nand STについて\nサービス一覧\nヘルプ\n会社概要\n利用規約\n採用情報\n個人情報保護方針\nCookieポリシー >\n特定商取引法に基づく通販の表記\nヘルプ\nCopyright © and ST HD Co., Ltd. All rights reserved.\nカラー・サイズ選択\n全{{ itemDetailLarge.itemColorBeanList.length }}色\n「♥」を押してお気に入りに登録すると、商品の「再入荷・在庫わずか・値下げ」情報をお知らせします。\n商品をカートに追加しました\nサイズ： L\nカラー： アイボリー08\n¥999,999 税込\nカートへ進む\nお買い物を続ける\n商品をカートに入れられませんでした\n不正な遷移がありました。画像を再表示して再登録してください。\n商品をカートに入れられませんでした\n不正な遷移がありました。画像を再表示して再登録してください。\n在庫一覧の取得に失敗しました。\n画面の再読み込みをお試しください。\n{{ brandNm }}\n{{ itemNm }}\nアイテムコード：{{ itemCd }}\nカラー：{{ colorNm }}\nサイズ：{{ sizeNm }}\n在庫情報が取得できませんでした。時間をおいて再度お試しください。\nカラー\n{{colorBean.colorNm}}",
+    "detail_zh": "相關標籤\n#{{ tag.tagName }}\n#{{ tag.tagName }}\n使用該商品進行造型\n風格\n適合你的身高\n回顧影片\n最近檢查的項目\n頁首\n以及關於ST\n服務清單\n幫助\n公司簡介\n使用條款\n招募資訊\n隱私權政策\nCookie 政策 >\n基於特定商業交易法的郵購說明\n幫助\n版權所有© ST HD Co., Ltd. 保留所有權利。\n顏色/尺寸選擇\n所有 {{ itemDetailLarge.itemColorBeanList.length }} 顏色\n如果您按「♥」將其新增至您的收藏夾，我們會在該產品重新有貨、庫存有限或降價時通知您。\n產品已加入購物車\n尺寸：L\n顏色: 象牙色 08\n999,999日圓（含稅）\n前往購物車\n繼續購物\n無法將商品加入購物車\n存在非法過渡。請重新顯示圖像並重新註冊。\n無法將商品加入購物車\n存在非法過渡。請重新顯示圖像並重新註冊。\n取得庫存清單失敗。\n請嘗試重新加載畫面。\n{{ 品牌名稱 }}\n{{ 項目編號 }}\n商品代碼：{{ itemCd }}\n顏色：{{ colorNm }}\n尺寸: {{ sizeNm }}\n無法取得庫存資訊。請稍後重試。\n顏色\n{{colorBean.colorNm}}",
+    "translator": "gtx",
+    "detail_source": "page"
+  }
 }
