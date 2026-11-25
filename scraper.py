@@ -19,6 +19,13 @@ HEADERS = {
 TW_TZ = timezone(timedelta(hours=8))
 TODAY = datetime.now(TW_TZ).strftime("%Y-%m-%d")
 
+# 本站「真正開始逐日記錄價格」的第一天。
+# 早於此日的歷史資料並不是實際觀測到的價格（舊版程式曾以「上架日＋定價」補點），
+# 一律視為無效，避免走勢圖出現不存在的調價日期。
+TRACKING_START = "2026-11-23"
+
+TW_ITEM_URL = "https://www.dot-st.tw/SalePage/Index/{salepage_id}"
+
 # and ST TW 常見品牌對照表（依匹配精確度排序）
 BRAND_PATTERNS = [
     ("apart by lowrys", re.compile(r"apart\s*by(?:\s*lowrys)?|a\s*part\s*by", re.IGNORECASE)),
@@ -282,6 +289,31 @@ def parse_product_page(salepage_id: str, url: str) -> tuple[str, dict | str]:
     )
 
 
+def sku_rank(item: dict):
+    """同一貨號有多個 SalePage 時的挑選順序：標題含完整貨號者優先，其次取最低價"""
+    return (0 if item["sku"] in item.get("title", "") else 1, item["price"])
+
+
+def clean_history(record: dict) -> list[dict]:
+    """
+    只保留「真正逐日觀測到」的價格紀錄：
+    - 丟棄早於 TRACKING_START 的紀錄（舊版以上架日補的假資料）
+    - 同日去重、依日期排序、連續相同價格只留第一筆（僅記錄價格轉折點）
+    """
+    dedup = {}
+    for h in record.get("history", []):
+        date, price = h.get("date"), h.get("price")
+        if date and price is not None and str(date)[:10] >= TRACKING_START:
+            dedup[str(date)[:10]] = int(price)
+
+    cleaned = []
+    for d, p in sorted(dedup.items()):
+        if cleaned and cleaned[-1]["price"] == p:
+            continue
+        cleaned.append({"date": d, "price": p})
+    return cleaned
+
+
 def main():
     os.makedirs("data/items", exist_ok=True)
     salepages = get_all_salepage_urls()
@@ -317,13 +349,12 @@ def main():
     by_sku = {}
     for item in results:
         sku = item["sku"]
-        if sku not in by_sku or item["price"] < by_sku[sku]["price"]:
+        if sku not in by_sku or sku_rank(item) < sku_rank(by_sku[sku]):
             by_sku[sku] = item
 
     index_list = []
     for sku, item in by_sku.items():
         item_path = f"data/items/{sku}.json"
-        jp_search_url = f"https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q={sku}"
         if os.path.exists(item_path):
             with open(item_path, "r", encoding="utf-8") as f:
                 record = json.load(f)
@@ -337,28 +368,20 @@ def main():
         record["listed_date"] = listed_date
         record["updated_at"] = TODAY
         record["brand"] = item["brand"]
-        record["jp_url"] = jp_search_url
         record["salepage_id"] = item["salepage_id"]
-        record["url"] = item["url"]
+        # 台灣官網商品頁：一律以 SalePageId 組出標準網址
+        # 例：https://www.dot-st.tw/SalePage/Index/11726297
+        record["url"] = TW_ITEM_URL.format(salepage_id=item["salepage_id"])
         record["title"] = item["title"]
         record["image"] = item["image"]
         record["current_price"] = item["price"]
         record["original_price"] = item["original_price"]
+        # 日本官網網址由 jp_enrich.py 實際比對後寫入 record["jp"]["url"]；
+        # 舊版固定寫入的搜尋連結不再保留
+        record.pop("jp_url", None)
 
-        # 依日期排序並去重整理既有歷史紀錄
-        raw_history = record.get("history", [])
-        dedup_map = {}
-        for h in raw_history:
-            if h.get("date") and h.get("price") is not None:
-                dedup_map[h["date"]] = int(h["price"])
-        history = [{"date": d, "price": p} for d, p in sorted(dedup_map.items())]
-
-        # 若上架日早於目前最早紀錄，補上上架日原價起點
-        if listed_date < TODAY:
-            if not history:
-                history.append({"date": listed_date, "price": item["original_price"]})
-            elif listed_date < history[0]["date"]:
-                history.insert(0, {"date": listed_date, "price": item["original_price"]})
+        # 只保留真實觀測到的價格紀錄（同時清掉舊版以上架日補的假資料）
+        history = clean_history(record)
 
         # 寫入今日最新價格（僅記錄轉折點；若同日重複執行則覆蓋今日價格）
         if not history:
@@ -370,9 +393,15 @@ def main():
         elif history[-1]["price"] != item["price"]:
             history.append({"date": TODAY, "price": item["price"]})
 
-        prices = [h["price"] for h in history] + [item["price"]]
-        record["min_price"] = min(prices)
-        record["max_price"] = max(prices)
+        # 本站第一次記錄到這件商品的日期（早於此日的調價日期無從得知）
+        record["first_seen"] = min(history[0]["date"], record.get("first_seen") or history[0]["date"])
+        if record["first_seen"] < TRACKING_START:
+            record["first_seen"] = history[0]["date"]
+
+        # 歷史低價 = 實際觀測到的最低價；歷史高價 = 觀測最高價與官方定價取大者
+        observed = [h["price"] for h in history] + [item["price"]]
+        record["min_price"] = min(observed)
+        record["max_price"] = max(observed + [item["original_price"]])
         record["history"] = history
 
         with open(item_path, "w", encoding="utf-8") as f:
@@ -395,7 +424,12 @@ def main():
     index_list.sort(key=lambda x: (x["listed_date"], int(x["salepage_id"])), reverse=True)
     with open("data/index.json", "w", encoding="utf-8") as f:
         json.dump(
-            {"updated_at": TODAY, "count": len(index_list), "items": index_list},
+            {
+                "updated_at": TODAY,
+                "tracking_started": TRACKING_START,
+                "count": len(index_list),
+                "items": index_list,
+            },
             f,
             ensure_ascii=False,
         )
