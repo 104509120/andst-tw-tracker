@@ -19,7 +19,14 @@
   "min_price": 796,
   "max_price": 1990,
   "listed_date": "2026-08-28",
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "brand": "JEANASIS",
-  "first_seen": "2026-11-24"
+  "first_seen": "2026-11-24",
+  "last_drop": {
+    "date": "2026-11-25",
+    "from": 990,
+    "to": 796,
+    "amount": 194,
+    "pct": 19.6
+  }
 }

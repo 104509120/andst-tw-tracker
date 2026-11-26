@@ -7,7 +7,7 @@
     }
   ],
   "listed_date": "2026-11-17",
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "brand": "其他品牌",
   "salepage_id": "12314126",
   "url": "https://www.dot-st.tw/SalePage/Index/12314126",
@@ -17,5 +17,6 @@
   "original_price": 1490,
   "first_seen": "2026-11-26",
   "min_price": 1490,
-  "max_price": 1490
+  "max_price": 1490,
+  "last_drop": null
 }

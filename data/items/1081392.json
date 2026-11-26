@@ -15,11 +15,12 @@
   "min_price": 890,
   "max_price": 890,
   "listed_date": "2026-11-11",
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "brand": "niko and ...",
   "first_seen": "2026-11-24",
   "jp": {
     "checked_at": "2026-11-26",
     "status": "not_found"
-  }
+  },
+  "last_drop": null
 }

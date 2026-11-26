@@ -7,7 +7,7 @@
     }
   ],
   "listed_date": "2024-08-06",
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "brand": "niko and ...",
   "salepage_id": "10041277",
   "url": "https://www.dot-st.tw/SalePage/Index/10041277",
@@ -17,5 +17,6 @@
   "original_price": 230,
   "first_seen": "2026-11-25",
   "min_price": 230,
-  "max_price": 230
+  "max_price": 230,
+  "last_drop": null
 }

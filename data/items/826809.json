@@ -19,7 +19,14 @@
   "min_price": 1490,
   "max_price": 1990,
   "listed_date": "2026-10-15",
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "brand": "LEPSIM",
-  "first_seen": "2026-11-24"
+  "first_seen": "2026-11-24",
+  "last_drop": {
+    "date": "2026-11-25",
+    "from": 1990,
+    "to": 1490,
+    "amount": 500,
+    "pct": 25.1
+  }
 }

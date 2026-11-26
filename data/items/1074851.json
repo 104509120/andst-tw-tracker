@@ -15,7 +15,7 @@
   "min_price": 690,
   "max_price": 690,
   "listed_date": "2026-11-12",
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "brand": "LEPSIM",
   "first_seen": "2026-11-24",
   "jp": {
@@ -28,5 +28,6 @@
     "detail_zh": "日本製造耳夾\n・日本工匠獨有的細緻加工。\n・耳夾尺寸小巧，可輕鬆與其他耳飾搭配使用◎\n・推薦作為禮物！\n\n材質：無描述",
     "translator": "gtx",
     "detail_source": "rendered"
-  }
+  },
+  "last_drop": null
 }

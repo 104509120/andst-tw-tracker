@@ -19,11 +19,18 @@
   "min_price": 990,
   "max_price": 1490,
   "listed_date": "2026-11-04",
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "brand": "repipi armario",
   "first_seen": "2026-11-24",
   "jp": {
     "checked_at": "2026-11-26",
     "status": "not_found"
+  },
+  "last_drop": {
+    "date": "2026-11-26",
+    "from": 1490,
+    "to": 990,
+    "amount": 500,
+    "pct": 33.6
   }
 }

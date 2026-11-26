@@ -15,7 +15,7 @@
   "min_price": 690,
   "max_price": 690,
   "listed_date": "2026-11-19",
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "brand": "LEPSIM",
   "first_seen": "2026-11-24",
   "jp": {
@@ -28,5 +28,6 @@
     "detail_zh": "由羅紋彈性針織材質製成的暖手器\n它不僅可以保護您免受寒冷，而且還可以在穿著外套時為您的服裝增色不少。\n我們還建議將其用作針織袖子的配色方案！\n\n材質：40% 腈綸、31% 聚酯纖維、29% 尼龍",
     "translator": "gtx",
     "detail_source": "rendered"
-  }
+  },
+  "last_drop": null
 }

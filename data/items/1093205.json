@@ -15,7 +15,7 @@
   "min_price": 590,
   "max_price": 590,
   "listed_date": "2026-11-09",
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "brand": "LEPSIM",
   "first_seen": "2026-11-24",
   "jp": {
@@ -26,5 +26,6 @@
     "status": "ok",
     "detail_ja": "洗濯機で洗えるニットワッチ\n柔らかく肌触りが良いニット素材なので、チクチクせず被っていただけます。\n男の子でも女の子でも被りやすいカラー展開になっています♪\n\n素材：アクリル100％",
     "detail_source": "rendered"
-  }
+  },
+  "last_drop": null
 }

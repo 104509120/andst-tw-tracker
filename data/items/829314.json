@@ -13,13 +13,20 @@
   "salepage_id": "12176177",
   "url": "https://www.dot-st.tw/SalePage/Index/12176177",
   "title": "studio CLIP荷葉邊蓬裙罩衫外套-三色-829314",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12176177/0/639312844700830000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12176177/0/639313345749800000?v=1",
   "current_price": 1155,
   "original_price": 2490,
   "min_price": 1155,
   "max_price": 2490,
   "listed_date": "2026-09-22",
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "brand": "studio CLIP",
-  "first_seen": "2026-11-24"
+  "first_seen": "2026-11-24",
+  "last_drop": {
+    "date": "2026-11-26",
+    "from": 1494,
+    "to": 1155,
+    "amount": 339,
+    "pct": 22.7
+  }
 }

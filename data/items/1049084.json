@@ -7,7 +7,7 @@
     }
   ],
   "listed_date": "2026-08-26",
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "brand": "GLOBAL WORK",
   "salepage_id": "12103414",
   "url": "https://www.dot-st.tw/SalePage/Index/12103414",
@@ -17,5 +17,6 @@
   "original_price": 990,
   "first_seen": "2026-11-25",
   "min_price": 455,
-  "max_price": 990
+  "max_price": 990,
+  "last_drop": null
 }

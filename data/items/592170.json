@@ -7,7 +7,7 @@
     }
   ],
   "listed_date": "2025-10-01",
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "brand": "studio CLIP",
   "salepage_id": "11192143",
   "url": "https://www.dot-st.tw/SalePage/Index/11192143",
@@ -17,5 +17,6 @@
   "original_price": 2090,
   "first_seen": "2026-11-26",
   "min_price": 836,
-  "max_price": 2090
+  "max_price": 2090,
+  "last_drop": null
 }

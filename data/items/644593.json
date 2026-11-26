@@ -15,7 +15,8 @@
   "min_price": 1655,
   "max_price": 3690,
   "listed_date": "2026-03-05",
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "brand": "PAGEBOY",
-  "first_seen": "2026-11-24"
+  "first_seen": "2026-11-24",
+  "last_drop": null
 }

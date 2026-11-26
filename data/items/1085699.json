@@ -15,7 +15,7 @@
   "min_price": 1290,
   "max_price": 1290,
   "listed_date": "2026-11-19",
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "brand": "LEPSIM",
   "first_seen": "2026-11-24",
   "jp": {
@@ -28,5 +28,6 @@
     "detail_zh": "推出 Marche 型迷你包！\n・薄流蘇材質 x 迷你亮片對接材質\n・帶有流蘇和亮片的華麗感的單品\n- 休閒低調的亮片，非常適合日常使用或作為焦點♪\n\n材質： 外層材質： 聚酯纖維 內襯： 聚酯纖維",
     "translator": "gtx",
     "detail_source": "rendered"
-  }
+  },
+  "last_drop": null
 }

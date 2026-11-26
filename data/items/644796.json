@@ -15,7 +15,8 @@
   "min_price": 2155,
   "max_price": 4390,
   "listed_date": "2026-04-08",
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "brand": "HARE",
-  "first_seen": "2026-11-24"
+  "first_seen": "2026-11-24",
+  "last_drop": null
 }

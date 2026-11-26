@@ -15,7 +15,7 @@
   "min_price": 1890,
   "max_price": 1890,
   "listed_date": "2026-11-12",
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "brand": "LEPSIM",
   "first_seen": "2026-11-24",
   "jp": {
@@ -28,5 +28,6 @@
     "detail_zh": "兩用包，圓形輪廓，褶皺設計，給人女性化的印象。\n・採用柔軟的人造皮革材質製成\n・有光澤黑、仿麂皮棕色 2 種顏色可供選擇\n・手柄可更換為登山扣，因此有兩種使用方式：肩背或肩背。\n・即使是緊湊的尺寸，也可以存放塑膠瓶，方便的尺寸◎\n\n材質：正面：合成皮革 背面：聚酯纖維",
     "translator": "gtx",
     "detail_source": "rendered"
-  }
+  },
+  "last_drop": null
 }

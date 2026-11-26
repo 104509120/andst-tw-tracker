@@ -15,11 +15,12 @@
   "min_price": 1490,
   "max_price": 1490,
   "listed_date": "2026-11-05",
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "brand": "其他品牌",
   "first_seen": "2026-11-24",
   "jp": {
     "checked_at": "2026-11-26",
     "status": "not_found"
-  }
+  },
+  "last_drop": null
 }

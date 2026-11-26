@@ -19,7 +19,14 @@
   "min_price": 990,
   "max_price": 1990,
   "listed_date": "2026-09-16",
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "brand": "Heather",
-  "first_seen": "2026-11-24"
+  "first_seen": "2026-11-24",
+  "last_drop": {
+    "date": "2026-11-25",
+    "from": 1290,
+    "to": 990,
+    "amount": 300,
+    "pct": 23.3
+  }
 }

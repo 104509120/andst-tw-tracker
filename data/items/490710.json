@@ -19,7 +19,14 @@
   "min_price": 763,
   "max_price": 1090,
   "listed_date": "2025-09-09",
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "brand": "studio CLIP",
-  "first_seen": "2026-11-24"
+  "first_seen": "2026-11-24",
+  "last_drop": {
+    "date": "2026-11-26",
+    "from": 1090,
+    "to": 763,
+    "amount": 327,
+    "pct": 30.0
+  }
 }

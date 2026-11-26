@@ -19,7 +19,14 @@
   "min_price": 295,
   "max_price": 590,
   "listed_date": "2025-09-10",
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "brand": "GLOBAL WORK",
-  "first_seen": "2026-11-24"
+  "first_seen": "2026-11-24",
+  "last_drop": {
+    "date": "2026-11-25",
+    "from": 590,
+    "to": 295,
+    "amount": 295,
+    "pct": 50.0
+  }
 }

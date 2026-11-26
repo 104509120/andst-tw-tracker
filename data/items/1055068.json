@@ -7,7 +7,7 @@
     }
   ],
   "listed_date": "2026-08-21",
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "brand": "HARE",
   "salepage_id": "12079785",
   "url": "https://www.dot-st.tw/SalePage/Index/12079785",
@@ -17,5 +17,6 @@
   "original_price": 4890,
   "first_seen": "2026-11-26",
   "min_price": 4390,
-  "max_price": 4890
+  "max_price": 4890,
+  "last_drop": null
 }

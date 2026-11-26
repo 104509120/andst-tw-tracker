@@ -15,7 +15,7 @@
   "min_price": 990,
   "max_price": 990,
   "listed_date": "2026-10-28",
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "brand": "LEPSIM",
   "first_seen": "2026-11-24",
   "jp": {
@@ -26,5 +26,6 @@
     "status": "ok",
     "detail_ja": "＼＼KKfashion YouTube紹介アイテム／／\n優しい柔らかなタッチのニット素材の耳あて付きワッチ\n・暖かさもありながらおしゃれにこなれ感を出せるアイテム\n・防寒性だけでなく、アクセサリー感覚でスタイリングを格上げしてくれる冬小物です！\n\n素材：ナイロン64% アクリル29% 毛7%",
     "detail_source": "rendered"
-  }
+  },
+  "last_drop": null
 }

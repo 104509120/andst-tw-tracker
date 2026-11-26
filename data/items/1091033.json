@@ -15,11 +15,12 @@
   "min_price": 2490,
   "max_price": 2490,
   "listed_date": "2026-11-18",
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "brand": "RAGEBLUE",
   "first_seen": "2026-11-24",
   "jp": {
     "checked_at": "2026-11-26",
     "status": "not_found"
-  }
+  },
+  "last_drop": null
 }
