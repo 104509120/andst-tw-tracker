@@ -314,6 +314,24 @@ def clean_history(record: dict) -> list[dict]:
     return cleaned
 
 
+def last_price_drop(history: list[dict]) -> dict | None:
+    """
+    從價格轉折點找出「最近一次降價」：價格比前一筆低的最新一筆。
+    只看本站實際觀測到的紀錄；回傳 {"date", "from", "to", "amount", "pct"}，從未降價則回傳 None。
+    """
+    for i in range(len(history) - 1, 0, -1):
+        prev, cur = history[i - 1]["price"], history[i]["price"]
+        if cur < prev:
+            return {
+                "date": history[i]["date"],
+                "from": prev,
+                "to": cur,
+                "amount": prev - cur,
+                "pct": round((prev - cur) / prev * 100, 1) if prev else 0,
+            }
+    return None
+
+
 def main():
     os.makedirs("data/items", exist_ok=True)
     salepages = get_all_salepage_urls()
@@ -403,6 +421,8 @@ def main():
         record["min_price"] = min(observed)
         record["max_price"] = max(observed + [item["original_price"]])
         record["history"] = history
+        drop = last_price_drop(history)
+        record["last_drop"] = drop
 
         with open(item_path, "w", encoding="utf-8") as f:
             json.dump(record, f, ensure_ascii=False, indent=2)
@@ -418,6 +438,10 @@ def main():
             "original_price": item["original_price"],
             "min_price": record["min_price"],
             "max_price": record["max_price"],
+            # 最近一次降價（供「降價由新至舊」排序）；從未降價則為 null
+            "last_drop_date": drop["date"] if drop else None,
+            "last_drop_amount": drop["amount"] if drop else None,
+            "last_drop_pct": drop["pct"] if drop else None,
         })
 
     # 預設依上架日期由新至舊排序（同日再依 91APP SalePageId 由新至舊）

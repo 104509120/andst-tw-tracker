@@ -185,6 +185,7 @@
               <option value="listed_asc">上架順序：由舊至新</option>
               <option value="price_asc">價格：由低至高</option>
               <option value="price_desc">價格：由高至低</option>
+              <option value="drop_desc">降價時間：由新至舊</option>
               <option value="discount_desc">折扣幅度：由多至少</option>
             </select>
           </div>
@@ -564,6 +565,26 @@
             a.salepage_num - b.salepage_num
           );
           break;
+        case 'drop_desc': {
+          // 最近降價的優先；同日再比降幅（%）與降價金額；從未降價者排在最後（依上架日由新至舊）
+          const has = (i) => !!i.last_drop_date;
+          copy.sort((a, b) => {
+            if (has(a) !== has(b)) return has(a) ? -1 : 1;
+            if (has(a)) {
+              return (
+                b.last_drop_date.localeCompare(a.last_drop_date) ||
+                (b.last_drop_pct || 0) - (a.last_drop_pct || 0) ||
+                (b.last_drop_amount || 0) - (a.last_drop_amount || 0) ||
+                b.salepage_num - a.salepage_num
+              );
+            }
+            return (
+              (b.listed_date || '0000-00-00').localeCompare(a.listed_date || '0000-00-00') ||
+              b.salepage_num - a.salepage_num
+            );
+          });
+          break;
+        }
         case 'discount_desc':
           copy.sort((a, b) => {
             const discA = a.original_price > 0 ? (a.original_price - a.price) / a.original_price : 0;
@@ -606,6 +627,14 @@
       renderGrid();
     }
 
+    // 依「降價時間」排序時，在價格下方標出最近一次降價的日期與金額
+    function dropLine(item) {
+      if (currentSort !== 'drop_desc' || !item.last_drop_date) return '';
+      const md = item.last_drop_date.slice(5).replace('-', '/');
+      const pct = item.last_drop_pct ? `（-${Math.round(item.last_drop_pct)}%）` : '';
+      return `<div class="mt-1 text-[11px] text-red-600">▼ ${md} 降價 NT$${Number(item.last_drop_amount).toLocaleString()}${pct}</div>`;
+    }
+
     function cardHtml(item) {
       const isSale = item.price < item.original_price;
       const isLowest = isSale && item.price <= item.min_price;
@@ -633,6 +662,7 @@
               <span class="text-sm sm:text-base font-bold ${isSale ? 'text-red-600' : 'text-gray-900'}">NT$${item.price.toLocaleString()}</span>
               ${isSale ? `<span class="text-xs text-gray-400 line-through">NT$${item.original_price.toLocaleString()}</span>` : ''}
             </div>
+            ${dropLine(item)}
           </div>
         </div>
       `;
@@ -658,6 +688,12 @@
       empty.classList.add('hidden');
       const slice = filteredItems.slice(0, visibleCount);
       summary.textContent = `${queryLabel}${brandLabel}｜顯示 1–${slice.length} 件，共 ${filteredItems.length.toLocaleString()} 件商品`;
+      if (currentSort === 'drop_desc') {
+        const dropped = filteredItems.filter((i) => i.last_drop_date).length;
+        summary.textContent += allItems.some((i) => i.last_drop_date)
+          ? `｜其中 ${dropped.toLocaleString()} 件有降價紀錄（${TRACKING_START_FALLBACK} 起追蹤）`
+          : '｜尚無降價資料，請先執行價格爬蟲更新';
+      }
       grid.innerHTML = slice.map(cardHtml).join('');
       loadMoreBtn.classList.toggle('hidden', visibleCount >= filteredItems.length);
     }
