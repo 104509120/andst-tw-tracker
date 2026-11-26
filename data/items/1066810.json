@@ -17,5 +17,9 @@
   "listed_date": "2026-10-30",
   "updated_at": "2026-11-26",
   "brand": "studio CLIP",
-  "first_seen": "2026-11-24"
+  "first_seen": "2026-11-24",
+  "jp": {
+    "checked_at": "2026-11-26",
+    "status": "not_found"
+  }
 }

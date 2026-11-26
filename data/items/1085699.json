@@ -17,5 +17,16 @@
   "listed_date": "2026-11-19",
   "updated_at": "2026-11-26",
   "brand": "LEPSIM",
-  "first_seen": "2026-11-24"
+  "first_seen": "2026-11-24",
+  "jp": {
+    "checked_at": "2026-11-26",
+    "url": "https://www.dot-st.com/lepsim/disp/item/1085699/",
+    "rendered": true,
+    "parser_version": 2,
+    "status": "ok",
+    "detail_ja": "ーーー\nマルシェタイプのミニバッグが登場！\nーーー\n・細めのフリンジ素材×ミニスパンコールのドッキング素材\n・落ち感のあるフリンジやスパンコールで華やかさも感じられるアイテム\n・さりげなく控えめのスパンコールなので普段使いにもワンポイントにもぴったり♪\n\n素材：表地：ポリエステル 裏地：ポリエステル",
+    "detail_zh": "ーーーー\n推出 Marche 型迷你包！\nーーーー\n・薄流苏材质 x 迷你亮片对接材质\n・带有流苏和亮片的华丽感的单品\n・亮片精緻而低調，非常適合日常使用或作為焦點。\n\n材質： 外層材質： 聚酯纖維 內襯： 聚酯纖維",
+    "translator": "gtx",
+    "detail_source": "rendered"
+  }
 }

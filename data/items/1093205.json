@@ -17,5 +17,14 @@
   "listed_date": "2026-11-09",
   "updated_at": "2026-11-26",
   "brand": "LEPSIM",
-  "first_seen": "2026-11-24"
+  "first_seen": "2026-11-24",
+  "jp": {
+    "checked_at": "2026-11-26",
+    "url": "https://www.dot-st.com/lepsim/disp/item/1093205/",
+    "rendered": true,
+    "parser_version": 2,
+    "status": "ok",
+    "detail_ja": "ーーー\n洗濯機で洗えるニットワッチ\nーーー\n柔らかく肌触りが良いニット素材なので、チクチクせず被っていただけます。\n男の子でも女の子でも被りやすいカラー展開になっています♪\n\n素材：アクリル100％",
+    "detail_source": "rendered"
+  }
 }

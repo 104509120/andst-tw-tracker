@@ -17,5 +17,16 @@
   "listed_date": "2026-11-12",
   "updated_at": "2026-11-26",
   "brand": "LEPSIM",
-  "first_seen": "2026-11-24"
+  "first_seen": "2026-11-24",
+  "jp": {
+    "checked_at": "2026-11-26",
+    "url": "https://www.dot-st.com/lepsim/disp/item/1084519/",
+    "rendered": true,
+    "parser_version": 2,
+    "status": "ok",
+    "detail_ja": "ーーー\nフリルと編みコードのハンドストラップ\nーーー\n・スマホのハンドストラップとしても鞄チャームにもお使いいただけます！\n・カジュアルながら甘さのあるデザイン♪\n\n素材：ポリエステル 合金",
+    "detail_zh": "ーーーー\n有褶邊和編織繩的手帶\nーーーー\n- 可當智慧型手機手帶或包飾！\n・休閒又甜美的設計♪\n\n材質：聚酯合金",
+    "translator": "gtx",
+    "detail_source": "rendered"
+  }
 }

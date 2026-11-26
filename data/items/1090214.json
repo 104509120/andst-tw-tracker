@@ -17,5 +17,16 @@
   "listed_date": "2026-11-19",
   "updated_at": "2026-11-26",
   "brand": "LEPSIM",
-  "first_seen": "2026-11-24"
+  "first_seen": "2026-11-24",
+  "jp": {
+    "checked_at": "2026-11-26",
+    "url": "https://www.dot-st.com/lepsim/disp/item/1090214/",
+    "rendered": true,
+    "parser_version": 2,
+    "status": "ok",
+    "detail_ja": "ーーー\nリブ編みの伸縮性のあるニット素材を使用したハンドウォーマー\nーーー\n防寒はもちろん、アウター着用時でも着こなしのポイントになります。\nニットの袖に配色として使用するのもおすすめです！\n\n素材：アクリル40% ポリエステル31% ナイロン29%",
+    "detail_zh": "ーーーー\n由羅紋彈性針織材質製成的暖手器\nーーーー\n它不僅可以保護您免受寒冷，而且還可以在穿著外套時為您的服裝增色不少。\n我們還建議將其用作針織袖子的配色方案！\n\n材質：40% 腈綸、31% 聚酯纖維、29% 尼龍",
+    "translator": "gtx",
+    "detail_source": "rendered"
+  }
 }
