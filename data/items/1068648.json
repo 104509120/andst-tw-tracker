@@ -21,5 +21,14 @@
   "listed_date": "2026-10-15",
   "updated_at": "2026-11-26",
   "brand": "LEPSIM",
-  "first_seen": "2026-11-24"
+  "first_seen": "2026-11-24",
+  "jp": {
+    "checked_at": "2026-11-26",
+    "url": "https://www.dot-st.com/lepsim/disp/item/1068648/",
+    "rendered": true,
+    "parser_version": 3,
+    "status": "ok",
+    "detail_ja": "柔らかいコーデュロイ素材を使用したイージーパンツ\n軽くて着心地・動きやすいコーデュロイパンツです。\nサイズ調整ができるボタン付きなのでお子様の身長に合わせて調整が可能◎\n大人っぽいワイドシルエットなので、スウェットと合わせるスタイリングがおすすめです！\n\n素材：綿100%\n洗濯表示：ナチュラル08で計測しています。",
+    "detail_source": "rendered"
+  }
 }

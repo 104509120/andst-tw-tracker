@@ -17,5 +17,9 @@
   "original_price": 510,
   "first_seen": "2026-11-25",
   "min_price": 510,
-  "max_price": 510
+  "max_price": 510,
+  "jp": {
+    "checked_at": "2026-11-26",
+    "status": "not_found"
+  }
 }
