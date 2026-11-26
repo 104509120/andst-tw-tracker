@@ -160,9 +160,45 @@ def extract_section(soup, title: str) -> str:
     return best
 
 
-PARSER_VERSION = 2  # 解析邏輯版本；提高後，舊版解析出的資料會在下次排程自動重抓
+PARSER_VERSION = 3  # 解析／翻譯邏輯版本；提高後，舊版處理出的資料會在下次排程優先重做
 
 _JSONLD_TYPES = {"Product", "ProductGroup"}
+
+
+REVIEW_START = "良い点"
+REVIEW_END_MARK = "示すものではありません"  # 免責聲明最後一句：…and STの見解を示すものではありません。
+_DASH_LINE = re.compile(r"^[ー―─━\-=＝_・\s]{3,}$")
+
+
+def extract_review_summary(text: str) -> str:
+    """
+    評論區渲染後的文字依序為：
+      良い点 / （正文）/ お客さまの投稿に基づきAIで生成されたものです。/ 商品レビューは…見解を示すものではありません。
+      / トップカスタマーレビュー / 並び替え … / 絞り込み … （後面是一大串篩選條件，全部不要）
+    只取從「良い点」到免責聲明最後一句（含）。
+    """
+    lines = [ln.strip() for ln in (text or "").split("\n") if ln.strip()]
+    start = next((i for i, ln in enumerate(lines) if ln == REVIEW_START), None)
+    if start is None:
+        return ""
+    end = next((i for i in range(start + 1, len(lines)) if REVIEW_END_MARK in lines[i]), None)
+    if end is None:
+        # 找不到免責聲明時，寧可取空，也不要把篩選條件等雜訊混進來
+        return ""
+    block = lines[start : end + 1]
+    return "\n".join(block) if len(block) >= 3 else ""
+
+
+def strip_decor_lines(text: str) -> str:
+    """移除只由「ーーー」之類符號組成的分隔線，並收斂連續空行"""
+    out = []
+    for ln in text.split("\n"):
+        if _DASH_LINE.match(ln):
+            continue
+        if not ln.strip() and (not out or not out[-1]):
+            continue
+        out.append(ln.rstrip())
+    return "\n".join(out).strip()
 
 
 def jsonld_description(soup) -> str:
@@ -246,10 +282,11 @@ def parse_jp_page(html: str, rendered: bool = False) -> dict:
         if scope is not None:
             for tag in scope(["script", "style", "noscript", "template"]):
                 tag.decompose()
-            cand = extract_section(scope, SECTION_REVIEW)
+            cand = extract_review_summary(_text_of(scope))
             if cand and not _looks_like_junk(cand):
                 review = cand
 
+    detail = strip_decor_lines(detail)
     if len(detail) < 15 or _looks_like_junk(detail):
         detail = ""
     if len(review) < 10:
@@ -464,15 +501,101 @@ def translate_gtx(text: str) -> str | None:
     return "\n".join(out).strip() or None
 
 
+# --- 繁體中文（台灣）後處理 ---------------------------------------------------
+# Google 翻譯即使指定繁體，仍常混入簡體字與中國大陸用語。處理順序：
+#   1) OpenCC s2twp：簡體字 → 繁體字，並套用台灣慣用詞彙
+#   2) 服飾用語對照表：補上 OpenCC 沒涵蓋的詞
+TW_GLOSSARY = [
+    ("面料", "布料"), ("佩戴", "穿戴"), ("厘米", "公分"), ("釐米", "公分"),
+    ("垂坠", "垂墜"), ("宽松", "寬鬆"), ("寬松", "寬鬆"), ("显瘦", "顯瘦"), ("松紧", "鬆緊"),
+    ("開叉", "開衩"), ("衩口", "開衩"), ("不起球", "不易起毛球"), ("起球", "起毛球"),
+    ("性價比", "CP值"), ("質量", "品質"), ("視頻", "影片"), ("尺碼", "尺寸"), ("打底", "內搭"),
+]
+# 沒有 OpenCC 時，用來偵測「明確是簡體」的字（兩岸字形不同的常見字）
+_SIMPLIFIED_PROBE = set("们说还与衬裤让时带领风头为质对针织开这来现发长见门东车买卖马鸟鱼国应听写专业优点极给红蓝绿绒袜袄缝线脚鞋帽围裙裤暖轻厚薄软颜处实体样让总觉记认识")
+
+_opencc = None
+
+
+def get_opencc():
+    """回傳 OpenCC('s2twp') 轉換器；套件沒裝或不能用時回傳 None"""
+    global _opencc
+    if _opencc is None:
+        try:
+            from opencc import OpenCC
+
+            cc = OpenCC("s2twp")
+            if cc.convert("这个裤子很舒适") != "這個褲子很舒適":
+                raise RuntimeError("OpenCC 自我檢查失敗")
+            _opencc = cc
+        except Exception as exc:
+            print(f"[翻譯] 無法使用 OpenCC：{exc}", flush=True)
+            _opencc = False
+    return _opencc or None
+
+
+def to_tw(text: str) -> str:
+    """把翻譯結果整理成台灣繁體中文"""
+    cc = get_opencc()
+    if cc:
+        text = cc.convert(text)
+    for src, dst in TW_GLOSSARY:
+        if src != dst:
+            text = text.replace(src, dst)
+    # 常見標點：簡體環境的引號、半形標點改為全形
+    text = text.replace("“", "「").replace("”", "」").replace("‘", "『").replace("’", "』")
+    text = re.sub(r"(?<=[\u4e00-\u9fff」』）])\s*,\s*(?=[\u4e00-\u9fff「『（])", "，", text)
+    text = re.sub(r"(?<=[\u4e00-\u9fff」』）])\s*;\s*(?=[\u4e00-\u9fff「『（])", "；", text)
+    text = re.sub(r"(?<=[\u4e00-\u9fff」』）])\s*:\s*(?=[\u4e00-\u9fff「『（])", "：", text)
+    return text
+
+
+def has_simplified(text: str) -> bool:
+    return any(c in _SIMPLIFIED_PROBE for c in text or "")
+
+
+# --- 使用心得摘要：固定句型不交給機器翻譯 --------------------------------------
+REVIEW_HEADINGS = {"良い点": "優點", "気になる点": "待留意的地方", "悪い点": "缺點", "改善点": "待改善的地方"}
+REVIEW_FIXED = [
+    ("お客さまの投稿に基づきAIで生成されたものです", "本摘要由 AI 根據顧客的投稿生成。"),
+    ("見解を示すものではありません", "商品評論為顧客本人的感想與意見，不代表 and ST 的立場。"),
+]
+
+
+def translate_review(ja: str):
+    """
+    逐行處理：標題與免責聲明用固定的台灣繁體譯文（避免被機器翻譯弄壞，例如把 and ST 吃掉）；
+    其餘正文才翻譯。回傳 (譯文或 None, 引擎名稱)
+    """
+    out, engine = [], ""
+    for ln in ja.split("\n"):
+        ln = ln.strip()
+        if not ln:
+            continue
+        if ln in REVIEW_HEADINGS:
+            out.append(REVIEW_HEADINGS[ln])
+            continue
+        fixed = next((zh for key, zh in REVIEW_FIXED if key in ln), None)
+        if fixed:
+            out.append(fixed)
+            continue
+        zh, eng = translate(ln, "review")
+        if not zh:
+            return None, ""
+        out.append(zh)
+        engine = eng or engine
+    return "\n".join(out), engine
+
+
 def translate(text: str, kind: str):
-    """回傳 (譯文或 None, 引擎名稱)"""
+    """回傳 (譯文或 None, 引擎名稱)；結果一律整理為台灣繁體"""
     system = SYSTEM_DETAIL if kind == "detail" else SYSTEM_REVIEW
     zh = translate_claude(text, system)
     if zh:
-        return zh, "claude"
+        return to_tw(zh), "claude"
     zh = translate_gtx(text)
     if zh:
-        return zh, "gtx"
+        return to_tw(zh), "gtx"
     return None, ""
 
 
@@ -497,7 +620,7 @@ def priority(rec: dict) -> int | None:
     if not status:
         return 0
     if status in ("ok", "no_sections") and jp.get("parser_version") != PARSER_VERSION:
-        return 0  # 舊版解析器的結果（可能是錯的），重新處理
+        return -1  # 舊版處理的結果（可能有雜訊或簡體），優先重做
     if status == "ok":
         needs_tr = (jp.get("detail_ja") and not jp.get("detail_zh")) or (
             jp.get("review_ja") and not jp.get("review_zh")
@@ -562,7 +685,7 @@ def process_item(rec: dict, debug: bool = False) -> dict:
             continue
         if ja != old.get(f"{key}_ja") or not old.get(f"{key}_zh"):
             jp[f"{key}_ja"] = ja
-            zh, engine = translate(ja, kind)
+            zh, engine = translate_review(ja) if kind == "review" else translate(ja, kind)
             if zh:
                 jp[f"{key}_zh"] = zh
                 jp["translator"] = engine
@@ -595,6 +718,10 @@ def main():
     args = ap.parse_args()
     global RENDER_ENABLED
     RENDER_ENABLED = not args.no_render
+
+    if not os.environ.get("ANTHROPIC_API_KEY", "").strip() and get_opencc() is None:
+        print("[錯誤] 沒有 OpenCC，翻譯結果無法保證是台灣繁體中文。請先 pip install opencc-python-reimplemented", flush=True)
+        sys.exit(1)
 
     if not os.path.exists("data/index.json"):
         print("找不到 data/index.json，請先執行 scraper.py", flush=True)

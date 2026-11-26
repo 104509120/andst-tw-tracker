@@ -43,7 +43,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install curl_cffi beautifulsoup4 playwright
+          pip install curl_cffi beautifulsoup4 playwright opencc-python-reimplemented
           playwright install --with-deps chromium
 
       - name: Run JP enrich

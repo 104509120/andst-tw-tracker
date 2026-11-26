@@ -127,7 +127,7 @@
             </section>
             <section id="jpReviewBox" class="hidden border border-gray-200 rounded-lg bg-white">
               <h4 class="px-4 py-2.5 bg-gray-50 border-b border-gray-200 text-xs font-semibold text-gray-700">使用心得摘要</h4>
-              <div id="jpReviewText" class="px-4 py-3 text-sm leading-relaxed text-gray-700 whitespace-pre-line"></div>
+              <div id="jpReviewText" class="px-4 py-3 text-sm leading-relaxed text-gray-700"></div>
             </section>
             <p id="jpInfoNote" class="text-[11px] text-gray-400 leading-relaxed"></p>
           </div>
@@ -795,7 +795,20 @@
       const note = $('jpInfoNote');
 
       $('jpDetailText').textContent = detail;
-      $('jpReviewText').textContent = review;
+      // 使用心得：小標題（優點…）加粗、AI 免責聲明縮小淡色，其餘為正文
+      const REVIEW_HEADS = ['優點', '待留意的地方', '缺點', '待改善的地方'];
+      const isDisclaimer = (ln) => /^本摘要由 AI|^商品評論為顧客本人/.test(ln);
+      $('jpReviewText').innerHTML = review
+        .split('\n')
+        .filter((ln) => ln.trim())
+        .map((ln) =>
+          REVIEW_HEADS.includes(ln.trim())
+            ? `<div class="font-semibold text-gray-900 mt-1">${escapeHtml(ln)}</div>`
+            : isDisclaimer(ln.trim())
+              ? `<div class="text-[11px] text-gray-400 leading-relaxed">${escapeHtml(ln)}</div>`
+              : `<div class="mb-1.5">${escapeHtml(ln)}</div>`
+        )
+        .join('');
       detailBox.classList.toggle('hidden', !detail);
       reviewBox.classList.toggle('hidden', !review);
 
