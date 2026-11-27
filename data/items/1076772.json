@@ -18,5 +18,16 @@
   "updated_at": "2026-11-27",
   "brand": "LEPSIM",
   "first_seen": "2026-11-24",
-  "last_drop": null
+  "last_drop": null,
+  "jp": {
+    "checked_at": "2026-11-27",
+    "url": "https://www.dot-st.com/lepsim/disp/item/1076772/",
+    "rendered": true,
+    "parser_version": 3,
+    "status": "ok",
+    "detail_ja": "女性らしいデザインで裏毛仕様のフリルチュニック\n【デザイン】\n春に人気だったフリルチュニックが秋冬仕様になって登場！\nチュニック丈なのでお腹が大きくなっても着用しやすく、安心感も◎\n【スタイリング】\n・フレアパンツと合わせるスタイリングがおすすめです！\n\n素材：綿100％\n洗濯表示：杢グレー15で計測しています。",
+    "detail_zh": "具有女性化設計和羊毛的荷葉邊束腰外衣\n【設計】\n春季流行的褶邊束腰外衣現在在秋季和冬季也有推出！\n束腰外衣的長度即使肚子變大也能輕鬆穿著，給您安全感。\n[造型]\n・推薦搭配喇叭褲！\n\n材質：100% 棉\n洗滌說明：採用麻灰色 15 測量。",
+    "translator": "gtx",
+    "detail_source": "rendered"
+  }
 }

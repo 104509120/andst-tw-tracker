@@ -18,5 +18,14 @@
   "updated_at": "2026-11-27",
   "brand": "LEPSIM",
   "first_seen": "2026-11-24",
-  "last_drop": null
+  "last_drop": null,
+  "jp": {
+    "checked_at": "2026-11-27",
+    "url": "https://www.dot-st.com/lepsim/disp/item/1052599/",
+    "rendered": true,
+    "parser_version": 3,
+    "status": "ok",
+    "detail_ja": "ユニセックスで着られるプリントTシャツ\n柔らかい肌触りの綿素材なので、洗濯にも強く長く着用できるTシャツです。\n普段使いしやすいアートにしているのでデイリーにもお出掛けにもぴったり♪\n\n素材：本体:綿100% リブ:綿97% ポリウレタン3%\n洗濯表示：オフホワイト05で計測しています。",
+    "detail_source": "rendered"
+  }
 }

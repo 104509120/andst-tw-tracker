@@ -18,5 +18,9 @@
   "first_seen": "2026-11-26",
   "min_price": 590,
   "max_price": 590,
-  "last_drop": null
+  "last_drop": null,
+  "jp": {
+    "checked_at": "2026-11-27",
+    "status": "not_found"
+  }
 }

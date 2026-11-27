@@ -18,5 +18,14 @@
   "updated_at": "2026-11-27",
   "brand": "LEPSIM",
   "first_seen": "2026-11-24",
-  "last_drop": null
+  "last_drop": null,
+  "jp": {
+    "checked_at": "2026-11-27",
+    "url": "https://www.dot-st.com/lepsim/disp/item/1071756/",
+    "rendered": true,
+    "parser_version": 3,
+    "status": "ok",
+    "detail_ja": "配色メローとフリルデザインが可愛いカットワンピース\n1枚で着ても可愛くなるようにフリルのディティールに拘りました！\nレギンスやデニムとレイヤードしても着用できるので、着回しの効くおすすめの1枚です♪\n\n素材：本体:綿100% リブ:綿97% ポリウレタン3%\n洗濯表示：ピンク20で計測しています。",
+    "detail_source": "rendered"
+  }
 }

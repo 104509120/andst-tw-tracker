@@ -18,5 +18,14 @@
   "updated_at": "2026-11-27",
   "brand": "LEPSIM",
   "first_seen": "2026-11-24",
-  "last_drop": null
+  "last_drop": null,
+  "jp": {
+    "checked_at": "2026-11-27",
+    "url": "https://www.dot-st.com/lepsim/disp/item/1063335/",
+    "rendered": true,
+    "parser_version": 3,
+    "status": "ok",
+    "detail_ja": "ベーシックカラーを使用したマルチボーダーT\n背中にパッチが付いているので、1枚で着てもシンプルすぎず着こなせるTシャツです！\n袖口がリブ仕様なので、普段使いもしやすく◎\nデニムパンツと合わせるスタイリングがおすすめです！\n\n素材：本体:ポリエステル54% 綿44% レーヨン2% リブ:綿96% ポリウレタン4%\n洗濯表示：ナチュラル08で計測しています。",
+    "detail_source": "rendered"
+  }
 }
