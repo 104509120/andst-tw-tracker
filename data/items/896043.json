@@ -4,15 +4,19 @@
     {
       "date": "2026-11-24",
       "price": 1690
+    },
+    {
+      "date": "2026-11-27",
+      "price": 1352
     }
   ],
   "salepage_id": "12280656",
   "url": "https://www.dot-st.tw/SalePage/Index/12280656",
   "title": "studio CLIP紅緞帶鈴鐺花圈L《CHRISTMAS 2026》-一色-896043",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12280656/0/639312844709900000?v=1",
-  "current_price": 1690,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12280656/0/639313841492130000?v=1",
+  "current_price": 1352,
   "original_price": 1690,
-  "min_price": 1690,
+  "min_price": 1352,
   "max_price": 1690,
   "listed_date": "2026-11-04",
   "updated_at": "2026-11-27",
@@ -22,5 +26,11 @@
     "checked_at": "2026-11-26",
     "status": "not_found"
   },
-  "last_drop": null
+  "last_drop": {
+    "date": "2026-11-27",
+    "from": 1690,
+    "to": 1352,
+    "amount": 338,
+    "pct": 20.0
+  }
 }

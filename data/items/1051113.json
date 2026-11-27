@@ -2,24 +2,21 @@
   "sku": "1051113",
   "history": [
     {
-      "date": "2026-09-17",
-      "price": 790
-    },
-    {
       "date": "2026-11-24",
       "price": 355
     }
   ],
   "listed_date": "2026-09-17",
-  "jp_url": "https://www.dot-st.com/disp/CSfDispListPage_001.jsp?q=1051113",
   "salepage_id": "12165451",
   "url": "https://www.dot-st.tw/SalePage/Index/12165451",
   "title": "GLOBAL WORK【網路限定55價】童彈性腰鬆緊錐形長褲(130cm-160cm)-三色-1051113",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12165451/0/639311145115300000?v=1",
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12165451/0/639312833714330000?v=1",
   "current_price": 355,
   "original_price": 790,
   "min_price": 355,
   "max_price": 790,
-  "updated_at": "2026-11-25",
-  "brand": "GLOBAL WORK"
+  "updated_at": "2026-11-27",
+  "brand": "GLOBAL WORK",
+  "first_seen": "2026-11-24",
+  "last_drop": null
 }

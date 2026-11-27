@@ -4,19 +4,29 @@
     {
       "date": "2026-11-24",
       "price": 2856
+    },
+    {
+      "date": "2026-11-27",
+      "price": 2016
     }
   ],
-  "salepage_id": "12130714",
-  "url": "https://www.dot-st.tw/SalePage/Index/12130714",
-  "title": "◎index女grove葉紋刺繡背心襯衫套裝-兩色-76883032 NT$2,856",
-  "image": "http://img.91app.com/webapi/imagesV3/Original/SalePage/12130714/0/639276553234430000?v=1",
-  "current_price": 2856,
-  "original_price": 4080,
-  "min_price": 2856,
-  "max_price": 4080,
+  "salepage_id": "12130715",
+  "url": "https://www.dot-st.tw/SalePage/Index/12130715",
+  "title": "◎index女grove袖長可調後背打摺短袖襯衫-兩色-76883031 NT$2,016",
+  "image": "http://img.91app.com/webapi/imagesV3/Original/SalePage/12130715/0/639312965987700000?v=1",
+  "current_price": 2016,
+  "original_price": 2880,
+  "min_price": 2016,
+  "max_price": 2880,
   "listed_date": "2026-09-07",
   "updated_at": "2026-11-27",
   "brand": "其他品牌",
   "first_seen": "2026-11-24",
-  "last_drop": null
+  "last_drop": {
+    "date": "2026-11-27",
+    "from": 2856,
+    "to": 2016,
+    "amount": 840,
+    "pct": 29.4
+  }
 }

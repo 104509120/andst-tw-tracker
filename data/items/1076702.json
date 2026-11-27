@@ -8,13 +8,17 @@
     {
       "date": "2026-11-26",
       "price": 790
+    },
+    {
+      "date": "2026-11-27",
+      "price": 755
     }
   ],
   "salepage_id": "12268794",
   "url": "https://www.dot-st.tw/SalePage/Index/12268794",
   "title": "repipi armario【網路限定55價】童亮片LOGO一字領長袖上衣-三色-1076702",
-  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12268794/0/639312845895970000?v=1",
-  "current_price": 790,
+  "image": "https://img.91app.com/webapi/imagesV3/Original/SalePage/12268794/0/639313756093800000?v=1",
+  "current_price": 755,
   "original_price": 1490,
   "min_price": 755,
   "max_price": 1490,
@@ -26,5 +30,11 @@
     "checked_at": "2026-11-26",
     "status": "not_found"
   },
-  "last_drop": null
+  "last_drop": {
+    "date": "2026-11-27",
+    "from": 790,
+    "to": 755,
+    "amount": 35,
+    "pct": 4.4
+  }
 }
