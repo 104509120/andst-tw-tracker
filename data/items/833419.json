@@ -18,5 +18,16 @@
   "first_seen": "2026-11-27",
   "min_price": 1290,
   "max_price": 1290,
-  "last_drop": null
+  "last_drop": null,
+  "jp": {
+    "checked_at": "2026-11-28",
+    "url": "https://www.dot-st.com/lepsim/disp/item/833419/",
+    "rendered": true,
+    "parser_version": 3,
+    "status": "ok",
+    "detail_ja": "＼＼LEPSIM BLACK FRIDAY限定アイテム／／\n配色カラーが可愛いデザインスウェット\n男の子でも女の子でも着用しやすいカラー展開のスウェットです。\nカラーは異なりますが、大人サイズの展開もあるので、お揃いで着られるのも嬉しいポイント♪\n【大人サイズはこちら】\n☆1068712 ブランケットステッチプルオーバー→\n【アプリ】\n【ブラウザ】\n\n素材：本体:綿100% リブ:綿99% ポリウレタン1%\n洗濯表示：ナチュラル×ブラックステッチ08 で計測しています。",
+    "detail_zh": "＼＼LEPSIM BLACK FRIDAY 限定商品／／\n設計可愛配色的運動衫\n這款運動衫有多種顏色可供男孩和女孩穿著。\n雖然顏色不同，但也有成人尺寸，能一起穿真是太好了♪\n[點此看成人尺寸]\n☆1068712 毛毯縫線套頭衫→\n[應用程式]\n[瀏覽器]\n\n材質：主體：100% 棉 羅紋：99% 棉 1% 聚氨酯\n洗滌說明：使用自然 x 黑色針跡 08 測量。",
+    "translator": "gtx",
+    "detail_source": "rendered"
+  }
 }

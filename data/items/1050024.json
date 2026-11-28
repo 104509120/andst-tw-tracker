@@ -18,5 +18,16 @@
   "updated_at": "2026-11-27",
   "brand": "LEPSIM",
   "first_seen": "2026-11-24",
-  "last_drop": null
+  "last_drop": null,
+  "jp": {
+    "checked_at": "2026-11-28",
+    "url": "https://www.dot-st.com/lepsim/disp/item/1050024/",
+    "rendered": true,
+    "parser_version": 3,
+    "status": "ok",
+    "detail_ja": "バルーンシルエットが可愛いデニムパンツ\nたっぷりしたシルエットなので穿くだけでおしゃれに決まるデニムパンツです。\n男の子でも女の子でも着られるシルエットなのでお揃いコーデもおすすめ♪\n\n素材：綿100%\n洗濯表示：ブルー82で計測しています。",
+    "detail_zh": "可愛氣球輪廓牛仔褲\n這款牛仔褲輪廓寬鬆，只要穿上就能顯得時尚。\n男女生都可以穿的輪廓，因此也建議搭配搭配。\n\n材質：100% 棉\n洗滌說明：用 Blue 82 測量。",
+    "translator": "gtx",
+    "detail_source": "rendered"
+  }
 }

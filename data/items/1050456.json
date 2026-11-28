@@ -18,5 +18,14 @@
   "updated_at": "2026-11-27",
   "brand": "LEPSIM",
   "first_seen": "2026-11-24",
-  "last_drop": null
+  "last_drop": null,
+  "jp": {
+    "checked_at": "2026-11-28",
+    "url": "https://www.dot-st.com/lepsim/disp/item/1050456/",
+    "rendered": true,
+    "parser_version": 3,
+    "status": "ok",
+    "detail_ja": "Tシャツの下やワンピースと合わせると可愛いレギンスパンツ\n伸縮性もあるので動きやすく着脱もしやすいレギンスパンツです。\nピスネームがポイントで、子どもらしい色味なので穿くだけで可愛くなるアイテム◎\n\n素材：【ナチュラル×ドット08】 ポリエステル98% ポリウレタン2% 【杢グレー×ボーダー15】 綿76% ポリエステル17% ポリウレタン7% 【ピンク×ボーダー22】 綿90% ポリウレタン10%\n洗濯表示：ナチュラル×ドット08で計測しています。",
+    "detail_source": "rendered"
+  }
 }

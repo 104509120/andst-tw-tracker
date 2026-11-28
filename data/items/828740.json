@@ -18,5 +18,14 @@
   "updated_at": "2026-11-27",
   "brand": "LEPSIM",
   "first_seen": "2026-11-24",
-  "last_drop": null
+  "last_drop": null,
+  "jp": {
+    "checked_at": "2026-11-28",
+    "url": "https://www.dot-st.com/lepsim/disp/item/828740/",
+    "rendered": true,
+    "parser_version": 3,
+    "status": "ok",
+    "detail_ja": "ナローシルエットですっきり見えが叶うスカート\n【デザイン】\nお腹が包まれる仕様で、リブ素材なので伸縮性もあり、穿き心地が良いスカートです。\nウエストにはアジャスターが付いているので、お腹の大きさに合わせてサイズ調整も可能！\n【スタイリング】\n・カジュアルスタイルに合わせやすい素材なのでスウェットやパーカーなど様々なアイテムと相性抜群です！\n\n素材：ポリエステル62% 綿35% ポリウレタン3%\n洗濯表示：杢グレー15で計測しています。",
+    "detail_source": "rendered"
+  }
 }

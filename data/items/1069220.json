@@ -18,5 +18,16 @@
   "updated_at": "2026-11-27",
   "brand": "LEPSIM",
   "first_seen": "2026-11-24",
-  "last_drop": null
+  "last_drop": null,
+  "jp": {
+    "checked_at": "2026-11-28",
+    "url": "https://www.dot-st.com/lepsim/disp/item/1069220/",
+    "rendered": true,
+    "parser_version": 3,
+    "status": "ok",
+    "detail_ja": "柔らかい肌触りのプリントロンT\n【デザイン】\n丈が長めで身幅もゆったりしているのでお腹が大きくなっても着用できるTシャツです。\n袖はボリューム感が出るシルエットなので1枚で着用しても可愛いです♪\n【スタイリング】\n・スカートやフレアパンツはもちろん、キャミワンピースの下にレイヤードするのも◎\n\n素材：綿100%\n洗濯表示：オフホワイト05で計測しています。",
+    "detail_zh": "觸感柔軟的印花T卹\n【設計】\n這款T恤的長度較長，版型寬鬆，即使肚子變大了也可以穿。\n袖子的輪廓很有體積感，單穿也很可愛♪\n[造型]\n・不僅可以搭配裙子或喇叭褲穿著，還可以搭配吊帶洋裝。\n\n材質：100% 棉\n洗滌說明：使用 Off White 05 測量。",
+    "translator": "gtx",
+    "detail_source": "rendered"
+  }
 }

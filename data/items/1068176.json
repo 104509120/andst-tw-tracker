@@ -18,5 +18,18 @@
   "first_seen": "2026-11-27",
   "min_price": 2690,
   "max_price": 2690,
-  "last_drop": null
+  "last_drop": null,
+  "jp": {
+    "checked_at": "2026-11-28",
+    "url": "https://www.dot-st.com/lepsim/disp/item/1068176/",
+    "rendered": true,
+    "parser_version": 3,
+    "status": "ok",
+    "detail_ja": "毎年人気の暖かみのあるメルトン素材を使用したタックパンツ\n【デザイン】\n前開きのデザインで着脱も楽なタックパンツです。\nウエストベルトとタックがつながっているので、 ウエスト周りがすっきりとした仕様にこだわっています。\n厚みのある素材なので形はしっかり出て、脚のラインを拾わずスタイルアップが叶います◎\n【スタイリング】\n・ゆったりとしたニットや、落ち感のあるアウターと合わせるがおすすめです。\n\n素材：ポリエステル82% レーヨン18%\n洗濯表示：トップグレー15で計測しています。",
+    "detail_zh": "Tucked pants made of warm melton material that is popular every year.\n【設計】\nThese tuck pants have an open front design and are easy to put on and take off.\nSince the waist belt and tuck are connected, we are particular about creating a neat design around the waist.\nThe material is thick so it shows its shape well and enhances your style without picking up your leg lines.\n[造型]\n- We recommend pairing it with loose knits or loose-fitting outerwear.\n\n材質：82% 滌綸，18% 人造絲\n洗滌說明：使用 Top Grey 15 測量。",
+    "translator": "gtx",
+    "review_ja": "良い点\n多くの方が、暖かさや軽さに満足しており、特に柔らかい素材感が好評です。シルエットが美しく、体型をカバーしてくれる点が評価されています。ウエストの位置が高く見えることで足が長く見えるという意見もあり、キレイめに着用できるため、仕事用としても利用されている方がいらっしゃいます。色合いについては、ライトグレーが特に合わせやすいと好評で、他の色も魅力的だと感じる方が多いです。\nお客さまの投稿に基づきAIで生成されたものです。\n商品レビューは、お客さま自身による感想や意見であり、and STの見解を示すものではありません。",
+    "review_zh": "優點\n許多人對溫暖和輕盈感到滿意，尤其是材質的柔軟質感。其輪廓優美，因遮蓋體型而受到讚譽。有人說高腰的位置讓腿看起來更長，也有人在工作中使用它，因為這樣看起來更漂亮。說到顏色，淺灰色尤其受歡迎，因為它很容易搭配，很多人也覺得其他顏色很有吸引力。\n本摘要由 AI 根據顧客的投稿生成。\n商品評論為顧客本人的感想與意見，不代表 and ST 的立場。",
+    "detail_source": "rendered"
+  }
 }

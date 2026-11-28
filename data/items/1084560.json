@@ -18,5 +18,16 @@
   "first_seen": "2026-11-27",
   "min_price": 1290,
   "max_price": 1290,
-  "last_drop": null
+  "last_drop": null,
+  "jp": {
+    "checked_at": "2026-11-28",
+    "url": "https://www.dot-st.com/lepsim/disp/item/1084560/",
+    "rendered": true,
+    "parser_version": 3,
+    "status": "ok",
+    "detail_ja": "ラメが入った軽量でキラキラ素材を使用した2WAYバッグ\n・トートバッグ、ショルダーバッグとしても使える2WAY仕様♪\n・オリジナルのロゴタグもワンポイントに！\n・アウターでシンプルな冬の装いにも、コーディネートのアクセントに活躍してくれるおすすめのバッグです。\n\n素材：表地：ポリエステル 裏地：ポリエステル",
+    "detail_zh": "這款 2 路包採用輕質閃光材質製成，帶有閃光。\n・可作為手提包或單肩包使用的 2WAY 設計♪\n・原創的Logo標籤也是一大亮點！\n- 這是一款值得推薦的包包，無論是簡單的冬季服裝還是作為外層，都可以用作您的服裝的點綴。\n\n材質： 外層材質： 聚酯纖維 內襯： 聚酯纖維",
+    "translator": "gtx",
+    "detail_source": "rendered"
+  }
 }

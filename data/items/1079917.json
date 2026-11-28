@@ -18,5 +18,16 @@
   "first_seen": "2026-11-27",
   "min_price": 1990,
   "max_price": 1990,
-  "last_drop": null
+  "last_drop": null,
+  "jp": {
+    "checked_at": "2026-11-28",
+    "url": "https://www.dot-st.com/lepsim/disp/item/1079917/",
+    "rendered": true,
+    "parser_version": 3,
+    "status": "ok",
+    "detail_ja": "＼＼LEPSIM BLACK FRIDAY限定アイテム／／\nリラックス感のあるフワフワタッチが気持ち良いニットチュニック\n【デザイン】\n着用時ストレスフリーな圧倒的な軽さのニットです。\n広めの首元と少し長めの丈感が女性らしいデザインに。\n【スタイリング】\n・ボリュームのあるシルエットなので、細めのフレアパンツと合わせるのがおすすめです。\n\n素材：本体：ポリエステル85％、毛7％、ナイロン8％\n洗濯表示：ナチュラル08で計測しています。",
+    "detail_zh": "＼＼LEPSIM BLACK FRIDAY 限定商品／／\n舒適的針織長袍，觸感輕鬆蓬鬆。\n【設計】\n它是一種極其輕盈的針織品，穿著時毫無壓力。\n寬領口和稍長的長度賦予它女性化的設計。\n[造型]\n- 廓形寬鬆，建議搭配窄喇叭褲。\n\n材質：主體：85% 聚酯纖維、7% 羊毛、8% 尼龍\n洗滌說明：使用 Natural 08 測量。",
+    "translator": "gtx",
+    "detail_source": "rendered"
+  }
 }

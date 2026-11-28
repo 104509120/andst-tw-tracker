@@ -18,5 +18,16 @@
   "updated_at": "2026-11-27",
   "brand": "LEPSIM",
   "first_seen": "2026-11-24",
-  "last_drop": null
+  "last_drop": null,
+  "jp": {
+    "checked_at": "2026-11-28",
+    "url": "https://www.dot-st.com/lepsim/disp/item/1049334/",
+    "rendered": true,
+    "parser_version": 3,
+    "status": "ok",
+    "detail_ja": "ニュアンスデザインのカラビナパーツがポイントのネックレス\n・お好きな場所にカラビナを引っ掛けることが可能◎\n・シンプルなトップスのアクセントにも、甘めトップスの外しもおすすめ！\n\n素材：合金 真鍮 鉄",
+    "detail_zh": "帶有精緻設計登山扣部件的項鍊\n・您可以將登山扣掛在任何您喜歡的地方◎\n・推薦作為簡單上衣的點綴或甜美上衣的卸妝！\n\n材質：合金黃銅鐵",
+    "translator": "gtx",
+    "detail_source": "rendered"
+  }
 }

@@ -28,5 +28,9 @@
     "to": 2016,
     "amount": 840,
     "pct": 29.4
+  },
+  "jp": {
+    "checked_at": "2026-11-28",
+    "status": "not_found"
   }
 }

@@ -22,5 +22,9 @@
   "updated_at": "2026-11-27",
   "brand": "其他品牌",
   "first_seen": "2026-11-24",
-  "last_drop": null
+  "last_drop": null,
+  "jp": {
+    "checked_at": "2026-11-28",
+    "status": "not_found"
+  }
 }

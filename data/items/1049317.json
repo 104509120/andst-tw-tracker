@@ -18,5 +18,14 @@
   "updated_at": "2026-11-27",
   "brand": "LEPSIM",
   "first_seen": "2026-11-24",
-  "last_drop": null
+  "last_drop": null,
+  "jp": {
+    "checked_at": "2026-11-28",
+    "url": "https://www.dot-st.com/lepsim/disp/item/1049317/",
+    "rendered": true,
+    "parser_version": 3,
+    "status": "ok",
+    "detail_ja": "おしゃれに着こなせるダメージデニムパンツ\nワイドストレートシルエットで、どんなトップスでも合わせやすいデニムパンツです。\nユニセックスのアイテムなので男の子でも女の子でも着用でき、オールシーズン着用することが出来ます！\n\n素材：綿100%\n洗濯表示：ブルー82で計測しています。",
+    "detail_source": "rendered"
+  }
 }

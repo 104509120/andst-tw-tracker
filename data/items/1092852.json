@@ -18,5 +18,16 @@
   "first_seen": "2026-11-27",
   "min_price": 1690,
   "max_price": 1690,
-  "last_drop": null
+  "last_drop": null,
+  "jp": {
+    "checked_at": "2026-11-28",
+    "url": "https://www.dot-st.com/lepsim/disp/item/1092852/",
+    "rendered": true,
+    "parser_version": 3,
+    "status": "ok",
+    "detail_ja": "ギャザーハンドルと程良い丸みが優しい印象のハンドバッグ\n・微光沢で柔らかいフェイクレザーを使用\n・前面には様々なデザインのビジューやパール、メタルなど小粒のパーツをつけています！\n・スタイリングの邪魔にならないよう、ビジューの配置にこだわりました♪\n\n素材：表地：合成皮革 裏地：ポリエステル",
+    "detail_zh": "帶有褶皺手柄和恰到好處的圓度，給人一種溫柔的印象。\n・採用柔軟且略帶光澤的人造皮革製成\n・正面有寶石、珍珠、金屬等各種設計的小零件！\n・我們特別注意了串珠的位置，以免影響造型♪\n\n材質： 外層材質： 合成革 裡料： 聚酯纖維",
+    "translator": "gtx",
+    "detail_source": "rendered"
+  }
 }

@@ -18,5 +18,14 @@
   "updated_at": "2026-11-27",
   "brand": "LEPSIM",
   "first_seen": "2026-11-24",
-  "last_drop": null
+  "last_drop": null,
+  "jp": {
+    "checked_at": "2026-11-28",
+    "url": "https://www.dot-st.com/lepsim/disp/item/1046838/",
+    "rendered": true,
+    "parser_version": 3,
+    "status": "ok",
+    "detail_ja": "光沢のあるシアー素材が特徴のアウトレイヤード用チュニック丈のタンクトップ\n【デザイン】\nタンクトップやTシャツだけだとちょっと物足りない時にONしておしゃれ度がアップするアイテムです！\n裾についたピコレースが トレンド感もありスタイリングのポイントになります◎\n【スタイリング】\n・プリントTシャツ×デニムパンツを合わせたカジュアルスタイルの上からレイヤードするのがおすすめです。\n\n素材：本体:ポリエステル100% レース部分:綿100%\n洗濯表示：ナチュラル08で計測しています。",
+    "detail_source": "rendered"
+  }
 }

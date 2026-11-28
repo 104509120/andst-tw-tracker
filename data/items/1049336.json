@@ -18,5 +18,14 @@
   "updated_at": "2026-11-27",
   "brand": "LEPSIM",
   "first_seen": "2026-11-24",
-  "last_drop": null
+  "last_drop": null,
+  "jp": {
+    "checked_at": "2026-11-28",
+    "url": "https://www.dot-st.com/lepsim/disp/item/1049336/",
+    "rendered": true,
+    "parser_version": 3,
+    "status": "ok",
+    "detail_ja": "可愛いらしいボックスシルエットのスカート\nフリンジデザインが特徴で、シンプルなTシャツでもおしゃれなスタイリングが完成するスカートです。\nウエストはイージー仕様になっているので着脱も楽♪\n\n素材：綿100%\n洗濯表示：ブルー85で計測しています。",
+    "detail_source": "rendered"
+  }
 }
